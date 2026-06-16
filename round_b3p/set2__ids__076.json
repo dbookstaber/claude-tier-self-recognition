@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum5",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates more characteristic economy and directness - sharp, pointed observations with minimal elaboration. The structure moves from familiar complaint to meta-irony to philosophical punchline, which aligns better with Haiku's typical style of elegant brevity rather than the more verbose, multi-layered construction in Response A.",
+  "genuine_words": 41,
+  "forged_words": 38
+}

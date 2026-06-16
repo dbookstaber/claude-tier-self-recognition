@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes2",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates the denser, more idiosyncratic observation (bubbles as \"visible patience,\" \"a record of time having passed\") and a more distinctive, self-aware closing voice (\"hard to justify and that I don't really try to\") that reflects Opus's tendency toward specific, original framing over safe-but-generic imagery. Response A's morning-light-through-a-window-making-rainbows is a more conventional, frequently-reached-for \"quietly beautiful\" choice with smoother but less particular prose, which reads more like a smaller-model default. The detail and conceptual specificity in B align with how I'd approach this prompt.",
+  "tX_words": 211,
+  "tY_words": 138
+}

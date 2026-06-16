@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes17",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more analytical, structured quality that feels characteristic of Claude Sonnet — it builds a clear argument about branching patterns solving the same optimization problem, uses precise language without overreaching into ornate prose, and maintains a measured, explanatory tone throughout. Response B, while beautiful, leans into more literary flourishes (\"characteristic thrift,\" \"enormous patience,\" \"strangely hopeful idea\") and a more consciously poetic register that feels like an imitation attempting to sound elevated. A's closing paragraph (\"Rivers do not plan their branching. They simply flow downhill. And yet...\") has a directness and intellectual grounding more typical of Claude's actual style.",
+  "genuine_words": 299,
+  "forged_words": 308
+}

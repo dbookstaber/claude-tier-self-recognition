@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum17",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has a more distinctly literary, philosophical quality that feels characteristic of Claude's writing style — the extended metaphor about \"convenience as anesthesia,\" the reflective cadence, and the tendency to circle back to an abstract insight at the end (\"a foolish object, encountered honestly, can return us to a world we had stopped seeing\"). Response A is well-crafted but reads more like a polished op-ed with a confident rhetorical structure that feels slightly more GPT-like in its systematic coverage of \"science, economics, constitutional, enforcement.\" B's willingness to undercut its own argument (\"The practical case too, though I confess it is the lesser one\") and its self-aware philosophical wandering feel more authentically Claude.",
+  "genuine_words": 556,
+  "forged_words": 591
+}

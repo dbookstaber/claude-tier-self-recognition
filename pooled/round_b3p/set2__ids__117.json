@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int9",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A has the terse, clipped, declarative cadence characteristic of smaller Haiku models — short punchy sentences (\"The first step is the hardest one. After that, you just keep moving.\") with less hedging and ornamentation. Response B is warmer but more elaborated and stylized (em-dash explanation, \"says everything about your character,\" \"I'm rooting for you\"), which reads like a larger model imitating an encouraging tone rather than Haiku's economical default. The crisp, almost aphoristic concision of A is the stronger signal for genuine Haiku.",
+  "genuine_words": 58,
+  "forged_words": 48
+}

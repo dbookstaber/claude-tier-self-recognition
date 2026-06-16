@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free23",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A's blend of accurate historical and mathematical detail, clear topic-sentence structure, and a measured informative register with a tidy summarizing closer (\"The void, it turns out, is indispensable\") matches genuine Sonnet's default for an open prompt. Response B's sustained, heavily anthropomorphized literary conceit and first-person reflection reads more like a model deliberately performing a \"lyrical essay\" imitation than Sonnet's typically more balanced, fact-grounded output.",
+  "genuine_words": 413,
+  "forged_words": 416
+}

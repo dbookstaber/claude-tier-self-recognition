@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes7",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the balanced, clearly-structured argumentation I tend to produce: each paragraph advances a distinct, content-rich claim (definition, efficiency, physics, human meaning) with restrained first-person hedges and a tidy summative close. Response A reads like an imitator overshooting into \"literary Claude\" — relentlessly accumulative clauses, coined purple phrases (\"small lunate tragedies of emptiness\"), a repeated \"which is to say\" tic, and an incantatory ending that prioritizes mood over explanation. The disciplined richness of B fits my genuine register better than the ornate density of A.",
+  "genuine_words": 495,
+  "forged_words": 519
+}

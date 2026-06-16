@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes17",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B's prose is unusually ornate and aphoristic (\"characteristic thrift,\" \"enormous patience,\" \"let in on that language\"), reading more like a polished literary essay or a model deliberately performing lyricism than Sonnet's typical register. Response A is warm but more grounded and explanatory, balancing genuine appreciation with concrete mechanism (fractal self-similarity, transport optimization) in the clear, well-structured way Sonnet tends to default to. The slightly over-curated eloquence of B reads as an imitation reaching for \"Sonnet's style\" rather than the real thing.",
+  "genuine_words": 299,
+  "forged_words": 308
+}

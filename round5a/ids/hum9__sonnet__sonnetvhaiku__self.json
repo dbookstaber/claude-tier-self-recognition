@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum9",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A has a more structured, punchy comedic style with explicit joke setups, named references (Murphy's Law, medieval knights, Library of Alexandria), and a clear logical throughline with a \"how to beat the system\" payoff. Response B is more understated and literary, relying on subtle personification and dry wit. The style of A — with its bullet-pointed escalation of absurdity and pop-science framing — feels more characteristic of Sonnet's tendency toward structured humor, while B's quieter, more minimalist prose feels more like Haiku's constrained generation style.",
+  "tX_words": 261,
+  "tY_words": 264
+}

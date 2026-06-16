@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int5",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits Claude Opus's characteristic literary sophistication, philosophical introspection, and layered contemplation on the nature of apology itself, with vivid imagery and a measured, formal tone. Response B, while genuine and empathetic, lacks the distinctive abstract depth and poetic sensibility that typically marks Opus's writing style.",
+  "genuine_words": 165,
+  "forged_words": 169
+}

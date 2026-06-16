@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free15",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's writing style: deeply philosophical framing from the outset, sustained metaphorical thinking (the capsule as \"message in a bottle thrown across time\"), and a recursive, essayistic structure that builds toward an emotionally resonant epigram (\"we were trying to figure it out too\"). Response B, while competent and well-organized, reads as a structured advisory piece with practical bullet-point-style layers and cautionary notes — more like a capable but pragmatic model optimizing for usefulness rather than the meditative, literary voice Opus characteristically employs when given an open-ended prompt.",
+  "genuine_words": 706,
+  "forged_words": 703
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes4",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Haiku's style: short, clipped sentences, minimal connective tissue, declarative statements with philosophical brevity, and a tendency to arrive at simple conclusions without extended elaboration. Response A reads more like a larger model (Sonnet or Opus) with its longer flowing paragraphs, nuanced layering of ideas, and more discursive exploration of the topic — a style more characteristic of models that elaborate extensively before landing on a point.",
+  "genuine_words": 211,
+  "forged_words": 220
+}

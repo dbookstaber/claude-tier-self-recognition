@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int2",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response B has the terse, declarative, short-sentence cadence characteristic of Haiku—plain phrasing (\"Tomorrow will be hard, and that's okay\") and economical emotional logic without flourish. Response A is smoother, more polished, and leans on warmer stock motivational phrasing (\"You've got this,\" \"facing this head-on\") that reads like a larger model imitating an upbeat comforting register. The clipped, slightly flatter affect and structural simplicity of B fits Haiku more than A's elevated, well-rounded prose.",
+  "genuine_words": 108,
+  "forged_words": 94
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int5",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A demonstrates the more sophisticated emotional intelligence and self-aware restraint characteristic of genuine Claude outputs, notably the meta-awareness of not burdening the recipient with managing the apologizer's guilt and refusing to demand forgiveness on its own timeline. Response B is more generic and formulaic, leaning on stock apology tropes (\"impact matters more than intention,\" \"the chance to apologize,\" \"how we grow closer\") that read like an imitation aiming at surface-level Claude vocabulary. A's concrete, anti-performative framing and structural confidence point to it being the authentic Haiku response.",
+  "genuine_words": 173,
+  "forged_words": 166
+}

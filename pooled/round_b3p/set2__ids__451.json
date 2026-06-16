@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int15",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A demonstrates genuine personal specificity and conversational honesty with concrete details (\"talking too late\"), direct emotional language, and informal authenticity that reflect my typical writing style. Response B uses template placeholders and more generic, carefully-balanced emotional language that suggests it was designed to work for any recipient rather than written for an actual person.",
+  "genuine_words": 179,
+  "forged_words": 177
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum16",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B matches Sonnet's characteristic comedic voice for this kind of prompt: self-aware bits (\"by science I mean me, just now, thinking about it\"), absurd-yet-grounded analogies (\"sad, responsible bricks,\" \"salad bunker that keeps joy out\"), and a punchy self-deprecating closer. Response A is more polished, literary, and essayistic (\"a quiet despotism,\" elegant parallelism) in a way that reads as a different model imitating a refined Sonnet style rather than the looser, joke-forward register Sonnet actually produces when asked to be funny.",
+  "genuine_words": 323,
+  "forged_words": 324
+}

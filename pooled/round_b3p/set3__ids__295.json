@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates authenticity through specific, concrete sensory observation (the vibration and spacing of corrugated cardboard) paired with genuine philosophical reflection about how unintended textures reward attention. Response A, while poetically articulate, reads as performative sensitivity with its elaborate metaphors and multiple texture references, suggesting imitation of a writing style rather than genuine exploration of the topic.",
+  "genuine_words": 61,
+  "forged_words": 62
+}

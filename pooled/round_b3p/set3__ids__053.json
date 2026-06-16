@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes7",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A trusts its own prose without narrating its intentions, letting the imagery (round tables, clocks, soap bubbles, \"identical to its own intention\") carry the argument with a controlled, literary restraint characteristic of genuine Sonnet. Response B repeatedly tells the reader what it's doing (\"I want to make a genuine case rather than just defaulting to the obvious answer,\" \"rather than just defaulting\") and leans on punchy declaratives (\"Physically, the circle also wins\"), which reads more like an imitation performing sophistication than embodying it. A's quieter confidence and the absence of meta-commentary point to it being the authentic Sonnet.",
+  "genuine_words": 353,
+  "forged_words": 372
+}

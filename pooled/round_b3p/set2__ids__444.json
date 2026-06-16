@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum23",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the tight, punchy rhythm and confident comedic escalation that's characteristic of genuine Haiku: short declarative sentences (\"Pens do not get lost. Pens escape.\"), a clear running bit (natural selection), and a hard button at the end (\"Buy pencils.\"). Response A is more verbose and floats on padded conceptual riffs (\"quantum superposition,\" \"parallel universe pen warehouse\") in a smoother but less economical register that reads like a larger model imitating Haiku's quirkiness. B's discipline, callbacks, and crisp landing point to the genuine Haiku voice.",
+  "genuine_words": 276,
+  "forged_words": 280
+}

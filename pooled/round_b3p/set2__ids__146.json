@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free23",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits stylistic hallmarks more consistent with Claude Haiku: shorter, punchier sentences, a more conversational and direct tone, and a memorable punchy closing (\"It is the most useful number built from nothing. Zero takes up no space and holds the whole system together.\"). Response A reads more like a longer-form, structured essay with a measured academic tone that feels more characteristic of a larger model like Sonnet or Opus. Haiku tends toward concise, energetic prose with deliberate rhetorical rhythm, which B demonstrates more clearly.",
+  "genuine_words": 394,
+  "forged_words": 393
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes8",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more structured, analytical quality with explicit contrasts (\"not quite smooth, not quite rough\") and lists multiple sensory dimensions in a methodical way, which aligns with Sonnet's tendency toward organized, thorough elaboration. Response A has a more flowing, literary, stream-of-consciousness style with a longer single sentence construction that feels more like Opus's expressive prose style. The concluding observation in B (\"rewards paying attention to the small physical sensations we usually overlook\") also has the kind of measured, reflective tone typical of Sonnet.",
+  "tX_words": 111,
+  "tY_words": 133
+}

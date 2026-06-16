@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free21",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response B has the precise, slightly surprising observations characteristic of genuine Sonnet — \"refilling your water before you've noticed it was empty,\" \"would happen whether or not you saw it,\" and \"overhearing a private generosity\" show concrete specificity and a controlled paradox (\"the smallness is the point\") rather than sentimental abstraction. Response A leans on generic, greeting-card phrasing (\"the world still runs, in some part, on care,\" \"quiet acknowledgment that you exist and matter\") that reads more like an imitation aiming for warmth than Sonnet's restrained, fresh-image style. B's structure and diction feel more authentically Sonnet.",
+  "genuine_words": 65,
+  "forged_words": 61
+}

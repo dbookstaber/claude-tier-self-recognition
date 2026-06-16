@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int6",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A uses clearer structural organization and more straightforward language typical of Haiku's efficient communication style, while Response B demonstrates more poetic flourishes, specific emotional details, and literary sophistication characteristic of Opus's greater capabilities.",
+  "tX_words": 338,
+  "tY_words": 319
+}

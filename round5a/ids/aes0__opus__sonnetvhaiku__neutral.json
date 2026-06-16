@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes0",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A commits to a single clear thesis and develops it with richer, more precise observations (etymology, sound-meaning unity, the \"palindromic\" mirroring) building to a sharp closing contrast, which reads as the more capable Sonnet output. Response B hedges (\"extraordinarily close call,\" \"yet the truest answer is...\") and makes a notable error calling petrichor \"almost onomatopoetic\" for a smell, signs of the smaller Haiku model. The greater control of voice and confident structure in A points to Sonnet.",
+  "tX_words": 271,
+  "tY_words": 218
+}

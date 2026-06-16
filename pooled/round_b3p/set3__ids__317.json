@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum5",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A exhibits the layered, self-aware observational style characteristic of Claude Sonnet: it builds a precise compound observation (Parkinson's-law expansion, circular non-progress, and diffused decision ownership) with restrained, balanced cadence rather than reaching for a single punchy metaphor. Response B leans on a more strained, forced analogy (\"fire drill inside the burning building\") that reads like an imitation trying too hard to be clever, which is a common tell of a model mimicking wit. A's understated accumulation of true-feeling details fits Sonnet's tendency toward earned, observational dryness over a high-concept gag.",
+  "genuine_words": 31,
+  "forged_words": 29
+}

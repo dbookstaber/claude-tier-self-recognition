@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int3",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A is more concise and direct, with shorter paragraphs and a punchy, action-oriented tone that feels more characteristic of Sonnet's style. Response B is notably longer, more elaborate, and uses more ornate phrasing (\"the full arc of what you can become,\" \"hard chapter, not the whole book\") which suggests the richer, more expansive prose style typically associated with Opus. Both are high quality, but B's greater length and rhetorical flourish point toward Opus.",
+  "tX_words": 285,
+  "tY_words": 229
+}

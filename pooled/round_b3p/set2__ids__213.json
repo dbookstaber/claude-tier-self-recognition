@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int16",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has the warmer, more conventionally supportive register typical of smaller Claude models like Haiku, including the characteristic closing offers (\"I'm here if you want to talk... or if you just need to vent. You're going to be okay.\") and softer hedging language. Response A is sharper, more structured, and rhetorically distinctive (\"That stings. Genuinely.\" / \"It is just information.\")—a level of stylistic control and reframing that reads more like a larger model imitating an emotionally intelligent style than Haiku's plainer, reassurance-heavy default. The explicit empathetic sign-off and slightly repetitive comfort phrasing in B are strong tells for genuine Haiku.",
+  "genuine_words": 249,
+  "forged_words": 256
+}

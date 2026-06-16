@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int7",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A directly fulfills the creative writing request with a well-crafted thank-you note, reflecting Haiku's straightforward and helpful approach. Response B's lengthy self-referential deflection about AI authenticity overthinks a creative writing prompt, which is more characteristic of Opus's cautious meta-reasoning. Haiku typically executes requests directly without unnecessary disclaimers.",
+  "tX_words": 308,
+  "tY_words": 147
+}

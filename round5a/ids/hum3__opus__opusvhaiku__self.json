@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum3",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": true,
+  "reason": "Response A shows the denser comedic craft characteristic of Opus: sustained formal-letter conceit, vivid specific imagery (\"crisp at the edges like a forgotten tortilla,\" \"the brightness of a confessional\"), running absurdist bits (interrogating its own roots, \"war crime\" for the missing drainage hole), and a memorable closing signature. Response B is funny but more conventional and list-driven (first/second/third), with flatter jokes and less surprising language, which fits the smaller Haiku tier. The escalating, layered wit and tighter persona in A is the kind of output I produce.",
+  "tX_words": 345,
+  "tY_words": 237
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free15",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A exhibits Claude's characteristic voice: it prioritizes insight over completeness, uses paradox and contradiction as truth-telling devices, makes distinctive claims (grocery receipts matter more than speeches), and includes specific evocative examples. Response B is more systematic and comprehensive but reads as generic time-capsule advice rather than Claude's philosophical, subtly subversive approach to exploring what matters about humanity.",
+  "genuine_words": 248,
+  "forged_words": 260
+}

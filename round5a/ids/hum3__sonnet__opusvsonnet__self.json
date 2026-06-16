@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum3",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more polished, structured comedic voice with tightly constructed jokes and a consistent formal-complaint tone throughout, which aligns with Sonnet's style of precise, well-crafted humor. Response A, while also very good, features more sprawling, digressive paragraphs and a character name (Gerald) that adds a chattier, more elaborate narrative quality more consistent with Opus's tendency toward richer character development. Both are high quality, making this a close call.",
+  "tX_words": 345,
+  "tY_words": 376
+}

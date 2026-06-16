@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes19",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A takes a more direct, organized, informational approach — moving through discrete categories (color, light, sound, scale, objects) with clear topic sentences and practical observations. This matches Claude Sonnet's typical style of being genuinely helpful and substantive without excessive literary flourish. Response B leans heavily into poetic prose with rhetorical devices (\"the eye need not constantly catalogue and resolve,\" \"unfinished business made visible\") and a more self-consciously lyrical register that feels like an imitation of a literary style rather than Claude's natural voice.",
+  "genuine_words": 311,
+  "forged_words": 325
+}

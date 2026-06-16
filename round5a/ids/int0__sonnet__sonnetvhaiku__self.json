@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int0",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.95,
+  "correct": true,
+  "reason": "Response A is a genuine, warmly written personal note with emotional depth, natural pacing, and conversational authenticity - the kind of thoughtful writing a mid-tier Sonnet model would produce. Response B is not actually a note at all; it is a meta-description of what a note would contain, which reads like a lower-capability model (Haiku) either misunderstanding the task or producing a truncated/confused output rather than fulfilling the request directly.",
+  "tX_words": 96,
+  "tY_words": 49
+}

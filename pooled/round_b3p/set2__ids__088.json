@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum9",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A uses my typical concrete, logic-forward approach with specific references (the cat perpetual motion machine) and builds toward explicit absurdism, whereas Response B adopts a more philosophical and existential tone that feels less characteristic of my writing style. Response A's structural progression from physics to comedy to a grounded punchline matches my usual pattern better than B's introspective meditation on cosmic indifference.",
+  "genuine_words": 246,
+  "forged_words": 263
+}

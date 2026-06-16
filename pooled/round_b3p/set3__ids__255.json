@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free5",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more distinctive, unconventional opening image (a jar of teeth) that feels characteristic of Claude's tendency to choose surprising, specific, slightly dark central objects to anchor a story. The declarative, matter-of-fact tone combined with the accumulation of concrete details (\"thirty years,\" \"one for every sailor,\" \"living or dead\") and the quiet emotional weight at the end feels like Claude's narrative voice. Response A is well-crafted but leans on more conventional Gothic atmosphere elements that other models also produce readily.",
+  "genuine_words": 76,
+  "forged_words": 73
+}

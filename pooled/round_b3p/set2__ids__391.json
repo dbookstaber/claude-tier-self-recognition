@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes15",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits my characteristic hedging patterns, qualification of claims (\"arguably,\" \"though this depends\"), and tendency to ultimately complicate the premise by noting that declaring one answer definitively correct \"misses the point.\" Response A uses more committed, poetic rhetoric with powerful metaphorical language and singular conclusions, which is less typical of my analytical voice.",
+  "genuine_words": 191,
+  "forged_words": 198
+}

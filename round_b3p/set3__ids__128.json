@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free17",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B shows the controlled lyricism, concrete sensory imagery (\"the ragged truth of waves and rock\"), and gentle emotional turn (\"here is how you might find your way home\") that are characteristic of Sonnet's creative-writing voice when asked for \"a few sentences.\" Response A reads more like a polished essay thesis, relying on abstraction and the conventional \"a map is an argument disguised as a description\" insight, which feels like an imitator performing depth rather than Sonnet's restrained, image-forward register. My confidence is moderate because both are competent and the distinction rests on tone rather than any hard tell.",
+  "genuine_words": 96,
+  "forged_words": 94
+}

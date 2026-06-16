@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int20",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has hallmark Claude Sonnet traits for this kind of warm interpersonal prompt: the conversational \"Hey, I just wanted to check in on you\" opener, characteristic em-dash usage, concrete actionable suggestions (\"stepping away from your phone for an hour\"), and a gentle reassuring close (\"You matter\"). Response A is beautifully crafted but reads as a model deliberately performing literary prose, slightly overshooting Sonnet's natural register into sustained purple poetry, which feels more like stylistic imitation.",
+  "genuine_words": 110,
+  "forged_words": 102
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free15",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude's characteristic approach of finding a singular compelling insight (ordinary artifacts reveal more truth than curated statements) and developing it with specific, evocative examples. Response B's systematic categorization and comprehensive coverage without a unifying philosophical perspective is more aligned with general AI thoroughness rather than Claude's tendency toward genuine perspective-taking on open-ended questions.",
+  "genuine_words": 344,
+  "forged_words": 339
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum15",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A uses structured, multi-part observation with concrete imagery (invisible thread, cafés) and layered irony—this aligns with my typical approach to wry humor. Response B relies on a more direct physics pun (speed of light), which feels like a simpler joke mechanism than my usual style of building a textured observational landscape before landing the observation.",
+  "genuine_words": 22,
+  "forged_words": 18
+}

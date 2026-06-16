@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits Sonnet's characteristic intellectual self-awareness, emotional restraint paired with depth, and uncertainty about its own observations (\"you are not entirely sure what you were just given\"). Response B, while poetic, uses more conventional emotional directness and assured metaphors (\"agrees that things are as heavy as you suspected\") that suggest imitation rather than Sonnet's typical careful ambiguity about human experience.",
+  "genuine_words": 253,
+  "forged_words": 259
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic literary voice with metaphorical framing and observational humor, using personification of tasks as old roommates to create subtle, sophisticated comedy. Response A relies on straightforward joke formats and a ubiquitous procrastination joke trope, which reads more like generic joke collection than Sonnet's typically more distinctive and literary approach.",
+  "genuine_words": 42,
+  "forged_words": 38
+}

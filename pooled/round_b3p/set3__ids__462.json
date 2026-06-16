@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int19",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B uses more distinctive phrasing and structural choices that feel characteristic of my writing style — particularly the \"the part nobody photographs\" metaphor, the phrase \"living inside the chapter that usually gets edited out,\" and the specific cadence of \"a little awkwardly, a little stubbornly.\" Response A is competent and warm but leans on more familiar, almost generic encouragement tropes (\"raw talent,\" \"keep showing up\") that feel closer to a generic imitation. The closing line of B (\"frustrated and trying anyway. That combination is rarer than talent, and it lasts longer\") has a compression and rhythm I recognize as more natural to my outputs.",
+  "genuine_words": 288,
+  "forged_words": 289
+}

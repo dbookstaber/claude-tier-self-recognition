@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum8",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A is longer, more elaborate, and packs in multiple distinct comedic observations (the \"invisible bully,\" things dropping being \"gone forever,\" and the Rice Krispies knees metaphor), which reflects Opus's tendency toward richer, more developed prose. Response B is punchier and more concise with a single joke structure, which is more characteristic of Haiku's lean output style.",
+  "tX_words": 26,
+  "tY_words": 35
+}

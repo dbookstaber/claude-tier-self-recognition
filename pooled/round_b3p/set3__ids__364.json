@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic intellectual honesty about language limits (\"I can only call relief\"), vulnerable first-person reflection (\"What I find most tender\"), and philosophical depth about emotional experience. Response A is more distanced and metaphorical, with self-conscious literary devices that feel less authentically Sonnet's voice.",
+  "genuine_words": 277,
+  "forged_words": 275
+}

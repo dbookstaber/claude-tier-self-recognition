@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes6",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B feels more like mid-tier Sonnet writing: it covers the same themes (rhythm, precision, surprise, inevitability) but in a more methodical, paragraph-by-paragraph structure that ticks boxes rather than building a unified argument. Response A has a more assured, essayistic voice with distinctive moves — the \"door closing\" image, the specific literary examples (Nabokov, Didion), and the final one-sentence coda — that feel more characteristic of Opus's richer, more confident prose style.",
+  "tX_words": 299,
+  "tY_words": 286
+}

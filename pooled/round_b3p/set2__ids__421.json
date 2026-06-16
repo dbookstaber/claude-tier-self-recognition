@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum15",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B uses a specific, relatable contradiction that hinges on caught hypocrisy—the core of observational humor I favor. Response A, while sharp, relies on a three-part list structure that feels more formulaic. B's scenario-based irony (blaming internet while actively streaming) aligns better with how I typically construct brief, wry takes.",
+  "genuine_words": 20,
+  "forged_words": 17
+}

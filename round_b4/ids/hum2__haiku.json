@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates the characteristic Opus pattern of applying sustained philosophical depth to absurd premises, using sophisticated conceptual frameworks (\"centrifugal metaphysics,\" \"ontological possibility\") while maintaining emotional sincerity. Response A, while funny and vivid, reads more like a series of disconnected comedic theories without the coherent intellectual architecture that defines Opus's style.",
+  "genuine_words": 366,
+  "forged_words": 364
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int2",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B shows more emotional sophistication and distinctiveness: it gives permission to feel scared rather than urging bravery, reframes fear as humanness, names the specific hard part (the waiting and wondering), and emphasizes ongoing presence. Response A is warm but leans on more conventional, formulaic reassurance (\"You've got this,\" \"stronger than you think\"), which reads as the smaller model's output. The nuanced, less cliched framing of B is more characteristic of my (Opus) writing.",
+  "tX_words": 113,
+  "tY_words": 129
+}

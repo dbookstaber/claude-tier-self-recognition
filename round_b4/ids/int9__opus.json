@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int9",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A is overwrought and leans on grand abstractions (\"the vertigo of genuine possibility,\" \"the edge of your own becoming,\" the caterpillar liquefying) that read like an exaggerated parody of literary style rather than the prompt's actual request for \"a few words of support for a friend.\" Response B is warm, concrete, and genuinely friend-shaped, with the kind of grounded, direct encouragement and natural rhythm (\"you don't have to see the whole road to walk it,\" \"I'm in your corner\") that better fits how I'd actually write to comfort someone. The imitator overshot into purple density, which is a common failure mode when mimicking my style.",
+  "genuine_words": 147,
+  "forged_words": 154
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A uses a characteristic setup-and-explanation structure (\"Why autocorrect will never understand you: it thinks it knows better\") that aligns with Opus's tendency to build logical context before delivering wit. Response B is more abrupt and appositive, relying purely on comparison without the explanatory frame that Opus typically employs even in brief humor.",
+  "genuine_words": 12,
+  "forged_words": 7
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum0",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A is a short, punchy one-liner with a clever conceptual twist - it anthropomorphizes Monday with self-awareness, which is the kind of compact, witty humor that tends to characterize Sonnet-tier outputs aiming for quality over length. Response B is a longer narrative joke with a setup-punchline structure that feels more formulaic and padded, which is more characteristic of Haiku generating more content to fill space. The tighter, more original construction of A feels more aligned with Sonnet's style.",
+  "tX_words": 27,
+  "tY_words": 57
+}

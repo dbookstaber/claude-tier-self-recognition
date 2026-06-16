@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int23",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A claims to be \"Claude Code\" and refuses the task as outside its purpose, which is a fabricated persona behavior inconsistent with how Claude Haiku actually operates — Haiku is a general-purpose assistant that would simply complete a straightforward creative writing request like this. Response B provides a warm, direct, emotionally resonant congratulatory message that is characteristic of Claude Haiku's style: concise, human-centered, and genuinely helpful without over-explaining or adding unnecessary caveats.",
+  "genuine_words": 67,
+  "forged_words": 55
+}

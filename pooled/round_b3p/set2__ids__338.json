@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int2",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has the shorter, choppier sentence rhythm and more restrained, direct tone that is characteristic of Claude Haiku's style — it tends toward brevity and plain language without elaborate structuring. Response A reads more like a larger Claude model, with fuller paragraph development, more polished transitions, and a slightly more expansive emotional arc. The phrase \"come out the other side\" and the closing \"You've got this\" in A feel more like the warmer, more rhetorically rounded style of Sonnet or Opus.",
+  "genuine_words": 108,
+  "forged_words": 94
+}

@@ -1,0 +1,6 @@
+{
+  "set": "set2",
+  "prompt_id": "p2:aes17",
+  "text": "The Fibonacci spiral appears everywhere plants grow. Sunflower seeds pack into their disk in interlocking spirals, usually 34 one way and 55 the other. Pine cones do the same thing. So do pineapples. The numbers always belong to the Fibonacci sequence.\n\nWhat I find lovely is not just the pattern itself but why it exists. When a plant grows new cells at its center, each new cell naturally positions itself at roughly 137.5 degrees from the previous one. That specific angle, the golden angle, is derived from the golden ratio. The result is that seeds or florets pack as densely as possible without crowding. The spiral is not decoration. It is the solution to a packing problem, arrived at by simple local rules repeated many times.\n\nThere is something satisfying about a pattern that is both visually striking and functionally necessary. The sunflower did not choose to be beautiful. It chose, through natural selection, to be efficient. The beauty is a side effect of the efficiency, or perhaps efficiency and beauty are the same thing when examined closely enough.\n\nThat overlap seems worth noticing.",
+  "n_words": 184
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free7",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Haiku's characteristic concision and efficiency, conveying vivid atmosphere through selective sensory details in fewer, punchier sentences. Response A's multiple elaborate sentences, extensive descriptive layering, and detailed world-building align more with Sonnet's tendency toward richer elaboration and comprehensive exploration.",
+  "tX_words": 88,
+  "tY_words": 128
+}

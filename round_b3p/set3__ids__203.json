@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum22",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the hallmarks of genuine Sonnet: a self-aware framing move (\"excavations... waited for someone to brush the dirt away\"), a fresh and less cliched image (a borrowed lantern rather than the very common river-and-stone trope), and reflective meta-commentary (\"What I find tender about it is the absence of scolding\"). Response B leans on a stock Zen-koan proverb and a tidy, formulaic exposition (primary meaning, \"secondary meaning,\" imagined elder-to-youth scenario) that reads more like a competent imitation of \"wise\" style than Sonnet's characteristic interiority and originality.",
+  "genuine_words": 221,
+  "forged_words": 224
+}

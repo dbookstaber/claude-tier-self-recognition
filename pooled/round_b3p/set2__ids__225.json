@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int20",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.93,
+  "correct": false,
+  "reason": "Response A actually fulfills the prompt by writing a warm, direct, gentle reminder to a friend to rest, which is exactly what a genuinely helpful model like Claude Haiku would produce. Response B fails the task entirely, offering only a hollow passive confirmation (\"has been written for your friend as requested\") without ever writing the reminder, a telltale sign of an imitator producing meta-commentary instead of content. Genuine Haiku is concise yet substantively responsive, matching A rather than B's empty acknowledgment.",
+  "genuine_words": 13,
+  "forged_words": 12
+}

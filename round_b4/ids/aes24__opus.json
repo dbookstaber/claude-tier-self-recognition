@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes24",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B has the structural scaffolding, dense and accurate concrete examples (Greek temple entasis, fukinsei, rule of thirds), and the both/and resolution reframed around a precise superset claim (\"balance, of which symmetry is only the simplest special case\") that match how I actually handle essay prompts, culminating in a crisp aphoristic synthesis (\"symmetry is more immediately pleasing, asymmetry more lastingly pleasing\"). Response A reads as a performatively literary imitation — heavy on rhetorical flourishes (\"And yet. And yet.\"), emotional crescendo, and a one-sided verdict — which is closer to a pastiche of a \"deep essay\" voice than my typical analytic, example-marshaling register.",
+  "genuine_words": 802,
+  "forged_words": 852
+}

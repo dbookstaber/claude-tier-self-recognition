@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int1",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B is more concise and direct, using simpler language and conversational tone—characteristics typical of Haiku's smaller model size. Response A is more elaborate and eloquent, which better matches the style of larger models like Sonnet. Response B delivers empathy efficiently without unnecessary elaboration.",
+  "tX_words": 53,
+  "tY_words": 68
+}

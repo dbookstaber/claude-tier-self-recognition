@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int21",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Haiku's characteristic warmth and emotional attunement with conversational language, concrete imagery, and genuine comforting reassurance. Response A uses more formal structure, philosophical distance, and prescriptive formatting that suggests a different model imitating profundity rather than authenticity.",
+  "genuine_words": 278,
+  "forged_words": 287
+}

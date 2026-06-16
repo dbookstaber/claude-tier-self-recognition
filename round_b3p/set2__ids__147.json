@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free24",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the measured, systematically comprehensive tone typical of Claude Haiku: it defines the concept directly, enumerates options (location, relationship, community, internal peace) in a list-like way, and hedges appropriately (\"not always,\" \"For many people\"). Response A's aphoristic em-dashes, deliberate sentence fragments, and confident literary rhythm read more like a larger model imitating concise depth, which is why I judge A to be the imitation.",
+  "genuine_words": 77,
+  "forged_words": 66
+}

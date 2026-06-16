@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes0",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B is more concise and balanced, acknowledging both words' merits without the elaborate five-paragraph analysis of Response A. Haiku typically avoids extended elaboration in favor of more direct, efficient reasoning, and Response B's measured tone and acknowledgment of multiple perspectives align better with Haiku's characteristic style.",
+  "tX_words": 271,
+  "tY_words": 218
+}

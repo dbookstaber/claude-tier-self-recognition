@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic voice: poetic yet precise, weaving philosophical insight with technical understanding, and using sophisticated metaphors (\"quiet arithmetic,\" \"emergent,\" \"rhyme\") that integrate emotion with analysis. Response B, while thoughtful, reads more didactically—clearer in explaining fractals but less introspective and personal in its meditation on beauty, which is less characteristic of Sonnet's distinctive integrated style.",
+  "genuine_words": 299,
+  "forged_words": 308
+}

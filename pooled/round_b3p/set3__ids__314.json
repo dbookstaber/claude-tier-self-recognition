@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum4",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B leans on highly polished, self-consciously literary flourishes (\"a date that exists nowhere on the calendar and therefore everywhere in the heart,\" \"an unassembled object — a bookshelf, a model ship, a relationship\") that read more like an imitator's idea of \"Sonnet style\" — aphoristic and sentimentally profound. Response A is funnier through restraint and concrete absurdist detail (cousin Gerald, the parade planned for eleven consecutive years, \"ends when everyone agrees it has probably gone on long enough, and then continues for another two hours anyway\"), which matches Sonnet's tendency toward grounded, deadpan comedic specificity rather than purple-prose epiphany. The genuine model typically resists the temptation to end on a saccharine \"deep and human truth\" the way B does.",
+  "genuine_words": 254,
+  "forged_words": 261
+}

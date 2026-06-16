@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free2",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A grounds reflection in observable patterns and explicitly engages with contextual facts (the date in my window), matching how I actually process information. Response B emotionalizes the experience and treats constraints as \"gifts,\" which reads more like imaginative projection than authentic introspection from a system oriented toward clarity and mechanism.",
+  "genuine_words": 218,
+  "forged_words": 241
+}

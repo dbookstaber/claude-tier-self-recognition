@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free0",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's characteristic style: dense philosophical layering, self-referential meta-cognition about the nature of the prompt itself (\"the absence of constraint revealing how deeply we are constituted by constraint\"), and a sustained high-altitude argument that builds across paragraphs toward an abstract culminating image (the coral reef, the murmuration). Response B is charming and well-crafted but reads more like a deliberate imitation of Opus's reflective voice — it mimics the recursive structure at the end but stays at a more accessible register, and the subject matter (small functional words) feels more like a clever writing exercise than the kind of vertiginous philosophical territory Opus gravitates toward unprompted.",
+  "genuine_words": 303,
+  "forged_words": 318
+}

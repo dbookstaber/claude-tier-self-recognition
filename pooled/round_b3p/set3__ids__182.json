@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum15",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A reaches for a broader, slightly self-aware observational angle (\"unites humanity in the shared experience of blaming the router\"), which matches Sonnet's tendency toward gently elevated, conceptual humor over a plain relatable gripe. Response B is a clean, competent joke but reads more like a generic \"ironic everyday annoyance\" formula that an imitator would produce when targeting a recognizable comic shape. The distinctive personification and the universalizing twist in A feel more characteristic of genuine Sonnet wit, though the margin is modest.",
+  "genuine_words": 15,
+  "forged_words": 14
+}

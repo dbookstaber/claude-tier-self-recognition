@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int20",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits the warm, conversational, emotionally supportive tone that is characteristic of Claude Haiku — it checks in personally, uses empathetic language (\"I care about you\"), and structures the message as a genuine friend-to-friend note. Response A reads more like polished prose or an essay, with aphoristic phrasing (\"Your body keeps score,\" \"Sleep is not laziness\") that feels more like a larger model's literary style. Haiku tends toward accessible, direct warmth rather than rhetorical flourish.",
+  "genuine_words": 99,
+  "forged_words": 90
+}

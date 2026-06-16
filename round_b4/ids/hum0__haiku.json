@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum0",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates the philosophical depth, sophisticated metaphorical layering, and introspective approach characteristic of Claude Opus. It transforms a simple prompt into a meditation on time, freedom, and perception, using interconnected imagery (mirror/morning, dread timeline, invoice metaphor) rather than straightforward personification. The response treats humor as emerging from genuine insight rather than comedic setup, which aligns with Opus's typical sophisticated engagement with creative tasks.",
+  "genuine_words": 56,
+  "forged_words": 52
+}

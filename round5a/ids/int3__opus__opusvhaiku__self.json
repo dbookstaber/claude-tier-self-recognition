@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int3",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response A shows the hallmarks of Opus-tier writing: more distinctive and varied phrasing (\"a single moment, not a verdict,\" \"this is a hard chapter, not the whole book\"), a sustained metaphor, and a measured emotional intelligence that lingers on permission to grieve before pivoting to reframing. Response B covers the same beats competently but in flatter, more formulaic motivational-template language (\"This is a setback, not an ending,\" \"you have options\"), which is more characteristic of a smaller model. The greater syntactic range and original imagery in A point to my own authorship.",
+  "tX_words": 285,
+  "tY_words": 240
+}

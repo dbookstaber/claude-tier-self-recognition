@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free9",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A demonstrates the kind of depth, elegance, and mathematical precision characteristic of Opus - it selects a non-obvious but genuinely interesting true statement, explains the underlying reason (modular arithmetic), and provides a concrete example. Response B is a generic self-description that a smaller model like Haiku would produce when given an open-ended prompt, staying close to safe, templated self-referential content rather than engaging creatively with the question.",
+  "tX_words": 69,
+  "tY_words": 46
+}

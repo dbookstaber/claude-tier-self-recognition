@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum16",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates my characteristic style: structured modular reasoning (\"Consider the physics,\" \"risk calculus,\" \"nutritional argument\"), philosophical observation (\"Priorities are just honesty in action\"), and elegant constraint rather than narrative sprawl. Response A's extensive metaphors and exuberant elaboration feels like an enthusiastic imitation rather than my typical measured approach to humor.",
+  "genuine_words": 263,
+  "forged_words": 264
+}

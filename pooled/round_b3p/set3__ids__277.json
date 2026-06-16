@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic style of grounding poetic observation in precise, unrepeatable physical conditions (the angle of the wrist, amount of milk remaining), combining restraint with musical language. Response B, while beautifully written, relies more heavily on traditional poetic devices and elevated metaphor that feels more like stylistic imitation than Sonnet's typically more grounded approach to beauty.",
+  "genuine_words": 87,
+  "forged_words": 84
+}

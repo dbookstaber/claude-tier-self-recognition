@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int3",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.95,
+  "correct": false,
+  "reason": "Response B is the actual encouraging note directly addressing the reader, fulfilling the prompt's request. Response A describes what a note would contain rather than being one—a meta-level deflection. Response B shows authentic emotional intelligence through direct, concise language (\"Failing stings\"), validation, and actionable guidance, which is characteristic of genuine Claude outputs versus imitative descriptions.",
+  "genuine_words": 52,
+  "forged_words": 49
+}

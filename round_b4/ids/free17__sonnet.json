@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free17",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's distinctive prose style: dense literary allusiveness (Borges), unexpected metaphorical leaps (the \"violent reduction,\" comparing map-reading to stepping back from a painting), and a willingness to construct paradoxes that unsettle conventional thinking. Response B, while competent and accurate, reads as a well-organized survey — the kind of informative, balanced paragraph a capable but more conservative model would produce, covering predictable ground (projections, neutrality, the map-territory distinction) in a straightforward journalistic register that lacks Opus's characteristic philosophical intensity and syntactic ambition.",
+  "genuine_words": 134,
+  "forged_words": 132
+}

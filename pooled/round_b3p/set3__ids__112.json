@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates greater specificity and grounding (named mentor Margaret, concrete \"motion vs progress\" moment, personal signature \"David\") which aligns with Claude Sonnet's characteristic intellectual precision. Response B, while philosophically eloquent, relies on more abstract universal language (\"margins,\" \"slow work\") and anonymous closing that reads more like an imitation attempting profundity rather than authentic gratitude rooted in particular experience.",
+  "genuine_words": 310,
+  "forged_words": 314
+}

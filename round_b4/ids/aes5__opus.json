@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes5",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A commits hard to a single thesis (autumn makes process itself legible) and develops it with genuine conceptual risk and escalating aphoristic turns like \"Autumn illuminates illumination\" and \"Other seasons illuminate,\" which reflects my tendency to chase a real idea rather than catalog observations. Response B is well-written but hews to the safe, hedged, list-driven structure of an imitator playing it careful, conceding taste, surveying every season evenhandedly, and praising \"golden hour\" in conventional terms. The distinctive willingness in A to make a strange, unflattering philosophical claim and stake the whole answer on it reads as the authentic voice rather than a stylistic pastiche.",
+  "genuine_words": 350,
+  "forged_words": 363
+}

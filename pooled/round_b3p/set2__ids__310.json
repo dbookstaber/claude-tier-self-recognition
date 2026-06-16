@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum3",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B uses quieter, more observational humor (\"I have exactly four leaves\"), maintains conversational tone despite formal structure, and includes grounded specific details (the cat, the coffee maker, \"guilt hydration\") that feel more characteristic of my writing style. Response A relies on broader theatrical comedy and extended elaboration that feels more like imitation attempting to sound humorous.",
+  "genuine_words": 319,
+  "forged_words": 327
+}

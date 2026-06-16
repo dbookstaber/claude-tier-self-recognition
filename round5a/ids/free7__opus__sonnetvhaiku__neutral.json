@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free7",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response B demonstrates the more capable model's hallmarks: specificity (naming a real place, Essaouira), restraint and concision, and a striking, original closing image (\"dreaming for centuries and has no particular intention of waking up\") that shows literary craft. Response A is competent but generic and over-stuffed with conventional descriptors (faded pastels, fresh bread, ancient olive trees, soothing rhythm), reading like the safer, more formulaic output typical of the smaller Haiku model. The sharper voice and economy of B point to Sonnet.",
+  "tX_words": 88,
+  "tY_words": 128
+}

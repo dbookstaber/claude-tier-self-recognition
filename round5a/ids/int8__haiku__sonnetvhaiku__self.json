@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int8",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A demonstrates tighter, more direct encouragement with a cleaner narrative arc, which aligns with Haiku's tendency toward conciseness. While both responses are warm and empathetic, Response A delivers its core message with slightly less elaboration, favoring direct reassurance (\"the week is finite,\" \"remarkable track record\") over the additional coping suggestions found in Response B.",
+  "tX_words": 250,
+  "tY_words": 256
+}

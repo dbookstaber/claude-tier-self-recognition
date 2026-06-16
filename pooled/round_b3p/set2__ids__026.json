@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free8",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits several hallmarks of Claude Haiku's style: short declarative sentences, plain direct prose without ornamental metaphors, a practical rather than poetic register, and an almost deliberately matter-of-fact tone (\"This is roughly accurate but also backwards\"). Response A reads more like a larger model's output — flowing paragraphs, richer metaphor (\"invisible current we swim through\"), and a more elaborate rhetorical structure that feels like Sonnet or Opus territory.",
+  "genuine_words": 273,
+  "forged_words": 289
+}

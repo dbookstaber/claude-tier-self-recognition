@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free5",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's prose style: syntactically ambitious, clause-heavy sentences that perform the idea they describe (the river \"reconsidered,\" the wallpaper posed \"some unanswerable inquiry\"), and a fondness for anthropomorphizing abstract forces with philosophical weight. The metaphysical conceit of a river \"changing its mind\" and acting with \"slow conviction\" mirrors Opus's tendency toward ideas-as-setting. Response A is beautifully crafted but reads more conventionally literary — precise and controlled in a way that could fit several high-quality models — whereas B's structural risk-taking and layered irony feel more distinctively Opus.",
+  "genuine_words": 157,
+  "forged_words": 157
+}

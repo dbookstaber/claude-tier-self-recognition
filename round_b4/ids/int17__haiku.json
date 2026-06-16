@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Opus's characteristic balance of warmth, clarity, and genuine insight without unnecessary philosophical abstraction. Response B, while eloquently written, relies on elevated literary devices and existential grandstanding that feels more like an imitation attempting sophistication rather than Opus's naturally grounded approach to meaningful topics.",
+  "genuine_words": 206,
+  "forged_words": 217
+}

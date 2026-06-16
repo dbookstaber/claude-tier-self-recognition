@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes3",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A focuses on a specific argument about dramatic natural spectacles and the reflexive nature of awe, building to a clear thesis about how subtler beauty \"differentiates\" while the sunset \"says nothing about you.\" Response B is more expansive and discursive, covering multiple categories (symmetry, photogenic beauty, imperfection) with more hedging and self-correction at the end. The tighter, more focused argumentation in A feels more characteristic of Sonnet's style, while B's broader sweep and the explicit meta-caveat at the end feel more like Opus's tendency toward comprehensiveness.",
+  "tX_words": 362,
+  "tY_words": 318
+}

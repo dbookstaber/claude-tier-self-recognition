@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes6",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates the greater capability typical of Sonnet over Haiku: it enacts its own thesis (the prose itself is elegant, with controlled rhythm like \"the finality of a door closing\"), makes a sophisticated point about sentences operating on two levels and \"enacting\" their content, and deploys apt specific references (Nabokov, Didion) that fit the argument. Response B is competent and well-organized but more formulaic and abstract, leaning on generic framing (\"perfect economy married to beauty\") and a Hemingway example that it awkwardly walks back, which reads more like the mid-tier-but-safer output of Haiku. The self-demonstrating, more controlled prose in A points to Sonnet.",
+  "tX_words": 299,
+  "tY_words": 286
+}

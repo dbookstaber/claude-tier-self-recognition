@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free23",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A has the steady, uniformly-paced expository structure characteristic of Haiku: balanced paragraphs, measured transitions, and a consistent essayistic register without flashy stylistic flourishes. Response B leans heavily on punchy rhetorical devices (short aphoristic closers like \"It is the most useful number built from nothing\" and \"Zero takes up no space and holds the whole system together,\" em-dash asides, and a \"look how clever\" tone) that read more like a larger model imitating an engaging voice than Haiku's plainer default output. The concrete-but-unembellished historical and mathematical exposition in A fits Haiku's natural tendency better than B's curated punchiness.",
+  "genuine_words": 394,
+  "forged_words": 393
+}

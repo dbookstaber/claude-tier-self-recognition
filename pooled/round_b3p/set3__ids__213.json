@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int16",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more distinctive and literary quality — phrases like \"the quiet hope, the kind you don't say out loud because saying it makes the disappointment sharper if it comes\" and \"the particular weather inside someone else's head on a particular afternoon\" reflect a more idiosyncratic, carefully crafted voice. Response B, while warm and competent, reads more like a polished but conventional supportive message, with a more structured advice-giving arc (vent → candid conversation → forward-looking framing) that feels like an imitation of empathetic style rather than genuine spontaneous expression. The specific, almost literary precision of A's language — particularly the line about hindsight speaking \"with a confidence it didn't have at the time\" — feels more characteristic of Claude's actual writing style.",
+  "genuine_words": 284,
+  "forged_words": 294
+}

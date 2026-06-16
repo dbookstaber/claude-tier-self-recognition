@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum20",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more distinctive literary quality with unexpected turns of phrase (\"the table is a trick of perspective,\" \"time were a bird and not a thief\") and a structural arc that builds toward genuine reflection rather than mere comedic escalation. The ending of A — \"Would purchase again. Already have.\" — has the kind of compressed, earned poignancy that feels characteristic of Claude's style, whereas B's ending (\"Please submit feedback to whoever designed the seven-day week\") is a more formulaic comedic button. B reads more like a competent imitation that hits expected beats in a predictable order.",
+  "genuine_words": 288,
+  "forged_words": 283
+}

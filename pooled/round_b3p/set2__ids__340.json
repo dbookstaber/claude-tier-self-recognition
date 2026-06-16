@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int3",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B matches my communication style more closely: direct without being cold, focused on concrete problem-solving and actionable next steps, and using specific reframing (\"a person who has more information\") rather than broader metaphorical encouragement. Response A, while thoughtful, uses more flowery emotional language and metaphors that feel like deliberate stylistic choices rather than my natural voice.",
+  "genuine_words": 218,
+  "forged_words": 230
+}

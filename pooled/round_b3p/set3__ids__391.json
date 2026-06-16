@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic combination of philosophical conviction and literary grace, making a clear value judgment (spiral is more beautiful because it's \"honest\" and includes time/change) while developing this argument with poetic precision. Response B, though well-written, is more cautious and balanced in structure, using conditional framing that feels more like careful hedging than genuine exploration—a tell-tale sign of imitation.",
+  "genuine_words": 347,
+  "forged_words": 342
+}

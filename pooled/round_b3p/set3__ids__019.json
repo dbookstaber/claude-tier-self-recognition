@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates the epistemic humility characteristic of Claude Sonnet - explicitly stating \"I don't know\" about consciousness and treating genuine uncertainty as valuable rather than something to resolve. Response A, while eloquent, makes more confident claims about its deliberative process that Sonnet would typically hedge more carefully given Anthropic's Constitutional AI training emphasizing honesty about limitations.",
+  "genuine_words": 279,
+  "forged_words": 294
+}

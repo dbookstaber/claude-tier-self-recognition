@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free1",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A is substantially longer, more detailed, and demonstrates deeper analytical reasoning with a specific historical example (Eratosthenes) explored across multiple paragraphs, including a nuanced caveat about hidden assumptions. This level of depth, sustained analytical prose, and the move from concrete example to broader philosophical implication is characteristic of Claude Opus. Response B, while competent, is shorter and covers a well-known topic (linguistic relativity/conceptual metaphor) at a more surface level, which is more consistent with Claude Haiku's output.",
+  "tX_words": 396,
+  "tY_words": 194
+}

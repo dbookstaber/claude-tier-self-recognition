@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits Claude Sonnet's characteristic voice: metaphorically sophisticated yet precise language (\"shelves curve like the inside of a shell,\" \"light arrives slantwise, the color of late honey\"), an introspective and somewhat dreamy quality, and thematic focus on memory and meaning rather than just sensory observation. Response A, though well-written, relies primarily on concrete naturalistic detail without the poetic depth and intellectual texture typical of Sonnet's creative work.",
+  "genuine_words": 68,
+  "forged_words": 66
+}

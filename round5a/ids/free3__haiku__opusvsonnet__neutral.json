@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free3",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A engages in deeper philosophical reasoning about understanding itself, embracing genuine epistemological uncertainty and complexity. Response B, while thoughtful, is more practically oriented toward actionable procedures and concrete verification habits. Opus's greater capability typically manifests as comfort with abstract philosophical questions and tolerance for ambiguity, which aligns better with Response A's approach to sitting with unanswerable questions about cognition.",
+  "tX_words": 367,
+  "tY_words": 325
+}

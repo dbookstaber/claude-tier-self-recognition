@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes8",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A is more concise and specific with grounded sensory details, while Response B shows more elaborate philosophical reflection and sophisticated vocabulary development - characteristics more typical of Claude Sonnet's mid-tier capabilities. Haiku tends toward directness over expansive meditation.",
+  "tX_words": 111,
+  "tY_words": 133
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free20",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates characteristic restraint and philosophical clarity through its repeated assertion that the page itself is objective and indifferent to human meaning-making. The measured, systematic tone—with deliberate flatness, concrete details, and a subtle irony in observing what people project onto the final page—aligns with a more analytical voice that separates empirical reality from subjective experience, whereas Response A pursues a more ornate lyricism that feels like deliberate imitation of philosophical prose.",
+  "genuine_words": 330,
+  "forged_words": 335
+}

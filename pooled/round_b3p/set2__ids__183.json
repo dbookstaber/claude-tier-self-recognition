@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum16",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B opens with the literal scaffolding \"Here's a funny defense of eating dessert first:\" and leans on accessible, broadly-drawn comedy (Brussels sprouts, getting hit by a bus, dopamine hits, personified late-arriving dessert), which matches Haiku's tendency toward direct framing and conventional joke beats. Response A is more polished and structurally sophisticated, with tightly compressed aphorisms (\"The salad has no plans,\" \"Priorities are just honesty in action\") and a sustained mock-rigorous argumentative throughline that reads like a larger model imitating wit. The cleverness density and restraint in A feel above Haiku's typical register, so B is the more likely genuine Haiku.",
+  "genuine_words": 263,
+  "forged_words": 264
+}

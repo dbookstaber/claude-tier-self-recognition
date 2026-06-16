@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic versatility by offering multiple joke formats (pun-based and observational humor) and acknowledging tone variation, while Response A's single extended metaphor with existential framing, though literary, is less typical of Sonnet's pragmatic, option-providing approach to requests.",
+  "genuine_words": 53,
+  "forged_words": 49
+}

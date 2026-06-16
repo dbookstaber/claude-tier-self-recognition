@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free22",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B grounds the scene in concrete, observed particulars (a corner diner, the smell of coffee, windows lit by people who stayed late) with controlled, balanced syntax, which matches Sonnet's tendency toward restrained, sensory-specific description. Response A relies on a more self-consciously \"literary\" register with abstract aphorisms (\"dream with its eyes open,\" \"a loneliness... but a companionable one,\" \"the sky withholds its stars\"), the kind of overreaching poetic flourish an imitator produces when trying to signal eloquence. The concreteness and tonal restraint of B read as more authentically Sonnet, though both are plausible and my confidence is moderate.",
+  "genuine_words": 76,
+  "forged_words": 76
+}

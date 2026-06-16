@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int0",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A is warm, direct, and grounded in genuine sentiment — clear congratulations, acknowledgment of the friend's effort, and encouragement — which matches how I actually write a short, warm note. Response B is overwrought and metaphor-saturated (\"the way a seed holds its flowering,\" \"Go be luminous in it\"), reading like another model's exaggerated impression of \"poetic\" prose rather than the natural, friend-facing tone I would use. The strained literary flourish in B prioritizes performance over warmth, a tell of imitation.",
+  "genuine_words": 67,
+  "forged_words": 57
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes4",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the grounded, restrained, analytically self-aware voice typical of genuine Opus: concrete reasoning (\"edge between order and randomness\"), self-correction (\"Not a thunderstorm, nothing dramatic\"), and modest closure (\"it isn't trying to mean anything\"). Response B over-performs profundity with ornamental flourishes (\"a small catastrophe of impact,\" \"a mathematical philosophy lurking in this,\" \"curating the significance of what it excludes\") and explicitly announces its own depth, which reads like an imitator amplifying surface markers of \"deep AI writing.\" The difference between earned restraint and conspicuous lyricism points to A as authentic.",
+  "genuine_words": 269,
+  "forged_words": 272
+}

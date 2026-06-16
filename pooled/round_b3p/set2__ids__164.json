@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes19",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has the structured, thorough, and somewhat encyclopedic quality typical of Claude Haiku — it methodically covers each factor (lighting, color, clutter, sound, temperature, texture, spatial arrangement) in organized paragraphs without strong stylistic flourishes. Response B has a more distinctive, opinionated voice with rhetorical devices (\"wins almost every time,\" \"asks nothing of you visually,\" \"None of this is complicated\") and a punchy, essay-like closing paragraph that feels more like a deliberate stylistic imitation than Haiku's default tone. Haiku tends toward comprehensive, helpful explanations rather than aphoristic prose.",
+  "genuine_words": 281,
+  "forged_words": 282
+}

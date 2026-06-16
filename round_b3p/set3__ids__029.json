@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free9",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A's reflective, premise-subverting move (\"The truth is, I don't know\") matches genuine Claude Sonnet's tendency toward self-aware, slightly playful introspection rather than reciting an obvious factoid. Response B (\"The sun rises in the east\") is the stereotypical \"true statement\" an imitator would default to, lacking Sonnet's characteristic voice. Confidence is moderate because both are plausible, but A reads as more authentically Sonnet.",
+  "genuine_words": 6,
+  "forged_words": 6
+}

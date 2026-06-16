@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum24",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A has the punchy, fragmented sentence style and dry wit that characterizes Haiku's outputs — short declarative bursts, unexpected turns (\"You are the throw pillow's landlord\"), and self-aware structural jokes (\"Technically. Because you have no legs and no choice\"). Response B reads more like a generic comedic essay with longer, smoother paragraphs and more conventional humor that feels less distinctly Haiku-like.",
+  "genuine_words": 297,
+  "forged_words": 284
+}

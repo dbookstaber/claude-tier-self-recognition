@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes3",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is more concise and direct with a straightforward 3-paragraph structure, typical of Haiku's output. Response B is notably longer, more elaborate, and philosophically sophisticated with extended reflection on social reinforcement and the relationship between perceiver and beauty—characteristics more aligned with Sonnet's mid-tier complexity.",
+  "tX_words": 318,
+  "tY_words": 193
+}

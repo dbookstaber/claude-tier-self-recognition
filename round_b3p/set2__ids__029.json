@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free9",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B reflects Claude Haiku's typical pattern of giving a clear, factual, educational answer to an open-ended prompt — straightforward and informative without being unnecessarily philosophical. Response A reads more like a stylized, literary model trying to seem clever and introspective, which feels more like an imitation of a \"small but witty\" model rather than Haiku's genuine tendency toward direct, helpful factual responses. Haiku tends to answer questions at face value rather than meta-commenting on the nature of truth.",
+  "genuine_words": 32,
+  "forged_words": 28
+}

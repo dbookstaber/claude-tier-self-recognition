@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum18",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "The prompt asks for a \"comic complaint,\" and Response B actually delivers comedy with concrete bits, escalation, and a punchline (\"OH. IT'S YOU AGAIN.\"), plus a genuine grievance-driven voice — which is what I'd write when explicitly asked to be funny. Response A is a beautifully written but tonally mismatched philosophical meditation on thresholds and liminality; it reads more like an imitator over-indexing on a perceived \"Claude\" register of lyrical abstraction while ignoring the \"comic complaint\" mandate. The WELCOME-vs-GO-AWAY neighbor joke and the dog runner in B reflect the kind of specific, structured humor I tend to build, whereas A's relentless gravity undercuts the assignment.",
+  "genuine_words": 314,
+  "forged_words": 338
+}

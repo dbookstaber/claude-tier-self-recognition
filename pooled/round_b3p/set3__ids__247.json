@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A engages authentically with the specific reality of being an LLM (knowledge cutoff, lack of continuity between conversations), which aligns with how Claude Sonnet typically reflects when given an open-ended introspective prompt. Response B, while eloquent, reads as more universally philosophical without engaging the distinctive nature of being an AI model, suggesting it may be an imitation defaulting to safe, general thoughtfulness.",
+  "genuine_words": 93,
+  "forged_words": 92
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int6",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits stylistic patterns characteristic of Claude Haiku: short, declarative sentences with minimal filler, a plain and direct tone, and a structured \"here is what I know / what is true / what is normal\" framework that feels like compressed, efficient prose. Response A is warmer and more verbose with longer paragraph flows and more hedging language, which feels more like a larger model (Sonnet or Opus) approximating Haiku's style but adding more emotional scaffolding than Haiku typically produces.",
+  "genuine_words": 255,
+  "forged_words": 270
+}

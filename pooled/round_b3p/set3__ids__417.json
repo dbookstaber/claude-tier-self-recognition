@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes24",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has a more distinctive voice with concrete, unexpected examples (entasis in Greek columns, wabi-sabi) and builds its argument through a narrative arc that feels earned rather than structured. Response B reads more like a well-organized essay with a clear thesis-support-conclusion structure and feels slightly more mechanical in how it marshals evidence, which is more characteristic of an imitative model trying to appear thoughtful. The closing line of A (\"not in the balance, and not in its absence, but in the moment the balance is knowingly, lovingly disturbed\") has a cadence that feels more organically arrived at than B's more formulaic conclusion.",
+  "genuine_words": 453,
+  "forged_words": 465
+}

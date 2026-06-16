@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B is concise, dry, and delivers a single sharp observation with a tight paradox — hallmarks of Sonnet's tendency toward economy and wit. Response A is more elaborate with an extended metaphor and additional joke layers (the snake billing a client), which reads more like Opus's style of building out a comedic premise with richer detail.",
+  "tX_words": 14,
+  "tY_words": 49
+}

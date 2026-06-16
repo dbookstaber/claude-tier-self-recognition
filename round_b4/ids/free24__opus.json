@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free24",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A takes a genuine conceptual risk (\"the place that has memorized you,\" \"phantom home... luminous and inaccessible\") and lands a real argumentative turn — that home was never a location but \"a quality of attention we once received without asking\" — which is the kind of compression and earned insight I aim for rather than a smooth gloss. Response B is competent and warm but is the safer imitation: it reaches for the expected beats (coordinates vs. relationship, \"known and still welcome,\" \"you belong\") and reads as a polished consensus answer rather than a singular one. The specificity and slight strangeness of A (\"your weight on the floorboards, the hour you reach for water in the dark\") is harder to fake than B's tasteful generality, so A is more likely mine.",
+  "genuine_words": 80,
+  "forged_words": 78
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free19",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's writing style: highly abstract, structurally philosophical prose with references to classical concepts (aporia, ancient philosophers), unusual metaphors (\"gravitational disturbance,\" \"proprioceptive\"), and a tendency to build toward a sweeping conceptual reframe at the end. Response B is polished and well-written but stays more concrete and phenomenological, reading more like a careful imitation that hits expected beats (the child turning an object, time disappearing) without the same degree of intellectual ambition or conceptual density that Opus typically displays.",
+  "genuine_words": 361,
+  "forged_words": 368
+}

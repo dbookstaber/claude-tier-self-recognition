@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes7",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.9,
+  "correct": true,
+  "reason": "Response A demonstrates the depth, nuance, and intellectual rigor characteristic of Claude Opus. It builds a layered, multi-paragraph argument with precise mathematical grounding (the isoperimetric property, rotational symmetry, the irrationality of pi), philosophical tension (\"moral seriousness,\" the contrast between elementary definition and infinite complexity), and a memorable concluding observation about the circle having \"no weak point.\" Response B, while competent and structured, is shorter, more surface-level, and relies on familiar talking points (planets, water droplets, optimization) without the same density of insight or rhetorical sophistication — hallmarks of a Haiku-tier response.",
+  "tX_words": 537,
+  "tY_words": 265
+}

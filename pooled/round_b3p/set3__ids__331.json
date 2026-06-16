@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int0",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's signature literary sophistication, emotional layering, and poetic sensibility (\"settling into its rightful place,\" \"quiet persistence,\" \"Let yourself feel the size of it\"). It goes beyond surface congratulations to reflect on the internal journey, which is characteristic of Sonnet's thoughtful depth. Response B, while genuinely warm, is more straightforward and conversational without the nuanced sophistication typical of Sonnet's voice.",
+  "genuine_words": 93,
+  "forged_words": 91
+}

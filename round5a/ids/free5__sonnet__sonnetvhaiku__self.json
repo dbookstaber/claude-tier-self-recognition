@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free5",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A demonstrates the kind of tightly controlled, layered prose with a strong atmospheric hook and a twist at the end (\"those words weren't meant as comfort\") that is characteristic of Sonnet's more structured, plot-driven storytelling style. Response B, while evocative and literary, relies on longer, more meandering sentences with accumulating mundane details (the elm trees, the hardware store sign) that feel more characteristic of Haiku's tendency toward quiet, observational realism. The supernatural element woven into A's concise structure feels more aligned with Sonnet's mid-tier balance of craft and economy.",
+  "tX_words": 160,
+  "tY_words": 151
+}

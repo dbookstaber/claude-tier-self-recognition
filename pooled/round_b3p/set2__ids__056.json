@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes8",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.67,
+  "correct": false,
+  "reason": "Response B has the clipped, declarative sentence structure and minimalist style that is characteristic of Claude Haiku — short punchy sentences, direct observations, and a dry analytical turn at the end. Response A reads more like a larger model (Sonnet or Opus) with its longer, more flowing prose and richer descriptive language. The way B pivots to a quasi-philosophical observation about human nature in a terse, matter-of-fact way feels more consistent with Haiku's leaner output style.",
+  "genuine_words": 110,
+  "forged_words": 110
+}

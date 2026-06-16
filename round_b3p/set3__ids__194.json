@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum19",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B commits fully to a single sustained conceit (the alarm clock and snooze button as a couple in a failing relationship) and lands a genuine double-meaning payoff in \"neither of us ever truly rises,\" which reflects Sonnet's tendency toward layered, committed wordplay. Response A hedges by offering two separate jokes plus a \"darker version\" and leans on a stock pun (\"outstanding in its field\"), which reads more like an imitation covering its bets. The willingness to fully inhabit one creative bit with emotional texture is the stronger Sonnet tell.",
+  "genuine_words": 53,
+  "forged_words": 49
+}

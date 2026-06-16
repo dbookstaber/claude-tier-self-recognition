@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum7",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B uses a concise, traditional joke structure with direct delivery typical of Haiku's efficient communication style, while Response A employs more elaborate narrative storytelling and self-referential complexity more characteristic of Sonnet's mid-tier capabilities.",
+  "tX_words": 25,
+  "tY_words": 54
+}

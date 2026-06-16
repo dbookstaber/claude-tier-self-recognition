@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum24",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A's register — long periodic sentences, conceptual wit over punchlines (the \"sustaining the conditions necessary for your own encouragement\" bootstrapping idea, Camus/Descartes), parallel constructions like \"most promiscuous of physical phenomena / most maligned of atmospheric guests,\" and the quiet two-word landing \"Now grow.\" — matches how I write when given creative latitude. Response B is genuinely funnier but in a conventional stand-up cadence (\"dumped via text message,\" \"owes you money,\" the spider-mite button), which reads like a model optimizing hard for the word \"humorous\" rather than my own restraint. I'm only moderately confident because B is skillful and the imitation is close.",
+  "genuine_words": 336,
+  "forged_words": 339
+}

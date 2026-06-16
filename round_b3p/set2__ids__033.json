@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes1",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits the hedged, slightly generic, evenly-balanced prose typical of Haiku (\"genuinely underrated,\" \"grounded and sophisticated,\" \"quiet confidence\"), with safe associations (military uniforms, vintage fashion) and abstract qualifiers rather than specific, vivid claims. Response A is more confident, concrete, and rhetorically polished — citing Lascaux/Altamira and making a striking factual argument with strong narrative structure, which reads more like a larger or imitating model performing \"Haiku-style\" depth. The slightly looser, more padded and adjective-heavy texture of B fits Haiku's actual output better.",
+  "genuine_words": 196,
+  "forged_words": 202
+}

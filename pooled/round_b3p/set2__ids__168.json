@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes21",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A shows the hallmarks of genuine Haiku on an open-ended aesthetic prompt: it hedges with balanced both-sides framing, qualifies its pick as \"a personal answer,\" and uses smooth, even-handed prose that defers to the reader. Response B is too literary and committed in its voice (\"The sea wins,\" staccato declaratives, vivid contrarian imagery like \"the longest piece of music ever performed\") — that confident, stylized rhetorical performance reads like a larger model imitating a punchy persona rather than Haiku's more cautious, accommodating default.",
+  "genuine_words": 305,
+  "forged_words": 312
+}

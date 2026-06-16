@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes15",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits the balanced, structured, slightly hedging exposition typical of a smaller Haiku model: it methodically defines each shape, qualifies its answer (\"though this depends,\" \"if forced to choose,\" \"misses the point\"), and lands on a both-sides conclusion. Response B is too stylistically polished and literary, with deliberate one-line punches (\"It pulls us forward,\" \"A circle asks you to admire it. A spiral asks you to follow it.\") that read like a larger model imitating an evocative writing voice rather than Haiku's more even, explanatory default.",
+  "genuine_words": 191,
+  "forged_words": 198
+}

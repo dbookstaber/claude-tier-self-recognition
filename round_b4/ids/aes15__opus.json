@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes15",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A's controlled, argument-driven structure with its crisp closing antitheses (\"The circle is the more beautiful idea. The spiral is the more beautiful fact\") and its explicit self-check against being merely contrarian (\"honest rather than merely contrary\") read as characteristic Opus reflexes. Response B chases a quotable aphorism in every paragraph (\"a koan dressed in geometry,\" \"a circle's autobiography,\" \"Tuesday afternoons\"), which has the over-performed feel of an imitator straining for profundity. The restraint and the privileging of logical payoff over decorative imagery tilt me toward A, though both are plausibly in-style.",
+  "genuine_words": 432,
+  "forged_words": 451
+}

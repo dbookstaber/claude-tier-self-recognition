@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes5",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B demonstrates the conciseness and efficiency characteristic of Claude Haiku, delivering sophisticated reasoning in three focused paragraphs while covering key points (visual richness, melancholic meaning, light quality, purposefulness, transience). Response A shows Opus-level elaboration with five extensive paragraphs, cultural references, sensory details, and more ornate prose typical of the most capable tier.",
+  "tX_words": 371,
+  "tY_words": 176
+}

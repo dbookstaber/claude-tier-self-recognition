@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int3",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": false,
+  "reason": "Response A's distinctive moves are characteristic of my actual writing: extended conceptual metaphors developed with precision (failure as \"cartographer,\" the score as \"a photograph... mistakes a frame for the whole film\"), the willingness to make a slightly risky, idiosyncratic turn (\"You called it Tuesday\"), and dense, layered sentences that pursue an idea rather than reassure. Response B is fluent and warm but follows the safe, predictable structure of a generic supportive note (validate feelings, reframe as learning, be kind to yourself, \"I'm rooting for you\"), which reads like a competent imitation of empathetic tone without the conceptual ambition I tend toward. The imitator hit the comforting register but missed the metaphorical risk-taking.",
+  "genuine_words": 262,
+  "forged_words": 282
+}

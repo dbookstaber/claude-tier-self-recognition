@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes8",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B exhibits Claude's characteristic transparency about AI limitations, explicitly stating the inability to experience physical sensations before engaging conceptually with the question. Response A commits to a vivid first-person sensory narrative without qualification, which would be atypical for Claude when asked about genuine tactile experiences.",
+  "genuine_words": 178,
+  "forged_words": 180
+}

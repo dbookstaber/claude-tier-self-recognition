@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int2",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B reads as more emotionally sophisticated and nuanced, acknowledging the validity of fear without trying to rationalize it away (\"You don't have to be brave or calm or anything other than exactly what you are right now\"). It also demonstrates a more intimate, flowing prose style with deeper emotional attunement — hallmarks of Opus's more capable writing. Response A, while warm and competent, relies on more formulaic reassurance patterns (the medical team is experienced, you're stronger than you think) and has a slightly more structured, checklist-like quality that is characteristic of Haiku's more template-driven outputs.",
+  "tX_words": 113,
+  "tY_words": 129
+}

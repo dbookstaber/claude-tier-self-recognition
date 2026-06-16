@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum3",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the distinctive Haiku fingerprint: tight, controlled comic timing built on short declarative sentences, escalating deadpan callbacks (\"It is not dramatic. It is structural feedback.\"), and a restrained signoff, whereas Response B leans on a more generic, run-on internet-humor voice with heavier hyperbole (\"Arctic tundra...surface of Mercury,\" \"the audacity\") that reads like a model imitating a broadly \"funny\" register. The disciplined parallelism and crisp punchlines in A match Haiku's characteristic economy, while B's diffuse maximalism suggests an imitator overshooting the style.",
+  "genuine_words": 243,
+  "forged_words": 263
+}

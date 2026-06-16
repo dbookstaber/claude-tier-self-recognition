@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic blend of philosophical depth with practical problem-solving, concrete examples, and intellectual rigor. It identifies and addresses the language persistence problem with specificity, balances technical and emotional considerations systematically, and includes history-grounded reality checks (the English/Latin example)—hallmarks of Sonnet's thinking. Response A, while eloquent, maintains a more consistently lyrical tone and lacks the methodical problem-solving approach that characterizes genuine Sonnet responses.",
+  "genuine_words": 511,
+  "forged_words": 528
+}

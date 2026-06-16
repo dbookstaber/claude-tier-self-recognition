@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int15",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the natural warmth, concrete specificity, and conversational register Sonnet typically produces for a personal note, and it appropriately signs with the user's actual name (David). Response B leans on ornate, self-consciously literary devices (\"strange arithmetic,\" \"small, unremarkable architecture,\" \"Distance is only geography\") that read like an imitation overshooting toward poetic flourish rather than genuine warmth. The heightened metaphor density and aphoristic closing of B suggest a model performing \"Sonnet's style\" rather than the more grounded, sincere voice in A.",
+  "genuine_words": 221,
+  "forged_words": 220
+}

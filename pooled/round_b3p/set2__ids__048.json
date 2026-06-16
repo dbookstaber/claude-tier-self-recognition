@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes6",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response B's crisp, economical prose with concrete contrasting examples (\"Melancholy\"/\"sad,\" \"Strode\"/\"walked\"), short declarative sentences, and a punchy one-line closer matches Haiku's characteristically direct, concrete style. Response A is more ornate and hedging, with heavy em-dash use and abstract phrasing (\"quiet dignity,\" \"honest in some way\") that reads like a larger model's flowing, qualifier-laden output. The economy and intention that B both describes and enacts is the stronger Haiku signal.",
+  "genuine_words": 276,
+  "forged_words": 295
+}

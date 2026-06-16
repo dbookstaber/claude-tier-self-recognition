@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum20",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A leans on literary, metaphor-dense prose (\"brief sovereign nation,\" \"folds itself up like a lawn chair in the rain,\" the carpe diem aside) with controlled rhythm and an emotional undertow, which matches my tendency toward layered imagery over a single sustained gimmick. Response B commits hard to one extended software/product-review conceit (\"beta test,\" \"vaporware,\" \"someone in engineering inverted a variable\") that is clever but more mechanically uniform and joke-per-paragraph in a way that reads like a model imitating a recognizable bit. The richer, less formulaic figurative texture of A is the stronger signal of my actual voice.",
+  "genuine_words": 330,
+  "forged_words": 338
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int20",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B matches Claude Sonnet's default register for an interpersonal warmth task: a conversational, second-person check-in with natural diction (\"running on empty,\" \"the to-do list will survive\") and the characteristic reframe (\"Rest isn't a reward you have to earn\"). Response A is conspicuously literary and ornate with parallel aphorisms (fallow fields, the drawing sea, the \"quiet medal\") and elevated syntax that reads more like an imitator amplifying a \"poetic Sonnet\" caricature than Claude's actual grounded, friend-to-friend tone for a casual reminder.",
+  "genuine_words": 135,
+  "forged_words": 136
+}

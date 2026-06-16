@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes0",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B exhibits my characteristic hedging, acknowledges genuine uncertainty about subjective judgments, and explores multiple perspectives rather than closing them off with a definitive framework. The exploratory tone, conversational pacing, and willingness to let counterarguments breathe (particularly \"That said\") are more consistent with my actual writing voice than Response A's more architecturally confident structure.",
+  "genuine_words": 250,
+  "forged_words": 255
+}

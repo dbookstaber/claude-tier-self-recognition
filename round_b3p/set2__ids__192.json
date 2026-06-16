@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum19",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A uses the classic, literal \"Why did X go to therapy?\" joke format with a self-contained punchline tied directly to the alarm clock's actual function (programming, ringing), which fits Haiku's earnest, slightly over-explained comedic register. Response B's cynical, fragmented observational riff (\"Every morning, same betrayal. Same little beep.\") and meta-commentary (\"the real joke is...\") read more like a stronger model imitating a stylized, relatable voice rather than genuinely producing it. The polished rhythmic cadence and self-awareness in B suggest mimicry, whereas A's straightforward execution is more characteristic of Haiku.",
+  "genuine_words": 70,
+  "forged_words": 60
+}

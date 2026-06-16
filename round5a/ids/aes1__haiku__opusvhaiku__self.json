@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes1",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B uses more direct, structured prose with cleaner sentence construction and less densely layered metaphors, which aligns with Haiku's characteristic style of being thoughtful yet more accessible. Response A displays richer sensory detail, more intricate metaphorical connections (\"chameleon character\"), and greater prose sophistication typical of Opus's more elaborate reasoning.",
+  "tX_words": 221,
+  "tY_words": 171
+}

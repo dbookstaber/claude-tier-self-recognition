@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int0",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is tighter, more restrained, and trusts a few well-chosen lines to carry warmth, which matches the Opus tendency toward economy and avoiding filler. Response B is longer and leans on repetition and somewhat generic motivational beats (\"This didn't happen by accident,\" \"believed in yourself\"), reading more like the mid-tier Sonnet style of padding warmth with volume. The prompt explicitly asked for a \"short\" note, and A honors that constraint more faithfully.",
+  "tX_words": 52,
+  "tY_words": 96
+}

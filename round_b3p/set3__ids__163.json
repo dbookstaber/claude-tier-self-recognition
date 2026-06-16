@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Sonnet's characteristic introspective, literary voice with poetic phrasing (\"the flat interrogation of overhead bulbs,\" \"clutter is unfinished business made visible\") and a philosophical approach that prioritizes sensory experience and emotional depth. Response B, while well-articulated, employs a more straightforward educational structure and generic explanatory tone that lacks the distinctive voice and unconventional perspective typical of Sonnet's responses.",
+  "genuine_words": 311,
+  "forged_words": 325
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int9",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A shows more nuanced, specific reframing (\"the fact that this scares you a little just means it matters to you. That's a good sign, not a warning\" and \"stumbling is part of learning, not proof that you were wrong to try\") and a more personal closing (\"here for the wins and the setbacks alike\"), which fits Opus's tendency toward distinctive phrasing. Response B is warm but leans on more generic motivational stock phrases (\"shows what you're made of,\" \"Trust yourself,\" \"You've got this\"), which reads more like the smaller model.",
+  "tX_words": 111,
+  "tY_words": 94
+}

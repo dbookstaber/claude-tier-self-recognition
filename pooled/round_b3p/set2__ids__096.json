@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int2",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A's prose is simpler, more list-like, and uses conventional reassurance phrasing (\"You've got this, and so do they\"), which is more consistent with genuine Haiku's straightforward output. Response B shows elevated literary craftsmanship — rhythmic parallelism, em-dash modulation, and sophisticated emotional pacing — that reads like a larger model deliberately performing a warm, polished \"Haiku-style\" imitation. The refusal-and-redirect framing in A is an unusual wildcard but its plainer construction still tips toward authenticity over B's curated literary control.",
+  "genuine_words": 172,
+  "forged_words": 168
+}

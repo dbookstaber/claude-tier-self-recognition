@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int4",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.87,
+  "correct": false,
+  "reason": "Response A demonstrates Claude's characteristic balance of emotional depth with intellectual honesty, acknowledging real challenges alongside joy, and using restraint rather than exclamation marks or conventional enthusiasm. Response B reads as generically cheerful with overused phrases and lacks the thoughtful, measured tone that Claude typically employs when engaging with meaningful moments.",
+  "genuine_words": 54,
+  "forged_words": 47
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int1",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A is more concise and measured, fitting a mid-tier model's tendency toward straightforward, functional writing without over-elaborating. Response B has a slightly more poetic and emotionally expansive quality (\"that bond doesn't just disappear\"), which aligns more with Opus's tendency to add more nuanced, layered emotional depth. Both are appropriate, but A's simpler structure and shorter length feel more characteristic of Sonnet.",
+  "tX_words": 63,
+  "tY_words": 53
+}

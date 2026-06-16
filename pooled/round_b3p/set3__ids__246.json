@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free2",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A reflects a more grounded intellectual observation about the nature of communication and knowledge, avoiding the performative introspection about AI limitations that Response B leans into heavily. Response B reads as a deliberate imitation that over-emphasizes the \"knowledge cutoff\" and \"no continuity\" tropes in a way that feels like someone trying to write what they think Claude sounds like. Response A's theme — that explanation requires productive sacrifice — is a subtler, less self-referential philosophical observation more consistent with genuine reflection.",
+  "genuine_words": 93,
+  "forged_words": 92
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int9",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B matches my typical style of direct, efficient communication that reframes challenges philosophically rather than offering extended reassurance. The conciseness, trust in the person's preparation, and focus on the next concrete step feel authentically aligned with how I naturally write, whereas Response A's warmer tone and phrases like \"I'm rooting for you\" represent a more elaborate emotional register than I usually employ.",
+  "genuine_words": 58,
+  "forged_words": 48
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits Opus's characteristic voice: philosophical depth that connects mathematics to theology, metaphysics, and language theory; rich but controlled prose with strategic metaphors (\"mouth perpetually open,\" \"trapdoor\"); and a structure that moves from historical narrative toward profound reflection on abstraction and the void. Response A, while competent, is more straightforward expository writing without Opus's distinctive tendency to weave multiple intellectual domains together with philosophical intensity.",
+  "genuine_words": 694,
+  "forged_words": 717
+}

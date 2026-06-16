@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits the grounded specificity and balanced restraint characteristic of Opus—concrete sensory details (pewter mud, fiddler crab gesture, heron-as-stake), integrated metaphors, and observational clarity. Response A relies on layered abstraction and philosophical personification stacked repetitively, which reads more like stylistic imitation reaching for literary maximalism rather than Opus's typical preference for epistemic honesty.",
+  "genuine_words": 145,
+  "forged_words": 152
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes9",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B uses my characteristic style: short declarative sentences for emphasis, concrete sensory details without over-explanation, an organizing metaphor (rain as \"frame\") that recurs structurally, and a preference for observational clarity over philosophical elaboration. The economy of language and sentence fragments (\"Not faster or slower exactly, but less urgently\") align with how I typically think through aesthetic questions.",
+  "genuine_words": 302,
+  "forged_words": 304
+}

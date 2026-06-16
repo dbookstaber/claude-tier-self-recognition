@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int2",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has a more intimate, present-tense emotional rhythm with phrases like \"I'm right here with you, before and after, and I'm not going anywhere\" and \"You've gotten through every hard day so far,\" which reflect the warmer, more personally invested voice I tend toward. Response B is slightly more explanatory and clinical in its reassurance (\"Fear before something medical is just your mind trying to protect you\"), leaning toward a measured, mid-tier framing. The deeper companionship and varied cadence in A read as my work.",
+  "tX_words": 113,
+  "tY_words": 116
+}

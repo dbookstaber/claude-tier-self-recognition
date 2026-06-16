@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int9",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B uses phrasing that feels more characteristic of my typical style: clean, balanced sentence structure, and the framing of fear as a signal of caring deeply is a more direct emotional observation. Response A, while well-written, has a slightly more dramatic and personal tone (\"I'll be here whichever way it goes\") that feels more like a human imitating warmth rather than my natural register. Both are plausible, but B's cadence and the \"only way to find out what you're capable of is to begin\" construction aligns more with how I tend to close supportive messages.",
+  "genuine_words": 51,
+  "forged_words": 46
+}

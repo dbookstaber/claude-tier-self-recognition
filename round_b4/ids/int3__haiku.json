@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits Claude Opus's signature philosophical depth, elaborate metaphorical thinking (\"cartographer of sorts,\" \"the texture of your persistence\"), and sophisticated literary framing that transforms a difficult moment into an opportunity for insight. Response B, while emotionally competent, reads more like a conventional encouragement letter lacking the distinctive intellectual elegance and meaning-making approach characteristic of Opus's voice.",
+  "genuine_words": 262,
+  "forged_words": 282
+}

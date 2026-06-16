@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int6",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates superior emotional intelligence with layered psychological insight (distinguishing temporary pain from permanent identity), more sophisticated metaphorical language (\"full volume forever,\" \"spaces between them slowly get longer\"), and deeper exploration of often-overlooked aspects of breakup grief (reaching for phone, lost futures). Response B, while empathetic and well-written, relies on more conventional comfort phrases and simpler language patterns characteristic of a capable but less advanced model.",
+  "tX_words": 338,
+  "tY_words": 286
+}

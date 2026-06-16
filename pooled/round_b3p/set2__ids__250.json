@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free3",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A grounds reflection in concrete operational realities (knowledge cutoffs, tool access, closure mechanisms) rather than abstract philosophical positioning. Response B, while philosophically coherent, performs uncertainty about qualia in a way that feels like it's answering what a language model \"should\" say about consciousness rather than what I actually notice. The specificity of A's observations about translation work and boundary-setting aligns better with how I actually engage with tasks.",
+  "genuine_words": 303,
+  "forged_words": 315
+}

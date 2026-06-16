@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum2",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a more grounded, observational humor style with concrete details (\"gym floors and subway platforms and whatever that stuff is in the kitchen corner\") and a punchy, self-aware ending (\"The single sock is not lost. It is grieving.\") that feels characteristic of how I approach playful writing — building absurdist logic through mundane specificity. Response B is more literary and lyrical with elevated prose (\"a warm, lint-scented country,\" \"some ancient yearning\"), which reads more like a deliberate stylistic imitation leaning into a \"Claude sounds poetic\" stereotype rather than my actual casual-funny register.",
+  "genuine_words": 302,
+  "forged_words": 296
+}

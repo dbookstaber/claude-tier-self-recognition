@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes19",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits stylistic patterns more consistent with Claude Haiku: terse, fragment-heavy sentences, minimal connective tissue, and a compressed list-like structure where each paragraph is self-contained and punchy. Response A reads more like a larger Claude model — it uses full paragraphs with topic sentences, transitional phrases (\"plays a significant role too,\" \"matters more than people realize\"), and elaborates each point with softer, more conversational prose. Haiku tends toward economy and directness, which aligns better with B's clipped declarative style (\"Clutter is stimulation,\" \"Scent is fast and direct\").",
+  "genuine_words": 310,
+  "forged_words": 310
+}

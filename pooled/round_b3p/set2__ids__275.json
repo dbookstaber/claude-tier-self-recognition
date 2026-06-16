@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes1",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more clipped, declarative style with shorter sentences and a grounded, factual tone that is characteristic of Haiku's more compact, direct outputs. Response B reads as more elaborate and self-consciously literary, with longer flowing sentences and meta-commentary about \"peripheral awareness\" that feels more like a larger model imitating thoughtfulness. The concrete historical anchor in A (cave paintings, iron-rich clay) paired with terse observations feels more consistent with Haiku's tendency toward brief, well-grounded responses rather than extended atmospheric prose.",
+  "genuine_words": 179,
+  "forged_words": 178
+}

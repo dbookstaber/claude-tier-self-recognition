@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes1",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A shows the controlled, sensory, slightly playful figurative voice characteristic of genuine Sonnet (e.g., \"where blue and green stop arguing,\" \"knows something and isn't in a hurry to tell you\"), with economy and a clear point of view rather than exhaustive enumeration. Response B reads as a competent imitation: it is more list-like and explanatory, leans on summarizing hedges (\"genuinely underrated,\" \"That range makes it feel more versatile... than it gets credit for\"), and lacks the distinctive imagistic restraint Sonnet tends to favor. The tighter, more original metaphors in A tip me toward it being authentic.",
+  "genuine_words": 122,
+  "forged_words": 127
+}

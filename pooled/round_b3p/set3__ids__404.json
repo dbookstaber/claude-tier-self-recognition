@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes19",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has the measured, well-organized structure characteristic of genuine Sonnet: clear topical paragraphs (visual quiet, light, color, sound, scale, coherence) with hedged, explanatory phrasing like \"probably\" and \"perhaps not in the way people expect.\" Response B is more self-consciously literary, leaning on aphoristic flourishes (\"the inside of an afternoon,\" \"Bare rooms ring; lived-in ones murmur,\" \"the way a good sentence holds a thought\") that read like an imitator straining to perform Sonnet's style rather than Sonnet's actual default register. The denser metaphor and the meta-comparison to \"a good sentence\" suggest deliberate stylistic mimicry over Sonnet's more grounded, informative tendency.",
+  "genuine_words": 328,
+  "forged_words": 335
+}

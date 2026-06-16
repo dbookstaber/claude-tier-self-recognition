@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes4",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits hallmark Opus stylistic signatures: highly abstracted philosophical framing (\"a mathematical philosophy lurking in this\"), dense metaphorical layering (\"auditory habitat,\" \"curating the significance of what it excludes\"), and a tendency to build toward a luminous conceptual conclusion rather than simply describe experience. Response B, while well-written, is more conversational and direct (\"almost smug coziness\"), with cleaner prose and less ornate conceptual architecture — qualities more consistent with a capable imitator aiming for readability over Opus's characteristically elevated, ruminative register.",
+  "genuine_words": 269,
+  "forged_words": 272
+}

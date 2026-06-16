@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int8",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A uses more direct, straightforward language and practical advice with shorter sentences and less elaborate metaphors, which aligns with Haiku's positioning as the more efficient and accessible model. Response B displays more literary sophistication, extended metaphors, and philosophical elaboration—characteristics more typical of Claude Opus.",
+  "tX_words": 308,
+  "tY_words": 256
+}

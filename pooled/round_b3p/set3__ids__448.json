@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B displays more of Claude Sonnet's characteristic humor style: it leans into self-aware absurdity, uses more elaborate metaphors and digressions (the ice age/spite comment, the succulent comparison), and has a darker comedic edge with more specific details about neglect (\"eleven days,\" \"surface of Mars,\" \"leftover coffee\"). Response A, while well-written, follows a more formulaic structure with cleaner callbacks and a more consistently uplifting tone that feels slightly more generic in its humor approach.",
+  "genuine_words": 272,
+  "forged_words": 270
+}

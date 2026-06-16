@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates the philosophical depth and elevated but unselfconscious lyricism characteristic of Sonnet's voice, particularly in its treatment of the hook's paradox (catching by not closing) and the concluding meditation on discovery vs. invention. Response A, while thoughtful, relies more heavily on practical negations (\"no power,\" \"no connectivity\") and feels more systematically constructed than genuinely meditative.",
+  "genuine_words": 172,
+  "forged_words": 159
+}

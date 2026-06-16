@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free1",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A is more concise and focuses on a single, tightly developed idea about linguistic metaphor, which is characteristic of Sonnet's style - engaging but not exhaustive. Response B is notably longer, more elaborately detailed with specific statistics and multiple examples across several paragraphs, which feels more like Opus's tendency toward comprehensive, deeply expansive answers. The philosophical depth and breadth of B, along with its richer vocabulary and more elaborate structure, suggests the more capable model.",
+  "tX_words": 272,
+  "tY_words": 194
+}

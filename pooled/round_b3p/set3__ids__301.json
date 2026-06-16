@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum0",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A uses sophisticated financial metaphor and poetic language to create original humor, which is characteristic of Claude Sonnet's tendency toward elaborate conceptual frameworks and creative wordplay. Response B follows a more conventional joke structure (Why did X... Because Y...), which is less distinctive of Sonnet's typically more literary approach to humor.",
+  "genuine_words": 31,
+  "forged_words": 30
+}

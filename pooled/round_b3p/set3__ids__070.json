@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic balance of sophisticated language and layered humor, with subtle observational comedy (the third-person commentary about being talked about) and more literary phrasing (\"the carbon dioxide of your indifference\"). Response A, while humorous, relies on more straightforward joke structures and simpler comedic beats that feel less aligned with Sonnet's typical voice.",
+  "genuine_words": 293,
+  "forged_words": 301
+}

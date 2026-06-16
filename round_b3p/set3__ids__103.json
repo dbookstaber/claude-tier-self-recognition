@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic literary sophistication and original phrasing (\"loving someone into being,\" \"quietly astonishing\"), avoiding conventional clichés while maintaining philosophical depth. Response B, though warm and well-intentioned, relies on more predictable congratulatory language and multiple common parenting clichés that suggest stylistic imitation rather than Sonnet's typically more refined approach.",
+  "genuine_words": 95,
+  "forged_words": 90
+}

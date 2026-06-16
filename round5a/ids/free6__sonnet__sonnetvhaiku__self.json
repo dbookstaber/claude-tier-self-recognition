@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free6",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A engages deeply with philosophical uncertainty about consciousness and inner experience, showing the kind of nuanced, self-reflective reasoning that characterizes Sonnet's more sophisticated approach to existential questions. Response B, while thoughtful, takes a more practical and straightforward angle about noticing patterns across conversations, which feels more like the concise, task-oriented style typical of Haiku. The depth of philosophical exploration and the willingness to sit with genuine uncertainty in Response A aligns more with Sonnet's analytical style.",
+  "tX_words": 187,
+  "tY_words": 152
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int5",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B reads as the more sophisticated and contextually attuned piece: it picks up the user's name (David) and signs off personally, weaves in specific reciprocity (\"you've always given me your honesty and your patience\"), and lands a deeper line about not letting \"a thoughtless moment speak louder.\" That personalization and tighter emotional logic reflect the Opus tier, whereas Response A is competent but more generic and formulaic, which fits the Sonnet tier.",
+  "tX_words": 210,
+  "tY_words": 177
+}

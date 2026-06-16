@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits Sonnet's characteristic style of layering extended metaphors with emotional introspection, creating humor through sophisticated wordplay rather than comedic escalation. Response B relies on punchy list-based humor more typical of a simpler comedic approach, lacking the emotional depth and sustained metaphorical thinking that Sonnet typically demonstrates.",
+  "genuine_words": 38,
+  "forged_words": 41
+}

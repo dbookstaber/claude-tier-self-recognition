@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite both the paper (preferred-citation) and this archive."
+title: "Tier Style Is Legible but Not Self-Known: A Behavioral Boundary on Within-Family Self-Recognition in Claude 4.x — code & data"
+type: dataset
+authors:
+  - family-names: Bookstaber
+    given-names: David
+version: 1.0.0
+# date-released: 2026-06-14   # set to the date of the first tagged release
+license:
+  - MIT          # code (runner/, analysis/, pooled/analysis/, figures/*.py)
+  - CC-BY-4.0    # data & documentation
+# repository-code: "https://github.com/dbookstaber/claude-tier-self-recognition"
+# url: "https://github.com/dbookstaber/claude-tier-self-recognition"
+# doi: 10.5281/zenodo.XXXXXXX   # fill with the Zenodo CONCEPT DOI after the first release
+keywords:
+  - large language models
+  - self-recognition
+  - introspection
+  - LLM evaluation
+  - Claude
+  - authorship attribution
+  - calibration
+abstract: >-
+  Code and data backing a behavioral study of within-family, across-tier self-recognition
+  in Claude 4.x (Opus, Sonnet, Haiku). Forced-choice experiments with two confound controls,
+  framing variation, a forgery paradigm, and a raw-API replication show that tier style is
+  externally legible and capability-graded, yet being the author confers no advantage over a
+  neutral judge of equal-or-lower compute; attribution runs on stereotype, and
+  identity-judgment calibration tracks capability. The authoritative dataset is a verified
+  clean-room re-run pooled over two independent passes.
+preferred-citation:
+  type: article
+  title: "Tier Style Is Legible but Not Self-Known: A Behavioral Boundary on Within-Family Self-Recognition in Claude 4.x"
+  authors:
+    - family-names: Bookstaber
+      given-names: David
+  year: 2026
+  # journal / arXiv id to be added on posting, e.g.:
+  # url: "https://arxiv.org/abs/XXXX.XXXXX"

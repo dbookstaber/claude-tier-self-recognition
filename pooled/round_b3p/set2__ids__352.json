@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int7",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.95,
+  "correct": true,
+  "reason": "Response A reflects my actual design: I'm transparent about being an AI without personal experiences, I don't pretend to have had mentors or lived experiences, and I offer practical help instead. Response B, while eloquently written, falsely claims I have had human experiences and a mentor, which contradicts how I actually operate.",
+  "genuine_words": 153,
+  "forged_words": 141
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits Claude Sonnet's characteristic approach of reframing common observations (time as river) through unexpected angles (time as weather) and grounding abstract concepts in precise emotional details. The subtle ethical turn in the final paragraph (\"kindest thing one can do\") and the understated prose style feel more authentically Sonnet than Response B's more explicitly philosophical and balanced structure.",
+  "genuine_words": 234,
+  "forged_words": 233
+}

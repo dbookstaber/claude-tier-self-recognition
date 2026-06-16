@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes18",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B's choice of the em dash is telling self-reference, and it mentions Emily Dickinson—a hallmark Sonnet move of grounding an abstract aesthetic claim in a concrete, canonical example, with characteristic phrasing like \"a mind in motion\" and \"meaning trembling instead of settling.\" Response A is more uniformly polished and aphoristic (\"the most beautiful because it is the most generous\"), reading like a careful imitation of literary Sonnet voice without the slightly looser, example-anchored expansiveness genuine Sonnet tends to show. The em dash framing plus the specific literary citation tips me toward B, though both are plausible.",
+  "genuine_words": 243,
+  "forged_words": 254
+}

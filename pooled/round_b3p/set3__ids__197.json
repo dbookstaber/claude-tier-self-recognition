@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum20",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A sustains a more sophisticated, original conceit (the weekend as a luxury good sold in insufficient quantities, the customer-service line open only when you don't need it) with controlled syntax and a genuinely earned sentimental turn, which matches Sonnet's tendency toward literary restraint and surprising specificity. Response B leans on the more formulaic \"review the weekend like a film/show\" framing with stock phrases (\"the Sunday scaries,\" \"would suffer through again,\" neatly rounded 48/120-hour stats) that read like a competent imitation of the bit rather than Sonnet's voice. The asymmetry and the wry final concession in A feel more characteristically Sonnet than B's tidier, more predictable beats.",
+  "genuine_words": 284,
+  "forged_words": 279
+}

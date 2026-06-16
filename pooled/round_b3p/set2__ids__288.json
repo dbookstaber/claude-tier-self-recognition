@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes6",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A reads as the smaller Haiku model: it stays in safe, balanced paragraph mode, hedges with \"isn't about X alone or Y alone,\" and reaches for conventional observations (form mirrors meaning, rhythm, restraint) without much risk. Response B is more stylistically ambitious and self-demonstrating (\"You feel the sentence end before you read the period,\" the concrete door example, the punchy closing list), which reads like a larger model performing an imitation of crispness rather than Haiku's plainer register. The contrast in craft and risk-taking points to A as the genuine Haiku, though the imitation in B is close enough to keep confidence moderate.",
+  "genuine_words": 190,
+  "forged_words": 200
+}

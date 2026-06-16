@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes21",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A opens with a stark, declarative \"The sea.\" and builds through specific sensory and conceptual details in a more exploratory, less architecturally rigid way. Response B's opening meta-commentary and the tightly parallel noun/verb conceit feel like deliberate stylistic signals an imitator might deploy to perform self-awareness. A's movement through the sea's indifference, its sound, its depth, and the closing thought about forgetting feels more organically arrived at than B's neat thesis-antithesis frame.",
+  "genuine_words": 312,
+  "forged_words": 322
+}

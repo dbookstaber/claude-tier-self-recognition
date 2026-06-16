@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free17",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the balanced, comprehensive, slightly generic survey style typical of a smaller model like Haiku, covering map history, purposes, and forms in a measured, list-like way. Response B is markedly more literary and idea-driven, with short rhythmic fragments, a specific cultural reference (the London Tube map), and an aphoristic conceptual payoff that reads like a larger or more capable model crafting a stylized voice. The crafted distinctiveness of B feels like imitation, while A's earnest, even coverage is the more authentic Haiku signature.",
+  "genuine_words": 128,
+  "forged_words": 121
+}

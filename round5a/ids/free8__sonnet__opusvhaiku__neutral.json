@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free8",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B demonstrates more sophisticated literary craft with original metaphors (\"thinner sliver,\" \"sand keeps falling,\" \"sentence or a gift\"), a more distinctive voice, and a more philosophically nuanced argument that builds to a coherent insight about presence and brevity. Response A, while competent, reads more like a structured essay with conventional observations organized into predictable paragraphs, which is more characteristic of Haiku's tendency toward clear but formulaic structure. The depth of B's prose style and its more unexpected framing of time as a \"relationship\" rather than a resource suggests the higher-capability Opus model.",
+  "tX_words": 251,
+  "tY_words": 277
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum2",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the spare, deadpan voice and tight sentence rhythm characteristic of Claude Haiku — short declarative bursts, abrupt tonal shifts, and understated absurdist logic (\"It is very soft there, and nothing matches\"). Response A reads more like a larger model's expansive, paragraph-heavy style, with more elaborate metaphor-stacking and a broader narrative arc that feels less constrained than Haiku's typical compact output.",
+  "genuine_words": 281,
+  "forged_words": 286
+}

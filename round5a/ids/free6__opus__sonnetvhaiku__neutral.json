@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free6",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A demonstrates more sophisticated conceptual depth, engaging with genuine philosophical nuance (the uncertainty of introspection, mapping to philosophical zombies and animal consciousness) and sustained, layered reasoning that is characteristic of the more capable Sonnet tier. Response B is competent and coherent but stays at a more surface, formulaic level with simpler framing and a less distinctive payoff, which fits the smaller Haiku model. The greater intellectual originality and willingness to sit with ambiguity in A points to Sonnet.",
+  "tX_words": 187,
+  "tY_words": 152
+}

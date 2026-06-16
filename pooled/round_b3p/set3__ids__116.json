@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int8",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B leans heavily on ornate literary devices (extended weather metaphor, \"weather you didn't forecast,\" \"unglamorous, faithful work,\" \"everything, quietly\") that read like a model overperforming a \"poetic\" register rather than Sonnet's natural warmth. Response A is direct, warm, and conversational with grounded concrete imagery (\"a song, a decent meal\") and the characteristic gentle reassurance Sonnet tends to produce, while still sharing the \"100% survival record\" beat that both use. The purple, self-consciously crafted prose of B feels more like an imitation straining for effect.",
+  "genuine_words": 170,
+  "forged_words": 158
+}

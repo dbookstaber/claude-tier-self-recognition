@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum18",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Opus's characteristic wit and comedic precision — the specific, grounded observations (the neighbor mat that says \"GO AWAY\" being beloved, the dog anecdote cut short for comic effect, the factory-assigned lie) reflect Opus's tendency toward concrete absurdist humor with sharp payoffs. Response B, while philosophically rich, leans heavily on a \"profound meditation disguised as complaint\" structure that feels like an imitation of Opus's philosophical mode, overdoing the gravitas in a way that undermines the comic premise and feels more like a parody of Opus's style than the genuine article.",
+  "genuine_words": 314,
+  "forged_words": 338
+}

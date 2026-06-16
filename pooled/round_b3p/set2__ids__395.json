@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes16",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A's single-word opening (\"The pencil.\"), catalog-style sentence structure, and compressed punchy voice match Haiku's typical directness and economy on philosophical questions. Response B's smoother essay flow, the reflective \"There's also something deeply satisfying\" construction, and the more elaborated comparative conclusion feel more like a larger model's warmer, richer voice than Haiku's characteristically clipped style.",
+  "genuine_words": 194,
+  "forged_words": 188
+}

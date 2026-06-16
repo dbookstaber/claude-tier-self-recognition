@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes6",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B is more structured and organized, moving through discrete points (necessity, rhythm, doubling, surprise, proportion) with cleaner transitions — a pattern more characteristic of Sonnet's mid-tier style. Response A is more discursive, essayistic, and self-reflective (notably ending with meta-commentary about \"rationalization after the fact\"), which feels more like Opus's deeper, more exploratory prose style. B's conclusion — \"the feeling of a thing that fits\" — is crisp and contained, while A lingers longer in philosophical uncertainty.",
+  "tX_words": 441,
+  "tY_words": 299
+}

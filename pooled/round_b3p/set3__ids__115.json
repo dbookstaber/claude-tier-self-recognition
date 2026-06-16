@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic literary sophistication, refusal of false comfort (\"I won't pretend otherwise\"), and measured wisdom through complex metaphors. Response B, while warm, relies more on motivational platitudes and straightforward reassurance, patterns more typical of imitations attempting an encouraging tone.",
+  "genuine_words": 170,
+  "forged_words": 158
+}

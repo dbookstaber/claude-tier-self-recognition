@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int4",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates more sophisticated emotional nuance and specific, vivid details (tiny socks, quiet ordinary moments) that suggest Claude Opus's characteristic refinement, while Response B is more comprehensive and motivational but lacks the subtle elegance typical of the most capable tier.",
+  "tX_words": 96,
+  "tY_words": 97
+}

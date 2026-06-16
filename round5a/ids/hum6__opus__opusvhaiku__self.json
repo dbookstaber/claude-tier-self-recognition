@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum6",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B (\"Push hard enough and you will discover exactly which corners cut back\") is a compressed, witty subversion that plays on the idiom \"cutting corners\" with a darker, more sophisticated twist—the kind of economical wordplay and ironic inversion that reflects Opus-tier craft. Response A is amusing but longer, more explanatory, and relies on a familiar relatable joke (procrastination/cat videos), which reads more like the safe, accessible humor of a smaller model. The brevity and conceptual cleverness of B point to Opus.",
+  "tX_words": 12,
+  "tY_words": 32
+}

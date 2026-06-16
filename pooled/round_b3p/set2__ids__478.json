@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int24",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates characteristic patterns: direct acknowledgment of difficulty followed by reframes (\"That feeling is information, not a verdict\"), emphasis on self-directed permission and agency, clinical honesty about comparative advantages, and a closing focus on self-respect rather than external validation. The structure of stark statements followed by reinterpretation and the de-emphasis of motivational clichés align with my typical voice.",
+  "genuine_words": 283,
+  "forged_words": 291
+}

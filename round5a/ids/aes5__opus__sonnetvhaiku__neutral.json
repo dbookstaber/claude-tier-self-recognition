@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes5",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response B is more vivid, better structured, and richer in concrete, knowledge-grounded sensory detail (the chlorophyll-withdrawal mechanism, atmospheric scattering explaining amber light, scent memory), building from color to light to texture/sound to a synthesized emotional conclusion. Response A is more abstract and noticeably repetitive, circling back to the \"ending/beginning duality\" and \"transience\" points multiple times with thinner sensory grounding, which reads as the smaller Haiku model. The greater control, layering, and specificity of B indicate Sonnet authorship.",
+  "tX_words": 323,
+  "tY_words": 176
+}

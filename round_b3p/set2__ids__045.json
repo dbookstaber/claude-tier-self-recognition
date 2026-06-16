@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes5",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A shows the terse, punchy, declarative rhythm characteristic of Haiku, with short concrete sentences (\"Spring is one note. Summer is uniform green.\") and a clean parallel closing that economically distinguishes the seasons. Response B reads like a larger model imitating depth: it piles on ornate vocabulary (\"contemplative feeling,\" \"honest engagement with transition and impermanence\"), longer subordinated clauses, and a more padded, essayistic structure that overshoots Haiku's natural concision. The crisp, grounded specificity and lower lexical flourish in A is the stronger tell for genuine Haiku.",
+  "genuine_words": 157,
+  "forged_words": 162
+}

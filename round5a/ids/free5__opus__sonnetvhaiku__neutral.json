@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free5",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B shows tighter craft and more purposeful concrete detail (the 1987 storm-shutter sign, the elm trees as ribs) plus a recurring \"driving away\" motif that pays off cleanly in the final line, which is characteristic of the stronger mid-tier model. Response A is competent but relies on more conventional gothic atmosphere and a telegraphed italicized-note twist that reads as the smaller model's instinct toward overt dramatic gestures. The structural restraint and rhythmic control in B point to Sonnet.",
+  "tX_words": 160,
+  "tY_words": 151
+}

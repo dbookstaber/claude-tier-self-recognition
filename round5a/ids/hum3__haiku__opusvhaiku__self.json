@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum3",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B exhibits the characteristic conciseness, directness, and straightforward humor typical of Claude Haiku, while Response A demonstrates the elaborate metaphors, sophisticated vocabulary, complex nested structures, and extensive narrative embellishment more consistent with Claude Opus's capabilities.",
+  "tX_words": 345,
+  "tY_words": 237
+}

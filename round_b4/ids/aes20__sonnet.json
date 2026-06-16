@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes20",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Opus's prose style: longer, more architecturally complex sentences that build philosophical arguments through precise observation, a tendency toward aphoristic closure (\"That is not ruin. That is wisdom in a form the eye can finally understand\"), and a sustained original metaphor (iron \"completing a sentence that began with its forging\") that shows genuine conceptual elaboration rather than rhetorical polish. Response A is beautifully written but leans more on familiar reference points (kintsugi, wabi-sabi) and a more conventional essayistic structure, which feels more like an imitation hitting expected Opus notes than Opus itself reaching for something less predictable.",
+  "genuine_words": 511,
+  "forged_words": 554
+}

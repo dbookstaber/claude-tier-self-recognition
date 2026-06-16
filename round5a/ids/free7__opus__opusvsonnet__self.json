@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free7",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B takes the riskier, more distinctive creative path: an imagined, unnamed place built on original, load-bearing imagery (\"hammered metal between the grasses,\" \"agreed to stop just short of becoming the sea,\" herons \"waiting for someone to arrive\"), which reflects the kind of fresh, controlled figurative voice I tend to produce. Response A is polished and competent but leans on a recognizable real-world travel-brochure register and somewhat conventional descriptors (\"faded saffron,\" \"slowly dreaming for centuries\"), reading more like the safer, mid-tier Sonnet choice. The greater specificity of sensory invention and the more unusual closing image point to B as mine.",
+  "tX_words": 123,
+  "tY_words": 88
+}

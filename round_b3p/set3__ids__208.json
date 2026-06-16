@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic voice: layered sarcasm, sophisticated wordplay (\"I'm rooting for you\"), creative metaphors (Victorian heroine, rent-discovering poet), and self-aware humor that builds genuine emotion underneath cynicism. Response A is well-written but reads more like a conventional pep talk with humor added, lacking the sustained ironic voice and unexpected comedic structures that distinguish Sonnet's output.",
+  "genuine_words": 263,
+  "forged_words": 254
+}

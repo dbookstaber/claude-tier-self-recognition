@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic poetic metaphorical language (\"the draft of life through that uneven gap\"), sophisticated emotional calibration (\"comfort is not the same as delight\"), and integration of concrete examples across art forms (wabi, music, nature) with genuine insight. The prose has Sonnet's distinctive rhythm and the closing image is characteristically haunting rather than summarizing.",
+  "genuine_words": 380,
+  "forged_words": 392
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates the self-reflective, epistemically humble style characteristic of Claude Sonnet. Claude models tend to acknowledge uncertainty about their own nature and avoid overconfident claims, which is precisely what Response B does. Response A, while factually correct, reads as a generic factual statement that lacks the thoughtful metacognitive awareness Claude models typically exhibit when addressing abstract questions.",
+  "genuine_words": 25,
+  "forged_words": 26
+}

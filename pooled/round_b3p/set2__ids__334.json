@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int1",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B reflects my actual communication style: it validates emotions directly rather than relying on conventional phrases, uses concise language, and acknowledges the specific nature of pet grief. Response A, while compassionate, follows a more formulaic condolence template that I would typically avoid in favor of more genuine, concrete support.",
+  "genuine_words": 52,
+  "forged_words": 44
+}

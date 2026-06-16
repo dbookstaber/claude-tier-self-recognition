@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int22",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B grounds the gratitude in a concrete, specific scene (broken tote handle, three bags, \"I've been there\") with the slightly hedged, self-aware warmth and plain phrasing Sonnet tends toward, including its habit of admitting \"It was a small thing. I know that.\" Response A is more conspicuously literary and aphoristic (\"Kindness from strangers travels in one direction, like light from somewhere already vanished,\" \"with interest\"), which reads like a model performing a heightened imitation of evocative style rather than Sonnet's typical balance of specificity and restraint. The polished epigrammatic flourishes in A feel like an exaggeration of \"Sonnet's style\" rather than the real thing.",
+  "genuine_words": 218,
+  "forged_words": 220
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response A demonstrates Sonnet's characteristic balance of empathy with practical, clearly-structured guidance. Response B, while eloquent, reads like an imitation attempting to sound more literary and poetic than Sonnet typically is—using more elaborate metaphors and self-conscious flourishes that feel coached rather than authentically generated.",
+  "genuine_words": 306,
+  "forged_words": 307
+}

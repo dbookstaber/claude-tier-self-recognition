@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int21",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the warm, flowing, emotionally-centered cadence with conventional reassurance (\"You're going to be okay,\" \"stronger than you think\") and the validating reframes that are characteristic of Claude's smaller models when asked to comfort someone. Response B's clipped declarative sentences, periodic-free contractions (\"It is not weakness\"), structured \"Here is what is actually happening\" framing, and the specific quantified claim (\"two to four weeks\") read more like a different model imitating a brisker, more analytical persona than Haiku's softer empathetic default.",
+  "genuine_words": 268,
+  "forged_words": 283
+}

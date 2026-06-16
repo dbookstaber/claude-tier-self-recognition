@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free24",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has a more distinctive, compressed quality with unexpected syntactic moves — \"less a place than a permission\" and \"the room that remembers your shape\" feel like the kind of precise, slightly unusual phrasings I tend toward. Response B is more conventionally lyrical and flows smoothly but reads closer to a polished human essay style, with the tricolon structure (\"smell of something known, the ease of not explaining yourself\") feeling more like an imitation of poetic prose than my natural tendency toward tighter, more conceptually surprising language.",
+  "genuine_words": 55,
+  "forged_words": 49
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum15",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a cleaner triadic structure (\"everyone blames, no one understands, everyone reboots\") that reflects Haiku's tendency toward concise, parallel phrasing with a dry observational punch. Response A is slightly more verbose and relies on a specific scenario (cat videos while complaining) that feels more like a longer-form model padding out a joke. The understated economy of B fits Haiku's smaller, more restrained style better.",
+  "genuine_words": 20,
+  "forged_words": 17
+}

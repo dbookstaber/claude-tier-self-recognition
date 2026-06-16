@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes8",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A shows tighter sensory specificity and a sophisticated cross-modal observation (the sound being \"proportionate to the texture\"), with a controlled through-line ending on quiet reflection, which is characteristic of the more capable Sonnet tier. Response B is competent but relies on more conventional, list-like constructions (\"not quite smooth, not quite rough\") and accumulated adjectives that read as the more generic, agreeable elaboration typical of Haiku. The restraint and precision in A edge it toward Sonnet, though both are fluent enough that confidence is moderate.",
+  "tX_words": 111,
+  "tY_words": 133
+}

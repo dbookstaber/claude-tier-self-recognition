@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic blend of philosophical depth and subtle humor, building from a simple premise to a thoughtful meditation on meaning and identity. The elegant prose, understated wit, and contemplative conclusion (\"the world is loosely fastened to its labels\") align with Sonnet's tendency toward intellectual sophistication over broad comedic beats, whereas Response B relies more heavily on concrete details and exaggerated humor typical of other capable models.",
+  "genuine_words": 255,
+  "forged_words": 268
+}

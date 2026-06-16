@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int0",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the natural, conversational warmth and relatively straightforward structure that characterizes Claude's typical writing style for casual personal notes — it flows like something a real person would actually send. Response B, while beautifully written, feels overwrought and literary in a way that reads more like a model trying hard to sound distinctive, with phrases like \"quiet persistence\" and \"the world caught up to what you've known about yourself\" that feel more like performance than genuine warmth. Claude tends toward clarity and directness in emotional writing rather than sustained elevated prose.",
+  "genuine_words": 93,
+  "forged_words": 91
+}

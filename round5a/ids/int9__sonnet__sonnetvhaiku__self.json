@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int9",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B is more concise and focused, which aligns with Sonnet's tendency toward efficient, well-crafted prose without over-elaboration. Response A is longer and more expansive with multiple reassurances layered together, which feels more characteristic of Haiku's pattern of padding responses to seem thorough. The brevity and sharper phrasing of B (\"the discomfort you feel right now is just the feeling of growth\") suggests a more capable model that can deliver impact in fewer words.",
+  "tX_words": 49,
+  "tY_words": 94
+}

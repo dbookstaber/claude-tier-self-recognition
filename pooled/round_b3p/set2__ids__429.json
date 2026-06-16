@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum18",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B leans on the comedic conventions a smaller model typically reaches for: a named character (Gerald), heavy italics/bold formatting, exclamation-point energy, and broad gag escalation (\"crime scene evidence markers,\" \"splinter in my synthetic fibers\"). Response A is more controlled, deadpan, and structurally inventive (a literal formal complaint with named recurring character Gary and a quietly devastating closer), which reads like the more capable imitator polishing the style rather than producing Haiku's more conventional, formatting-heavy comedy. The contrast in restraint versus exuberant gag-density tips me toward B as the genuine Haiku, though the call is not strongly certain.",
+  "genuine_words": 468,
+  "forged_words": 486
+}

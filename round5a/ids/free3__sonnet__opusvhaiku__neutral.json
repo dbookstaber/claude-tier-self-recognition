@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free3",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.88,
+  "correct": true,
+  "reason": "Response A demonstrates the kind of deep, sustained philosophical reflection characteristic of Opus — it develops a single nuanced idea (the gap between knowing and trusting) across multiple paragraphs with precise language and original framing (\"humility isn't really a mood... it's closer to a procedure\"). Response B reads more like Haiku: it's organized around a list of surface-level observations tied to the immediate operational context (being a subagent, Windows vs Unix paths), without the same depth or conceptual rigor.",
+  "tX_words": 367,
+  "tY_words": 275
+}

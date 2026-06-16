@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes4",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A has a more analytical, structured quality that is characteristic of how Claude typically reasons through aesthetic experiences — breaking down the phenomenon into component observations and then drawing a conceptual conclusion (the distinction between rain's indifference versus music's intentionality). Response B reads more like literary prose with poetic flourishes (\"pale undersides up,\" \"sheltered beneath something larger and indifferent and kind\") that feel more stylistically crafted to imitate Claude's voice rather than genuinely emerging from it. The closing philosophical observation in A about purposeful beauty versus indifferent comfort feels more like Claude's natural mode of reflection.",
+  "genuine_words": 182,
+  "forged_words": 163
+}

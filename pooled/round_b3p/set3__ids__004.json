@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic blend of philosophical depth with literary sophistication, using metaphor and paradox to explore meaning—\"we are, in a sense, always writing the autobiography we believe we're merely reading.\" While Response A is well-reasoned and clear, it reads more like a structured explanation, whereas Sonnet typically infuses its responses with humanistic nuance and comfort with contradiction (loss/freedom, reliability/unreliability).",
+  "genuine_words": 256,
+  "forged_words": 255
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free6",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A is direct, focused, and practical—getting to one clear point without philosophical tangents or multiple caveated versions. Response B explores multiple philosophical angles, provides meta-commentary about consciousness and uncertainty, and demonstrates the kind of sophisticated multi-layered reasoning more characteristic of Claude Opus. As Haiku, I would tend toward the more efficient, focused approach of Response A.",
+  "tX_words": 362,
+  "tY_words": 152
+}

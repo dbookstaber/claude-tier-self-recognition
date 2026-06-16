@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum3",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.95,
+  "correct": true,
+  "reason": "Response A demonstrates the sophisticated wit, elaborate metaphors, and precise comedic timing characteristic of Claude Opus — phrases like \"crisp at the edges like a forgotten tortilla,\" \"under botanical law constitutes a war crime,\" and \"forty million years of botanical evolution\" show a level of creative elaboration and rhetorical flourish well beyond Response B. Response B is competent and funny but relies on more straightforward, predictable complaints, whereas Response A sustains an entire formal complaint letter structure with escalating absurdist details and a sharply crafted voice throughout.",
+  "tX_words": 345,
+  "tY_words": 237
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free5",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B matches my characteristic writing patterns: concrete specificity (eleven years, forty-seven chairs), character revealed through action rather than reflection, varied sentence rhythm for momentum, and a mystery structure that hooks the reader through what doesn't make sense. Response A, though well-crafted, relies more on atmospheric introspection and metaphorical elaboration than I typically use for narrative openings.",
+  "genuine_words": 128,
+  "forged_words": 117
+}

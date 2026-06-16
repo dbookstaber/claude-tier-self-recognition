@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes22",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits a more distinctive, minimalist prose style with short declarative sentences, precise observations, and unexpected metaphors (\"like someone testing ice before crossing,\" \"the way certainty moves\") that feel genuinely idiosyncratic rather than formulaic. Response B relies on more conventional, tutorial-like descriptive language with familiar metaphors (misty forest at dawn, light through leaves) and a predictable structural arc that reads more like an imitation of lyrical music writing. The self-aware, almost analytical restraint in A — particularly lines like \"this is not music that performs emotion at you\" — feels characteristic of Haiku's tendency toward concise, slightly detached observation.",
+  "genuine_words": 254,
+  "forged_words": 257
+}

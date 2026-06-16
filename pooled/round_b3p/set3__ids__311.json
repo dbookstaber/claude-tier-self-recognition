@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum3",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the slightly looser, punchier comic rhythm characteristic of Sonnet — concrete absurdist beats (\"I was, in a word, waterboarded,\" \"the pot matches the couch,\" the P.S. about the cat) and a willingness to break the elevated register for a quick laugh. Response A is more uniformly polished and literary (\"performed daily for an audience of one rather thirsty fern,\" \"the inner life of a doorknob\"), which reads more like a careful imitation maximizing sustained elegance, whereas Sonnet typically mixes in a deflating, casual punchline structure like B's. This is a close call given both are strong, hence moderate confidence.",
+  "genuine_words": 367,
+  "forged_words": 360
+}

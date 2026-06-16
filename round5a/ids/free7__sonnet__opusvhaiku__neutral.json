@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free7",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.9,
+  "correct": true,
+  "reason": "Response A demonstrates the kind of precise, restrained, and highly literary prose characteristic of Claude Opus — it builds atmosphere through specific, unconventional details (\"hammered metal,\" \"agreed to stop just short of becoming the sea\") and avoids generic imagery. Response B reads as a competent but more formulaic description relying on familiar travel-writing tropes (faded pastels, ancient olive trees, golden dusk, fishermen mending nets) that are more typical of a smaller model producing safe, predictable output.",
+  "tX_words": 123,
+  "tY_words": 128
+}

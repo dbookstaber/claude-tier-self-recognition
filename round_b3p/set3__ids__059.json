@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes9",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A commits to a single controlling conceit (\"rain as permission\") and develops it with riskier, more original metaphors (\"rubbing the day with a thumb,\" \"older than language,\" trees \"almost lurid\"), showing the sustained voice and observational risk-taking characteristic of genuine Sonnet. Response B is fluent but assembles recognizable \"literary\" tokens (naming petrichor, \"watercolor quality,\" \"wrapped in gauze,\" \"the world catching its breath\") and relies on tidy balanced tricolons, which reads more like an imitation reaching for stock evocative phrases than fresh generation.",
+  "genuine_words": 272,
+  "forged_words": 285
+}

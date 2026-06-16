@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes15",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the spare, aphoristic quality characteristic of Haiku — short declarative sentences, poetic fragments (\"The spiral.\"), and a punchy conclusion that lands like a koan (\"It pulls us forward.\"). Response A reads more like a structured analytical essay with explicit hedging and balanced conclusions, which feels more like a larger model carefully covering all bases rather than Haiku's tighter, more instinctive style.",
+  "genuine_words": 191,
+  "forged_words": 198
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum9",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A uses Haiku's characteristic short, punchy, fragment-heavy sentence rhythm and its tendency toward a tidy conceptual pivot (physics to psychology to \"the universe is indifferent\") rather than piling on elaborate gags. Response B leans on the well-worn buttered-toast-cat perpetual-motion joke and a more padded, explanatory-essay cadence that reads like a larger model imitating \"comic\" writing rather than Haiku's terse wit. The clipped repetition (\"The losses stick. The wins dissolve.\") and economical close in A are stronger Haiku tells.",
+  "genuine_words": 246,
+  "forged_words": 263
+}

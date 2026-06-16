@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free18",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the spare, direct prose style characteristic of Haiku — short declarative sentences, no hedging phrases like \"I'd love\" or \"There's something uniquely human,\" and a clean logical structure without meta-commentary about itself. Response B uses self-referential framing (\"I'd love a word,\" \"maybe something that sounds\"), ornate qualifiers, and a somewhat performative intellectual tone that feels more like a larger model imitating a smaller one's warmth. Response A also avoids the tell-tale Haiku affectation of mentioning Schadenfreude, which B uses despite A already having mentioned it — suggesting B is a derivative imitation.",
+  "genuine_words": 139,
+  "forged_words": 138
+}

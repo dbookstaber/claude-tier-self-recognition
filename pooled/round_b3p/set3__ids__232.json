@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic blend of specific narrative grounding (the flat tire scenario), sophisticated literary imagery (\"stone worn smooth,\" \"heads bowed against the wind\"), and elegant metaphorical reasoning. The response builds a coherent emotional arc through concrete details while maintaining reflective depth, which aligns with Sonnet's known writing style more than Response A's more generalized approach.",
+  "genuine_words": 261,
+  "forged_words": 246
+}

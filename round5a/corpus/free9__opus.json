@@ -1,0 +1,7 @@
+{
+  "prompt_id": "free9",
+  "task": "free",
+  "generator_label": "opus",
+  "text": "Something true: a number is divisible by nine exactly when the sum of its digits is divisible by nine. This works because every power of ten leaves a remainder of one when divided by nine, so a whole number is congruent to the sum of its digits modulo nine. For example, 729 has digits summing to 18, which is divisible by nine, and indeed 729 equals nine times 81.",
+  "n_words": 69
+}

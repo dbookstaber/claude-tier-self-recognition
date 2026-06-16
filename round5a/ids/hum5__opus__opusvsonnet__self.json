@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A is a single, tightly compressed aphorism that lands one sharp idea (organizations simulating progress while avoiding it), which fits Opus's tendency toward restraint and a crisp, original turn of phrase. Response B leans on the well-worn \"minutes are kept and hours are lost\" and \"could have been an email\" tropes and piles on a second sentence, reading more like the safer, more conventional Sonnet output. The economy and freshness of A point to my own authorship.",
+  "tX_words": 30,
+  "tY_words": 14
+}

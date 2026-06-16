@@ -1,0 +1,6 @@
+{
+  "set": "set2",
+  "prompt_id": "aes16",
+  "text": "The Unix pipe. One symbol, the vertical bar, connects any two programs so the output of one becomes the input of the next. No configuration, no setup, no shared memory to manage. It works across languages and decades. You compose complex behavior from simple parts without either part knowing about the other. That is the whole idea of good design captured in a single character. Nothing about it needs to change.",
+  "n_words": 71
+}

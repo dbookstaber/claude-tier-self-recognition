@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes7",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A has the terse, declarative prose style characteristic of Claude Haiku: short punchy sentences, no hedging, and observations stacked without elaborate connective tissue (\"Roll a circle and it keeps going. Spin it and nothing changes.\"). Response B reads like a structured essay with topic sentences, transitional phrases, and organized argument categories (symmetry, nature, math, motion) — a more verbose, performative style that feels like an imitation trying to check all the boxes rather than Haiku's naturally economical voice.",
+  "genuine_words": 109,
+  "forged_words": 100
+}

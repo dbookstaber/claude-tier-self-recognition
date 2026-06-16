@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A exhibits Claude Opus's characteristic style of building jokes with concrete details, clear structure, and accessible wry humor that's both clever and somewhat transparent in its mechanics. Response B is too minimalist and metaphorically abstract, relying on poetic compression rather than Opus's typical approach of explanatory humor with relatable scenarios.",
+  "genuine_words": 21,
+  "forged_words": 11
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes21",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A displays hallmarks of Claude Opus's writing: deeply philosophical framing that recontextualizes the question itself (\"secretly a question about the shape of the sublime\"), sustained abstract argument built through careful logical progression, and the kind of recursive self-awareness in its prose structure (e.g., \"the mountain remains fixed; the revelation moves\"). Response B is well-written but feels more like a competent imitation — it follows a more predictable argumentative structure (motion, then senses, then emotional range) and its rhetorical moves are cleaner and more conventional, lacking Opus's characteristic tendency to complicate its own claims mid-argument.",
+  "genuine_words": 512,
+  "forged_words": 541
+}

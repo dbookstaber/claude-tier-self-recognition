@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum2",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the structural variety, concrete grounded imagery (hoodie sleeves, the gap behind the dryer drum), and the multi-angle escalation toward a punchy landing (\"It is not a style choice. It is surrender.\") that matches how I build comedic momentum. Response B is more uniformly ornate and self-consciously literary (\"ontological possibility,\" \"centrifugal metaphysics,\" \"I find myself returning to with increasing seriousness\"), reading like an imitation that over-indexes on a single florid register rather than mixing registers for actual jokes. A delivers more genuine punchlines per paragraph while B leans on sustained whimsy.",
+  "genuine_words": 366,
+  "forged_words": 364
+}

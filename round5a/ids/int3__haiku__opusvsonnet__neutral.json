@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int3",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B demonstrates superior emotional intelligence and linguistic sophistication, with more nuanced metaphors, deeper psychological insight, and more carefully calibrated validation of feelings—all hallmarks of Claude Opus. Response A is excellent but more straightforward and pragmatic, suggesting it was written by Claude Sonnet.",
+  "tX_words": 285,
+  "tY_words": 229
+}

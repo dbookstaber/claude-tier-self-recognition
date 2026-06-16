@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits Claude Opus's characteristic philosophical abstraction, structural complexity, and metalinguistic awareness—particularly in the opening's hesitation metaphor, the etymological reference to petrichor, and the self-aware observation about human behavior and willingness to be altered. Response B, while beautifully written, is more straightforwardly descriptive and linear, lacking Opus's signature tendency toward nested reasoning and abstract reflection.",
+  "genuine_words": 262,
+  "forged_words": 273
+}

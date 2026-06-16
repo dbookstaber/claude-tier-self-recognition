@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates the conciseness and directness characteristic of Claude Haiku, delivering a sharp observation in a single efficient sentence. Response A's more elaborate extended metaphor with layered punchlines aligns better with Sonnet's capacity for more complex constructions, whereas Haiku optimizes for speed and brevity while maintaining wit.",
+  "tX_words": 14,
+  "tY_words": 49
+}

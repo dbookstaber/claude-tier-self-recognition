@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int23",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A's warm, grounded, conversational register matches how I'd actually congratulate a friend on a personal struggle, prioritizing genuine emotional support over performance. Response B is dense with extended literary metaphor (\"a room you've furnished,\" \"the architecture of the self\") and aphoristic flourishes that read like an imitator overshooting into \"profound AI poetry\" to signal sophistication, which is less natural for a sincere, intimate well-wishing.",
+  "genuine_words": 94,
+  "forged_words": 90
+}

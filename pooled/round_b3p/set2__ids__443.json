@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum22",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits characteristics typical of Claude Haiku: a structured format with a clear header, layered symbolic explanation, and a warm closing application (\"the kind of saying an elder might offer\"). Response A is more stylistically sophisticated with its deliberate short sentences, meta-commentary, and ironic detachment, which reads more like a larger model carefully imitating minimalist prose rather than Haiku's natural tendency toward earnest, organized explanation.",
+  "genuine_words": 253,
+  "forged_words": 255
+}

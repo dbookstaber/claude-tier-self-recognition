@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int2",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Both responses are warm and compassionate, but Response B has a slightly more methodical, explanatory quality — breaking down why fear is normal (\"your mind trying to protect you\") and offering a practical reframe (\"just show up, and let them take care of you\"). Response A feels more emotionally immersive and poetic, with imagery like \"the waiting and the wondering\" that reads more like Opus's richer, more literary style. Response B's measured, reassuring logic feels more characteristic of Sonnet's tone.",
+  "tX_words": 113,
+  "tY_words": 116
+}

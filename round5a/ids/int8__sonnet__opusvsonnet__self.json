@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int8",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A uses more elaborate literary devices and a grander rhetorical style (the windshield/rearview metaphor, \"The week will end. You will not.\"), which is characteristic of Opus's more expansive prose. Response B is warmer and more conversational with simpler structure and natural phrasing, which better matches Sonnet's typically more direct, accessible style.",
+  "tX_words": 308,
+  "tY_words": 250
+}

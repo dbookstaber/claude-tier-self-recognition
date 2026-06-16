@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int4",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the warm, fluent, concretely helpful register typical of genuine Sonnet, including grounded specifics like the offer to sit with the friend at two in the morning and tangible support (a meal, a listening ear). Response B is heavily stylized and near-poetic with dense aphoristic imagery (\"the ordinary miracle of it,\" \"before they have a word for it\"), which reads more like a model performing literariness to imitate eloquence than Sonnet's natural, accessible warmth.",
+  "genuine_words": 174,
+  "forged_words": 176
+}

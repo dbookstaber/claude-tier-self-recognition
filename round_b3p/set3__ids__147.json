@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free24",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more balanced, measured quality that feels characteristic of Claude's typical prose style — clear, emotionally resonant, but not overly stylized. Response A leans heavily on a single clever conceit (\"permission,\" \"the one address\") and uses more baroque phrasing like \"the weight of being watched\" and \"the door knows your hand,\" which feels more like a deliberate literary performance than Claude's natural register. B's closing line (\"of somewhere belonging to you\") is the kind of mirrored, reflective phrasing Claude tends toward when being thoughtful without being showy.",
+  "genuine_words": 51,
+  "forged_words": 44
+}

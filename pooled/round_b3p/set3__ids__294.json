@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes8",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A has a grounded, observational quality that focuses on a single specific texture with careful attention to why it is interesting, which aligns with Claude's tendency toward concrete examples and modest, precise description. Response B uses more florid, literary language with phrases like \"almost conspiratorial\" and \"pretending to be a surface\" that feel stylistically overwrought and more like an imitation of expressive prose. Response A's acknowledgment that the texture is \"nothing designed to be touched or enjoyed\" reflects a kind of honest, unpretentious noticing that feels more characteristic.",
+  "genuine_words": 61,
+  "forged_words": 62
+}

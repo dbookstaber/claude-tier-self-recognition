@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes2",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B's terse, declarative fragments (\"It bends. It scatters.\") and its restrained, anti-sentimental close (\"There is no lesson in it\") read as a more committed, distinctive voice, whereas Response A's smooth, hedged essayistic phrasing (\"There's something about how...\", \"the sort of small everyday magic that's available to anyone who bothers to look\") feels like a polished imitation reaching for generic \"Claude warmth.\" Haiku tends toward plain, unpretentious, economical construction rather than the rounded explanatory register of A. Confidence is moderate because the stark style of B could also be a deliberate imitation choice.",
+  "genuine_words": 119,
+  "forged_words": 112
+}

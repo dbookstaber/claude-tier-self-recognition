@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes0",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B is more ornate and literarily ambitious (\"first dark coins of water,\" \"beautiful window... beautiful glass,\" \"hold it in my mouth and feel it disappear\"), which reads like a model deliberately performing \"poetic Sonnet\" rather than being it. Response A is genuinely elegant but more measured and structurally even-handed, giving accurate etymology (1964 coinage, petra + ichor, Latin susurrus) before its tidy \"by a whisper\" landing, which matches Sonnet's tendency toward balanced, grounded explanation. B's relentless metaphor-stacking and self-conscious flourishes suggest an imitator overshooting the target.",
+  "genuine_words": 284,
+  "forged_words": 284
+}

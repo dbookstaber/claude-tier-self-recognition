@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates hallmarks of Claude Sonnet: elevated literary language (\"fibrous martyr,\" \"horizontal humiliation\"), philosophical depth woven into humor, metaphor-rich construction (\"dream of being a tapestry\"), and formal epistolary framing. Response A, while witty, uses simpler language and a more straightforward comedic approach that suggests imitation of Sonnet's style rather than genuine Sonnet composition.",
+  "genuine_words": 329,
+  "forged_words": 311
+}

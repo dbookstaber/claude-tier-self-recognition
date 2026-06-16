@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B exhibits Claude Opus's characteristic synthesis of aesthetic, ethical, and personal dimensions. It makes an explicit moral argument about waste and sustainability, grounds philosophical claims in cultural traditions (kintsugi, wabi-sabi), and concludes by creating a direct mirror between human aging and object wear—a pattern of connecting abstract beauty to shared human experience that is distinctive of Opus's writing style.",
+  "genuine_words": 511,
+  "forged_words": 554
+}

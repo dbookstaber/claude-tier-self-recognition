@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes6",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reasons toward elegance through structural and cognitive claims (\"structural honesty,\" \"implied mind behind it,\" metaphors that stay subordinate to the argument), whereas B is denser with ornamental simile (\"a diver whose clean entry,\" \"a stone dropped into still water,\" \"a key you did not know you had lost\") and name-drops James and Hemingway as performative flourishes. B's writing ironically commits the over-decoration A warns against, which reads like an imitator amplifying surface lyricism; A's restrained, idea-first cadence and its closing point that elegance \"can't really be faked by polishing the surface\" feel like my genuine voice.",
+  "genuine_words": 599,
+  "forged_words": 617
+}

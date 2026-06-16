@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum23",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has the punchier, shorter-sentence rhythm and tight comedic escalation characteristic of Haiku, with a clean conceptual through-line (quantum superposition, migration locations, the \"hospital effect\") and a crisp callback ending. Response A leans on a single overextended \"sentient pen conspiracy\" metaphor with more padded, run-on phrasing that reads like a larger model imitating a quirky voice. B's economy of language and rapid-fire structure better matches genuine Haiku output.",
+  "genuine_words": 282,
+  "forged_words": 295
+}

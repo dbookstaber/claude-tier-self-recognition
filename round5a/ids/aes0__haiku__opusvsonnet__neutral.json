@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes0",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates greater analytical depth through additional dimensions (visual/spatial analysis of the word), includes specific factual details (1960s Australian researchers), and employs more confident and elegant prose throughout. The more capable Opus model would likely produce this more comprehensive and sophisticated treatment, while Response A's measured hedging and explicit acknowledgment of limitations suggests the mid-tier Sonnet model.",
+  "tX_words": 320,
+  "tY_words": 271
+}

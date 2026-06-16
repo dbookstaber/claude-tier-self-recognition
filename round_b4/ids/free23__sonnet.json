@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free23",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Opus's voice: longer, more architecturally ambitious sentences, a tendency toward genuine philosophical digression (the theological paragraph, the meditation on language pointing at nothing), and a willingness to sit with conceptual discomfort rather than resolve it tidily. Response B is cleaner and more pedagogically organized — it moves through history, then arithmetic properties, then applications, then philosophy in a well-structured way that feels more like a competent imitator following a template than Opus's more associative, essayistic wandering. The closing image in A (\"drew a circle around it\") is the kind of earned, image-driven conclusion Opus favors, whereas B's closing is analytically summarizing.",
+  "genuine_words": 694,
+  "forged_words": 717
+}

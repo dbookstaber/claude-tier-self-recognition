@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes5",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A shows the hallmarks of Opus-tier writing: greater length and developed reasoning, a structured progression through color, light, sensory atmosphere, emotional texture (with the apt mono no aware reference), and coziness, plus an intellectually honest closing acknowledgment of subjectivity that offers counterarguments for winter and spring. Response B covers similar themes but is more compressed, somewhat repetitive (transience and duality stated multiple times), and lacks the sensory richness and balanced epistemic humility, which is more characteristic of a smaller model like Haiku.",
+  "tX_words": 371,
+  "tY_words": 176
+}

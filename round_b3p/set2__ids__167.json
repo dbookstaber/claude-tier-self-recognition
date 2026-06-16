@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes20",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits the more generic, competently structured prose typical of Claude Haiku - moderate sentence length, conventional paragraph transitions, and solid but unremarkable argumentation without strong stylistic ambition. Response A's ultra-terse, aphoristic style with deliberate short-sentence stacking and the self-aware closing (\"That is the argument. It is not complicated.\") reads like a larger model artfully performing minimalism rather than Haiku's natural default output, which tends toward capable but less stylistically distinctive prose.",
+  "genuine_words": 404,
+  "forged_words": 418
+}

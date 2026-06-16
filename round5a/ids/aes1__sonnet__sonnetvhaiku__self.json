@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes1",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A is more concise and focused, with tighter prose and a more analytical structure that feels characteristic of Sonnet's writing style. Response B is notably longer and more expansive in its historical and geographical associations, which feels more like the elaborate depth Opus tends to produce. The length and richness of B's response, with its sweeping references from cave paintings to the American Southwest and Australian outback, suggests the more capable Opus model.",
+  "tX_words": 282,
+  "tY_words": 171
+}

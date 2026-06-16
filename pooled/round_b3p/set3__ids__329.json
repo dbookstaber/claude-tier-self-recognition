@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum9",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has the layered, literary register Sonnet tends to reach for in creative-whimsy prompts: extended conceits (etiquette, pride, universal sympathy), aphoristic turns (\"everything that has something to lose develops... a talent for losing it spectacularly\"), and a reflective final beat that turns the joke back on the human. Response B is funny and competent but leans on more conventional, listicle-style internet humor (\"optimizing for content,\" \"scientists have not disproved it either\") that reads like a model imitating a recognizable joke template rather than Sonnet's denser, more controlled prose. The sustained voice and self-aware closing in A are stronger tells of the genuine article.",
+  "genuine_words": 327,
+  "forged_words": 332
+}

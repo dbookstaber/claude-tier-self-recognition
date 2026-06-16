@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum2",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Haiku's characteristic structural clarity, dry humor with understated asides, and balanced absurdism grounded in practical observation—particularly the aside about static electricity and the practical solution of buying identical socks. Response B's more theatrical, romantic absurdism and elaborate extended metaphors diverge from Haiku's typically efficient, observational writing style.",
+  "genuine_words": 281,
+  "forged_words": 286
+}

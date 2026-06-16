@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes4",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the analytical, explanatory register typical of Claude Sonnet, framing the sound through an interesting observation (randomness at small scale yielding order at large scale) while keeping a measured, slightly hedged tone (\"pleasing to think about,\" \"a rare quality\"). Response B is more self-consciously literary and ornate (\"freighted with intention,\" \"a kind of grace,\" \"oddly rinsed and returned to myself\"), which reads like an imitator performing a poetic style rather than Sonnet's characteristic blend of warmth and grounded explanation. The confidence is moderate because B's polish is plausible, but A's analytical framing tips it toward the genuine article.",
+  "genuine_words": 212,
+  "forged_words": 207
+}

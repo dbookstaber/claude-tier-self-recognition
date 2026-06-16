@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Sonnet's characteristic balance of clear explanation with genuine philosophical insight, specific technical accuracy (naming \"the diagonal argument\"), and grounded observations connecting mathematics to human evolution. Response A, while beautifully written, feels more poetic and mannered with phrases like \"the infinite quietly answers,\" suggesting a different model imitating Sonnet's depth without the underlying structural clarity Sonnet typically maintains.",
+  "genuine_words": 335,
+  "forged_words": 344
+}

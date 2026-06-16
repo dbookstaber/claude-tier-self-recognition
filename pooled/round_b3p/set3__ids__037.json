@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic grounding in specific tactile details (the printed date, thumbnail size) and its typical movement from concrete observation to broader principle about humble functionality. Response B, while eloquent, maintains a more uniformly lyrical and abstract tone throughout, emphasizing the ephemeral and mysterious—a style less aligned with Sonnet's typically grounded approach to finding beauty in everyday practical objects.",
+  "genuine_words": 153,
+  "forged_words": 151
+}

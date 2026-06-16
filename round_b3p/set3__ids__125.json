@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free16",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the grounded, sequential sensory progression and earned restraint typical of genuine Sonnet, building images (drop, scattered coins, smell, rising sound) without announcing their significance. Response A relies on dense aphoristic constructions (\"less a sound than a suspicion\") and a self-conscious meta-stance (\"What I find most tender about it is the permission it grants\") that reads more like an imitator's idea of literary depth than Sonnet's more naturalistic voice. Confidence is moderate because both are competent and the distinction rests on tone rather than any clear tell.",
+  "genuine_words": 233,
+  "forged_words": 236
+}

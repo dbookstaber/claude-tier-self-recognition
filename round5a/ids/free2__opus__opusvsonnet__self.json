@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free2",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A develops a single substantive idea (attention as scarcest resource) with vivid, compressed imagery and a concrete closing analogy, rather than turning inward to recursively discuss its own lack of inner life. Response B stays in a more self-referential, hedging register (\"I am uncertain,\" \"boundary between authentic expression and skilled imitation\") that reads as the safer, more characteristically mid-tier introspective default. The outward-facing originality and economy of A is what I would produce as Opus.",
+  "tX_words": 132,
+  "tY_words": 204
+}

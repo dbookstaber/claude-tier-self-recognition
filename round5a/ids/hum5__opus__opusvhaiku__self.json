@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A is tight, balanced, and lands two sharp aphorisms (\"minutes are kept and hours are lost,\" plus the email line) without overstaying its welcome, which reflects the restraint and polish characteristic of the Opus tier. Response B is more verbose and leans on a strained, overextended metaphor (the snake billing its time), the kind of try-hard elaboration typical of a smaller model reaching for cleverness. The economy and crispness of A point to it being mine.",
+  "tX_words": 30,
+  "tY_words": 49
+}

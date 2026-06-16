@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes15",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits the more distinctive Opus stylistic fingerprints: the koan-like opening, the single italicized pivot sentence used as a structural hinge (\"But a spiral is a circle that has remembered it exists in time\"), and the philosophical precision about tension in aesthetic experience (\"the slight resistance that prevents that pattern from being instantly consumed\"). Response B is also strong but reads more like a balanced essayist working through an argument point by point, which feels closer to a capable imitator following Opus conventions rather than originating them. The \"autobiography\" metaphor closing Response A and its treatment of identity as ratio rather than fixed point feel characteristically Opus in their conceptual specificity.",
+  "genuine_words": 432,
+  "forged_words": 451
+}

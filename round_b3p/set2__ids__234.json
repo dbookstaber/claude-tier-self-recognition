@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int23",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has the tighter, more concrete craft characteristic of genuine Haiku: a punchy opening (\"You did it.\"), a specific reframe (\"not just one decision but hundreds of small decisions\"), and restraint at the close. Response A leans on padded, generic affirmations (\"I believe in you,\" \"this next chapter,\" \"You've got this\") that read more like an imitation maximizing warmth without the structural economy.",
+  "genuine_words": 82,
+  "forged_words": 68
+}

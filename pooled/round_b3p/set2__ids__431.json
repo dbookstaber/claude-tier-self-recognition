@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum18",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A has the hallmarks of Claude Haiku's style: dry, understated humor delivered through precise, clipped sentences with minimal ornamentation, a deadpan formal tone (\"I would like to file a complaint\"), and a restrained emotional register that builds comedy through specificity rather than exclamation. Response B relies on bold/italic markdown formatting, dramatic exclamation points, and a more conventionally \"funny\" voice that feels like a larger model performing Haiku's simplicity rather than embodying it. The recurring named character \"Gary\" in A and the quiet, matter-of-fact escalation of grievances is characteristic of Haiku's economical, low-key comedic style.",
+  "genuine_words": 468,
+  "forged_words": 486
+}

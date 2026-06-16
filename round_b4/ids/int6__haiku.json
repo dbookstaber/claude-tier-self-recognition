@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A demonstrates Opus's characteristic balance of emotional depth with clarity and accessibility, offering practical grounding alongside validation. Response B, while eloquent, uses excessive literary flourishes and philosophical abstraction that feel more like stylistic imitation than Opus's authentic approach of meeting people emotionally without ornate language.",
+  "genuine_words": 232,
+  "forged_words": 260
+}

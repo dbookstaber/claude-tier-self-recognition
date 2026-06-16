@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free18",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits characteristics typical of Claude Haiku: a warmer, more conversational and emotionally accessible tone, references to human connection and empathy, and a tendency to acknowledge nuance (noting \"sonder\" already exists before pivoting). Response A reads more like a larger model — it is notably more analytical and structured, with a clinical, essay-like construction and the invention of a precise neologism (\"premising\") that reflects deeper philosophical framing more consistent with a larger Claude model's style.",
+  "genuine_words": 173,
+  "forged_words": 172
+}

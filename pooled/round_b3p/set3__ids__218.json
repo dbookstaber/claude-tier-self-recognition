@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int17",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has the warm, grounded, slightly conversational register Sonnet typically uses for congratulations — concrete details (26.2 miles, early mornings, sore legs), an em-dash aside, and a natural \"Welcome to a club\" beat without over-reaching for literary effect. Response B is more self-consciously poetic (\"ache proudly,\" \"deeply, quietly proud,\" \"unshakable and earned\"), with aphoristic inversions that read like a model imitating an elevated \"Sonnet style\" rather than Sonnet's actual default warmth. The studied lyricism of B suggests imitation, while A's balance of sincerity and specificity is more characteristic of genuine Sonnet.",
+  "genuine_words": 121,
+  "forged_words": 124
+}

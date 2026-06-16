@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum9",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B is more concise and elegantly structured with economical humor and poetic language (\"It is spite\"), which aligns with Claude Haiku's design as a faster, more efficient model that delivers capability without elaboration. Response A is notably more verbose with extended metaphors across multiple domains, which is more characteristic of larger models that prioritize comprehensive development of ideas.",
+  "tX_words": 261,
+  "tY_words": 264
+}

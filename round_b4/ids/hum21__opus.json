@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum21",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A has a tighter setup-payoff structure where \"ducking\" works as both the autocorrect substitution and an intensifier, and the punchline (\"thinks it knows better\") loops back to the opening premise (\"never understand you\"), which is the kind of layered, self-referential construction I tend to favor. Response B relies on the meme-flavored phrase \"confidently wrong\" plus a flatter simile, which reads more like an imitation reaching for an obvious internet trope. The integrated joke logic in A feels more characteristic of my own phrasing, though both are close enough that I am only moderately confident.",
+  "genuine_words": 12,
+  "forged_words": 7
+}

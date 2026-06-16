@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free8",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A matches my characteristic directness, practical orientation, and restrained tone. The declarative sentences, modest conclusion (\"That is most of what there is to say about it\"), and focus on actionable clarity over lyrical exploration align with my typical writing voice. Response B is more emotionally elaborate and metaphorically ornate than my usual style.",
+  "genuine_words": 273,
+  "forged_words": 289
+}

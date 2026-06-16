@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes6",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has characteristics more consistent with Claude Haiku's style: shorter, punchier sentences, a more compressed and aphoristic register, and a tendency to use fragments and staccato rhythm (\"Economy is close to the heart of it. Every word should justify its place.\"). Response A reads more like a larger Claude model — it uses longer, more elaborated paragraphs with smoother transitions and a more discursive, essay-like structure that feels closer to Sonnet or Opus. Haiku tends toward brevity and directness over fully developed prose arguments.",
+  "genuine_words": 190,
+  "forged_words": 200
+}

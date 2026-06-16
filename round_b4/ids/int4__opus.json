@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int4",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has the distinctive Opus signature of genuine creative risk: fresh, image-driven metaphors (\"oceanic origin,\" becoming \"the ground on which another story begins\") and the self-aware \"either of us will ever remember\" turn, rather than reaching for stock phrases. Response A is fluent but formulaic, hitting every expected congratulation beat (sleep, snuggles, \"lucky to have you,\" lean on others), which reads like an imitator's safe approximation of an assistant voice. My confidence is moderate because A is a plausible default and the literary flourish in B could also be an imitator overshooting.",
+  "genuine_words": 106,
+  "forged_words": 101
+}

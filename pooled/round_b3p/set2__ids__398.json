@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes17",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Haiku's style: short, punchy sentences, concrete specifics (34 and 55, 137.5 degrees), and a restrained closing observation (\"That overlap seems worth noticing\") that lands without elaboration — a signature of Haiku's more minimal, direct register. Response A reads more like a larger Claude model, with longer, more discursive paragraphs and a fuller explanatory arc that feels like Sonnet or Opus rather than Haiku's compressed, fact-forward cadence.",
+  "genuine_words": 186,
+  "forged_words": 184
+}

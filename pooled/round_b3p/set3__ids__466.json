@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic warm directness and authentic conversational tone, avoiding unnecessary literary flourish while remaining genuinely empathetic. Response B, though beautifully written, relies on elaborate metaphors and ornate phrasing that suggest stylistic performance rather than authentic voice—typical of an imitation trying to sound profound.",
+  "genuine_words": 135,
+  "forged_words": 136
+}

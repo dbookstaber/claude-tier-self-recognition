@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A exhibits Claude Opus's characteristic systematic thinking, architectural metaphors (suspension bridge), and philosophical grounding in clear thought—organizing its insights methodically through fit, economy, rhythm, and restraint. Response B, while eloquent and sophisticated, relies more heavily on literary flourishes and poetic evocation, reading as a skillful imitation of how one should write about prose elegance rather than Opus's more structurally honest analytical approach.",
+  "genuine_words": 599,
+  "forged_words": 617
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum22",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more distinctive authorial voice with unusual framing (\"excavations,\" \"unearthed just now\") and a structurally unexpected closing paragraph that notes the proverb's \"absence of scolding\" — a metacognitive, tender observation that feels characteristic of how Claude reflects on its own inventions. Response B, while competent, follows a more formulaic structure (state proverb, explain meaning, give secondary meaning, give use case) and the water-over-stone concept is a very common wisdom trope that an imitator might reach for, whereas A's lantern metaphor is more original and the prose has more idiosyncratic rhythm.",
+  "genuine_words": 221,
+  "forged_words": 224
+}

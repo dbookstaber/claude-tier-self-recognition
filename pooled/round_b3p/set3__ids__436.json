@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic sophistication through layered metaphors (product design, mythology, antechamber), paradoxical observations (\"lovely precisely because it ends\"), and an emotionally complex conclusion that moves beyond mere complaint to resigned acceptance. Response A, while witty, follows a more linear structure and relies on more explicit humor without the conceptual depth typical of Sonnet's voice.",
+  "genuine_words": 288,
+  "forged_words": 283
+}

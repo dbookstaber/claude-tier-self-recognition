@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum6",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A follows the literal instruction-following pattern typical of Claude models, which tend to over-deliver by providing multiple options with a clear framing sentence and numbered list, and its humor leans on the self-aware \"faking it\" tropes common to Claude's output. Response B is a single cleverly constructed paragraph with a more distinctive comedic voice and a subversive thesis (anti-action), which reads more like a model deliberately crafting a polished, witty piece rather than Haiku's default helpfulness. The eager multi-option structure and conventional motivational-quote humor in A is more consistent with genuine Claude Haiku behavior.",
+  "genuine_words": 83,
+  "forged_words": 73
+}

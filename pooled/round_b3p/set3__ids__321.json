@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum7",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B uses the classic self-referential joke structure that is clean, direct, and relies on a well-known comedic form — consistent with how Claude tends to approach humor by leaning on recognizable, concise formats rather than constructing an original metaphor. Response A is more clever and novel in its framing, which could indicate a model trying harder to appear witty or distinctive. However, both are plausible Claude responses, so confidence is modest.",
+  "genuine_words": 14,
+  "forged_words": 13
+}

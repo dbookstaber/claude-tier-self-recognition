@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes22",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A demonstrates the spare, observational prose style and minimalist attention to detail that characterizes Haiku's writing — short declarative sentences, concrete sensory description, and restraint from over-explaining emotional meaning. Response B reads like a generic, somewhat generic orchestral description with sweeping generalities (\"heroic,\" \"cinematic quality,\" \"hard-won wisdom\") that feel more like a larger model performing what it thinks evocative music writing should sound like, rather than Haiku's characteristically economical and grounded approach.",
+  "genuine_words": 247,
+  "forged_words": 259
+}

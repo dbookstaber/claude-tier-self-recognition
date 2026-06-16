@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum9",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has Haiku's characteristic terse, declarative sentence rhythm and dry wit delivered in short punchy statements (\"Physics does not negotiate with carbohydrates,\" \"Clean it up and try again\"). Response B feels more verbose and elaborate, with longer flowing sentences and more embellished metaphors that read like a larger model trying to sound compact. The structural precision and blunt closing line of A match Haiku's tendency toward efficient, understated humor.",
+  "genuine_words": 270,
+  "forged_words": 283
+}

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Secrets / local config
+.env
+.env.*
+*.local
+
+# OS / editor / cloud-sync cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*~
+.vscode/
+.idea/

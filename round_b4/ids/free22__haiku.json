@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Opus's characteristic blend of sophisticated literary language (\"breathes in light,\" \"bruised purple,\" \"neon bleeds\") integrated with concrete sensory details and kinetic imagery. Response A, while intellectually ambitious with its \"negative theology\" framing, leans too heavily into abstract philosophy without the grounded, immediate sensory particularity that Opus typically maintains even in lyrical passages.",
+  "genuine_words": 89,
+  "forged_words": 82
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum16",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B has the rhythm and comedic devices characteristic of Claude Sonnet's humor: punchy fragmented sentences (\"Out. Of. The mousse.\"), direct second-person mock-accusations (\"This is entirely your fault and you had it coming\"), absurd tangents (cursive writing), and the playful \"Free the dessert\" energy. Response A is more polished, ornate, and essayistic in a way that reads like a deliberate literary imitation prioritizing elegant prose over genuine laugh-out-loud beats, which feels like a different model performing \"wittiness\" rather than Sonnet's looser, more conversational comic timing.",
+  "genuine_words": 319,
+  "forged_words": 316
+}

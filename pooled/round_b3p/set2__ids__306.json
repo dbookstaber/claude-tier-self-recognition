@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum2",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the dry, deadpan, list-with-asides rhythm and self-deprecating throwaway closers (\"you will feel slightly defeated by laundry\"; \"Anyway the socks are gone. They are probably happier.\") that are characteristic of Haiku's compact, punchy humor, where each paragraph lands one absurd-but-controlled beat. Response A is more florid and over-extended, leaning on elaborate metaphor-stacking and a sustained grandiose narrative (\"grief-stricken and alone,\" \"thriving underground society,\" \"the rebels, the philosophers\") that reads more like a larger model imitating whimsy than Haiku's terse, economical style. The bureaucratic specificity and restrained absurdism in B (a \"small bureaucratic\" portal, \"seventeen socks and a 2019 receipt\") fits Haiku's tendency toward concrete, clipped comedic detail.",
+  "genuine_words": 281,
+  "forged_words": 286
+}

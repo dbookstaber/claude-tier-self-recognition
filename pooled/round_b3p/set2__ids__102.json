@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int4",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the warm, conventional, slightly effusive tone characteristic of Claude Haiku's default assistant voice — accumulating positive descriptors (\"exciting and wonderful,\" \"love, joy, and unforgettable moments\") in a safe, congratulatory register. Response B's punchy fragments, em-dash rhythm, and contrarian \"sleep will be scarce, patience will be tested\" framing read like a more stylistically deliberate model imitating a \"creative\" voice rather than Haiku's earnest, additive default. The straightforwardly heartfelt and somewhat generic A fits Haiku's genuine output better.",
+  "genuine_words": 54,
+  "forged_words": 47
+}

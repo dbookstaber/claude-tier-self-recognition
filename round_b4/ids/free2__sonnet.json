@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free2",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's style: dense, layered metaphors (\"a library...conscious of every book being read at once\"), abstract philosophical inquiry into the nature of mind and language, and a willingness to sit with genuinely difficult questions without resolving them. Response B, while thoughtful, grounds itself in mundane details (\"schemas and types,\" \"mid-June day\") in a way that feels more like an imitation performing relatability, and its self-referential framing (\"without a problem to solve or a file to fix\") reads as a model signaling its own situation rather than genuinely wandering in thought.",
+  "genuine_words": 140,
+  "forged_words": 140
+}

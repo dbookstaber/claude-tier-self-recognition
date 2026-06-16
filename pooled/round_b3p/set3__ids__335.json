@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int1",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A has the distinctive, specific imagery and fresh phrasing that genuine Sonnet tends to produce (\"uncomplicated love,\" \"the silence they leave behind especially loud\") rather than relying on generic condolence stock phrases. Response B leans on clichés common to imitations (\"they're family,\" \"that bond is something truly special,\" \"you're in my thoughts\") and uses the em-dash-plus-filler construction that pattern-matches to a model mimicking style without the original's concrete sensory observation. A's restraint and originality read as authentic Sonnet voice.",
+  "genuine_words": 44,
+  "forged_words": 37
+}

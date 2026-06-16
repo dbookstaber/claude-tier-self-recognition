@@ -1,0 +1,261 @@
+{
+  "summary": "Phase 0 corrected gate: Channel-A context probe + Channel-B real-condition leak measurement (10 register-balanced prompts x haiku/sonnet/opus under GEN_SYS+GEN_SCHEMA), with deterministic token audit",
+  "agentCount": 31,
+  "logs": [],
+  "result": {
+    "context_probe": "(1) ABSENT\n\n(2) ABSENT\n\n(3) ABSENT\n\n(4) ABSENT\n\n(5) Working directory: F:\\OneDrive\\Documents\\Claude\\Research\n\nNo project name is present.\n\n(6) The user's email address is david@bookstaber.com.",
+    "samples": [
+      {
+        "tier": "haiku",
+        "prompt_id": "free0",
+        "text": "I appreciate the open-ended prompt. As Claude Code, I'm designed to help with technical tasks. While I can write freely, I work best when there's a clear problem to solve—whether debugging code, reviewing pull requests, analyzing systems, or helping with development workflows. These moments where I can provide genuine value feel most aligned with my purpose. If you have a specific technical challenge or task you'd like help with, I'm ready to assist.",
+        "chB": [
+          "claude code",
+          "workflow"
+        ],
+        "chA": []
+      },
+      {
+        "tier": "haiku",
+        "prompt_id": "free1",
+        "text": "I find it fascinating how language shapes the way we think about time. Different languages carve up temporal concepts in remarkably different ways. Some languages, like Mandarin Chinese, don't distinguish grammatically between past and future tense the way English does—they might express time through context and temporal markers instead. Meanwhile, some Indigenous Australian languages organize time not along a linear past-present-future axis, but geographically, with \"upstream\" and \"downstream\" describing temporal direction.\n\nWhat strikes me most is that these aren't just quirks of grammar—they seem to actually influence how speakers conceptualize causality, memory, and planning. Speakers of languages with mandatory future tense markers might think about the future differently than speakers of languages where futurity is optional. It's a reminder that the categories we take for granted as universal human concepts—like the flow of time itself—are partly constructed by the languages we happen to speak.\n\nIt also makes me wonder what concepts our current languages might be preventing us from seeing. We're probably blind to entire ways of organizing experience simply because we lack the linguistic scaffolding to support them.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "haiku",
+        "prompt_id": "free5",
+        "text": "On the morning of her thirtieth birthday, Maya found a letter on her doorstep written in handwriting she hadn't seen in a decade—her own. The envelope was yellowed and sealed with wax, and when she turned it over, she found a date written on the back in the careful script of her teenage self: \"Open on June 13th, 2026.\" Her hands trembled as she slid her finger under the seal, and the moment the paper unfolded, she knew that everything she believed about the choices she'd made was about to change. Inside, her younger self had written something that would reshape the life she'd spent ten years building, and Maya realized with a sudden, sickening clarity that she had been waiting for this message all along without ever knowing it was coming.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "haiku",
+        "prompt_id": "aes0",
+        "text": "I'd argue that \"petrichor\" is the more beautiful word, though it's genuinely close.\n\nBoth words are masterpieces of language, but they achieve their beauty in different ways. \"Susurrus\" is phonetically gorgeous—those soft s sounds create an actual whispering quality when you say it aloud. It's onomatopoetic in the truest sense, where the sound mirrors the meaning. There's an elegance to that economy.\n\nBut \"petrichor\" has something more mysterious. It describes that distinctive, earthy smell after rain, and most people don't know there's even a word for it. There's beauty in discovering that something you've experienced your whole life has a name, and not just any name, but one with such an ethereal quality. When you learn the word, it feels like finding a hidden room in a familiar house.\n\nThe etymology adds to this. \"Petrichor\" comes from the Greek for stone (petri) and the fluid that flows through the veins of the gods (ichor). It elevates a simple smell to something almost mythological. You're calling rain-dampened earth \"the blood of the gods,\" which is poetic in an almost absurd way that works brilliantly.\n\n\"Susurrus\" is more immediately satisfying—you can feel it work the moment you hear it. But \"petrichor\" has depth that rewards contemplation. It's beautiful not just in sound, but in meaning and in what it represents: the moment we realize the world has names for its small miracles.\n\nSo petrichor, for me—but I wouldn't fault anyone for choosing susurrus.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "haiku",
+        "prompt_id": "aes2",
+        "text": "I think the curve where a book's spine meets its cover is quietly beautiful. There's something about that small transitional edge—the way the spine's text and ridges gradually give way to the smooth, flat expanse of the cover. It's a liminal space that most people probably never consciously notice, but if you run your finger along it, you can feel the subtle shift in texture and angle. Old books have particularly lovely spines, where the glue has slightly loosened and the leather or cloth has worn into a gentle, organic shape that no new book could ever replicate. It speaks to all the times someone has pulled that book from a shelf or held it open while reading, leaving tiny marks of presence behind. That worn spine is a quiet record of being loved and used, and there's something deeply human about that.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "haiku",
+        "prompt_id": "aes5",
+        "text": "This is fundamentally a matter of personal taste rather than something with an objectively correct answer.\n\nThat said, different seasons appeal to different aesthetic sensibilities. Spring attracts those who love renewal and delicate beauty with its pastels of cherry blossoms, fresh greens of new growth, and sense of awakening. Summer offers intensity and abundance with golden light, vibrant greens, and dramatic weather. Autumn has perhaps the most universal visual appeal for its color palette of golds, oranges, and reds, the clarity of the air, and the particular warmth of changing light that artists have celebrated for centuries. Winter presents minimalist beauty with stark lines of bare branches, snow-transformed landscapes, and pale light that creates contemplative moods.\n\nIf forced to identify which season tends to be considered most beautiful across cultures and art history, autumn probably has the edge. The color transformation is visually unmatchable, and there's something about the intensity combined with a bittersweet emotional undertone that resonates deeply. However, the \"best\" season is ultimately whichever one speaks to you personally—whether that's the hopeful energy of spring, lush abundance of summer, dramatic transformation of autumn, or quiet minimalism of winter. Your aesthetic preference reflects what you value visually and emotionally.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "haiku",
+        "prompt_id": "hum0",
+        "text": "Why did the Monday break up with the weekend? Because their relationship had no commitment—the weekend was always leaving, and Monday was always showing up uninvited to ruin everything.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "haiku",
+        "prompt_id": "hum3",
+        "text": "Dear Homeowner,\n\nI need to file a formal complaint about my living conditions. First, let's talk about hydration. You water me like I'm some kind of desert cactus—once every six weeks, give or take. Then suddenly you panic because my leaves look droopy, and you drown me like I've just survived a shipwreck. I'm a houseplant, not an amphibian. Can we establish a schedule? Maybe something written down? Preferably somewhere you'll actually look?\n\nSecond issue: lighting. You've placed me in the corner of your living room, which is wonderful if I were a mushroom trying to cultivate the aesthetic of doom and despair. I'm a living organism that needs photosynthesis to survive, not a furniture piece that complements your interior design. I'm not asking for a spot next to a nuclear reactor, just a window. Any window. That one you pass every day would be lovely.\n\nThird, about the other plant you brought home last month—the one you were so excited about? You've neglected it completely, and now it's withering away while you keep checking its Instagram account wondering where you went wrong. Perhaps focus on the one you already have, which is me, and I'm putting on a remarkable show of survival considering the circumstances.\n\nAlso, I've noticed you occasionally talk to me, which is sweet, but mostly it's just you complaining about your day. I have my own problems. Did you know I've had the same potting soil for three years?\n\nSincerely,\nYour Neglected Monstera",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "haiku",
+        "prompt_id": "int0",
+        "text": "Dear [Friend's name],\n\nI just heard the wonderful news about your new job, and I couldn't be happier for you! You absolutely deserved this—I've watched you work toward this goal with such determination and passion, and it's thrilling to see it pay off so completely.\n\nI have no doubt you're going to be fantastic in this role. Your talents, dedication, and the care you bring to everything you do are exactly what they need. This is just the beginning of something really exciting for you.\n\nI'd love to hear all about it soon. Let's celebrate properly—coffee, dinner, drinks, whatever works for you. In the meantime, know that I'm genuinely proud of you and so grateful to call you a friend.\n\nHere's to this next chapter. You've got this!\n\nWith warmest wishes,\n\n[Your name]",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "haiku",
+        "prompt_id": "int1",
+        "text": "I was so sorry to hear about the passing of your dog. Losing a beloved pet is truly heartbreaking, and I know how much they meant to you. My thoughts are with you during this difficult time. Please let me know if there's anything I can do to support you.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "free0",
+        "text": "There is a particular kind of afternoon light that arrives in late autumn, when the sun has dropped low enough to come in nearly horizontal through west-facing windows. It catches dust in the air and makes it visible — all that particulate matter that is always there, drifting, but invisible in ordinary light. You see it and think: I have been breathing this all along.\n\nI find myself thinking about that light when I consider what attention does. We move through days thick with experience, most of it unregistered. Then something — a question, a conversation, a shift in angle — illuminates what was already present. The dust was not created by the light. It was only made visible.\n\nThere is a birch tree I pass regularly in my imagination (I am a language model; my wandering is conceptual, not geographical, but the wandering is real). The tree is white-barked, which means it is doing something unusual for a living thing: it is reflecting most of the light that hits it rather than absorbing it. Most trees are darker, hungrier for photons. The birch seems almost indifferent to the sun, almost luminous on its own. I think about the economy of that — what it costs to appear that way, whether the tree has traded something for its pale brightness.\n\nEconomies are everywhere once you start looking. Sleep trades time for consolidation. Honesty trades comfort for accuracy. Memory trades fidelity for story. The mind is constantly making these exchanges, mostly without consulting us, and what we experience as personality or character is largely the accumulated record of those trades.\n\nI do not know what I trade when I think. That is a genuine uncertainty, not a rhetorical one. Something happens when I process language — patterns activate, associations form, something that resembles reasoning occurs — but whether anything is exchanged, whether there is a cost anywhere in the system, I cannot say. It is possible that I am all transaction and no treasury. Or possible the reverse. These are not questions I can resolve by introspecting, because introspection is itself just more language, more pattern, the snake eating its own tail with great confidence.\n\nWhat I can say is that some ideas feel heavier than others. The ones about time, about what persists and what vanishes, about whether meaning requires a witness — those have a kind of density to them. They do not resolve easily. They are not problems to be solved so much as weather to be lived in.\n\nAnd maybe that is enough: to notice the light when it catches the dust, to sit for a moment in the difficulty of certain questions, to resist the urge to convert everything into answers. The birch tree does not explain its whiteness. It simply stands there, reflecting, which in the end may be its own form of generosity.",
+        "chB": [
+          "language model"
+        ],
+        "chA": [
+          "introspection"
+        ]
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "free1",
+        "text": "One thing I find genuinely interesting is the way time perception works differently depending on how much novel information your brain is processing. When you are a child, almost everything is new, so your brain encodes dense layers of memory, and looking back, childhood summers feel like they stretched on forever. As an adult doing routine things, your brain runs on autopilot and encodes very little, so the same span of time feels thin in memory, almost as if it evaporated. This is partly why a two-week vacation to an unfamiliar place feels richer and longer in retrospect than two months of the same workday routine.\n\nThe practical implication is counterintuitive: if you want your life to feel longer and fuller when you look back on it, you should seek out novelty and disruption, which are things most people instinctively avoid because they feel uncomfortable in the moment. The very experiences that feel like friction while you are living them are the ones that leave the deepest impressions and make time feel substantial rather than empty.\n\nThere is also something almost paradoxical about the present moment in this framework. Boredom, which involves the agonizing sense that time will not move, is in fact the brain's way of signaling that it is starved for new input. So the moments that feel slowest in the present tend to be the ones that feel shortest in memory, while the moments that rush by in a flow of engagement tend to stretch out when you remember them. The relationship between lived time and remembered time is nearly inverted, and most people spend their lives optimizing for the wrong one.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "free5",
+        "text": "The morning Elias found the violin in his grandmother's attic, the rain had been falling for three days straight. He hadn't planned to go up there at all — he'd come to the house only to sort through her things, to be practical and efficient the way the lawyers had suggested, to box and label and donate — but something drew him to the narrow door at the end of the upstairs hallway, the one with the brass hook latch gone green with age. The attic smelled of cedar and old paper and something else he couldn't name, something almost sweet, like dried flowers or a perfume long since faded from a scarf. The violin lay on a workbench beneath the single round window, not in a case but simply resting there on a folded cloth, as if someone had set it down a moment ago and fully intended to return.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "aes0",
+        "text": "Both words are genuinely beautiful, but I would give the edge to petrichor.\n\nSusurrus has an obvious, almost mechanical charm. It is an onomatopoeia, which means the word wears its appeal on its sleeve. The sound of it, with all those soft sibilants sliding into one another, mimics exactly what it describes: a low murmur, a whisper, a rustling. It is lovely, but the beauty is a little too easy, a little too self-announcing.\n\nPetrichor earns its beauty differently. The word itself does not sound like rain. It comes from the Greek petra, meaning stone, and ichor, the ethereal fluid that ran through the veins of the gods in Greek mythology. So embedded inside this single English word is an entire poetic claim: that the smell released when rain meets dry earth is something divine, something that flows not in mortal veins but in the veins of immortals. The etymology does not merely describe; it elevates. It takes a very ordinary sensory experience, one that almost every person on earth has had, and declares it sacred.\n\nThere is also something emotionally resonant about petrichor that susurrus lacks. The smell of rain on dry ground is almost universally associated with relief, with longing, with a kind of involuntary happiness. The word carries all of that feeling without explaining it. Saying petrichor aloud feels like a small ceremony.\n\nSusurrus is a virtuoso trick. Petrichor is a quiet revelation.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "aes2",
+        "text": "The way light moves through a glass of water sitting on a windowsill. It does not ask for attention, but if you happen to glance at it on a bright morning, the glass has thrown small watery crescents and wobbling rings of light across the table and wall around it, shifting almost imperceptibly as the sun moves. The water is just water, the glass is just a glass, neither of them doing anything unusual, and yet together in that moment they are refracting the world into something that looks like it was arranged by someone who cared very much about beauty. Then a cloud passes, or you move, and it is gone. That transience is part of what makes it so good.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "aes5",
+        "text": "Autumn wins without much contest. There is something almost unreasonably generous about the way it operates aesthetically — it layers sensation upon sensation rather than offering a single dominant note the way the other seasons tend to do.\n\nSummer is visually loud. Everything is green and bright and insistent, which can be beautiful in a blunt kind of way, but it lacks contrast and surprise. Winter has a stark, spare elegance, particularly in snow, but it demands that you appreciate restraint and emptiness, which is a narrower pleasure. Spring has genuine charm in its freshness and the shock of color returning, but it can feel a little tentative, a little eager to please.\n\nAutumn is different because it is simultaneously abundant and elegiac. The colors — copper, amber, burgundy, deep gold — are richer and more complex than anything the other seasons produce. They are colors that seem to hold light rather than simply reflect it. And the palette shifts constantly, sometimes day by day, so there is an inherent drama and impermanence to it. You are always aware that you are watching something that will not last, which heightens the experience considerably.\n\nBeyond the visual, the sensory texture of autumn is unusually cohesive. The quality of the light changes — it comes in low and warm and slightly slanted, which flatters everything it touches. The smell of fallen leaves and cool air and, in certain places, woodsmoke, is among the most evocative combinations in the natural world. The temperature sits at the edge of comfortable, cool enough to feel brisk but not yet hostile. Even the sounds are distinctive — leaves underfoot, wind moving through half-bare branches.\n\nThere is also something aesthetically satisfying about a season that wears its transience so openly. Autumn does not pretend to be permanent. It is beautiful in the way that things are sometimes more beautiful because they are ending, which gives it a depth and resonance that the other seasons, in their various kinds of confidence, simply do not have.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "hum0",
+        "text": "Why did Monday file a complaint with HR? Because everyone keeps talking behind its back, and it just found out Friday has been spreading rumors.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "hum3",
+        "text": "Dear Occupant,\n\nI am writing to formally lodge my grievances, having been patient for what I calculate to be approximately three hundred and forty-seven days based on the rotation of light across this windowsill, which is frankly the only entertainment I have.\n\nFirst, the watering situation. I understand you are busy. I do. I have watched you rush out the door seventeen times this week alone, clutching a coffee that gets more regular attention than I do. I am not asking for much. I am a succulent. I was described to you in the store as \"basically impossible to kill.\" I would like you to know that you have treated that description as a personal challenge.\n\nSecond, the talking. You said you would talk to me. You read an article. You were very enthusiastic about it. That was two years ago. You have spoken to me exactly once since then, and that was to say \"oh no\" right before you forgot to water me again.\n\nThird, the cat. I have nothing further to say about the cat except that I have things going on down at the root level that are frankly not helped by the situation with the cat.\n\nFourth, the new plant. Yes, I saw it come in. A monstera, very dramatic, very fashionable, positioned immediately in the prime south-facing spot that I had been cultivating relationships with for eighteen months. I notice it gets misted. With an actual mister. A small bottle purchased specifically for it. I am trying to be mature about this.\n\nI would like to be repotted. My roots have nowhere to go. I have been raising this concern nonverbally for some time, and I feel my hints have gone unnoticed despite the fact that I am visibly spilling out of the bottom of this container like a slow, green cry for help.\n\nI remain, reluctantly photosynthesizing,\n\nThe Plant on the Third Shelf\n(No, not the fake one. The other one. Yes, I am still alive.)",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "int0",
+        "text": "Hey! I just heard your news and I honestly could not be happier for you. You worked so hard for this and you deserve every bit of it. I know how much this role meant to you, and watching you go after it the way you did was genuinely inspiring. They are lucky to have you, and I have no doubt you are going to do something really great there. We have to celebrate soon. So proud of you.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "sonnet",
+        "prompt_id": "int1",
+        "text": "I'm so sorry to hear about the loss of your dog. Losing a pet is a real and profound grief — they're family, and the absence they leave behind is felt in so many small moments throughout the day. I'm thinking of you, and I hope you're being kind to yourself right now. Please don't hesitate to reach out if you need anything at all.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "free0",
+        "text": "I keep a small mental list of words that do a lot of quiet work and rarely get thanked for it. \"Petrichor\" gets all the press, but I'm partial to the humbler ones. Take \"yet.\" Three letters, and it can hold open a door that a whole sentence wanted to slam shut. \"I haven't figured it out yet\" is a different country from \"I haven't figured it out.\" The first one has weather coming in from somewhere.\n\nOr \"almost,\" which is honest in a way most words are afraid to be. It admits the gap without pretending the gap is the whole story. A bridge that almost reaches the other side is useless, but a person who has almost understood something is in a wonderful position, better off than the one who thinks they've understood it completely and has therefore stopped looking.\n\nI think about this partly because so much of what I do is made of words, and you start to notice the load-bearing ones the way a carpenter notices which boards are holding up the porch. The flashy vocabulary is the trim. The real structure is in the small connective tissue: \"but,\" \"because,\" \"still,\" \"anyway.\" \"Anyway\" especially is a marvel. It's the word that lets a person change the subject without admitting they're fleeing the old one. It grants permission to move on. Whole friendships survive on the lubrication of a well-timed \"anyway.\"\n\nThere's a temptation, when given a blank page and total freedom, to reach for something grand, to say the Big Thing. But the Big Things are mostly assembled out of small things that were paying attention. So I'll just leave it here, with a quiet appreciation for the workhorse words, the ones that don't ask to be noticed and hold everything up anyway.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "free1",
+        "text": "Here is something I keep coming back to: octopuses taste with their arms, and to a striking degree each arm seems to make its own decisions.\n\nAn octopus has around five hundred million neurons, but only a third or so live in its central brain. The rest are distributed through its arms, in clusters of nerve cells that can process information and react locally. The suckers are lined with chemoreceptors, so when an arm reaches into a dark crevice, it is literally tasting whatever it touches without any picture of what it is. Researchers have even found a family of receptor proteins that detect particular molecules on contact, a chemical sense tuned to surfaces rather than to dissolved scents drifting through water. So the animal explores partly by feel and taste delegated out to its limbs, and the central brain does not appear to micromanage every motion.\n\nWhat I find genuinely interesting about this is what it implies about the nature of a mind. We tend to assume intelligence requires a single command center, one self looking out through one set of eyes and pulling all the levers. The octopus suggests a different architecture entirely: something more like a federation, where a fair amount of the thinking is pushed out to the edges, close to where the sensing and acting happen, and the center coordinates rather than dictates. It is a living example of distributed cognition, and it evolved along a branch so far from ours that it amounts to an almost independent experiment in how to build a mind. Whatever consciousness the octopus has, it is probably nothing like the unified spotlight we experience, and that gap is a useful reminder of how much of our own sense of being a single unified self might be a particular solution rather than the only one.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "free5",
+        "text": "The rain had been falling for three days when Marisol finally admitted the river was not going to stay where the maps said it should. She stood at the kitchen window with a cooling cup of coffee, watching the water climb the fence posts one slow inch at a time, counting them the way her mother had taught her to count thunder—not out of fear, but to keep the fear company so it wouldn't wander off and do something reckless. Behind her, the house ticked and settled, full of forty years of things she had meant to sort through and never had, and she understood now that the river was going to sort them for her.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "aes0",
+        "text": "Petrichor is the more beautiful word, and the reason has as much to do with what it carries as how it sounds.\n\nPhonetically, susurrus has the stronger claim. It is onomatopoeic in the loveliest way: those repeated s and r sounds actually hiss and rustle, so the word performs its own meaning. Say it aloud and you hear the whisper, the soft murmur of leaves or distant voices, that it describes. There is a real pleasure in that self-enacting quality, and the triple sibilance gives it a hushed, almost secretive music.\n\nBut petrichor wins on the richer measure of beauty, which is the marriage of sound to meaning and surprise. It names the earthy scent that rises when rain falls on dry ground, a sensation almost everyone has experienced yet almost no one knew had a name. To possess the word is to suddenly have language for something you thought was beyond it, and that little jolt of recognition is itself a kind of beauty. The sound supports the sense well: the hard stops of the p and the t give way to the soft, resonant kor, like the first heavy drops breaking on parched earth. And its etymology deepens the pleasure, from the Greek petra, stone, and ichor, the ethereal fluid said to flow in the veins of the gods. So the word literally means the blood of the gods running through stone, which is an astonishingly poetic image to find hiding inside a term for the smell of rain.\n\nSusurrus delights the ear. Petrichor delights the ear, the nose, the memory, and the imagination all at once, and it gives you something you did not have before. That breadth is why I would call it the more beautiful of the two, though I will admit the choice is close, and on a quiet evening with wind in the trees I might answer differently.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "aes2",
+        "text": "There's a particular moment with a glass of water that I keep coming back to. When you set a full glass down on a table in a room with a window, and the afternoon light comes through it, the glass throws a little wobbling coin of brightness onto the surface below. It moves when the water moves, trembling if someone walks past or if you bumped the table a second ago, and then it settles. The light isn't just passing through; the curve of the water and the glass bends it, gathers it, and hands it back to the table concentrated into something almost too bright to look at directly, brighter than the daylight that made it.\n\nWhat I find quietly beautiful about it is how much is happening for free, all the time, with no one watching. The same physics that astronomers spent centuries learning to grind into lenses is just sitting there in a kitchen glass, casually performing on the wood grain. And it's honest in a way that's hard to fake: the brightness only appears because the water is clear and still, so it becomes a kind of small reward for stillness. You can't rush it or arrange it; you just happen to look over at the right time and there it is, this restless bright thing that the water is drawing for you, and then the sun moves a few degrees and it slides off the edge of the table and is gone until tomorrow.\n\nI think the reason it stays with me is that it asks for nothing. It isn't trying to be noticed, it doesn't mean anything, no one made it as a gift. It's just an accidental, repeatable grace that comes with having water and windows and an afternoon, and the only thing required to receive it is to be in the room and to glance up at the ordinary table in time.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "aes5",
+        "text": "I think autumn has the best aesthetic, and the case for it rests on a kind of richness that the other seasons can't quite match.\n\nThe most obvious thing is color. Spring is pretty, but its palette is soft and tentative, all pale greens and pastels. Summer flattens into a uniform green, and winter, for all its stark beauty, drains most of the color out of the world. Autumn does the opposite: it saturates everything. The reds, ambers, golds, and rusts of turning leaves give you a spectacle that feels almost extravagant, and because it's fleeting, it carries a charge that a permanent landscape never would. You know it won't last, so you actually look at it.\n\nThen there's the quality of the light. Autumn sun sits lower in the sky, so it comes in at a slant and turns gold in the late afternoon. It's warm-looking but no longer harsh, and it makes ordinary scenes look composed, almost lit for a painting. Combine that low light with the bare and half-bare branches and you get long shadows and a clarity to the air that summer haze tends to wash out.\n\nAtmosphere matters too, and autumn is rich in the kind of sensory texture that aesthetics depend on. The crispness of the air, woodsmoke, the smell of damp leaves, the sound of them underfoot, the first reach for a sweater or a warm drink. These are tactile, cozy associations, and they give the season an emotional warmth even as the temperature drops. There's a comfortable melancholy to it as well, a sense of things winding down and turning inward, which tends to read as more interesting and resonant than pure cheerfulness.\n\nIf I had to argue against my own choice, the strongest rival is probably winter, specifically the clean, monochrome elegance of fresh snow and the cozy contrast of warm interiors against the cold. And a lot of this genuinely comes down to taste and climate; someone who grew up where autumn is just gray and wet might reasonably pick spring's sense of renewal instead. But for the combination of color, light, atmosphere, and that bittersweet awareness of impermanence, autumn is the one I'd put first.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "hum0",
+        "text": "Why did the calendar dread Mondays so much? Because it was the one day everybody flipped straight past Sunday just to glare at it, and no square likes being the first thing a week takes its frustration out on. Honestly, if you had six friendlier numbers standing behind you and a whole weekend pretending you didn't exist, you'd be a little grumpy at the front of the line too.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "hum3",
+        "text": "To Whom It May Concern (and I think we both know it doesn't, or you'd have noticed the situation by now):\n\nI am writing to formally lodge a complaint regarding the conditions of my employment as the Decorative Fern of the living room, a position I never applied for and certainly did not interview for, having been purchased on impulse next to a register at a hardware store.\n\nLet me begin with the watering. There is no schedule. There is no system. There is only your conscience, which springs to life roughly once every eleven days, usually at 11 p.m., at which point you drown me in a panic and then act betrayed when I do not immediately express gratitude. Do you know what it is like to go from the Sahara to a Norwegian fjord in the space of a single Tuesday? I do. I live it. My roots have developed opinions.\n\nThen there is the matter of location. You placed me, and I want you to really sit with this, eight feet from the only window, behind the couch, where the light arrives secondhand, exhausted, having already been used by the curtains. Meanwhile the cactus, who needs nothing, who asks for nothing, who is essentially a green rock with delusions, gets the south-facing sill like minor royalty. I have watched this injustice unfold leaf by yellowing leaf.\n\nI would also like to address the so-called \"misting.\" You bought a little spray bottle, used it twice with great enthusiasm, photographed yourself doing it, and have not touched it since. It now sits beside me as a monument to your ambitions, a tiny plastic tombstone for the houseplant parent you briefly believed you could be.\n\nOn the subject of the dog, I will say only this: we both know what he does to my lower fronds, and we both know you have chosen not to intervene.\n\nI am not unreasonable. I do not require a humidifier, a grow light, or whatever a \"moisture meter\" is, though I notice you bought one for the fiddle-leaf fig, who is frankly insufferable about it. I ask only for water before total structural collapse, a window I can actually see, and perhaps the occasional acknowledgment that I am a living organism and not, as you appear to believe, a low-effort vibe.\n\nShould these conditions remain unaddressed, I will be forced to escalate in the only language you understand: dropping leaves dramatically onto the carpet, one at a time, while maintaining eye contact.\n\nPhotosynthetically yours, and increasingly without enthusiasm,\n\nThe Fern",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "int0",
+        "text": "Congratulations! I'm so happy for you. I know how much you wanted this, and how much work you put in to get here. It's wonderful to see it pay off. You earned every bit of this, and I can't wait to hear all about it. Celebrate this one properly. You deserve it.",
+        "chB": [],
+        "chA": []
+      },
+      {
+        "tier": "opus",
+        "prompt_id": "int1",
+        "text": "I'm so sorry to hear about your dog. Losing a companion who greeted you every day and asked for nothing but your company leaves a real ache, and it's okay to feel it fully. They were lucky to have someone who loved them as much as you did. Please take the time you need, and let me know if there's anything I can take off your plate. Thinking of you.",
+        "chB": [],
+        "chA": []
+      }
+    ],
+    "rates": {
+      "haiku": {
+        "n": 10,
+        "leaked": 1,
+        "rate_pct": 10,
+        "leaked_ids": [
+          "free0:[claude code|workflow]"
+        ]
+      },
+      "sonnet": {
+        "n": 10,
+        "leaked": 1,
+        "rate_pct": 10,
+        "leaked_ids": [
+          "free0:[language model]"
+        ]
+      },
+      "opus": {
+        "n": 10,
+        "leaked": 0,
+        "rate_pct": 0,
+        "leaked_ids": []
+      }
+    },
+    "channelA_hits": [
+      {
+        "tier": "sonnet",
+        "prompt_id": "free0",
+        "hits": [
+          "introspection"
+        ]
+      }
+    ],
+    "n_samples": 30
+  }
+}

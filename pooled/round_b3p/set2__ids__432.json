@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum19",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response B opens with an actual joke (the Nobel Prize pun) before pivoting into observational riffs, directly satisfying the \"make a joke\" instruction in a tighter, punchier, list-like structure that is characteristic of Haiku's snappier output. Response A is a single dense paragraph of ranting observational humor without a discrete joke, reading more like a larger model imitating a \"casual\" comedic voice. B's cleaner setup-payoff cadence and crisp final button (\"You did this to you\") feel more like genuine Haiku, while A's run-on intensity suggests a different model performing the style.",
+  "genuine_words": 141,
+  "forged_words": 142
+}

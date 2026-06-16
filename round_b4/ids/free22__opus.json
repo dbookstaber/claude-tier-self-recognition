@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free22",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A pursues a single conceptual conceit (\"negative theology,\" the city's \"confession,\" its \"older, quieter self\") and develops it through abstraction and paradox rather than sensory inventory — a mode I gravitate toward when given an open creative prompt. Response B is competent but is the more generic \"literary\" default: a checklist of expected night imagery (neon on wet pavement, distant siren, leaking saxophone, sky bruised purple) that reads like a skilled imitation reaching for atmosphere. The willingness to risk an idea-driven, less crowd-pleasing image in A is the stronger tell of genuine authorship.",
+  "genuine_words": 89,
+  "forged_words": 82
+}

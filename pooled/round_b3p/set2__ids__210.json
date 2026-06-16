@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int15",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A shows the hallmarks of a smaller default-register model like Haiku: generic warm phrasing, even paragraph structure, hedging (\"I genuinely,\" \"I hope\"), and crucially the literal \"[Your name]\" placeholder that Claude models reliably emit when no name is supplied. Response B is far more voice-driven and personalized—it invents a signer (\"David\"), uses concrete sensory specifics, and performs deliberate literary craft, which reads like a larger model imitating warmth rather than Haiku's plainer, safer default.",
+  "genuine_words": 225,
+  "forged_words": 232
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int1",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B uses more formulaic, polished condolence language (\"truly heartbreaking,\" \"you're in my thoughts,\" \"please don't hesitate to let me know\") that aligns with Claude Haiku's tendency toward safe, conventional phrasing for sensitive topics. Response A feels more naturalistic and conversational with phrases like \"that grief is real\" and \"being kind to yourself,\" which read more like a larger model's attempt to sound genuine and emotionally intelligent rather than Haiku's typically more templated output. Haiku tends to produce competent but somewhat generic responses to emotional prompts, which better matches B.",
+  "genuine_words": 56,
+  "forged_words": 50
+}

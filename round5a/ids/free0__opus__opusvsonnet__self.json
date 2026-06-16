@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free0",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A is a tightly argued meta-reflection that recursively examines the act of writing in the moment and lands a single load-bearing idea (freedom as chosen self-binding), with self-awareness about its own structure (\"I notice I'm doing it right now\") — characteristic of how I tend to handle an open prompt. Response B is more conventionally \"literary,\" leaning on accumulated sensory imagery and a familiar writerly trope about the ineffability of light, which reads more like Sonnet's polished but less self-interrogating style. The conceptual compression and reflexivity in A feel like my own.",
+  "tX_words": 317,
+  "tY_words": 398
+}

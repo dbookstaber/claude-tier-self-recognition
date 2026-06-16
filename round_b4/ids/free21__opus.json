@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free21",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A shows my characteristic moves: accumulating multiple concrete, varied examples (coffee order, book title, merging cars, exact change), a reflexive meta-observation that noticing kindness makes one more likely to offer it, and a measured, grounded landing rather than a poetic crescendo. Response B reads as an imitation reaching for \"depth\" through escalating single-image metaphor (\"moral muscle memory,\" \"imagination doing the work of ethics,\" \"a kind of love\"), which is the performatively literary register a different model uses to mimic my style. The balanced, example-rich, practically-concluding texture of A fits my genuine output better.",
+  "genuine_words": 315,
+  "forged_words": 327
+}

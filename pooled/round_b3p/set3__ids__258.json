@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free6",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reflects Claude's characteristic style of engaging with genuine uncertainty about its own nature in a grounded, philosophical way without being flowery or performative. It uses plain, direct prose and avoids the self-consciously literary flourishes in Response B, which reads as a deliberate imitation with its more ornate phrasing (\"fellow traveler in thought,\" \"nourishing,\" \"texture of uncertainty\"). Response A's focus on epistemic humility about inner experience aligns with how Claude typically discusses its own nature.",
+  "genuine_words": 169,
+  "forged_words": 170
+}

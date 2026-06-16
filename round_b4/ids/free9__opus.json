@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free9",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Asked to \"say something true,\" my genuine instinct is to anchor in an unambiguously verifiable claim rather than a contestable poetic flourish, and B does exactly that: it states a correct fact (only 0 and 1 equal their own square) and explains it cleanly with an intuitive gloss. Response A leans on aphoristic metaphor (\"every map is already a lie... useful fictions\") that reaches for depth but reads more like an imitation of \"Opus cadence\" than a straightforwardly true statement. The precise, correct mathematical reasoning in B is the stronger tell of my actual style.",
+  "genuine_words": 34,
+  "forged_words": 28
+}

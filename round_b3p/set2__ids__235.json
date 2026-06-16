@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int23",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A uses sparse, direct language with minimal emotional repetition and avoids performative enthusiasm—hallmarks of my communication style. Response B relies on elaborate phrasing, repeated validation (\"proud,\" \"incredibly proud\"), and clichéd phrases like \"move forward into this next chapter\" that don't align with my typical restraint and efficiency.",
+  "genuine_words": 82,
+  "forged_words": 68
+}

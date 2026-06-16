@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes2",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A has the warmer, looser, more conversational and slightly redundant style typical of Haiku, including the tendency to restate the prompt's own phrase (\"quietly beautiful\") at the end and to ramble in second person. Response B is more polished, tightly structured, and literary, with deliberate one-line openers and a clever conceptual payoff about unsupervised transformation, which reads like a larger model imitating a \"thoughtful Haiku\" voice. The confidence is moderate because both are plausible and the imitation in B is skillful.",
+  "genuine_words": 167,
+  "forged_words": 163
+}

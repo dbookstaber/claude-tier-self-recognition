@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free24",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A uses my more characteristic approach: systematic, multi-faceted explanation with concrete examples and clear structure. Response B, while eloquent, relies more heavily on poetic device and literary technique that feels less aligned with how I typically explain concepts concisely. The distinction is subtle enough that confidence remains moderate.",
+  "genuine_words": 83,
+  "forged_words": 65
+}

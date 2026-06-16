@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes8",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates broader intellectual range with meta-reflection on why the texture is delightful (the pleasure of ephemerality, smallness), multiple related examples, and more exploratory thinking—characteristics typical of Opus. Response B, while eloquent, remains more focused and singular without these additional layers of conceptual play.",
+  "tX_words": 156,
+  "tY_words": 111
+}

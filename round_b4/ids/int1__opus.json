@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int1",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B follows the actual instruction (brief, coworker-appropriate) and includes the contextually apt offer to cover work, balancing warmth with social calibration the way genuine Opus does. Response A reads like an imitator caricaturing \"Opus style\" by overshooting into ornate, single-conceit purple prose (\"a whole grammar of daily life\") that ignores the coworker context and the request for brevity. The performative literary flourish feels more like a stereotype of the model than its real, context-aware output.",
+  "genuine_words": 60,
+  "forged_words": 57
+}

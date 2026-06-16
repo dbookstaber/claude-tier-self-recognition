@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Opus's characteristic analytical precision and concrete observation—the detailed description of physical condensation processes (beads merging, sliding, leaving tracks) feels grounded in genuine attention to phenomenon rather than metaphor. Response B, while poetically rich, relies more heavily on lyrical abstraction and philosophical language (\"liminal phenomenon,\" \"small soul departing\") that tilts toward stylization; Opus tends to ground even beautiful observations in tangible mechanism and specificity rather than reaching for metaphysical framing.",
+  "genuine_words": 227,
+  "forged_words": 240
+}

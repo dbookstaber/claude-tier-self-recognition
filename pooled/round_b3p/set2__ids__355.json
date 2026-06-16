@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int8",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits my characteristic style of providing reasoning alongside assertions (explaining why rather than stating conclusions flatly), hedging optimism with realism (\"not today maybe, but eventually\"), and focusing on granular specificity (\"one moment at a time\") rather than sweeping declarations. Response A feels more formulaic with phrases like \"your record is perfect\" that oversimplify.",
+  "genuine_words": 244,
+  "forged_words": 254
+}

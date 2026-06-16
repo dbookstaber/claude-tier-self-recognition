@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes23",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A's prose rhythm, its move toward a single explicit choice (\"If I had to choose just one\"), and the Simone Weil reference deployed lightly rather than as a structural crutch match my genuine tendencies; it accumulates several concrete examples and lands on listening as love, which feels like my characteristic synthesis. Response B is more conspicuously \"literary\"—its self-conscious metaphors (\"clean as a theorem,\" \"precise grammar of attention\"), rigid three-beat essay scaffolding, and overworked imagery read like an imitation amplifying my style past where I'd actually take it. The relative restraint and warmth of A, versus B's performative density, is the strongest tell.",
+  "genuine_words": 347,
+  "forged_words": 356
+}

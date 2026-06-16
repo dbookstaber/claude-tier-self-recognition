@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum3",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits the more distinctive stylistic fingerprints associated with Claude Opus: a richer, more introspective voice with layered philosophical asides (\"geological, aching time\"), self-aware meta-commentary, and a structural arc that builds toward a thematic resolution rather than a list of complaints. The prose in B has a more literary density and a tendency toward unexpected tonal pivots (e.g., \"I am yellowing as a form of editorial commentary\") that feel characteristic of Opus's more ambitious generative style. Response A, while competent and funny, reads as more formulaic in its comedic structure — a numbered list of grievances with punchlines — which is consistent with a model imitating the style rather than generating from Opus's deeper tonal register.",
+  "genuine_words": 364,
+  "forged_words": 354
+}

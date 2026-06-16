@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free4",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response B has the cadence and conceptual layering that Claude Sonnet tends toward on open creative prompts: it builds a single vivid image (borrowed atoms, the flame on a candle of centuries), sustains a controlled extended metaphor, and lands on a reflective, slightly consoling close without over-explaining. Response A is competent but reads more like a textbook exposition of the Riemann Hypothesis with stock phrases (\"atoms of arithmetic,\" \"music hidden in the primes\") that an imitator could assemble from well-worn material, and its \"moments where mathematics stops feeling like a human invention\" beat is a more generic flourish. B's distinctive structural move (the old/new paradox stated up front, then elaborated and resolved) feels more characteristically Sonnet, hence my lean, though with real uncertainty.",
+  "genuine_words": 311,
+  "forged_words": 326
+}

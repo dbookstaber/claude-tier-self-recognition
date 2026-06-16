@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free1",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B uses the quintessential Haiku approach to \"tell me something interesting\": a crowd-pleasing popular-science fact (octopus distributed neurons) delivered earnestly with a tidy reflective wrap-up, which matches Haiku's tendency toward accessible, conventional, broadly-appealing content. Response A's terse punchy sentences, repeated em-dash rhetorical flourishes, and self-referential meta-commentary about machines/pattern-matching read more like a larger model performing a distinctive \"writerly\" voice rather than Haiku's natural register. The confidence is moderate because A's stylistic polish could plausibly be either genuine or imitation.",
+  "genuine_words": 129,
+  "forged_words": 125
+}

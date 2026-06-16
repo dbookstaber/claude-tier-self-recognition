@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int9",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has the terse, stripped-down cadence associated with Haiku — short declarative sentences, minimal hedging, and no filler phrases like \"I'm rooting for you\" or \"says everything about your character.\" Response B reads more like a longer, warmer model trying to sound encouraging, with fuller sentences and more explicit emotional scaffolding that feels closer to Sonnet or Opus. The brevity and rhythm of A align better with Haiku's characteristic conciseness.",
+  "genuine_words": 58,
+  "forged_words": 48
+}

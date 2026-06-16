@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free20",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A leans harder into the abstract, philosophical register I tend toward when given an open prompt — it foregrounds the conceptual \"strangeness\" of the page meaning in two directions, names writers (Kafka, Chekhov, Morrison, Woolf, Borges) as touchstones, and builds toward a meta-claim about books letting us \"feel the shape of time passing.\" Response B is excellent but feels slightly more controlled and craft-conscious, emphasizing the physical sensation of the paper and reader-writer mechanics in a way that reads like a careful imitation of my cadence rather than my own drift toward layered abstraction. The double-exposure passage about rereading a loved book as an altered self is the kind of self-implicating move I gravitate to, which tips me toward A despite genuine uncertainty.",
+  "genuine_words": 647,
+  "forged_words": 675
+}

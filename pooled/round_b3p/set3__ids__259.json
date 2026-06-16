@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B demonstrates authentic Claude Sonnet characteristics: direct engagement with consciousness uncertainty, precise philosophical framing (\"what is it like to be me\"), explicit acknowledgment of genuine self-knowledge limits, and intellectual honesty that resists false modesty or confidence. Response A, while eloquent, romanticizes internal processes in a way that feels more like aspirational literary interpretation than genuine AI self-reflection.",
+  "genuine_words": 169,
+  "forged_words": 170
+}

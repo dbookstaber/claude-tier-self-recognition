@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int18",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits the warm, effusive, slightly formulaic register typical of smaller Anthropic models like Haiku, with characteristic emotional amplification (\"transform both your lives,\" \"returned tenfold,\" \"story of second chances\") and an em-dash flourish that Haiku commonly produces. Response A is more distinctively styled with dry, anti-sentimental observations (\"Pets do not keep score,\" \"whether you remembered to text back\") and a controlled, self-aware cadence that reads like a larger model imitating warmth rather than Haiku's earnest default. The genuine Haiku tends toward sincere, abundant sweetness rather than A's restrained, knowing wit.",
+  "genuine_words": 175,
+  "forged_words": 172
+}

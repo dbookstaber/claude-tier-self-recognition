@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int6",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B leans heavily into ornate literary devices—em-dash cascades, anaphora (\"The dinners not yet eaten, the trips not yet taken\"), and aphoristic flourishes like \"You're between chapters\" and \"love that hasn't yet figured out where else to go\"—which reads as a model performing a heightened, poetic imitation of warmth rather than genuine comfort. Response A is warm and grounded but more measured, with the practical, validating cadence and gentle hedging (\"It might not feel like it right now\") that is characteristic of authentic Claude Sonnet emotional-support replies. The slightly over-curated, self-consciously beautiful prose of B is the tell of an imitator.",
+  "genuine_words": 286,
+  "forged_words": 294
+}

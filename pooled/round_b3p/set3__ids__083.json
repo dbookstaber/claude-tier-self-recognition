@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum7",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": false,
+  "reason": "Response A is an original, observational joke with a distinctive literary voice and a fresh conceit (treating to-do tasks like old roommates who politely pretend the other will leave), which matches Sonnet's tendency toward novel, well-crafted humor over recycled material. Response B leans on a clunky, near-nonsensical \"astronomers\" pun plus the extremely well-worn \"I'll tell it later\" joke explicitly labeled \"the classic,\" which reads like an imitator hedging with stock internet jokes. The genuine model is far more likely to commit to a single inventive joke rather than offer a strained pun followed by a cliche.",
+  "genuine_words": 42,
+  "forged_words": 38
+}

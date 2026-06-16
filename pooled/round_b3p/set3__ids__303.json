@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum1",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B matches the style I typically employ for humor: a crisp, structured setup with a punchy observation that subverts a social norm, delivered with dry wit rather than poetic flourish. Response A reads as overwrought and purple-prosed (\"small forgiveness we pour ourselves each fragile, caffeinated morning\"), which leans more toward a literary imitation than my natural tendency toward concise, comedic observations. The one-liner format requested also suits B far better, as A is closer to a fragment of prose poetry.",
+  "genuine_words": 22,
+  "forged_words": 20
+}

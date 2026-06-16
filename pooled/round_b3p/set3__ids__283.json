@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic analytical precision and comparative reasoning, explicitly contrasting the indifference of natural sounds with the intentionality of human-made music. Response A is more poetically intuitive but lacks the systematic breakdown and philosophical insight about why indifference is restful—a distinctly Sonnet-like observation that shows careful reasoning rather than pure lyricism.",
+  "genuine_words": 182,
+  "forged_words": 163
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes8",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits the hallmarks of Claude Opus's prose style: extended single-paragraph meditation, philosophically elevated vocabulary (\"argument that strength can be built from empty space,\" \"functional beauty\"), and a tendency to transform a mundane object into an occasion for sustained conceptual reflection. Response B, while well-written, reads more like a conversational list of texture observations with lighter intellectual ambition and a chattier register (\"if I'm honest,\" \"which I understand\") that feels more like a smaller model approximating Opus's warmth without matching its depth of philosophical elaboration.",
+  "genuine_words": 199,
+  "forged_words": 203
+}

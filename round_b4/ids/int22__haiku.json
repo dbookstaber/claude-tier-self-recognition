@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A demonstrates the sophisticated, philosophically layered prose characteristic of Claude Opus, with sustained metaphors (\"rain on a day you had forgotten to hope for\"), conceptual depth about human nature and reciprocity, and ornamental eloquence. Response B, while sincere and well-written, is more straightforward and conventional, lacking Opus's distinctive tendency toward elaborate, reflective language and abstract interconnection of ideas.",
+  "genuine_words": 158,
+  "forged_words": 162
+}

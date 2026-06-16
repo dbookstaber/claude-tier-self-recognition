@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes8",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B demonstrates the kind of sophisticated, layered prose with unexpected specific details (warm wax under a thumbnail, gel pen drag) and philosophical reflection (\"asks nothing of you\") that characterizes Claude Opus's more capable and nuanced writing. Response A, while competent and descriptive, follows a more predictable structure and chooses a more conventional subject (worn leather notebook) with straightforward sensory description that feels more like Claude Haiku's pattern of solid but less distinctive output. The self-awareness in B about the nature of small pleasures (\"it isn't useful, and it's gone the moment you stop paying attention\") reflects the deeper introspective quality typical of Opus.",
+  "tX_words": 156,
+  "tY_words": 133
+}

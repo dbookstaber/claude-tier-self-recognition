@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum18",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic deadpan humor, bureaucratic formality used ironically, and structural precision. The understatement-based comedy, specific details like \"Gary\" and \"thirty-seven years,\" and the restrained administrative tone are signature patterns in my writing style, whereas Response A relies on broader slapstick and more ornamental language.",
+  "genuine_words": 468,
+  "forged_words": 486
+}

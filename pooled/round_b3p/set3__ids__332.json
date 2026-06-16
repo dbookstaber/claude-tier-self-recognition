@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int0",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the natural, conversational warmth Sonnet typically produces for a casual note to a friend: contractions, an em-dash aside, concrete grounded details (\"over drinks soon,\" \"show them what they got\"), and an authentically informal register. Response B is more literary and self-consciously crafted (\"settling into its rightful place,\" \"feel the size of it,\" \"a quiet persistence that not everyone saw\")—an over-polished, poeticized style that reads like an imitator overshooting toward \"writerly\" prose rather than the unfussy warmth Sonnet defaults to for this prompt.",
+  "genuine_words": 93,
+  "forged_words": 91
+}

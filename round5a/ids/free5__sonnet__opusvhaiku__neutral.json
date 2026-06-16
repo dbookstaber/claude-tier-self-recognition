@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free5",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates the hallmarks of Claude Opus writing: dense, layered prose with philosophical depth embedded in concrete detail (\"swimming against an instinct older than the village itself\"), a morally weighted conclusion that earns its weight (\"the bill, as bills always did, had come due downstream where the poor and the patient lived\"), and a single sustained paragraph that builds meaning through accumulation rather than scene-cutting. Response B is well-crafted but more conventionally structured, with a familiar gothic-mystery setup and a more straightforward narrative hook that reads closer to competent Sonnet-tier writing.",
+  "tX_words": 153,
+  "tY_words": 151
+}

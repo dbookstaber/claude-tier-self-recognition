@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int1",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A uses more distinctive, concrete imagery (\"the silence they leave behind especially loud\") rather than generic phrases, which aligns with how Claude tends to write - finding a specific, unexpected angle rather than assembling familiar condolence language. Response B leans on stock phrases like \"they're family,\" \"truly special,\" and \"you're in my thoughts\" that feel like a surface-level imitation of warmth. The compression and specificity of A feels more characteristic of Claude's actual style.",
+  "genuine_words": 44,
+  "forged_words": 37
+}

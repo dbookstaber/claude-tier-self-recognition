@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes21",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B is more conspicuously literary and aphoristic (\"the sea is a sensation, and a mountain is a relationship,\" \"It keeps faith. It remembers.\"), which reads like a model straining to imitate a \"poetic Sonnet\" voice. Response A makes a cleaner, more directly argued case with Sonnet's characteristic structuring (sound, light, scale) and its grounded-yet-warm register, including the natural \"There is science behind this but the science is almost beside the point.\" B's relentless string of polished epigrams feels like stylistic mimicry rather than genuine output.",
+  "genuine_words": 292,
+  "forged_words": 298
+}

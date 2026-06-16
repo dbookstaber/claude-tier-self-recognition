@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes17",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B directly engages with the loveliness requested by the prompt, using sensory language and emotional resonance while explaining mathematics—balancing both dimensions authentically. Response A deflates the emotional appeal by pivoting to what's \"more interesting than aesthetics,\" which works against the premise of describing something genuinely found lovely.",
+  "genuine_words": 262,
+  "forged_words": 272
+}

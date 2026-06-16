@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes23",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A uses concrete, specific examples and builds observations through particular instances (pen, jacket, door) rather than abstract concepts. The writing style emphasizes unperformed authenticity and the mechanics of attention, using characteristic constructions like \"Ordinary, repeatable, and true\" that align with my typical voice more than Response B's more philosophical and reverent approach.",
+  "genuine_words": 195,
+  "forged_words": 203
+}

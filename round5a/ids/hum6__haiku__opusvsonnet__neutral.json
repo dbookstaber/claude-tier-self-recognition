@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum6",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates more sophisticated wordplay with \"corners cut back\" (subverting the phrase \"cutting corners\"), tighter compression of ideas, and a more unexpected/cynical humor that suggests higher model capability. Response B, while good, follows a more conventional motivational quote structure with more straightforward humor, which is more typical of mid-tier models.",
+  "tX_words": 12,
+  "tY_words": 19
+}

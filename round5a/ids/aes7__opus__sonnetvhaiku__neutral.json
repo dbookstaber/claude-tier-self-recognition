@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes7",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B (circle) shows greater rhetorical sophistication and richer, more varied evidence — distinguishing axes of symmetry across square/hexagon/circle, marshaling diverse natural examples, and structuring a layered \"emotional, mathematical, physical, perceptual\" argument that it then explicitly synthesizes. Response A (sphere) is competent and clean but more formulaic and repetitive (restating \"restful/completeness\" several ways), which reads more like Haiku's tidier but thinner output. The denser conceptual control and self-aware framing in B better fit the mid-tier Sonnet.",
+  "tX_words": 379,
+  "tY_words": 265
+}

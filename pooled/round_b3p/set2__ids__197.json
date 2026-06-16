@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum20",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits stylistic markers more consistent with Claude Haiku: shorter, clipped sentences, a restrained and dry wit, minimal embellishment, and a structured logical progression that feels almost clinical. Response B leans into florid, hyperbolic prose (\"the slow erosion of your will to live,\" \"since the Clinton administration\") with a more theatrical voice that feels like a different model performing Haiku's minimalism rather than naturally expressing it.",
+  "genuine_words": 293,
+  "forged_words": 315
+}

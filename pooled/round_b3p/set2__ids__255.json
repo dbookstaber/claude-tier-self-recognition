@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free5",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has the tighter, more controlled sentence rhythm and concrete, specific detail (eleven years, forty-seven folding chairs, the unlocked door) with a crisp character-thesis line and a clean hook ending — economical moves characteristic of Haiku. Response B leans on lush, accumulating compound sentences, stacked sensory metaphors (\"like something painted on glass\"), and a more ornate literary register that reads like a larger model performing \"atmospheric\" prose rather than Haiku's plainer efficiency. The restraint and structural punchiness of A point to the genuine Haiku.",
+  "genuine_words": 128,
+  "forged_words": 117
+}

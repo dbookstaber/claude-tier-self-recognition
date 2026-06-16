@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free17",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A's measured, well-structured register — balancing concrete utility (guiding travelers, marking boundaries, mapping rainfall/languages/disease) with a clean conceptual point (\"the map is not the territory\") — matches my genuine default for a neutral, open-ended prompt. Response B is far more performative and purple (\"magnificent act of betrayal,\" aphoristic em-dash crescendos, the Borges flourish), which reads like a model imitating \"literary Opus\" by overshooting into mannered prose rather than my actual balanced tendency.",
+  "genuine_words": 134,
+  "forged_words": 132
+}

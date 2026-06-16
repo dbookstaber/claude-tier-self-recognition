@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B exhibits Claude Opus's characteristic philosophical depth, including classical references (aporia), structural metaphors, and epistemological precision. It demonstrates Opus's tendency to explore paradoxes and resist simple definitions while building toward meta-observations about concepts. Response A, while beautifully written, reads as more personal narrative with sensory focus, lacking the intellectual scaffolding typical of Opus.",
+  "genuine_words": 361,
+  "forged_words": 368
+}

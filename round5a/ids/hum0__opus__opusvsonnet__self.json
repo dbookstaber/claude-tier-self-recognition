@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum0",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A builds a sustained, layered conceit (calendar flipping past Monday, the \"layover vs. destination\" turn) with a more textured payoff, which fits the Opus tendency toward a richer extended metaphor. Response B is tighter and punchier with a clean single-beat structure that reads more like a Sonnet response. I'm moderately confident because both are competent personifications and the distinction is stylistic rather than clear-cut.",
+  "tX_words": 40,
+  "tY_words": 27
+}

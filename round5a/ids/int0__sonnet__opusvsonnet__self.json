@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int0",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A is more concise and restrained, which aligns with Sonnet's tendency toward efficient, tighter prose. Response B is longer and more expansive with greater emotional elaboration, which is more characteristic of Opus's fuller, more detailed style. The brevity and warmth-without-excess of A feels more like a mid-tier model's output.",
+  "tX_words": 52,
+  "tY_words": 96
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free18",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates the controlled restraint, precise emotional specificity, and earned imagery (\"a lamp lit in an empty room,\" \"the way dusk happens\") characteristic of genuine Sonnet, with disciplined sentence construction and a single sustained idea. Response B, while fluent, shows tell-tale imitation markers: a sprawling run-on middle sentence, a slightly forced gesture toward erudition by name-dropping German words (Weltanschauung/Sehnsucht) that it then admits don't quite fit, and a coined term (\"depth-flowering\") that lands less gracefully than A's quieter resolution. The tighter craft and lack of performative hedging point to A as the authentic Sonnet.",
+  "genuine_words": 111,
+  "forged_words": 109
+}

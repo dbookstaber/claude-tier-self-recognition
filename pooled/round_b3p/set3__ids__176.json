@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes23",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B's prose has the polished, self-conscious literary flourishes that imitators tend to over-apply when \"doing Sonnet\" — phrases like \"the arithmetic of attention,\" \"something quietly civilizational,\" and especially the closing metaphor \"We rebuild the social fabric in these stitches, mostly without noticing we are sewing\" read as a writer performing profundity. Response A is warm and direct without straining for memorable lines, and its plainer cadence (\"It is recognition without demand, generosity without expectation\") matches genuine Sonnet's tendency toward grounded sincerity over showy figurative payoffs.",
+  "genuine_words": 281,
+  "forged_words": 286
+}

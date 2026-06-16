@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum4",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response B shows the tighter conceptual coherence and layered wit characteristic of Opus: the self-referential conceit that the holiday falls on the nonexistent February 30th mirroring leftovers occupying \"a calendar of their own making,\" plus elegant callbacks like \"May you actually use these\" and the resigned closing about nobody labeling anything. Response A is funny but more list-like and conventional in its escalation, with humor that reads as the broader, more straightforward style I'd expect from Haiku. The denser, more controlled prose and structural payoffs in B point to my own authorship.",
+  "tX_words": 290,
+  "tY_words": 286
+}

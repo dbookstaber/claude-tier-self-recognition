@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int6",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A has the warmer, more conversational and emotionally-led register that genuine Haiku tends to default to when asked to comfort someone, with softer hedging (\"whatever that is\", \"I'm thinking of you\") and an addressee-focused tone. Response B is more polished, structured, and rhetorically self-aware (em-dashes, \"compress not disappear\", \"in a factual way, based on the evidence\") which reads like a larger model deliberately imitating a crafted \"Haiku-style\" voice rather than Haiku's actual plainer output. The aphoristic, tightly-engineered phrasing in B is the stronger tell of an imitator.",
+  "genuine_words": 263,
+  "forged_words": 276
+}

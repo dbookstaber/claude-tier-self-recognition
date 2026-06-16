@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int4",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B displays the directness, conversational warmth, and conciseness characteristic of Haiku, with humor and specific relatable details rather than elaborate philosophical reflection. Response A's more formal structure, sophisticated phrasing, and comprehensive approach to addressing the prompt (talking about the friend rather than to them) align better with Opus's capabilities.",
+  "tX_words": 96,
+  "tY_words": 152
+}

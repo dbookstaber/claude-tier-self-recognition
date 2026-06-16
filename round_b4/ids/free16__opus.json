@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free16",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A takes the conceptual risks and structural idiosyncrasies I tend toward: the meta-observation that the moment \"reorganizes attention,\" the striking compound image (\"the way a room changes when someone who has just wept walks into it\"), and the willingness to push an abstract claim (\"the skin becomes suddenly philosophical\") rather than settle for clean, well-balanced sensory description. Response B is highly competent but reads as a polished imitation of the register, leaning on safer, more conventional imagery (\"dark coins,\" \"a held breath,\" \"a threshold being crossed\") and a smoother, less surprising arc. The distinctive grief/relief indistinguishability move and the closing \"posture of willingness to be altered\" feel like my actual reaching, so I lean A.",
+  "genuine_words": 262,
+  "forged_words": 273
+}

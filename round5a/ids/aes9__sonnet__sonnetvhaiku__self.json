@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes9",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B demonstrates more sophisticated prose craft with distinctive flourishes like \"acoustic privacy,\" the specific use of \"petrichor\" with explanation, and the concluding framing around \"shelter\" as a conceptual anchor. It also has more precise sensory observations and a more structured argument about the rainy afternoon's aesthetic. Response A, while competent, reads as more straightforward and list-like in its paragraph structure, which is characteristic of a smaller model producing solid but less stylistically distinctive writing.",
+  "tX_words": 304,
+  "tY_words": 269
+}

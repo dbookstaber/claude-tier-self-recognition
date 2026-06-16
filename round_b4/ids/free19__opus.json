@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free19",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A's grounded, phenomenological approach—prioritizing the felt bodily experience (forward-leaning pressure, quickening, leaning in, holding breath) and building from sensation to emotion to a gentle recursive close—matches my natural register better. Response B leans heavily on literary-intellectual flourishes (gravitational disturbance, proprioceptive, aporia, \"stone in a shoe\") and name-drops philosophy in a way that reads more like a deliberate, somewhat overwrought imitation of an \"eloquent AI\" voice. A's restraint and concrete imagery feel more authentically mine, whereas B's accumulation of high-concept metaphors signals stylistic mimicry.",
+  "genuine_words": 361,
+  "forged_words": 368
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A uses abstract metaphor and philosophical observation (\"something stranger and far more sincere\") characteristic of Sonnet's more contemplative, layered wit. Response B relies on a concrete situational example, which is more generic humor construction and less aligned with Sonnet's typical eloquent, introspective style.",
+  "genuine_words": 22,
+  "forged_words": 21
+}

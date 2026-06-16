@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes6",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A shows genuine Sonnet traits: clear organizing structure (proportion, rhythm, transparency, surprise), concrete named examples (Nabokov, Didion), and definition-by-contrast (\"transparency is different from plainness\") in a measured, explanatory-but-warm register. Response B is more self-consciously aphoristic and performative (\"rightness wearing the lightest possible clothes\"), avoiding concrete examples and straining to enact elegance — which reads like an imitation of a \"writerly\" voice rather than Sonnet's analytical clarity.",
+  "genuine_words": 318,
+  "forged_words": 327
+}

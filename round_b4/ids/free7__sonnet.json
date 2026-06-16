@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free7",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Opus's characteristic grounding in precise, sensory observation — the pewter mud, the sulfur smell, the fiddler crab's claw \"like a man checking his watch\" — with restraint and economy, letting the image carry the weight rather than announcing its own profundity. Response B, while stylistically sophisticated, leans heavily on self-conscious meta-commentary about the act of description (\"the library exists before you enter it,\" \"something begins reorganizing you\") and stacks abstract philosophical gestures in a way that feels more like an imitation of Opus's introspective register than the genuine article. Opus tends to earn its abstractions through the concrete; B reaches for abstraction too quickly and too often.",
+  "genuine_words": 145,
+  "forged_words": 152
+}

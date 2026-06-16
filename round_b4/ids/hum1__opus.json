@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum1",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A is a compressed aphorism built on a single conceptual inversion (\"outsource our personalities to a bean\"), which matches my tendency to favor a tight \"clever definition\" structure for witty one-liners. Response B leans on a longer rhetorical-question setup and a self-deprecating anxiety joke, a format that feels more like an imitator overreaching for relatability. The economy and clean conceptual pivot of A read as more characteristically mine, though the stylistic margin is moderate.",
+  "genuine_words": 20,
+  "forged_words": 12
+}

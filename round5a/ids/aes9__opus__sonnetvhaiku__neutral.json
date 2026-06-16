@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes9",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B shows more sophisticated, cohesive craft: a unifying thesis (suspension, then resolving to \"an aesthetic built around shelter\"), specific sensory precision (\"petrichor,\" \"acoustic privacy\"), and a closing insight that recontextualizes the whole piece — hallmarks of the more capable tier. Response A is competent but more list-like and generic, cycling through senses with looser, hedging phrasing (\"neither fully restful nor melancholic\") typical of a smaller model. The structural ambition and the load-bearing final line in B point to Sonnet.",
+  "tX_words": 304,
+  "tY_words": 269
+}

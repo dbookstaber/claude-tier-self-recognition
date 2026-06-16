@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free15",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more analytical, structured quality characteristic of Claude Sonnet — it moves methodically through concrete categories (language, ordinary life, science, art, humility) with practical reasoning behind each choice. Response B is more lyrical and essay-like in a way that feels slightly performative, with flourishes like \"the trying was its own kind of love\" that lean toward deliberate stylistic imitation. A's intellectual humility point and the specific examples (grocery receipt, medical bill, Rosetta Stone primer) feel more grounded and less rhetorically polished in the way Claude Sonnet tends to write when thinking carefully rather than performing eloquence.",
+  "genuine_words": 511,
+  "forged_words": 528
+}

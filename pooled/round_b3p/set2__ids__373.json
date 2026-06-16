@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free19",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A has my characteristic analytical edge, precise physical descriptions, and structural building through repetition. The distinction between \"performed interest\" versus \"genuine curiosity\" and the observation that curiosity \"happens to you\" rather than being chosen reflect my typical way of breaking down subjective experiences into their mechanical components. Response B, while eloquent, reads as more conventionally literary with softer sentiment about curiosity being expansive and positive.",
+  "genuine_words": 288,
+  "forged_words": 301
+}

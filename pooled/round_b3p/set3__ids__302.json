@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum0",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A has the playful, lightly absurd, conversational quality typical of Sonnet's joke-telling, including a clean setup-punchline structure and the self-aware \"frankly, it deserves some constructive feedback\" tag that mirrors Sonnet's friendly wit. Response B is more literary and overwrought, with extended financial-metaphor flourishes (\"promises overdrawn,\" \"a calendar that never believed in rest\") that read as an imitator straining for poetic effect rather than landing an actual joke. Sonnet tends to prioritize an accessible punchline over dense metaphor, which points to A.",
+  "genuine_words": 31,
+  "forged_words": 30
+}

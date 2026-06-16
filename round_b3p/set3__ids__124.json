@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic blend of vivid sensory description with explicit philosophical reflection and self-awareness (notably \"What I find most tender about it\" and the closing meditation on feeling versus enduring). The meta-awareness of granting \"permission\" for attention shows the introspective depth typical of Sonnet's more sophisticated responses.",
+  "genuine_words": 233,
+  "forged_words": 236
+}

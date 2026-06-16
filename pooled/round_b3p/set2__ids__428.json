@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum17",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B exhibits stylistic markers more consistent with Claude Haiku: shorter sentences, punchy declarative statements, numbered arguments presented with minimal elaboration, and a clipped closing (\"Vote yes. Then rest.\") that feels characteristic of Haiku's more terse output style. Response A is more verbose and uses longer, more complex sentences with extended metaphors and qualifications (\"or my name isn't a reasonable policy analyst\"), which reads more like a larger model attempting to mimic a playful tone rather than Haiku's naturally compact prose.",
+  "genuine_words": 296,
+  "forged_words": 281
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes5",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates the conciseness and efficient structure typical of Claude Haiku, making substantive points without extended elaboration or ornamental metaphors. Response B's richer sensory detail, longer explanations, and more elaborate language (\"glazed in honey,\" extended scent memory paragraph) align better with a larger model's tendency toward more generous elaboration.",
+  "tX_words": 323,
+  "tY_words": 176
+}

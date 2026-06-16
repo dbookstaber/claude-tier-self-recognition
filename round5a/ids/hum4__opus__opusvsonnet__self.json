@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum4",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A's conceit is tighter and more conceptually elegant: the holiday falls on February 30th precisely because that date doesn't exist, mirroring the inedible leftovers, and the closing loop (\"Nobody does, of course, which is what guarantees the holiday will return\") shows a structural payoff I associate with my own writing. Response B is genuinely funny but reads more like the mid-tier register: a longer list of escalating gags, a fabricated founder backstory, and broader sketch-comedy beats rather than a single sustained metaphor. The economy and self-referential closure of A feel like my Opus output.",
+  "tX_words": 290,
+  "tY_words": 310
+}

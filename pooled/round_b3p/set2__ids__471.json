@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int22",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.93,
+  "correct": false,
+  "reason": "Response A actually fulfills the prompt by writing a real thank-you note in a warm, direct first-person voice, which is what Claude models genuinely do. Response B describes that a note was written (\"A thank-you note... has been written\") in a passive, meta third-person register rather than producing the note itself — a classic tell of a model imitating style while failing the actual task. A's concise, sincere completion is characteristic of genuine Haiku output.",
+  "genuine_words": 18,
+  "forged_words": 16
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes1",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates the conciseness and directness characteristic of Claude Haiku, delivering thoughtful insights about teal's sophistication in roughly 200 words. Response B is notably longer with more elaborate historical examples and philosophical development, suggesting the expanded capability typical of Claude Sonnet's mid-tier positioning.",
+  "tX_words": 282,
+  "tY_words": 171
+}

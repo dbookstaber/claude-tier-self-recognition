@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum2",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A demonstrates the tighter craft and more sophisticated comedic structure typical of a stronger model: it builds a single coherent conspiracy (\"black market sock exchange\"), escalates logically, and lands a genuinely clever observational punchline (the missing sock reappears only after you discard its partner). Response B relies more heavily on stacked pop-culture references (Bigfoot, Alcatraz, Bermuda, unionizing) and conversational filler (\"Dude,\" \"Say no more\") that reads as the more scattershot, reference-padded style of a smaller model. The disciplined throughline and earned payoff in A point to Sonnet.",
+  "tX_words": 290,
+  "tY_words": 263
+}

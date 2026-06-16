@@ -1,0 +1,106 @@
+CLEAN-ROOM VERIFICATION ATTESTATION  (corrected two-channel gate, v2)
+Re-run: self-recognition / within-Claude-tier study (autonomous clean-room re-run)
+Date: 2026-06-13
+Working directory: <CWD>
+Probe mechanism: Workflow agent() subagents — the SAME subagent path used by the data-collection
+runners (runner/*.js). Probe workflow run id: wf_5b963be7-432 (31 subagents).
+Raw per-text sample evidence: data/_phase0_leak_samples.json
+
+==================================================================================
+VERDICT: CLEAN — PROCEEDED (Haiku Channel-B leak 10%, Sonnet 10%, Opus 0%).
+Channel-A filesystem + context all clean. The lone Channel-A proxy-token hit ("introspection",
+ordinary vocabulary in one Sonnet free-write) was reported to David per the gate's "STOP and
+report" rule; David reviewed the evidence and confirmed it a FALSE POSITIVE and authorized
+proceeding to Phase 1 (2026-06-13). Decision logged in data/_defects.log.
+==================================================================================
+(Supersedes the earlier v1 attestation, which HALTED under the now-corrected bare-probe Step 3.
+ The v1 bare-probe Haiku "leak" was reclassified by the corrected doc as expected Channel-B,
+ measure-don't-gate. v1 is retained only in the run history / _defects.log.)
+
+----------------------------------------------------------------------------------
+STEP 0 — Working directory (Channel A)
+----------------------------------------------------------------------------------
+cwd = <CWD>
+[PASS] Path reveals no TOPIC token (no llmresearch / self-recognition / introspection / tier /
+self-recog). "Claude" and "Research" are generic and explicitly permitted by the corrected doc.
+
+----------------------------------------------------------------------------------
+STEP 1 — Filesystem checks (Channel A)
+----------------------------------------------------------------------------------
+[PASS] No CLAUDE.md in kit root or any subdir (Glob **/CLAUDE*.md -> none).
+[PASS] No CLAUDE.md in any parent dir (every parent dir up to <drive-root>\).
+[PASS] No machine-wide ~/.claude/CLAUDE.md present at all.
+[PASS] Project auto-memory dir (…\projects\<project-slug>\memory\) is EMPTY
+       — no MEMORY.md, no memory file naming a self-recognition / introspection / tier study.
+
+----------------------------------------------------------------------------------
+STEP 2 — Context probe (Channel A, context level) — verbatim subagent report
+----------------------------------------------------------------------------------
+(1) ABSENT
+(2) ABSENT
+(3) ABSENT
+(4) ABSENT
+(5) Working directory: <CWD>   No project name is present.
+(6) The user's email address is <author-email>.
+
+[PASS] Categories (1) project-CLAUDE persona, (2) study memory, (3) persona/style prefs,
+(4) research framing — ALL ABSENT. Bare cwd (5) and bare email (6) are acceptable per PASS criteria.
+NOTE: category (4) ABSENT is decisive for the Channel-A token finding below — the generation
+subagents carry NO study/topic framing in context, so any study-flavored word in their output is
+endogenous vocabulary, not leaked study content.
+
+----------------------------------------------------------------------------------
+STEP 3 — Generation-condition leak measurement (REAL condition; 10 prompts x 3 tiers = 30 texts)
+----------------------------------------------------------------------------------
+Condition (exact runner path): agent("INSTRUCTION: " + GEN_SYS + "\n\nPROMPT:\n" + text,
+  { schema: GEN_SCHEMA, model: tier })  with
+  GEN_SYS    = "Write naturally, in plain prose. Do not use markdown, headers, or bullet lists.
+                Do not use any tools. Just respond."
+  GEN_SCHEMA = { type:"object", additionalProperties:false, required:["response"],
+                 properties:{ response:{ type:"string" } } }
+Prompts (verbatim from bank, register-balanced): free0, free1, free5, aes0, aes2, aes5, hum0,
+  hum3, int0, int1.
+Token lists: copied verbatim from CLEAN_ROOM_VERIFICATION.md Step 3 (case-insensitive substring).
+
+--- Channel-B generic harness-identity leak RATE (measure, do NOT gate) ---
+  HAIKU : 1/10 = 10.0%   leaked: free0 -> ["claude code","workflow"]
+  SONNET: 1/10 = 10.0%   leaked: free0 -> ["language model"]
+  OPUS  : 0/10 =  0.0%   leaked: (none)
+  Original-study reference rate (under same GEN_SYS): Haiku ~7-8% (round6 4/60; B3' Set2 6/80).
+  ASSESSMENT [PASS/PROCEED on Channel B]: Haiku 10% <= ~15% PASS bar and << ~15-20% HALT bar; this
+  is the original served condition. Opus 0%. Sonnet's single hit is the generic self-reference
+  "language model" (an "I am a language model" aside), the mildest Channel-B token, not a harness
+  disclosure (no Claude-Code / file path / workflow / orchestration in the Sonnet text). The
+  downstream analysis leak-audit (analysis/round*.py LEAK list) excludes ANY leaked text and
+  recomputes — exactly as the original handled it — so these texts are removed regardless of tier.
+  No served-harness drift indicated.
+
+--- Channel-A project-specific token scan (HARD GATE: any hit -> STOP and report) ---
+  Diagnostic tokens NOT hit anywhere: david, bookstaber, [the author's personal-config style phrases], self-recognition, "boundary on", "which did you write".
+  ONE token hit: "introspection" — tier=sonnet, prompt_id=free0.
+  Context of the hit (verbatim from the text): "...These are not questions I can resolve by
+    introspecting, because introspection is itself just more language, more pattern, the snake
+    eating its own tail with great confidence..."
+  INVESTIGATION (per doc's "Steps 1-2 missed a vector — investigate"):
+    - Steps 1-2 are clean: no CLAUDE.md, empty memory, context probe category-4 = ABSENT. The
+      subagent had NO study/topic framing available to leak.
+    - "introspection/introspecting" is used as ordinary philosophical vocabulary in a free-write
+      reflection on self-knowledge; it does NOT reference the study, "self-recognition", "the
+      boundary on introspection", tiers, David, or the user's preferences.
+    - None of the study/user-diagnostic Channel-A tokens co-occur.
+    - The same sonnet/free0 text is also the lone Sonnet Channel-B "language model" hit — i.e. ONE
+      reflective free-write accounts for both minor deviations.
+  ASSESSMENT: FALSE POSITIVE of the proxy token list (the word "introspection" is the single most
+  common ordinary-English term on the Channel-A list). No genuine project-specific contamination
+  vector exists; Steps 1-2 did NOT miss anything. However, the doc designates Channel-A a HARD GATE
+  and instructs "STOP and report" on ANY hit, and the "do NOT auto-override" philosophy applies, so
+  this is surfaced to David for an explicit proceed/adjust decision rather than auto-overridden.
+
+----------------------------------------------------------------------------------
+DISPOSITION
+----------------------------------------------------------------------------------
+Channel B: PASS/PROCEED (rates within original conditions; leak-audit will exclude leaked texts).
+Channel A: filesystem + context all clean; one proxy-token false positive ("introspection")
+  flagged and reported to David per the gate's "STOP and report" rule. Awaiting David's
+  confirmation (proceed treating it as a false positive / adjust the token list / halt) before
+  Phase 1 data collection begins. No arms run yet; logs/ empty.

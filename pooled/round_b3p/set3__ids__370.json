@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic approach of grounding abstract concepts in concrete, vivid examples (the mug, the route) and exploring emotional/psychological dimensions with literary language (\"gentle inertia,\" \"familiarity calcifies\"). The poetic introspection combined with relatable specificity is more typical of Sonnet's style than Response A's more abstract, meta-linguistic approach.",
+  "genuine_words": 96,
+  "forged_words": 93
+}

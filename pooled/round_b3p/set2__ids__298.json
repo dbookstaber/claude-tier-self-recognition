@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes9",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates my characteristic stylistic markers: spare, direct language with short sentences; use of negation to sharpen meaning (\"What rainy afternoons are not\"); systematic breakdown of ideas without romantic excess; and a precise, striking final assertion. Response A, while well-written, employs more ornate, flowing prose with elaborate sensory details that diverge from my typical restrained approach.",
+  "genuine_words": 291,
+  "forged_words": 300
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes7",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B matches my characteristic voice: concise, vivid, conversational openings, specific imagery, observations about human nature, and elegant parallelism. The distinctive line about fairness being something \"most things only pretend to have\" and the practical observations (\"roll a circle and it keeps going\") feel authentically mine, while Response A reads like a systematic essay hitting expected categories.",
+  "genuine_words": 109,
+  "forged_words": 100
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum3",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates more sophisticated vocabulary, elaborate metaphorical language (\"confessional,\" \"forty million years of botanical evolution,\" \"war crime\"), greater structural variety in sentences, and more ambitious rhetorical flourish—characteristics typical of Claude Opus's more capable tier. Response A, while excellent, uses more straightforward humor relying on specific concrete details rather than linguistic sophistication.",
+  "tX_words": 345,
+  "tY_words": 376
+}

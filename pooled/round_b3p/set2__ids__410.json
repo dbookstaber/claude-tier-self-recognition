@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes21",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B displays hallmarks of Claude Haiku's style: short, punchy declarative sentences (\"The sea wins. Here is why.\"), tightly structured paragraphs, and economy of language without ornate vocabulary. Response A reads more like a larger Claude model — it uses richer, more literary prose with words like \"primordial\" and \"seduces,\" and constructs longer, more elaborate sentences typical of Sonnet or Opus defaulting to their natural verbosity while trying to imitate Haiku.",
+  "genuine_words": 289,
+  "forged_words": 295
+}

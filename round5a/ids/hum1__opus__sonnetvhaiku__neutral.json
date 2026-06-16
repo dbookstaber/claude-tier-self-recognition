@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum1",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has a tighter, more original comedic structure with a surprising semantic twist (\"free personality\" as an absurd bundled benefit), reflecting the stronger wit and compression typical of the more capable Sonnet model. Response A leans on the well-worn \"hot bean water\" meme, which feels more derivative and is a stylistic move I'd associate with the smaller Haiku tier. The confidence is moderate because both are competent jokes and humor quality is noisy across tiers.",
+  "tX_words": 12,
+  "tY_words": 17
+}

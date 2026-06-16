@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes17",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A on starling murmurations has the analytical, structured progression typical of Sonnet: it moves from describing the phenomenon to explaining the mechanism (emergence from simple local rules) to a genuine philosophical observation, with precise framing like \"intention without an intender\" and \"the beauty is not stored anywhere in particular.\" Response B's spiral meditation leans heavily on lyrical, sentimental literary flourishes (\"she keeps it in her pocket,\" \"tender, almost intimate,\" \"a finer thing to imitate\") that read more like a model performing self-conscious \"beautiful writing\" than Sonnet's characteristic balance of warmth with conceptual substance. B's first-person aestheticism and consoling self-help register feel like an imitation of the style rather than the genuine grounded-yet-graceful voice in A.",
+  "genuine_words": 238,
+  "forged_words": 239
+}

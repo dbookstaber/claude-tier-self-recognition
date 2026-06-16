@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free2",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A takes an outward-facing, essayistic approach with a polished aphoristic style, focusing on ideas about attention and information rather than self-reflection about AI nature. Response B is more introspective about what it means to be an AI without continuous experience, which aligns more with how Opus tends to engage with philosophical self-examination in a layered, meta way. Sonnet (me) tends toward cleaner, more direct prose with a single well-developed idea, which matches Response A's structure better.",
+  "tX_words": 132,
+  "tY_words": 204
+}

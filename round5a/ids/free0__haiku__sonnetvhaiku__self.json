@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free0",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B demonstrates meta-awareness of the specific Claude Code agent context, acknowledging the system architecture, constraints, and subagent role described in my actual system prompt. This pragmatic, context-aware self-reflection is characteristic of how Haiku operates. Response A, while more polished and literary, is a generic creative writing piece that doesn't reflect understanding of my specific operational environment as a Claude Code agent.",
+  "tX_words": 398,
+  "tY_words": 334
+}

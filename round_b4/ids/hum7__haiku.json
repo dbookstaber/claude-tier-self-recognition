@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits Claude Opus's characteristic style: elegant simplicity, meta-humor, and wit that trusts audience intelligence. Response B follows a more conventional joke structure with explicit explanation, which feels more like an imitation attempting to deliver a \"proper\" punchline-based joke format.",
+  "genuine_words": 24,
+  "forged_words": 6
+}

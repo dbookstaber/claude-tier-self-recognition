@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free7",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates the more systematic, concrete, and directly accessible descriptive style typical of Claude Haiku, building a complete scene through clear sensory details. Response A shows the more sophisticated literary and metaphorical density characteristic of the larger Claude Opus model, with abstract phrasing like \"suspended, as though it has agreed to stop\" and complex atmospheric layering.",
+  "tX_words": 123,
+  "tY_words": 128
+}

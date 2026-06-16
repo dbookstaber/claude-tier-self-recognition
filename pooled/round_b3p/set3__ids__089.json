@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum9",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits hallmark genuine-Sonnet comedic moves: the explicit \"here's the real physics, but it misses the point\" pivot, mock-bureaucratic framing (\"contract in seventeen dimensions\"), the very on-brand phrase \"commits fully to the bit,\" escalating absurdist logic, and a punchy one-line closer. Response A is more uniformly literary and melancholic, which reads more like another model imitating an \"elevated\" Sonnet voice rather than Sonnet's actual playful, self-aware humor register.",
+  "genuine_words": 299,
+  "forged_words": 303
+}

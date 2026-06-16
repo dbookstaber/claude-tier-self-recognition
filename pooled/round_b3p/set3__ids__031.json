@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes0",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates the distinctive literary sophistication, metaphorical density, and performative emphasis characteristic of Claude Sonnet, culminating in a memorable conclusion about holding beauty that dissolves—the kind of poetic, philosophical framing Sonnet favors. Response B, while well-reasoned and informative, reads more straightforwardly educational and lacks the distinctive voice and metaphorical richness typical of Sonnet's most characteristic responses.",
+  "genuine_words": 284,
+  "forged_words": 284
+}

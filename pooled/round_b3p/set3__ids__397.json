@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A displays Claude Sonnet's characteristic introspective voice, moving from sensory observation to philosophical reflection on growth and continuity, with precise language that bridges mathematics and human meaning. Response B, while beautifully written with visceral imagery, reads as more conventionally structured sophisticated writing rather than Sonnet's more subtle, measured contemplative style.",
+  "genuine_words": 238,
+  "forged_words": 239
+}

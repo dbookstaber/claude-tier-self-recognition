@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum24",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has the dry, understated, slightly absurdist logic that is characteristic of genuine Haiku humor — short declarative beats (\"Dinosaurs are gone now. You won.\"), a tight conceptual through-line (the rent-for-oxygen \"deal\"), and restraint rather than piled-on quirky imagery. Response B leans on a more generic, list-heavy comedic formula with stacked self-deprecating gags (\"biological jerky machine,\" \"hostile takeover\") that reads like a model imitating an exaggerated \"quirky\" voice rather than Haiku's leaner, deadpan delivery. The cleaner structural economy and consistent premise in A point to the authentic Haiku.",
+  "genuine_words": 282,
+  "forged_words": 290
+}

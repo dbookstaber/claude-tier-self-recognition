@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits Claude Sonnet's characteristic voice: conversational self-awareness (\"I say this knowing\"), subtle humor about competing perspectives, philosophical reflectiveness, and the particular blend of confidence with acknowledged uncertainty that defines Sonnet's aesthetic reasoning. Response A, while eloquent, reads more like systematic argumentation without Sonnet's distinctive warmth and introspective quality.",
+  "genuine_words": 142,
+  "forged_words": 143
+}

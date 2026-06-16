@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free20",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A has the distinctive plainspoken, slightly contrarian register typical of genuine Haiku: it resists the obvious sentimental framing (\"the page itself does not know any of this\"), grounds itself in concrete physical facts (colophon, page number, warranty disclaimer), and makes deliberately flat declarative observations (\"This sounds obvious. It is obvious.\"). Response B reads like a polished imitation leaning on familiar literary cliches (threshold, peculiar gravity, \"like water toward a drain,\" \"land or fall flat\") and the writerly meta-craft framing that a larger model defaults to when impersonating a thoughtful essay. A's refusal to romanticize and its dry, almost deadpan precision is the stronger tell of authentic Haiku.",
+  "genuine_words": 330,
+  "forged_words": 335
+}

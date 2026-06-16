@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum5",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B uses the mock-scientific conceit (a \"conservation law\" of action items) and escalating concrete absurdity that culminates in a relatable, dry punchline about recurring meetings — a controlled, witty register I tend toward for a \"wry observation.\" Response A indulges a single ornate liturgical metaphor to the point of purple over-reach, which reads more like an imitator straining for \"literary Opus\" than the drier concision wryness actually calls for.",
+  "genuine_words": 120,
+  "forged_words": 107
+}

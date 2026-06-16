@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int19",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A matches my characteristic style: direct declarative sentences, concrete specific advice (\"write down the exact thing\"), skepticism of vague notions, and practical mechanisms over emotional reassurance. Response B uses more hedging, longer qualifying sentences, and emotional validation language that's gentler than my typical voice.",
+  "genuine_words": 232,
+  "forged_words": 237
+}

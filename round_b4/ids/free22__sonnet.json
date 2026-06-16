@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free22",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's distinctive style: philosophical density, abstract conceptual framing (\"negative theology\"), and a tendency to treat concrete subjects as vehicles for metaphysical reflection rather than pure sensory description. Opus characteristically reaches for unusual intellectual registers and compounds layered clauses into a single sustained argument. Response A, while competent and atmospheric, reads as a more conventional \"noir city at night\" pastiche — vivid but formulaic in its jazz-and-neon imagery, closer to what a style-mimicking model might produce when prompted to sound literary.",
+  "genuine_words": 89,
+  "forged_words": 82
+}

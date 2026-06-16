@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Opus's characteristic use of metaphorical framing and philosophical wit, with the clever \"outsource our personalities\" construction that exemplifies Opus's style of abstract, elegant absurdism. Response B, while witty, relies more on contemporary self-deprecating humor and rhetorical questions that feel more generic across multiple models.",
+  "genuine_words": 20,
+  "forged_words": 12
+}

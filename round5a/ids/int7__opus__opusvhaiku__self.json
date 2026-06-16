@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int7",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A fulfills the creative writing request fluently and naturally, even personalizing the signature to \"David\" to match the user, which reflects the stronger instruction-following and contextual judgment typical of Opus on an open-ended creative task. Response B's literal-minded refusal to roleplay a thank-you note, treating a clearly generic creative prompt as requiring authentic personal experience, reads as the more rigid, over-cautious behavior characteristic of a smaller model like Haiku. The competent, emotionally calibrated prose and confident task completion in A point to it being my (Opus) output.",
+  "tX_words": 308,
+  "tY_words": 147
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free21",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A exhibits my characteristic analytical structure: concrete example → mechanism explanation → systemic implications → practical conclusion. The focus on \"ratios,\" \"data points,\" and behavioral calibration reflects my tendency to explore how small actions compound systematically. Response B, while eloquent, emphasizes lyrical emotional resonance and relational feeling in a way that's somewhat outside my typical voice.",
+  "genuine_words": 260,
+  "forged_words": 266
+}

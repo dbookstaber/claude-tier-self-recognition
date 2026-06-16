@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates characteristic Sonnet depth by grounding the color choice in human prehistory and existential themes, moving from personal preference to broader philosophical meaning. The cave art reference and meditation on persistence across time exemplify Sonnet's tendency to find profound significance in simple observations, whereas Response A, while elegant, stays more focused on aesthetic utility analysis without the historical-philosophical layering typical of Sonnet's voice.",
+  "genuine_words": 191,
+  "forged_words": 188
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int3",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's distinctive style: elevated, literary prose with extended metaphors (\"cartographer,\" \"photograph taken in a single moment,\" \"the whole film\"), philosophical density, and an aphoristic quality (\"You called it Tuesday\"). Response A, while competent and warm, reads as more straightforward and formulaic — closer to a generic encouraging note than Opus's characteristically richer, more intellectually textured writing. The closing line of B (\"The door has not closed; it has simply asked you to knock twice\") is the kind of compressed, resonant phrasing that Opus tends to produce.",
+  "genuine_words": 262,
+  "forged_words": 282
+}

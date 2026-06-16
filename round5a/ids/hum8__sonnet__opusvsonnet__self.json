@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum8",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has a more measured, structured comedic style with a bureaucratic complaint angle (\"submitted multiple complaints with no response\") that feels characteristic of Sonnet's balanced humor. Response A leans into a more emotionally charged, relatable joke with the \"ex's level\" punchline, which has the kind of unexpected personal twist more typical of Opus's creative flair. Both are competent, but B's dry corporate tone feels more like mid-tier model humor.",
+  "tX_words": 26,
+  "tY_words": 26
+}

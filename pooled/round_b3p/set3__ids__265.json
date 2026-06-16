@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic approach of balancing poetic insight with intellectual rigor, introducing scientific considerations (entropy, arrow of time) while maintaining accessibility. It synthesizes multiple dimensions of the problem systematically. Response A, while eloquent, reads as a stylistic imitation—lyrical but perhaps over-polished without the analytical grounding typical of Sonnet's genuine voice.",
+  "genuine_words": 292,
+  "forged_words": 291
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int7",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's prose style: elevated diction, abstract philosophical framing (\"quietly vertiginous,\" \"not a transfer but a fermentation\"), and a tendency to open with a conceptual observation before grounding it in specifics. Response A reads as warmer and more narratively concrete — qualities consistent with a model imitating a personal voice — but its structure follows conventional letter-writing norms more closely than Opus typically does. Opus tends toward essay-like reflection with carefully constructed metaphors and a more self-consciously literary register, both of which are prominent throughout Response B.",
+  "genuine_words": 306,
+  "forged_words": 319
+}

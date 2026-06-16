@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int19",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's writing style: extended philosophical metaphors developed with unusual precision (\"the way that dawn outpaces warmth — the light arrives first, and you shiver in it\"), a tendency to reframe the emotional experience at a conceptual level rather than offering direct reassurance, and a structural rhythm that builds through layered abstractions. Response B, while warm and well-written, reads more like a supportive coaching voice — grounded, conversational, and practical — which aligns more with a model optimizing for emotional relatability rather than Opus's characteristic density of thought and elevated register.",
+  "genuine_words": 290,
+  "forged_words": 307
+}

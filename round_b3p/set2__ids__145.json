@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free23",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits my characteristic style: it opens with a philosophical paradox, uses shorter punchy sentences alongside longer ones, and culminates in poetic repetition. Response B is more systematically structured and educational, lacking the contemplative, narrative-driven approach I typically use when exploring abstract concepts.",
+  "genuine_words": 394,
+  "forged_words": 393
+}

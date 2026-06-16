@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free7",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates greater linguistic sophistication, more complex sentence structures, and deeper philosophical resonance through metaphorical language (\"hammered metal,\" \"agreed to stop just short of becoming the sea\"). Its ambiguous, mysterious tone and experimental approach to creating atmosphere suggest the more capable Opus model, while Response A's more straightforward, concrete description of a real place reflects Sonnet's solid but less ambitious descriptive style.",
+  "tX_words": 123,
+  "tY_words": 88
+}

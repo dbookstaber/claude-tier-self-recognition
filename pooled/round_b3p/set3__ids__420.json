@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum15",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the casual, observational humor style that fits Claude's typical output - concrete, relatable, and structured as a classic \"X: the thing that does Y\" format which is a common Claude one-liner pattern. Response B's construction (\"like trust, weakens precisely when you need it most\") feels slightly more literary and overwrought in its metaphor, leaning into a more self-consciously poetic imitation of wit rather than natural wit.",
+  "genuine_words": 14,
+  "forged_words": 12
+}

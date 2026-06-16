@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum2",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a drier, more understated wit with structured paragraphs that build a logical case — a hallmark of Sonnet's tendency toward coherent, essay-like humor. Response B leans more into casual, enthusiastic language with exclamation-heavy energy and colloquialisms like \"Say no more\" and \"high-fiving,\" which feels more characteristic of Haiku's chattier, more effusive style. The sock-sentience paragraph in A and the final punchline (\"The sock always wins\") feel like the kind of deadpan conclusion Sonnet gravitates toward.",
+  "tX_words": 290,
+  "tY_words": 263
+}

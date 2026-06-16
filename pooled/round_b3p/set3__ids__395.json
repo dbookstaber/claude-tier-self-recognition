@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes16",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the structural, claim-by-claim, paragraph-stacking analytical cadence characteristic of genuine Sonnet, including its tendency toward concrete technical detail (graphite-clay ratios fired at high temperature) and an explicit summarizing thesis at the end. Response A's prose is more lyrical, aphoristic, and consciously literary (\"a quiet grandeur,\" \"it teaches without speaking\"), which reads like a model performing an elevated imitation of elegance rather than Sonnet's more grounded, enumerative default style.",
+  "genuine_words": 278,
+  "forged_words": 298
+}

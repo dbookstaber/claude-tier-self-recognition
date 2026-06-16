@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int1",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has a more distinctive, personal voice with specific phrasing like \"the grief is real and deserved\" and \"be gentle with yourself\" that feels more crafted and emotionally nuanced. Response B reads as more formulaic and generic, following a predictable condolence structure that is typical of a smaller model defaulting to safe, standard language. Opus tends to produce writing with more character and emotional specificity rather than template-like prose.",
+  "tX_words": 63,
+  "tY_words": 68
+}

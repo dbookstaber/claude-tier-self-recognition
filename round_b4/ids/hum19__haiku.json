@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B matches Claude Opus's characteristic style: sophisticated, literary, and philosophical humor that reframes the mundane through metaphor rather than conventional pun-based joke structures. Response A is more generic and straightforward, typical of how another model might imitate joke-telling. Opus tends toward elevated, conceptually-layered wit rather than accessible wordplay.",
+  "genuine_words": 30,
+  "forged_words": 26
+}

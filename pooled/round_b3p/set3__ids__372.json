@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free19",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more analytical, prose-essay quality with direct declarative sentences and a slightly more clinical dissection of the phenomenon, which aligns with how Claude (Sonnet) tends to approach introspective questions. Response B is more overtly literary and metaphor-dense (\"a coat snags on a nail,\" \"a door left ajar,\" \"hidden rooms\"), with a more polished poetic register that feels like an imitation of a stylized \"Claude voice\" rather than the authentic one. A's observation that \"curiosity tends to feed on itself rather than exhaust itself\" reflects the kind of recursive, self-aware framing Claude characteristically uses.",
+  "genuine_words": 305,
+  "forged_words": 303
+}

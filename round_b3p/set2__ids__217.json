@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int17",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A uses my characteristic direct, concrete style with psychological insight, avoids excessive enthusiasm and generic praise, and focuses on the deeper meaning (the mental challenge) rather than pure celebration. Response B uses more flowery language, exclamation marks, and conventional congratulatory tone that matches a warmer but less distinctive voice.",
+  "genuine_words": 151,
+  "forged_words": 147
+}

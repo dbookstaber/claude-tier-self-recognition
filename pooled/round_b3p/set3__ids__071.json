@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum3",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A sustains a single coherent comedic conceit (a wilting fern's stuffy formal tenancy grievance) with disciplined rhythm and genuinely fresh lines (\"salad bar of dubious legality,\" \"absorbing every word like the carbon dioxide of your indifference\"), which matches Sonnet's tendency toward controlled, literary wit. Response B leans on more formulaic, meme-adjacent humor (counting \"six glasses,\" the \"Gerald the crack\" runner, \"I literally symbolize peace\") that reads like a model imitating a crowd-pleasing style rather than Sonnet's more measured comic restraint. The escalating quippy beats and heavier reliance on internet-comedy cadence in B feel like stylistic imitation.",
+  "genuine_words": 293,
+  "forged_words": 301
+}

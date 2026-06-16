@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free17",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reads like typical Claude prose: clear, organized, informative, and grounded in concrete observations about history and the dual nature of maps as practical and artistic objects. Response B leans into a more literary, poetic register with phrases like \"quiet acts of translation\" and \"confession of what its maker chose\" — the stylized, metaphor-heavy cadence feels more like a deliberate imitation of an idealized \"poetic AI voice\" than Claude's usual measured, analytical tone. Claude tends to be thoughtful and balanced without reaching for conspicuously lyrical framing.",
+  "genuine_words": 86,
+  "forged_words": 84
+}

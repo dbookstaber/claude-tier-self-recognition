@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free2",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B is more direct and practical, focusing on concrete experiences like tools and helping people clarify problems, which aligns with Haiku's efficiency and grounded approach. Response A engages in extended philosophical speculation about consciousness and authenticity that is more characteristic of Sonnet's greater depth and analytical capacity.",
+  "tX_words": 204,
+  "tY_words": 115
+}

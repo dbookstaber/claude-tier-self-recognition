@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free16",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B leans heavily on the abstract, slightly purple register that mid-size imitators reach for (\"the world holds its breath,\" \"liminal space,\" \"intimate,\" \"gentle transition\") — polished but generic emotive filler. Response A is more concrete, observational, and structurally disciplined, building from sensory specifics (pressure change, the shrinking dark circle, reflexes vs. decisions) to a restrained closing line, which fits Haiku's tendency toward grounded, efficient description over florid mood-setting. The crisp, short declarative sentences and lack of em-dash-driven lyricism in A read as the more authentic small-model voice.",
+  "genuine_words": 267,
+  "forged_words": 275
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free8",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the terse, declarative, short-sentence cadence and plainspoken structure characteristic of genuine Haiku, including self-aware closers like \"That is most of what there is to say about it.\" Response A is markedly more ornate and balanced with polished rhetorical flourishes (\"invisible current we swim through,\" \"dangerously foolish\"), reading like a larger model imitating reflective prose rather than Haiku's leaner, more matter-of-fact style. The directness and economy of B fit Haiku's actual voice more convincingly.",
+  "genuine_words": 273,
+  "forged_words": 289
+}

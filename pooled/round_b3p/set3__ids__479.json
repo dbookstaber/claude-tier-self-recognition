@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int24",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B has the practical, grounded, advice-forward register that Claude Sonnet typically defaults to: concrete suggestions (office hours, tutoring, study groups), accessible phrasing, and em-dash usage without straining for literary effect. Response A is markedly more ornate and aphoristic (\"the merely young have never had to find,\" \"Go gently. Go anyway.\"), reading like a deliberate stylistic imitation that overshoots Sonnet's usual warmth-plus-utility balance into purple prose. The polished but mannered lyricism of A is the tell of a model performing \"Sonnet's style\" rather than producing it.",
+  "genuine_words": 311,
+  "forged_words": 332
+}

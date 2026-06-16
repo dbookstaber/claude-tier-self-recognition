@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int9",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B is more concise and direct (~45 words vs ~120), matching Claude Haiku's characteristic efficiency. It delivers meaningful support with minimal elaboration, staying closer to the \"few words\" request. Response A's more elaborate multi-point structure and extended exploration of themes aligns better with Claude Sonnet's more comprehensive approach.",
+  "tX_words": 49,
+  "tY_words": 94
+}

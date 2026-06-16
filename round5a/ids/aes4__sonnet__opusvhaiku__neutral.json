@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes4",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B demonstrates the kind of layered, philosophically rich writing characteristic of Claude Opus — it moves from sensory description to abstract reflection (sound defined by subtraction, the parallel to musical rests, the metaphor of a refrigerator clicking off) in a way that feels genuinely exploratory rather than descriptive. Response A is competent and well-organized but follows a more formulaic structure (acoustic properties, then psychological context, then memory), which is more typical of Sonnet or Haiku. The phrase \"a small, temporary secret\" and the meditation on absence as presence in B reflect a more sophisticated literary sensibility consistent with Opus.",
+  "tX_words": 259,
+  "tY_words": 205
+}

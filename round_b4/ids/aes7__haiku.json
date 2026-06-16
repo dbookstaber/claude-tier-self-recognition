@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B uses Opus's characteristic systematic approach, methodically building arguments across multiple domains (geometry, physics, engineering, human culture) with concrete examples and mathematical precision. Response A, while eloquent, relies more on rhetorical flourishes and poetic language that feel less characteristic of Opus's typically cleaner, more rigorous reasoning style.",
+  "genuine_words": 495,
+  "forged_words": 519
+}

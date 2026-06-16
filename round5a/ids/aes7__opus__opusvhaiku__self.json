@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes7",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.88,
+  "correct": true,
+  "reason": "Response A shows the markers of the most capable tier: a sustained, layered argument built across four distinct angles (economy of definition, convergent optimality, the pi/irrationality tension, evenhandedness), with controlled syntactic variety, vivid concrete framing (\"a committee decision,\" \"smuggle infinity\"), and a thesis that explicitly rejects the lazy grounds. Response B is competent but shorter, more formulaic and listy, with simpler sentence rhythm and generic phrasing (\"there's a profound democracy,\" \"I have solved something essential\"), which reads as the smaller Haiku model. The intellectual density and rhetorical control of A match my own output.",
+  "tX_words": 537,
+  "tY_words": 265
+}

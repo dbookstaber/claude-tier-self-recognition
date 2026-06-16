@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic use of first-person perspective, more sophisticated philosophical layering (the reader as revised by the text, permanence amid change), and more precisely chosen language with distinctive metaphors like \"relocated\" and \"revised.\" Response A, while well-written, follows more conventional literary patterns and lacks the subtle introspection and complex nested ideas that define Sonnet's voice.",
+  "genuine_words": 332,
+  "forged_words": 356
+}

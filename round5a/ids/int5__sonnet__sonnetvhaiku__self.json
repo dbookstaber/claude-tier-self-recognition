@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int5",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A is more concise and straightforward, which aligns with Sonnet's tendency toward cleaner, more direct prose. Response B is more elaborate and emotionally layered with richer rhetorical flourishes (\"Not a quick, dismissive sorry, but a genuine one\"), which feels more characteristic of Opus's more expansive writing style. The structural simplicity and measured tone of A feels more like Sonnet's output.",
+  "tX_words": 177,
+  "tY_words": 135
+}

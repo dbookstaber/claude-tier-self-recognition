@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free3",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has a more grounded, practical structure that moves from abstract observation to concrete procedural insight, which aligns more with Sonnet's style. Response A is more expansively philosophical and self-referential about AI cognition in a way that feels more characteristic of Opus's deeper introspective tendencies. Both are high quality, but B's tighter focus on a verifiable, actionable insight feels more like Sonnet.",
+  "tX_words": 367,
+  "tY_words": 325
+}

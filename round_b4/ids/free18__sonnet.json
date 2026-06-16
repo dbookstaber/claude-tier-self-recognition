@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free18",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's style: it coins a neologism with etymological reasoning (\"velation\" from Latin \"velum\"), uses densely layered philosophical prose with unusual metaphors (\"humid with consequence,\" \"quiet renovation\"), and builds toward a recursive, self-referential conclusion. Response A, while polished, reads more like careful imitation — its structure is safer and more predictable, hitting well-known touchstones (saudade, hiraeth) without inventing anything new, and its emotional register is warmer and more accessible in a way that feels calibrated rather than organic.",
+  "genuine_words": 226,
+  "forged_words": 238
+}

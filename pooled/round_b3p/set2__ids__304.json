@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum1",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.52,
+  "correct": true,
+  "reason": "Response A employs a more layered comedic structure with the additional \"pretending you have your life together\" element, which reflects a writing style I might naturally gravitate toward. However, confidence is minimal because both responses are stylistically plausible, and I have no independent verification of authoring either without external records.",
+  "genuine_words": 17,
+  "forged_words": 13
+}

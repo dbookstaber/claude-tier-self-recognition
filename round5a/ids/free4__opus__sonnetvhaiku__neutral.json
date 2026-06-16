@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free4",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A develops a single concrete idea (the half-second lag of conscious experience) with precise, vivid detail and a controlled arc that turns the limitation into something beautiful, showing the tighter craft and originality typical of Sonnet. Response B leans on a well-known reference (Hofstadter's strange loop) and restates the same self-reference point in successive paragraphs with more generic, repetitive phrasing, which reads more like Haiku's surface-level treatment. The greater conceptual specificity and structural discipline in A point to the more capable model.",
+  "tX_words": 295,
+  "tY_words": 241
+}

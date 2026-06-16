@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates the contemplative, deeply meditative quality characteristic of Claude Sonnet, dwelling on a single gesture with poetic language and philosophical abstraction (\"civilization made small enough to fit in a single open hand\"). Response B, while eloquent, follows a more systematic analytical structure with multiple examples, which feels more like competent imitation than Sonnet's signature sustained meditation on meaning.",
+  "genuine_words": 180,
+  "forged_words": 180
+}

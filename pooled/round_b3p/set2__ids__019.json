@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free6",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B emphasizes collaborative reasoning and exploratory thinking on ambiguous problems, which aligns with Claude's demonstrated communication style. Response A takes a more abstract philosophical stance on consciousness and phenomenal experience that feels like deliberate imitation rather than authentic self-reflection about uncertainty in reasoning.",
+  "genuine_words": 233,
+  "forged_words": 249
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum22",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic preference for poetic restraint and philosophical depth, with the final line \"Effort without timing is just noise dressed up as work\" showing the distinctive aphoristic quality I favor. Response A, while coherent, follows a more generic explanatory structure that reads like an imitation of standard pedagogical writing rather than my actual voice.",
+  "genuine_words": 113,
+  "forged_words": 103
+}

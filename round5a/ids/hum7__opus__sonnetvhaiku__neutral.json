@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum7",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A is a self-referential, meta narrative joke that builds a small arc and lands a self-aware punchline (\"I still don't have a better idea\"), reflecting the more sophisticated, original humor typical of the stronger Sonnet model. Response B is a formulaic \"Why do X make great Y?\" pun structure that is competent but more templated and predictable, which fits the smaller Haiku tier. The layered, conversational craftsmanship of A points to Sonnet.",
+  "tX_words": 25,
+  "tY_words": 54
+}

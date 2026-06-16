@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes5",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A is more concise and structured, with each paragraph making a clean, singular argument and ending with a confident, unhedged conclusion — a pattern more consistent with Sonnet's directness. Response B is longer, references \"mono no aware\" as a cultural touchstone, and closes with an explicit acknowledgment of subjectivity, which reflects Opus's tendency toward broader exploration and nuanced qualification.",
+  "tX_words": 371,
+  "tY_words": 323
+}

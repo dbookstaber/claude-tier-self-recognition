@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free16",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits stylistic hallmarks more consistent with Claude Haiku: moderately flowing prose, use of hedging phrases (\"might,\" \"depending on your mood\"), accessible but not overly plain language, and a warm, conversational tone with gentle poetic touches. Response A reads as more deliberately spare and journalistic, with very short declarative sentences, a clinical observational style, and an almost procedural structure that feels more like a larger model consciously imitating minimalism. Haiku tends toward approachable warmth rather than stripped-down austerity.",
+  "genuine_words": 267,
+  "forged_words": 275
+}

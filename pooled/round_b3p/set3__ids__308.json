@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum2",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A delivers the \"playful, funny\" brief that was actually requested: it uses concrete comic bits (the nervous dryer that \"has seen things,\" the dimension of furious left socks, the machine laughing during the spin cycle) and lands a genuine joke turn (\"this has always been your fault\"). Response B is beautifully written but drifts into literary, melancholic prose-poetry (\"a small domestic rapture,\" \"widowed singletons folded over nothing\") that prioritizes lyricism over humor, reading more like a model performing a heightened \"Sonnet style\" than a model directly serving the comedic prompt. Sonnet typically balances wit with task-fidelity, which tilts me toward A.",
+  "genuine_words": 237,
+  "forged_words": 226
+}

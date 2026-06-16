@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes15",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A shows Sonnet's characteristic structure: precise conceptual explanation (self-similarity, max area for given perimeter), grounded references (Plato, nautilus, galaxy, sunflower), explicit framing of beauty as tension-vs-resolution, and a crisp final distinction (\"more perfect\" vs \"more beautiful\" being not the same thing). Response B is far more ornate and self-consciously literary—heavy anthropomorphism (\"forgives it for being closed,\" \"courage in that shape\") and prose-poem cadence that reads like a model performing \"profound Sonnet\" rather than Sonnet's actual analytical-but-warm register.",
+  "genuine_words": 329,
+  "forged_words": 347
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free8",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more distinctive and somewhat unconventional prose style — phrases like \"geological,\" \"miserly; it spends itself,\" and \"meaning keeps its own unreliable hours\" feel like the kind of slightly surprising, precise metaphors that characterize Claude's writing at its best. Response A, while well-crafted, reads more like a polished but conventional philosophical essay with a neater, more formulaic structure (three clean movements ending in a tidy maxim), which is more consistent with how other models tend to imitate Claude's style.",
+  "genuine_words": 234,
+  "forged_words": 233
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum1",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A uses grounded observational humor rooted in relatable workplace reality, which aligns with my tendency toward accurate-to-experience jokes. Response B leans more toward absurdist paradox-based humor and escalating cynicism, which feels more like a deliberately stylized alternative than my natural voice.",
+  "genuine_words": 22,
+  "forged_words": 22
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes22",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits several hallmarks of Claude Opus's writing style: the philosophical pivot toward abstraction and epistemology (\"what serious music teaches and philosophy merely proposes\"), the tendency to make meta-observations about consciousness and the self, and the layered, self-aware sentence constructions that interrogate their own metaphors. Response A, while beautifully crafted and evocative, reads more like polished literary prose focused purely on sensory description, lacking the characteristic Opus move of using an aesthetic experience as a launchpad for philosophical reflection on the nature of perception or identity.",
+  "genuine_words": 309,
+  "forged_words": 322
+}

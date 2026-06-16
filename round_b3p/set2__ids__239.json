@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int24",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B reads more like Claude Haiku's typical style: warmer, more conversational, with gentler phrasing and a supportive tone that leans into encouragement without being overly literary. Response A has a more deliberate, spare prose style with short declarative sentences and a certain editorial confidence (\"That voice is wrong,\" \"That instinct was right\") that feels more characteristic of a larger, more stylistically assertive model. Haiku tends toward the measured, reassuring middle ground that B occupies.",
+  "genuine_words": 343,
+  "forged_words": 333
+}

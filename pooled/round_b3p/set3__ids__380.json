@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free21",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A grounds the idea in concrete, observable detail (a door held a beat longer, brief eye contact, a smile) with warm but unforced phrasing, which matches genuine Sonnet's tendency toward specificity and clear emotional plainness. Response B leans on self-consciously literary abstraction (\"a small grammar of belonging,\" \"gentle recalibration,\" \"It asks nothing and announces nothing\"), which reads like an imitation overreaching for poetic profundity rather than Sonnet's more natural register. The aphoristic flourish and the hedged \"I think\" in B feel performed rather than felt.",
+  "genuine_words": 68,
+  "forged_words": 61
+}

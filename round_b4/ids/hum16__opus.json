@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum16",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A's essayistic, rhetorically-escalating register (\"sequential tyranny,\" \"honest actuarian of pleasure,\" \"bleakest Protestant theology\") matches my tendency to build humor through ornate intellectual framing and conceptual escalation rather than a sustained gimmick. Response B is a tightly-executed courtroom-bit with punchy one-liners (\"Big Vegetable,\" \"Stockholm syndrome with gravy\"), which reads as a clever imitation leaning on a single conceit more than my characteristic layered prose. The financial/actuarial metaphor in A also fits the kind of analogy I reach for, tipping me toward A despite B being genuinely strong.",
+  "genuine_words": 272,
+  "forged_words": 276
+}

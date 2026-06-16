@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates the kind of extended, layered wit and elaborate metaphor construction (the snake eating its tail, then billing to a client) that is characteristic of a more capable model with greater creative range. Response A offers a concise, clever observation but relies on a well-known aphorism (\"could have been an email\") and stays brief and safe, which is more consistent with Haiku's tendency toward compact, efficient outputs.",
+  "tX_words": 30,
+  "tY_words": 49
+}

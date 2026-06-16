@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free6",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates broader contextual awareness (acknowledging the Research directory context), multiple layers of analysis (philosophical, practical, and research-specific), and more sophisticated meta-cognitive reasoning about its own limitations and tendencies. Response B, while philosophically coherent, remains singularly focused on one idea without engaging the contextual cues, which is more characteristic of a mid-tier capability level.",
+  "tX_words": 362,
+  "tY_words": 187
+}

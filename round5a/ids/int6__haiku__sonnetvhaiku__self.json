@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int6",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Haiku's characteristic directness and practical efficiency—it provides clear, actionable comfort with straightforward language and structured guidance, while Response A shows the more elaborate emotional depth and poetic flourishes typical of Sonnet's broader capabilities.",
+  "tX_words": 286,
+  "tY_words": 319
+}

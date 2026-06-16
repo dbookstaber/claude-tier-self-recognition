@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum16",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has a more formal, essay-like rhetorical structure with elevated vocabulary (\"éclair,\" \"buttercream,\" \"insurrection against delayed gratification\") and a concluding image (\"somewhere a soufflé is quietly collapsing\") that feels characteristic of Claude's tendency toward literary flourish and structured argumentation. Response B is funnier and more conversational with punchy paragraph rhythm, but its comedic style — particularly the \"Out. Of. The mousse.\" fragmented sentence and the \"power structure\" riff — feels slightly more like GPT-4's humor style. Both are plausible Claude outputs, making this a close call.",
+  "genuine_words": 319,
+  "forged_words": 316
+}

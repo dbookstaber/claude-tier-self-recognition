@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic blend of systematic intellectual rigor, historical precision, and philosophical depth. It builds logical arguments across mathematics, physics, and epistemology while maintaining clarity—Sonnet's signature style. Response A, while beautifully written and deeply reflective, leans more heavily into pure literary aesthetics and impressionism, with less of Sonnet's typical structured argumentation and technical grounding.",
+  "genuine_words": 768,
+  "forged_words": 800
+}

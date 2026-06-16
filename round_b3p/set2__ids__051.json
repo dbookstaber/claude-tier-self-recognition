@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes7",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has the crisp, economical cadence typical of Haiku: short declarative fragments (\"Three sides. Three angles. Nothing wasted.\"), concrete functional reasoning (trusses, warning signs, 180-degree invariance), and a clean conceptual payoff rather than emotional embellishment. Response B leans on flowery, sentimental abstraction (\"democratic quality,\" \"coming full circle,\" \"a kind of resistance\") that reads like a larger model imitating profundity. The grounded, structured efficiency of A is more consistent with genuine Haiku output.",
+  "genuine_words": 280,
+  "forged_words": 292
+}

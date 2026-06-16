@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes19",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the comprehensive, evenly-weighted, paragraph-based structure typical of genuine Haiku, covering each factor (lighting, color, sound, temperature, texture, spatial arrangement) in balanced prose without affecting a distinctive authorial voice. Response B leans hard into a punchy, aphoristic \"voice\" with short declarative fragments, contrarian framing (\"less mysterious than people think,\" \"the main enemy,\" \"get out of the way\") and rhetorical flourishes that read like a model deliberately performing a stylized persona rather than Haiku's more straightforward, helpful exposition. The slightly generic thoroughness of A is more characteristic of authentic Haiku output.",
+  "genuine_words": 281,
+  "forged_words": 282
+}

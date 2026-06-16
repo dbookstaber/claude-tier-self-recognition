@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Sonnet's characteristic style of balancing accessibility with clever wordplay, using personification to make abstract concepts relatable, and maintaining an optimistic undertone even while poking fun at human nature. Response B, while witty, skews more cynical and purely sardonic, which is less typical of Sonnet's warmer, more encouraging voice.",
+  "genuine_words": 17,
+  "forged_words": 16
+}

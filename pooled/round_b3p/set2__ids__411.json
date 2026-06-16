@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes22",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits the hallmarks of a smaller, faster model like Haiku: a conventional framing device (\"Imagine walking through a misty forest at dawn\"), accumulating-then-stripping-down structure, and somewhat generic, safe descriptive phrasing (\"strange beauty in that sadness,\" \"quiet inevitability\"). Response A is markedly more sophisticated and stylistically controlled—using restraint, sharp original similes (\"pulls the room down by two degrees,\" \"people glimpsed through a window\"), and second-person immersion that reads like a more capable model imitating a deliberately spare style rather than Haiku's native output. The relative literary polish and consistent control in A point to a larger imitator, leaving B as the genuine Haiku.",
+  "genuine_words": 254,
+  "forged_words": 257
+}

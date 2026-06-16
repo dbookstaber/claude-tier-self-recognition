@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int2",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A displays the hallmarks of Claude Opus's writing style: elevated, literary diction (\"the nervous intelligence of a creature,\" \"cartographer knows coastlines\"), abstract conceptual reframing of the emotional situation, and a compressed, almost aphoristic final line. Response B, while warm and emotionally competent, reads as more formulaic comfort-speak (\"You don't have to be brave,\" \"I'm so proud of you\") that follows predictable reassurance patterns without the distinctive voice and unusual metaphorical thinking Opus characteristically employs.",
+  "genuine_words": 118,
+  "forged_words": 115
+}

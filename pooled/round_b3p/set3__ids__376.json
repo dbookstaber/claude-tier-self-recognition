@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic approach: opening with a sophisticated paradox (\"ending and refusal to end\"), employing more unexpected and precise imagery (book as \"disguise of a single leaf\"), displaying meta-awareness of memory and language-making, and ending with a philosophical reframing rather than a declarative statement. Response A is more conventionally elegant but relies on more predictable emotional patterns and lacks Sonnet's distinctive paradoxical thinking.",
+  "genuine_words": 432,
+  "forged_words": 448
+}

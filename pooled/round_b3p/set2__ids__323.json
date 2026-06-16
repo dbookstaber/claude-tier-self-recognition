@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum7",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has a more distinctive structural creativity — it performs procrastination rather than just explaining it, building up the joke through a stream-of-consciousness delay before delivering the punchline. This meta-comedic approach (the response itself enacts the topic) feels more characteristic of Claude Haiku's tendency toward concise, clever structural humor. Response B is competent but reads more like a standard joke compilation with an added analogy, which feels more like an imitation padding out the response.",
+  "genuine_words": 84,
+  "forged_words": 78
+}

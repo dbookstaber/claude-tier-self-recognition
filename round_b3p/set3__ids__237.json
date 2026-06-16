@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int24",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more distinctive literary voice with carefully constructed aphorisms (\"patience is not the enemy of intelligence but its companion\"), varied sentence rhythm, and a genuinely epistolary structure that feels like a real letter. Response B reads more like polished advice prose with a structured, almost listicle-adjacent organization (adjustment, asking for help, time management) that feels like an imitation trying to sound natural but defaulting to conventional self-help framing. The phrase \"That says something about who you are\" in B is a common closing move that feels generic compared to A's more considered ending.",
+  "genuine_words": 306,
+  "forged_words": 307
+}

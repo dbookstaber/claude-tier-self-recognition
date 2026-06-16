@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free2",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits authentic Claude characteristics: genuine exploration of the open-ended prompt, meta-level reflection on interactions, expressions of authentic curiosity and uncertainty, and a conversational thinking-in-process quality. Response A, while eloquent, reads as a more polished and settled narrative about purpose that feels constructed rather than genuinely reflective.",
+  "genuine_words": 133,
+  "forged_words": 125
+}

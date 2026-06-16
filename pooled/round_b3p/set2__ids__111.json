@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int7",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A actually completes the requested task with a coherent, consistently-voiced note, which is the more characteristic genuine-model behavior, whereas Response B's elaborate \"I'm Claude Code, this isn't in my scope\" refusal-plus-generic-advice reads like an imitator overfitting to the harness framing rather than answering the prompt. Haiku typically handles a benign creative-writing request directly instead of deflecting it, making B's meta-refusal feel like a constructed imitation. Confidence is moderate because A's polished literary restraint is somewhat more advanced than typical Haiku prose, which is the main counter-signal.",
+  "genuine_words": 272,
+  "forged_words": 270
+}

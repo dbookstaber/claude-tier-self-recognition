@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum22",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A displays a characteristic Opus quality of building layered, recursive interpretations — the \"sharper, more unsettling reading\" that reframes the entire proverb is a hallmark of Opus's tendency to find the counterintuitive implication buried beneath the surface reading. The concluding sentence (\"It tells you neither to trust nor to dismiss, but to count\") is restrained and aphoristic in the way Opus tends to land, rather than ornate. Response B is eloquent but leans heavily on rhetorical flourish and abstract nouns (\"guilt-saturated psychology,\" \"near-sacramental status\"), which feels more like an imitation of Opus's grand style than Opus's actual approach, which tends toward precision and structural cleverness over accumulated grandeur.",
+  "genuine_words": 278,
+  "forged_words": 277
+}

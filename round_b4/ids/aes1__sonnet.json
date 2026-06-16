@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes1",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's style: a more philosophical register, layered abstractions building to a conceptual conclusion (\"geological time made visible,\" \"mineral truths outlast every brilliant pigment\"), and a fondness for paradoxical formulations (\"color of commitment to incompletion\"). Response A is well-written but reads as more conversational and observational — closer to a capable mid-tier model mimicking introspection — whereas B's density of ideas and its rhetorical arc from historical grounding to philosophical claim is more characteristic of Opus's tendency to elevate even casual questions into sustained intellectual argument.",
+  "genuine_words": 276,
+  "forged_words": 285
+}

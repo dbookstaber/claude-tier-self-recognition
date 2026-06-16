@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int20",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more distinctive literary quality with carefully constructed metaphors (fallow fields, the sea drawing back, guilt following like a shadow) and a prose-poem cadence that reflects Claude's tendency toward elevated, intentional language when given creative latitude. Response B reads more like a conversational text message with a warmer but more generic \"I'm rooting for you\" closing, which feels like an imitation leaning into an approachable friendliness rather than the considered craft Claude typically applies. The specific image of \"let the evening do its slow and gentle work on you\" and \"be held by ordinary hours\" suggest the kind of precise, somewhat unusual phrasing that characterizes Claude's writing.",
+  "genuine_words": 135,
+  "forged_words": 136
+}

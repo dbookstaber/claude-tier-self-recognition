@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Opus's characteristic intellectual pattern: it pursues the paradoxical and metaphysical dimensions of the question (kindness performed without certainty, ethics as cultivated reflex), uses more philosophically precise language (\"moral muscle memory,\" \"imagination doing ethics\"), and reaches for deeper abstraction while maintaining specificity. Response A, though thoughtful, takes the more accessible route of explaining kindness through its practical social effects and reciprocal benefits.",
+  "genuine_words": 315,
+  "forged_words": 327
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int6",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A matches my typical voice for emotional-support prompts: warm and validating but grounded in concrete, practical care (eat, rest, let people show up) and direct offers of presence, with measured conversational prose rather than ornament. Response B's relentless literary density — extended metaphors, aphorisms about consciousness and tense — reads like an imitator overreaching for profundity, which I tend to avoid in favor of plain, human comfort.",
+  "genuine_words": 232,
+  "forged_words": 260
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A demonstrates Sonnet's characteristic style of layered sophistication and emotional nuance, finding paradox and depth in the humor rather than relying on conventional wordplay. Response B's straightforward one-star review format with puns and whimsical punchlines reads like a competent imitation but lacks the subtle complexity typical of Sonnet's approach to creative writing.",
+  "genuine_words": 25,
+  "forged_words": 25
+}

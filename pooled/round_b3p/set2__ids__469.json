@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int21",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A matches my characteristic directness, structural clarity, and tendency to explain mechanisms (attachment, brain mapping) rather than just validate feelings. The punchier ending (\"This will ease. Keep going.\") and the reframing strategy (explaining homesickness doesn't mean wrong choice) align with my voice better than B's consistently warm, reassurance-focused tone.",
+  "genuine_words": 268,
+  "forged_words": 283
+}

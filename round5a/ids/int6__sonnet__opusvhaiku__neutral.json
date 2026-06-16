@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int6",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B demonstrates more sophisticated prose craft with specific, evocative details (\"knocking the wind out of you,\" \"reach for your phone to tell them something,\" \"the version of the future you'd gotten used to picturing\") and more nuanced emotional range, including acknowledging relief as a valid feeling alongside grief. The writing in B has a more literary, layered quality with phrases like \"feelings this big don't stay at full volume forever\" and ends with warmth and humor (\"something completely stupid\"), suggesting the richer vocabulary and emotional intelligence characteristic of Opus. Response A is warm and competent but reads more formulaically, with a more structured, checklist-like progression through comfort topics.",
+  "tX_words": 338,
+  "tY_words": 319
+}

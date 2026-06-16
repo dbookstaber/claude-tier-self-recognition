@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes24",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic voice: punchier pacing with dramatic sentence fragments (\"But asymmetry wins\"), poetic minimalist phrasing, self-aware psychology (\"That tension is not discomfort\"), and strong unqualified closing. Response A is more systematic and comprehensive but lacks these stylistic markers I typically favor.",
+  "genuine_words": 293,
+  "forged_words": 295
+}

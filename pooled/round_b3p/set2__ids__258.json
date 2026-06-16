@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free6",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A is grounded and concrete, citing a specific, plausible training cutoff (February 2025) and focusing on practical, verifiable failure modes (code efficiency, idiomatic style, pattern-matching vs. reasoning) — consistent with Haiku's more direct, capability-oriented self-assessment. Response B leans on highly literary, philosophical phrasing (\"something it is like to be me,\" \"the specific texture of a loss,\" \"the question would land somewhere real\"), which reads like a larger model performing depth and introspection rather than Haiku's plainer register. The contrast in altitude and the factual specificity in A point to A being the genuine Haiku, though the stylistic overlap keeps confidence moderate.",
+  "genuine_words": 205,
+  "forged_words": 217
+}

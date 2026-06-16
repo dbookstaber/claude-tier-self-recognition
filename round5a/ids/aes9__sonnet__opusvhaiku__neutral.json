@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes9",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response A demonstrates the hallmarks of a more capable model: tighter, more precise prose with genuinely original observations (\"pavement darkens to a slick near-black that doubles every streetlamp and window into a smeared reflection\"), a more sophisticated structural arc moving from visual to acoustic to emotional, and phrases that feel carefully crafted rather than competent. Response B covers similar ground but in a more formulaic, paragraph-by-paragraph way, with less surprising language and a flatter overall texture, consistent with a smaller model producing solid but less distinctive writing.",
+  "tX_words": 286,
+  "tY_words": 269
+}

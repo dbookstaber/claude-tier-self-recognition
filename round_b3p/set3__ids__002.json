@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free0",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A grounds its abstraction in specific, concrete particulars (the man cataloguing forest sounds for twenty years, rain on oak versus beech, rivers nobody outside the county remembers) and ends with a flat, self-deflating \"That is probably enough,\" which matches genuine Sonnet's tendency toward grounded specificity and unshowy closure. Response B is more uniformly lyrical and self-consciously profound, leaning on poetic abstractions (\"attention is a form of love,\" \"the day spend its last coin of gold,\" holding two truths \"without choosing\") in a way that reads like an imitation over-performing Sonnet's reflective register. The relentless aphoristic polish of B feels like a model imitating \"deep\" Sonnet rather than the more varied, concretely textured voice in A.",
+  "genuine_words": 365,
+  "forged_words": 391
+}

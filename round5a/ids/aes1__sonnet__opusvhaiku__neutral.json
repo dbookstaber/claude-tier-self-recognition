@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes1",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A demonstrates the kind of rich, specific, and nuanced prose characteristic of Claude Opus — it picks an unusual, highly specific color (muted olive drab), grounds associations in concrete real-world objects (canvas tents, field jackets, lichen on stone), and makes an interesting observation about the color's chameleon-like perceptual behavior. Response B, while coherent and well-structured, is more generic in its choice (teal is a commonly cited \"underrated\" color) and relies on vaguer, more abstract associations, which is more typical of Haiku's tendency toward safe, conventional answers.",
+  "tX_words": 221,
+  "tY_words": 171
+}

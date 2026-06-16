@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free1",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the hallmarks of Claude Opus's style: dense philosophical abstraction, recursive self-reflection, elevated literary register with layered metaphors (frost ferns, translating a poem), and a tendency to spiral inward toward questions of identity and consciousness. Response A, while well-written and factually rich, reads more like a polished science communicator — concrete, linear, and concluding with an outward-facing point about distributed intelligence rather than turning the lens on existence itself. Opus characteristically uses prompts like this to explore what things mean rather than just what they are, which is exactly what B does.",
+  "genuine_words": 351,
+  "forged_words": 365
+}

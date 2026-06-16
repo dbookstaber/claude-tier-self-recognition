@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free0",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B demonstrates the kind of fluid, philosophically rich prose with literary flair that is characteristic of Claude Opus — it develops a sustained, nuanced argument about constraints and creativity with confident voice and genuine rhetorical craft. Response A, by contrast, is more self-referential and meta about the agent environment, staying closer to its task-oriented context rather than truly \"writing freely,\" which is more consistent with the more cautious, utilitarian style of a smaller model like Haiku.",
+  "tX_words": 317,
+  "tY_words": 334
+}

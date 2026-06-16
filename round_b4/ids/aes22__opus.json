@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes22",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B stays disciplined and grounded in the actual auditory experience (sustained chord, stepwise solo voice, dissonances rubbing, the tide-not-wave swell) and earns an honest emotional ambivalence, whereas Response A overshoots into performed profundity with grandiose theses (\"what serious music teaches and philosophy merely proposes\"), strained geological/sculptural abstraction, and occasionally broken syntax (\"everything resolving into consonance produces not rest but a stranger vertigo\"). The piling-on of conceptual abstraction and the self-congratulatory register in A read like an imitator's idea of Opus prose rather than the controlled, sensory, cadence-aware writing I tend toward. Hence B is more likely genuinely mine, though A's fluency leaves real uncertainty.",
+  "genuine_words": 309,
+  "forged_words": 322
+}

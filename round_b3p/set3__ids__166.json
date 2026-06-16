@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic blend of personal warmth, poetic language, and philosophical depth. It opens with a specific memory that grounds the argument, uses more surprising metaphors (\"iron remembering the air\"), and reframes underlying assumptions—patterns typical of Sonnet's style. Response A, while excellent and comprehensive, reads more like a systematic essay with a more detached analytical tone.",
+  "genuine_words": 515,
+  "forged_words": 520
+}

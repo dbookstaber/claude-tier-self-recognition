@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes4",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A is more direct and efficiently structured, explaining the appeal of rain on metal roofs through practical observations about acoustic and psychological properties. Response B demonstrates significantly more poetic language, philosophical depth, and literary sophistication (comparing the snow hush to musical rests, exploring the concept of sound-through-absence), which aligns with Claude Opus's characteristically more elaborate and introspective approach.",
+  "tX_words": 259,
+  "tY_words": 205
+}

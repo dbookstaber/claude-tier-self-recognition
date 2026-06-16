@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free19",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B exhibits genuine Claude stylistic markers: restrained analytical prose, short declarative sentences, definition-by-negation (\"What curiosity is not\"), and careful conceptual distinctions (\"Not distress, but incompleteness\") rather than ornamental metaphor. Response A leans on lush, performative imagery (\"magnetic draw,\" \"like a frequency rising,\" \"blooming\") and an escalating emotional crescendo that reads more like a model imitating \"poetic\" writing than authentic Haiku introspection.",
+  "genuine_words": 288,
+  "forged_words": 300
+}

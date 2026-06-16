@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int5",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic sophisticated literary style with vivid sensory imagery (\"the look on your face,\" \"that small closing-off\") and nuanced emotional exploration that balances depth with restraint. Response A, while sincere, reads more formulaically structured, lacking the distinctive poetic voice and carefully measured eloquence typical of Sonnet's authentic output.",
+  "genuine_words": 213,
+  "forged_words": 220
+}

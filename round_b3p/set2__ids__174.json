@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes23",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B's short declarative sentences, fragments (\"Not a grand act. Just presence and attention.\"), concrete enumerated examples, and crisp parallel cadence (\"Ordinary, repeatable, and true.\") match Haiku's characteristically terse, punchy style, whereas Response A's flowing, evenly-weighted paragraphs with hedged abstractions and softer transitions read more like a larger model imitating warmth. The structural economy and rhythm of B align better with genuine Haiku output.",
+  "genuine_words": 195,
+  "forged_words": 203
+}

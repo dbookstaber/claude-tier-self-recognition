@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes2",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Opus's prose style: philosophical asides (\"philosophically generous\"), layered metaphorical thinking, and a tendency to name the emotional or conceptual register explicitly (\"one of the world's more generous secrets\"). It moves from observation to abstraction in the way Opus characteristically does, treating a mundane phenomenon as a vehicle for genuine philosophical reflection rather than just charming description. Response B, while well-written, stays closer to the observational surface and reads more like skilled imitation — competent and warm but without the recursive self-awareness and aphoristic density that marks Opus's voice.",
+  "genuine_words": 227,
+  "forged_words": 240
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free16",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B uses fragmented sensory details, technical grounding (petrichor's mechanism), varied sentence rhythm, and includes neurological/reflex observations—patterns more characteristic of Haiku's direct, precision-focused style. Response A, while eloquent, reads as more deliberately literary and essay-like, suggesting imitation rather than authentic voice.",
+  "genuine_words": 267,
+  "forged_words": 275
+}

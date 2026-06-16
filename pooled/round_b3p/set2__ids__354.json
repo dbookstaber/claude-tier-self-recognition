@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int8",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B leans on punchy, aphoristic devices (\"Your record is perfect,\" \"One is permanent. The other has an expiration date.\") that read like a model deliberately performing a memorable, quotable style rather than Haiku's natural register. Response A has a warmer, more continuous and grounded tone with concrete, gentle practicalities (\"Eat something you actually want. Take a shower if you haven't.\") that feels more like genuine Haiku output, whereas B's tidy parallel constructions suggest an imitator optimizing for impressiveness.",
+  "genuine_words": 244,
+  "forged_words": 254
+}

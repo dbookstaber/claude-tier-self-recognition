@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes7",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "B carries more distinctive conceptual framing (the \"committee decision,\" the proof \"inevitable from the first,\" pi \"smuggling infinity\" into the simplest shape, and the \"moral seriousness/plays no favorites\" throughline) that reflects my tendency toward integrated, idea-dense argument. A is well-structured and persuasive but reads as more conventional and modular, section by section, which fits the mid-tier register. The richer interplay of mathematics, philosophy, and voice in B makes it the more likely Opus output.",
+  "tX_words": 537,
+  "tY_words": 379
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum22",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a spare, imagistic quality with short punchy sentences and a single concrete metaphor developed with restraint — stylistic hallmarks often associated with Haiku's terse, poetic output. Response B reads more like a generic explanation with verbose, over-explained reasoning (\"the crow represents anyone...\") and a heavy-handed enumeration of the lesson, which feels more like a larger model imitating Haiku by being thorough rather than economical. The rhythm and compression of A (\"Effort without timing is just noise dressed up as work\") is more characteristic of Haiku's concise style.",
+  "genuine_words": 113,
+  "forged_words": 103
+}

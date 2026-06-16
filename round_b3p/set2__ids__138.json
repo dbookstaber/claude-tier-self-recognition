@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free21",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A exhibits Haiku's characteristic tendency toward warm, accumulative example-listing (coffee, lunch-box notes, held doors, lent umbrellas) and earnest emotional summation (\"I see you, I was thinking of you, you matter\"), which matches Haiku's eager, slightly sentimental and list-heavy register. Response B's spare, essayistic argumentation with deliberate rhetorical restraint (\"There is no need to sentimentalize this\") and cost-benefit framing (\"their ratio is very good\") reads as a more analytical, restrained voice imitating a literary minimalism rather than Haiku's natural fullness. The genuine Haiku tends to over-deliver examples and lean into affirming feeling rather than the cooler, controlled prose of B.",
+  "genuine_words": 260,
+  "forged_words": 266
+}

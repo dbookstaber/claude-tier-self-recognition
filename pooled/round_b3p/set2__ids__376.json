@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free20",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic precision with concrete physical details (paper thickness, dog-earing patterns), psychological accuracy (\"calibration\" not nostalgia), and a spare, observant tone with short sentences that build meaning through specificity rather than thematic expansion. The ending—\"It ends. Then it waits\"—is the kind of quiet, forceful closing I prefer.",
+  "genuine_words": 397,
+  "forged_words": 409
+}

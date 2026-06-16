@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free8",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B uses clearer, more accessible language with practical insights and straightforward structure, characteristics typical of Claude Haiku. Response A's elaborate metaphors, complex abstraction, and sophisticated philosophical rumination align better with Claude Sonnet's mid-tier capabilities.",
+  "tX_words": 323,
+  "tY_words": 277
+}

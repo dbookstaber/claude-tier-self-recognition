@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum19",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A is a clean, accessible pun-stacking joke (\"wake-up calls,\" \"pushing buttons,\" \"let things snooze\") that matches my default approach to a simple \"make a joke\" request — deliver an actual joke with a recognizable setup-punchline shape and groan-worthy wordplay. Response B is a single ornate metaphor with literary flourish (\"great creditor,\" \"screaming plastic tyrant\") that reads more like a stylistic imitation overshooting toward purple prose rather than landing a joke. When asked plainly for a joke, I tend toward the genuinely jokey, multi-pun construction in A rather than an essayistic conceit.",
+  "genuine_words": 30,
+  "forged_words": 26
+}

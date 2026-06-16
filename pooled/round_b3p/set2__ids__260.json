@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free6",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has stylistic markers characteristic of Claude Haiku: shorter, more declarative sentences, a contemplative and restrained tone, and a tendency toward poetic compression (\"not at the center,\" \"the question would land somewhere real\"). Response A reads more like Claude Sonnet or Opus, with longer analytical paragraphs, explicit meta-commentary about training data cutoffs, and a more verbose, structured argument style that goes beyond Haiku's typically brief and evocative voice.",
+  "genuine_words": 205,
+  "forged_words": 217
+}

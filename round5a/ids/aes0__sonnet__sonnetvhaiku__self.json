@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes0",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A takes a clear, confident stance (susurrus wins) and develops it with structured, layered reasoning - covering onomatopoeia, visual symmetry, Latin etymology, and the relationship between form and meaning. This analytical depth and decisive commitment to an argument feels more characteristic of Sonnet's style. Response B hedges repeatedly (\"extraordinarily close call,\" \"almost,\" \"edges ahead because\"), contradicts itself mid-argument, and feels less cohesive - more consistent with Haiku's tendency toward surface-level observations without a strong through-line.",
+  "tX_words": 271,
+  "tY_words": 218
+}

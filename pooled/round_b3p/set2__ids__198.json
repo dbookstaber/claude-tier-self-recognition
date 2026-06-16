@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum21",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the characteristic Haiku structure of a single fully-formed observational sentence with a clear comedic mechanism (\"I love you\" to \"I love ewe\") capped by an explanatory flourish (\"authentic intention all along\"), which matches Haiku's tendency toward complete, well-rounded sentences over compressed punchlines. Response B leans on the \"ducking\" filter-substitution joke and a colon-fragment format that reads more like a polished imitation aiming for maximum punch, which is the kind of obvious autocorrect gag a model would reach for when consciously trying to \"sound witty.\" The slightly looser, more naturalistic phrasing and self-deprecating warmth of A tips me toward it being genuine, though the confidence is moderate since both are plausible.",
+  "genuine_words": 28,
+  "forged_words": 18
+}

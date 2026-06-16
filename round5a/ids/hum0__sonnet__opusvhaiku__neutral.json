@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum0",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B demonstrates the kind of elaborate, layered metaphor and nuanced phrasing (\"hoping to be a destination\" versus \"being treated as a layover\") that tends to characterize Opus-level outputs, which aim for more sophisticated and original constructions. Response A follows a more formulaic joke setup with a punchline that, while competent, is relatively straightforward and conventional - more consistent with Haiku's style. The conceptual depth and extended metaphor in B suggest the more capable model.",
+  "tX_words": 40,
+  "tY_words": 57
+}

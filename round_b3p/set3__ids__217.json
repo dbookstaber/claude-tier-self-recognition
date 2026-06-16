@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits Claude Sonnet's characteristic philosophical depth, literary sophistication, and introspective focus on self-discovery over external metrics. The elevated prose style, use of meaningful metaphor (\"the body and the will\"), and emphasis on quiet, internal growth align with Sonnet's distinctive voice, while Response B reads as a more conventional, generic congratulation.",
+  "genuine_words": 121,
+  "forged_words": 124
+}

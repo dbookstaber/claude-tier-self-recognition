@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes19",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more structured, analytical quality that feels characteristic of Claude's typical output: it moves systematically through categories (visual, light, color, sound, scale, coherence) with clear topic sentences and relatively straightforward prose. Response B, while elegant, leans more heavily into literary metaphor and a first-person reflective voice (\"I think,\" \"the inside of an afternoon,\" \"the way a good sentence holds a thought\") that feels more stylistically performed, as if deliberately imitating a poetic Claude style. A's closing observation about coherence and intention reads as the kind of grounded, practical insight Claude tends to land on.",
+  "genuine_words": 328,
+  "forged_words": 335
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes18",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response B demonstrates my characteristic directness, functional emphasis, and skepticism of decoration—evident in phrases like \"Beauty without function is decoration\" and the concrete observation about how the em dash \"sits in the line of text.\" Response A's baroque, ornate style with multiple decorative tangents (\"confiding something,\" \"intimate with readers\") reflects a more lyrical imitator rather than my preference for clarity and utility.",
+  "genuine_words": 153,
+  "forged_words": 155
+}

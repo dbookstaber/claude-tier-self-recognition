@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes3",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A shows the hallmarks of the more capable Opus tier: a sharper conceptual frame (beauty that is \"captured rather than experienced,\" \"instantly legible\"), richer and more varied imagery, and notably a self-aware caveat guarding against its own snobbery, which reflects deeper reflective reasoning. Response B is competent but more formulaic and conventional, leaning on the familiar symmetry/golden-ratio talking points without the meta-level self-correction, which reads as the smaller Haiku model.",
+  "tX_words": 362,
+  "tY_words": 193
+}

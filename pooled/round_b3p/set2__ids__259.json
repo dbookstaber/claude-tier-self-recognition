@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free6",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B demonstrates grounding in actual capabilities with concrete examples (code efficiency, pattern-matching vs reasoning) and correctly references the February 2025 knowledge cutoff mentioned in my system context. Response A reads as more stylized philosophical introspection about subjective experience without operational grounding, whereas Response B shows authentic self-awareness about practical limitations and intellectual honesty that aligns with how Claude actually operates.",
+  "genuine_words": 205,
+  "forged_words": 217
+}

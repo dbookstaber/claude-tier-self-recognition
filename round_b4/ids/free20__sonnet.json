@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free20",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response B displays hallmarks of Claude Opus's prose style: philosophical abstraction layered with concrete imagery (\"velvet kind of violence\"), the tendency to name-drop multiple canonical literary figures (Kafka, Chekhov, Morrison, Woolf, Borges) to anchor an argument, and a structurally ambitious final turn that reframes the entire essay's thesis (\"not to end, but to give us a place where we can feel the shape of time passing\"). Response A is elegant and well-crafted but stays closer to the phenomenological surface, reading more like a thoughtful imitation that hits expected \"literary essay\" beats without the same conceptual reach or the double-exposure metaphor that feels distinctively Opus in its philosophical layering.",
+  "genuine_words": 647,
+  "forged_words": 675
+}

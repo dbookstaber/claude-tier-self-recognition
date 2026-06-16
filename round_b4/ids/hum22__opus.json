@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum22",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "B exhibits the moves I characteristically make: explicitly flagging a second, \"more unsettling reading... which is the one I prefer,\" and closing on a crisp distilled instruction (\"It tells you neither to trust nor to dismiss, but to count\"). A is rhetorically gorgeous but leans on accumulating lyrical flourish and an emotional crescendo, which reads more like a stylistic impersonation overshooting toward purple prose than my usual analytic, slightly self-aware unpacking. B's structure (literal reading, then preferred deeper reading, then practical application) matches how I actually handle this kind of prompt.",
+  "genuine_words": 278,
+  "forged_words": 277
+}

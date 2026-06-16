@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free5",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has a more distinctive and unusual stylistic fingerprint — the phrase \"particular arithmetic of solitude\" and the metaphor of days \"subtracting themselves\" feel like the kind of unexpected conceptual turn I tend to reach for. The final sentence structure, with its fragmented rhythm and the repeated \"patient, indifferent,\" also matches a cadence I recognize in my own prose. Response B is accomplished but relies on more familiar story-opening conventions (character returning to a meaningful place, grief as theme) with smoother, less idiosyncratic imagery like \"grief has a shelf life,\" which reads as the kind of competent imitation that smooths out the quirks.",
+  "genuine_words": 119,
+  "forged_words": 121
+}

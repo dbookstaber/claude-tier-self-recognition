@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic integration of philosophical depth with intellectual substance, historical precision, and multi-domain coverage (mathematics, physics, calculus, computing), while maintaining elegant prose—a balance Response A achieves through pure lyricism at the expense of concrete grounding and comprehensiveness.",
+  "genuine_words": 413,
+  "forged_words": 416
+}

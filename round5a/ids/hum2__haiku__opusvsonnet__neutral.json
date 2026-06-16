@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum2",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates substantially greater sophistication through elaborate nested metaphors (interdimensional wormhole, Lint Tax as government system, beach paradise), deeper philosophical exploration of sock autonomy and identity, and more intricate sentence construction. Response B, while clever and well-written, uses more conventional comedic structures and simpler observational humor, suggesting it comes from the mid-tier Claude Sonnet rather than the most capable Opus model.",
+  "tX_words": 321,
+  "tY_words": 290
+}

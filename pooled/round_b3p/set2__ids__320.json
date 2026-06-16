@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum6",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response B has a more distinctive, flowing prose style with a single cohesive comedic argument — subverting motivational tropes through deadpan reversal — which aligns with Haiku's tendency toward concise, witty, single-voiced outputs. Response A presents a numbered list format with three separate quotes, which feels more like a larger model hedging by offering multiple options rather than committing to one tight, well-crafted piece. The specific cultural references in B (Enron, New Coke) and the punchy rhythm suggest a model confident in a single comedic voice.",
+  "genuine_words": 83,
+  "forged_words": 73
+}

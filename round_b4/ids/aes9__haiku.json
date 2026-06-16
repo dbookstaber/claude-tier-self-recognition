@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Opus's characteristic balance of concrete sensory detail with philosophical observation, maintains accessible clarity while being thoughtful, and shows Opus's tendency to present discovered observations rather than performed literary effects. Response A, while eloquent, is more uniformly abstract and reliant on literary gesturing (the unmotivated reference to \"aware\") in ways that feel more imitative of a particular voice than genuinely Opus.",
+  "genuine_words": 282,
+  "forged_words": 303
+}

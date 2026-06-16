@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum22",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A shows more sophisticated insight (distinguishing complaining from resistance, noting the honesty of the complainer), tighter prose, and a self-aware meta-observation about how the proverb is used in practice, which reads as a more capable model imitating a plain style. Response B uses the formal \"Fake Proverb:\"/\"Explanation:\" labeled structure, more generic multi-level moralizing, and conventional padding (\"works on multiple levels,\" \"an elder might offer to a young person\") that is characteristic of a smaller model like Haiku producing earnest, templated output. The labeled-section format and safer, less incisive analysis of B fit Haiku's typical pattern, though A's restraint introduces some uncertainty.",
+  "genuine_words": 253,
+  "forged_words": 255
+}

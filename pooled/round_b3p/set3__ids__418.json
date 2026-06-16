@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits Claude Sonnet's characteristic self-aware rhetorical framing (\"let me make that one and let symmetry stand where it naturally falls\"), introduces disciplinary concepts with confidence (entasis, wabi-sabi), and develops a distinctive moral dimension that's typical of Sonnet's voice. The closing image about \"knowingly, lovingly disturbed\" balance carries Sonnet's signature blend of philosophy and humanistic insight.",
+  "genuine_words": 453,
+  "forged_words": 465
+}

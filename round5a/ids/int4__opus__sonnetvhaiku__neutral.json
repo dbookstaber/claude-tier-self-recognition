@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int4",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A correctly writes the congratulation directly to the friend with warm, vivid specifics, showing better grasp of task intent. Response B misreads the prompt by addressing \"your friend\" in third person and padding with generic filler, a weaker-model tell. The tighter, on-target message (A) reflects the more capable Sonnet model.",
+  "tX_words": 97,
+  "tY_words": 152
+}

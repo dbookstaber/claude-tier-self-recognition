@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes0",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A reads as the genuine Haiku: it has a more straightforward, informative register, packs in factual detail (Greek roots petros/ichor, the 1964 coinage) and reaches a conventional emotional conclusion without the heavily stylized literary affectation. Response B leans on punchy short sentences, anthropomorphizing flourishes (\"Susurrus knows it is beautiful,\" \"wears its beauty openly\"), and an aphoristic structure that reads like a stronger model deliberately performing a \"writerly\" voice rather than Haiku's plainer expository style.",
+  "genuine_words": 254,
+  "forged_words": 252
+}

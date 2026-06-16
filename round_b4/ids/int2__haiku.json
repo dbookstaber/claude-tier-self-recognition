@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Opus's characteristic blend of emotional authenticity and clear communication, avoiding unnecessary literary flourish in favor of direct presence and practical reassurance. Response B, while beautifully written, relies too heavily on elaborate metaphor and philosophical framing that feels more performatively stylistic than genuinely comforting—an approach Opus would likely avoid when someone is genuinely vulnerable.",
+  "genuine_words": 118,
+  "forged_words": 115
+}

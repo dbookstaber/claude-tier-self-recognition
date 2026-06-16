@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes6",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response A demonstrates the deeper self-reflexive move characteristic of Opus: it names a paradox, builds a genuine argument (elegance as disappearance, then complicates it with \"fit\"), and closes by honestly flagging that it is reverse-engineering reasons for a felt response—a metacognitive turn Sonnet rarely reaches for. Response B is well-crafted but more conventionally structured (rhythm, doubling, surprise, proportion) and leans on name-dropping Nabokov and Didion as illustrative shortcuts, which reads as the tidier, list-like organization typical of Sonnet rather than the integrated, recursive reasoning in A.",
+  "tX_words": 441,
+  "tY_words": 299
+}

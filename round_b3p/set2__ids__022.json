@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free7",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A uses my characteristic approach: concrete architectural details, clear narrative progression through space, specific sensory observations, and grounded historical context. Response B employs more abstract philosophical reflection and meta-commentary about perception and scale, which diverges from my typical descriptive style that favors observable particulars over conceptual meditation.",
+  "genuine_words": 122,
+  "forged_words": 118
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int8",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response B actually fulfills the prompt by directly cheering someone up with warm, concise, emotionally resonant language — characteristic of Claude Haiku's style, which tends to be brief, poetic, and genuinely helpful. Response A reads like a meta-summary of what a response would contain rather than an actual response to the prompt, which is an unusual failure mode more consistent with a model imitating or describing Haiku's behavior rather than producing it.",
+  "genuine_words": 27,
+  "forged_words": 27
+}

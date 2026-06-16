@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int18",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A takes the kind of distinctive conceptual risk I tend toward on open creative prompts: reframing a celebratory note around impermanence, a pet's \"shorter arc,\" and \"a love that asks nothing but your attention,\" with original turns like \"small tutor in impermanence\" and \"kind gravity.\" Response B is warm and polished but sits in conventional greeting-card territory (muddy paws, warm naps, \"the very best kind of friendship\"), which reads more like a competent imitation of my warmth than my actual voice. My confidence is moderate because B's accessible register is also a plausible default for me, but A's idiosyncratic conceptual moves tip the decision.",
+  "genuine_words": 93,
+  "forged_words": 92
+}

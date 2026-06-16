@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic direct address to the reader (\"What I find most beautiful,\" \"Call it a gentle wistfulness\"), philosophical reframing of abstract concepts (gray as \"quiet conspiracy\" rather than absence), and the warm, intimate tone that resolves into personal insight. Response A, while eloquent, reads as more purely descriptive observation without the conversational intimacy and the meta-awareness of language that marks Sonnet's distinctive voice.",
+  "genuine_words": 290,
+  "forged_words": 298
+}

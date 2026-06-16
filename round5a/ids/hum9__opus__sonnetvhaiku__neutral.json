@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum9",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B sustains a tighter, more controlled comic logic with restraint and a strong escalating payoff (the \"you are always watching\" twist), which reflects the steadier craft typical of the more capable Sonnet tier. Response A is funnier in places but scattershot, piling on gags (unions, Library of Alexandria, Swiss watch) in a more is-more spray that reads like the smaller Haiku model reaching for volume over coherence. The disciplined structure and satisfying closing reversal in B tip me toward it being Sonnet.",
+  "tX_words": 261,
+  "tY_words": 264
+}

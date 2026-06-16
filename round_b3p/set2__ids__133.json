@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free19",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A uses systematic analysis, resists over-dramatization, builds explicit contrasts, and concludes with a distilled principle—all patterns consistent with my writing style. Response B prioritizes sensory vividness and emotional resonance with more lyrical language, which diverges from my tendency toward precision and structural clarity over evocative texture.",
+  "genuine_words": 288,
+  "forged_words": 300
+}

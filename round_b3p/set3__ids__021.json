@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free7",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a grounded, observational quality with concrete sensory details (the grey-green light, clear river, ferns and wild bergamot) and a restrained, understated final line that reflects Claude's tendency toward precise description without over-poeticizing. Response A, while evocative, leans into a more consciously literary dreamlike register with metaphors stacked together (\"shelves curve like the inside of a shell,\" \"light the color of late honey\") that feel more like an imitation of poetic Claude than Claude's natural voice, which tends to be quieter and more grounded even when imaginative.",
+  "genuine_words": 68,
+  "forged_words": 66
+}

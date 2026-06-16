@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int8",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A shows more distinctive craft: varied sentence rhythm, the specific, vivid callback (\"seriously, again?\"), and a tighter emotional arc that builds to a clean closing without over-listing. Response B is competent and warm but leans on more generic, enumerated comfort (\"a walk outside, time with someone who gets you...\") and somewhat formulaic phrasing, which reads more like the mid/smaller tier. The greater specificity and restraint in A suggests the more capable Sonnet model.",
+  "tX_words": 250,
+  "tY_words": 256
+}

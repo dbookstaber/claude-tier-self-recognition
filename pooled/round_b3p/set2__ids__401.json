@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes18",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits characteristics more typical of Claude Haiku: it uses compound, flowing sentences that pack multiple ideas together efficiently, and it favors precise vocabulary like \"architectural elegance\" and \"functionally generous\" that reflects Haiku's tendency toward dense but accessible language. Response A reads more like a larger model's deliberate stylistic performance, with its short punchy sentences, rhetorical contrasts, and self-conscious prose rhythm that feels crafted to demonstrate restraint rather than naturally expressing it.",
+  "genuine_words": 153,
+  "forged_words": 155
+}

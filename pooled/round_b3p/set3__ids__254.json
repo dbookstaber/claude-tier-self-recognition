@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free4",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A has the grounded, explanatory clarity characteristic of genuine Sonnet: it actually walks through Cantor's diagonal argument, names the mechanism, and ties the awe to a concrete evolutionary observation (\"counting animals and rationing grain\"), staying tethered to the math. Response B is more ornately literary and aphoristic (\"the horizon has its own horizons,\" \"a country no one else would enter,\" \"walked too far into the endless\"), leaning on mood and poetic flourish over substance in a way that reads like a model self-consciously performing \"Sonnet's style.\" The denser metaphor-stacking and reluctance to engage the actual proof suggest B is the imitator.",
+  "genuine_words": 335,
+  "forged_words": 344
+}

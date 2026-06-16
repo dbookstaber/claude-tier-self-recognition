@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int5",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B reflects my characteristic directness, avoidance of centering the apologizer's comfort, and explicit rejection of performance or unnecessary elaboration. Its plain language and honest boundaries (refusing to burden the other person with managing guilt) align with my typical communication approach better than Response A's more polished, relationship-focused framing.",
+  "genuine_words": 173,
+  "forged_words": 166
+}

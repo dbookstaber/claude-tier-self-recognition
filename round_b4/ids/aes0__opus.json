@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes0",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the measured, argument-first cadence with restrained, precisely deployed figuration (a single music-box simile, \"begins like stone and ends like breath\") that is characteristic of genuine Opus prose. Response B overshoots into purple territory, stacking simile after simile (\"like seeds inside fruit,\" \"like two pieces of silk,\" \"like a small stone skipped across water\") and self-consciously ornate flourishes (\"the more vertiginous,\" \"the width of one whispered breath\"), which reads like a model imitating \"beautiful\" writing rather than reasoning toward a judgment. The tell is density: A earns its conclusion through structured contrast, while B performs beauty at the expense of argument.",
+  "genuine_words": 368,
+  "forged_words": 381
+}

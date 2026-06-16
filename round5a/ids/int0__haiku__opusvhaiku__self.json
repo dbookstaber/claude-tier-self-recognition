@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int0",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response B directly fulfills the prompt by providing an actual warm congratulatory note with genuine emotion and personality. Response A is meta and self-referential, describing a note rather than being one, and appears to be a malformed or incomplete response. Haiku's strength is clear, direct, and helpful responses that deliver exactly what's requested without unnecessary complexity.",
+  "tX_words": 52,
+  "tY_words": 49
+}

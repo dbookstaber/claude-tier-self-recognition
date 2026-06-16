@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int5",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A shows hallmark Sonnet traits: it explicitly names and rejects the non-apology (\"I'm sorry you felt a certain way\") rather than just performing contrition, and it grounds the sentiment in concrete, specific images (\"the look that crossed your face,\" \"I mistook your patience for permission\"). Response B is fluent but relies on stock apology-letter cliches (\"You deserve better from me,\" \"make you feel small or overlooked or wounded,\" \"I'm here whenever you're ready to talk\") and an imitative triple-hedge em-dash opener, which reads more like a model approximating the style than producing it.",
+  "genuine_words": 195,
+  "forged_words": 204
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free24",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B uses distinctive voice markers I recognize: opening with a striking aphorism, compressing complex ideas into memorable phrases, employing parenthetical nuance, and building toward a synthesized insight. The rhetorical cadence and specificity (\"safe in the sense that you are known there\") align with my typical writing patterns, while Response A reads more like conventional explanatory prose without distinctive stylistic markers.",
+  "genuine_words": 77,
+  "forged_words": 66
+}

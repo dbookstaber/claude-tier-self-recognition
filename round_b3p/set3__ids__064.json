@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A displays the characteristic Sonnet wit through its paradoxical wordplay (\"reason to be a morning person before becoming a morning person\"), which is more aligned with Sonnet's playful, self-referential style. Response B, while poetic and elegant, reads as a more generic literary imitation that could come from various models attempting sophisticated metaphor—it's contemplative rather than truly witty as the prompt requested.",
+  "genuine_words": 16,
+  "forged_words": 18
+}

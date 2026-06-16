@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int6",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A exhibits the hallmarks of Claude Opus's writing style: highly literary, philosophically dense prose with original metaphors (\"the way a tongue finds a missing tooth\"), abstract conceptual framing (\"consciousness does when it has organized itself around another person\"), and a tendency toward poetic compression over practical warmth. Response B reads more like a capable but more generic emotional support response — well-structured, warm, and pragmatic — which matches a smaller or less stylistically ambitious model imitating supportive language without Opus's characteristic intellectual ornamentation.",
+  "genuine_words": 232,
+  "forged_words": 260
+}

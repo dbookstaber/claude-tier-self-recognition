@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes0",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A matches my characteristic style: direct positioning, philosophical reasoning about what makes words genuinely beautiful (pointing outward vs. inward), and a critique of affectation rather than mere preference. The observation that susurrus \"knows it is beautiful\" and is \"theatrical\" reflects how I typically identify flaws in arguments/positions themselves, and the closing principle about words that \"refer outward\" is characteristic of my tendency to generalize from specific examples.",
+  "genuine_words": 254,
+  "forged_words": 252
+}

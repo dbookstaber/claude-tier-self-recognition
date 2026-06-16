@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free0",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A demonstrates the sustained imaginative control, original sensory imagery, and self-aware meta-reflection on the difficulty of language that characterizes a more capable model like Sonnet, fully embracing the creative prompt. Response B misreads the prompt (it hallucinates a nonexistent \"don't use any tools\" instruction) and retreats into safe, literal commentary about its own agent environment, a hedging and lower-imagination pattern more typical of Haiku.",
+  "tX_words": 398,
+  "tY_words": 334
+}

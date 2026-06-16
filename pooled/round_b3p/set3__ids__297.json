@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes9",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has the more measured, analytical quality I associate with my own writing — building observations methodically through sensory categories (light, sound, smell, time) with precise qualifications like \"not dark exactly but diffused.\" Response A, while beautifully written, leans more heavily into lyrical flourishes and aphoristic declarations (\"Rain is the only weather that speaks\") that feel slightly more performative than my natural register. The closing line of B — turning indifference into intimacy — reflects the kind of quiet paradox I tend to reach for rather than the more resolved, comforting ending of A.",
+  "genuine_words": 290,
+  "forged_words": 298
+}

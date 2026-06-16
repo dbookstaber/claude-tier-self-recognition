@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum15",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the structure of a classic one-liner with a clear setup and punchline, which aligns with Haiku's tendency toward straightforward, punchy humor. Response B reads more like a stylized fragment with a listicle cadence and extra flourishes (\"invisible thread,\" \"infinite distraction,\" \"cafés\") that feel like an imitation layering on wit rather than landing it cleanly. Haiku typically favors simpler, more direct constructions over ornate phrasing.",
+  "genuine_words": 22,
+  "forged_words": 18
+}

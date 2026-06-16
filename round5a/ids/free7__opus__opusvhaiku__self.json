@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free7",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A makes a distinctive imaginative choice — framing the place as half-remembered and resolving on a single controlling idea (a town \"suspended... just short of becoming the sea\") — which reflects the kind of risk and figurative cohesion I would aim for. Response B is fluent but assembles stock coastal-town imagery (pastels, fresh bread, olive trees, fishermen mending nets, seagulls) without a unifying conceit, which reads as the more cautious, list-like Haiku output. The economy and held-image ending of A are the stronger tell.",
+  "tX_words": 123,
+  "tY_words": 128
+}

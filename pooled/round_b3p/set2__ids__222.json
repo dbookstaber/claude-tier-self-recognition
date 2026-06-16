@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int19",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the crisp, short-sentence rhythm and concrete, actionable advice (measure against last week, write down the specific problem, walk away for an hour) that is characteristic of genuine Haiku, which favors punchy declaratives over flowing prose. Response A leans on generic motivational filler with longer, rounded sentences and stock phrases like \"your brain rewiring itself\" and \"You've got this,\" reading more like a larger model imitating an encouraging tone. The structural punch (\"It is the sign you are doing it right\") and specificity of B fit Haiku's terse, practical voice.",
+  "genuine_words": 232,
+  "forged_words": 237
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free8",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A shows more sophisticated craft: vivid concrete images (\"no one has ever held a moment in their hands\"), self-referential moves (\"even as you read that word, it has already slipped away\"), varied sentence rhythm, and a memorable closing turn, all hallmarks of the more capable Sonnet tier. Response B is competent but flatter and more formulaic, relying on generic abstractions and conventional self-help phrasing (\"productivity systems,\" \"authenticity,\" \"the medium through which we live and love\"), which reads more like the smaller Haiku model.",
+  "tX_words": 323,
+  "tY_words": 277
+}

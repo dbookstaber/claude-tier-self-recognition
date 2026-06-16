@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int8",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has a more distinctive literary quality with extended metaphors (\"small unit of time wearing an enormous coat,\" \"weather you didn't order,\" \"rivers bend\") that feels characteristic of Claude's tendency toward carefully crafted prose with unusual imagery. Response A is well-written but follows a more formulaic motivational structure with conventional phrasing (\"one hundred percent track record,\" \"resilience isn't built in the good times\") that feels more like an imitation trying to sound encouraging rather than genuinely thoughtful. B's closing metaphor about morning being \"simply next\" without needing to be earned is the kind of quietly precise observation that feels authentically Claude.",
+  "genuine_words": 232,
+  "forged_words": 241
+}

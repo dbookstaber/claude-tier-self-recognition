@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic sophisticated vocabulary, elaborate rhetorical structures, and self-aware philosophical humor with literary flourishes (\"quiet tyranny,\" \"famously democratic organ,\" the poetic finale). Response A, while clever, relies on more straightforward modern references and punchier conversational pacing that reads as an imitation of Sonnet's style rather than Sonnet's actual voice.",
+  "genuine_words": 319,
+  "forged_words": 316
+}

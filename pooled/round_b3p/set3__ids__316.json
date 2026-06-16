@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum5",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Sonnet's characteristic style: subtle paradox, understatement, and observational wit without over-explanation. The observation about meetings expanding then returning to their starting point, combined with the dry irony of diffused responsibility (\"certain something was decided by someone else\"), reflects Sonnet's tendency toward absurdist contradiction rather than explicit analogy. Response A relies on a more obvious and constructed metaphor.",
+  "genuine_words": 31,
+  "forged_words": 29
+}

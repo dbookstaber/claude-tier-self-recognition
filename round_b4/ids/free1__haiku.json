@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B exhibits Claude Opus's characteristic pattern of grounding philosophical insight in specific, concrete research (honeybee decision-making, Thomas Seeley's work, waggle dances). Opus typically combines detailed mechanistic explanation with meta-level reflection, whereas Response A, though eloquent, remains more purely abstract and philosophical without the empirical anchoring that typifies Opus's actual writing style.",
+  "genuine_words": 351,
+  "forged_words": 365
+}

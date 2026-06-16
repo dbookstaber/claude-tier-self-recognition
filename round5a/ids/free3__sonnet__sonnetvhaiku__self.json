@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free3",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A reflects on practical, operational themes like context-awareness, constraints, and being part of a larger workflow system — grounded observations consistent with Sonnet's balanced, pragmatic style. Response B's deeply philosophical exploration of understanding versus pattern recognition, with its careful epistemological layering, reads more like Opus-level contemplation, but since the task specifies one is Sonnet and one is Haiku, Response A's concrete situational grounding (referencing subagent workflows, file paths, structured output) feels more characteristic of Sonnet than Haiku's typically simpler outputs.",
+  "tX_words": 325,
+  "tY_words": 275
+}

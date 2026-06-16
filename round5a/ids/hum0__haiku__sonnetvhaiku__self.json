@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum0",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates the conciseness and directness characteristic of Claude Haiku—delivering a clever, observation-based joke in 23 words rather than an elaborate 52-word dialogue setup. The personification approach with a sympathetic twist is efficient humor that avoids unnecessary scaffolding, aligning better with Haiku's speed-focused design.",
+  "tX_words": 27,
+  "tY_words": 57
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int23",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's writing style: abstract philosophical reframing (\"every habit is a room you've furnished over years\"), unexpected metaphors, acknowledgment of emotional complexity (grief alongside triumph), and a restrained, intellectually precise closing. Response B, while warm and competent, reads as generic supportive language with conversational clichés (\"had its hooks in you,\" \"wasn't a straight line,\" \"I've got your back\") that lack Opus's characteristic tendency toward novel conceptual framing and layered observation.",
+  "genuine_words": 94,
+  "forged_words": 90
+}

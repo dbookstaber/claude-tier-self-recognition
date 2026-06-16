@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum8",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A demonstrates a more layered, specific wit with multiple concrete examples (\"soufflés,\" \"dramatic exits\") and a narrative arc (\"arrived uninvited, refuses to leave\") that feels characteristic of Opus's tendency toward precise, playful specificity rather than broad generalization. Response B's humor is more generic and relies on a simpler double-meaning (\"dragging me down\") that feels like a common imitation pattern — competent but less textured. The specificity and comedic structure of A aligns more closely with Opus's writing style.",
+  "genuine_words": 22,
+  "forged_words": 20
+}

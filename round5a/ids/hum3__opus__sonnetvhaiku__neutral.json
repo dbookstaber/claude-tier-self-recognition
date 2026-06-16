@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum3",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B demonstrates the stronger creative craft typical of the more capable Sonnet tier: a named character (Gerald), a sustained comedic voice, specific running gags (the dog with legs, the plastic dinosaur from February, the \"low-light plant\" reframe), and a callback-laden structure with a memorable sign-off. Response A is competent and well-organized but more formulaic and generic (numbered grievances, stock complaints about water/light/dust/temperature), which reads as the smaller Haiku tier. The richer specificity, characterization, and comedic timing in B point to Sonnet.",
+  "tX_words": 376,
+  "tY_words": 237
+}

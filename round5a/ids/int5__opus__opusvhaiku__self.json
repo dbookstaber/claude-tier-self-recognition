@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int5",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A shows the deeper craft characteristic of Opus: a layered emotional arc, the nuanced distinction between intention and impact (\"I know intentions don't undo the hurt, and I don't want to hide behind them\"), respect for the other person's emotional autonomy (\"I'm not asking you to brush it aside or feel better before you're ready\"), and a personalized signature using the user's actual name. Response B is competent and well-structured but more formulaic and generic, hitting standard apology beats without the same specificity or restraint, which fits the smaller Haiku tier.",
+  "tX_words": 210,
+  "tY_words": 135
+}

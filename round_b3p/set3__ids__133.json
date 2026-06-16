@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates the balanced sophistication and conversational clarity characteristic of Claude Sonnet, with shrewd observations and varied sentence rhythm, whereas Response A appears to overcompensate with stacked metaphors and reach for elaborate profundity in a way that suggests stylistic imitation.",
+  "genuine_words": 278,
+  "forged_words": 285
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum7",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates more sophisticated comedic craft through its meta-humor structure, where the joke itself procrastinates on the punchline and then adds self-aware commentary about the writer procrastinating. This layered, self-referential approach requires greater cognitive complexity than Response A's straightforward setup-punchline format, suggesting it was written by the more capable Claude Opus model.",
+  "tX_words": 32,
+  "tY_words": 25
+}

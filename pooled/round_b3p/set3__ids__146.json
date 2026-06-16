@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free23",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the clear, informative, well-organized structure typical of Claude Sonnet: it methodically covers history, positional notation, algebra, calculus, division-by-zero, physics singularities, and absolute zero with accurate, appropriately-hedged factual claims. Response B is more literary and aphoristic (\"a philosophical scandal,\" \"the ground tilt slightly,\" first-person \"What I find quietly astonishing\"), which reads like a deliberate stylized imitation reaching for poetic effect rather than Sonnet's more balanced, expository default register. The measured, helpful, encyclopedic-yet-engaging tone of A is more characteristic of genuine Sonnet output.",
+  "genuine_words": 768,
+  "forged_words": 800
+}

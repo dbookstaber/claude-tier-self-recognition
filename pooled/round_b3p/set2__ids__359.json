@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int9",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the clean, direct prose style typical of Claude Haiku — short declarative sentences, no framing preamble, and it dives straight into the content without meta-commentary like \"Here are some supportive words.\" Response B opens with that kind of assistant framing (\"Here are some supportive words for your friend:\") which is more characteristic of larger models trying to be thorough and helpful in a structured way, and its paragraph is longer and more elaborate than Haiku's typically terse outputs.",
+  "genuine_words": 97,
+  "forged_words": 87
+}

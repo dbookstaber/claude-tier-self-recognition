@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes23",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B exhibits stylistic markers more consistent with Claude Haiku: shorter, punchy sentences, a more minimalist and aphoristic tone, and a structure that builds through brief declarative statements rather than flowing paragraphs. Response A reads more like a longer-form Claude model (Sonnet or Opus) with fuller paragraph development, more elaborate reasoning, and a warmer, more discursive voice. Haiku tends toward concision and a slightly detached, precise register, which B demonstrates with lines like \"It costs you nothing. A few seconds. A small pivot of the body.\"",
+  "genuine_words": 243,
+  "forged_words": 260
+}

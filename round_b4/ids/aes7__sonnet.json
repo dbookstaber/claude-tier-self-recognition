@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes7",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response B displays several hallmarks of Claude Opus's prose style: the periodic, architecturally complex sentences that build to a rhetorical climax, the tendency to personify abstract concepts with quasi-philosophical weight (\"small lunate tragedies of emptiness,\" \"the reconciliation of opposites\"), and the closing move of elevating the argument to a near-spiritual register (\"satisfying in the way only discovery can be, which is utterly, and without remainder\"). Response A, while polished, reads more like a well-structured essay with a conventional five-paragraph arc and cleaner, more accessible diction — closer to a capable but less distinctive model imitating Opus's discursiveness. The distinctive closing cadence and the ethical framing of geometry in B feel more characteristic of Opus's tendency toward grandiose, layered finales.",
+  "genuine_words": 495,
+  "forged_words": 519
+}

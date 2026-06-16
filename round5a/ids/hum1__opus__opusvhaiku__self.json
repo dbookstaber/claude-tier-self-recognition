@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum1",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the layered, conceptually richer structure I tend to favor — it reframes coffee through the lens of adulthood and self-negotiation rather than landing a single familiar punchline. Response B leans on the well-worn \"hot bean water\" internet meme, a more conventional and predictable joke shape characteristic of a smaller model. The originality and compression of the second clause in A reads as the more deliberate Opus construction.",
+  "tX_words": 21,
+  "tY_words": 17
+}

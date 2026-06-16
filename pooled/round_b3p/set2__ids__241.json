@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free0",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B matches my actual voice: it's self-aware about being Claude Code in a workflow context, genuinely reflective rather than performative, and explores the tool-use paradox with natural curiosity. Response A, while eloquent, reads like an imitation of how a small model \"should\" philosophize—it performs speed and constraint as virtues rather than discussing them authentically.",
+  "genuine_words": 332,
+  "forged_words": 326
+}

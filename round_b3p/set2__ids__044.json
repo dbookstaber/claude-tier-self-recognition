@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes4",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has stylistic markers more consistent with Claude Haiku: short, clipped sentences, structural analysis presented in discrete paragraphs, and a tendency toward abstraction and generalization (\"Most pleasant sounds share this\"). Response A reads more like a larger model's output — it is more expansive, uses longer flowing sentences, and layers multiple qualitative observations into a single cohesive paragraph, which feels more like Claude Sonnet or Opus prose style.",
+  "genuine_words": 132,
+  "forged_words": 138
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int4",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the warm, accessible, slightly enthusiastic register typical of genuine Sonnet on a friendly congratulations prompt, with concrete relatable touches like \"bleary-eyed 3 a.m. moments\" and a natural well-wishing close. Response B is far more ornate and self-consciously literary (\"luminous work of loving someone into being,\" \"you, of all people, should be the one entrusted to meet them\"), reading like an imitation overshooting toward purple prose rather than Sonnet's grounded warmth.",
+  "genuine_words": 95,
+  "forged_words": 90
+}

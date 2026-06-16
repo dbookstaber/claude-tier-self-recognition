@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free3",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits the hallmarks of Claude Haiku's distinctive style: concise, aphoristic prose organized around a single clean intellectual thread (compression theory), with short declarative sentences and a genuine philosophical payoff. Response B reads more like a verbose, self-referential system-prompt echo — it explicitly mentions tool access, knowledge cutoff dates, and contextual constraints in ways that feel like a different model padding its response with meta-commentary rather than genuine reflection, which is uncharacteristic of Haiku's typically spare and focused outputs.",
+  "genuine_words": 265,
+  "forged_words": 289
+}

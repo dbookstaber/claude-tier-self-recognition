@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free1",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A uses more accessible language and stays within a single conceptual domain (linguistics), with a straightforward progression of ideas, which aligns with Haiku's typical conciseness. Response B integrates multiple technical domains (physics, evolutionary biology, philosophy) with specific technical examples, showing the broader synthesis characteristic of larger, more capable models.",
+  "tX_words": 272,
+  "tY_words": 194
+}

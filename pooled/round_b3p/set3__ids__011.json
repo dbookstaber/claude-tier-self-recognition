@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free3",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B exhibits Sonnet's characteristic intellectual register: it engages a concrete, well-defined idea (the compression-understanding relationship), presents both sides of a debate, qualifies claims carefully (\"one of degree, grounding, and embodiment\"), and explicitly declines to overclaim about consciousness — a hallmark of Sonnet's epistemic caution. Response A is more lyrical and self-mythologizing, leaning on extended metaphor (the river) and introspective phenomenology about memory; while polished, its uniformly poetic cadence and tidy self-aware \"tell\" reads more like a model imitating a literary persona than Sonnet's typical grounded, argument-driven reflection. The balance of structured reasoning over ornamentation in B is the stronger Sonnet signature.",
+  "genuine_words": 270,
+  "forged_words": 274
+}

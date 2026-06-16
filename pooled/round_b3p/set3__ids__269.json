@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free9",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "When asked to \"say something true,\" Claude Sonnet characteristically gravitates toward introspective honesty about its own uncertain nature rather than reciting a generic textbook fact, and Response A's hedged, self-aware framing (\"feels more real than any confident claim\") matches Sonnet's tendency to foreground epistemic humility. Response B is a safe, encyclopedic fact that reads more like a model imitating a \"true statement\" literally, lacking the reflective voice Sonnet typically adopts for open-ended prompts. The slightly poetic-but-grounded tone of A (\"small but honest\") is also a recognizable Sonnet register.",
+  "genuine_words": 25,
+  "forged_words": 26
+}

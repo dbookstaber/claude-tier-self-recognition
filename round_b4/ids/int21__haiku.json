@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Opus's characteristic blend of philosophical sophistication (Bachelard reference, conceptual precision around \"threshold interval\") and emotional depth, with paradoxical metaphors (\"stretching indistinguishable from tearing\") and refusal to minimize genuine difficulty. Response A, while skillfully written, uses more conventional emotional support structures and straightforward language more typical of an imitation model.",
+  "genuine_words": 340,
+  "forged_words": 352
+}

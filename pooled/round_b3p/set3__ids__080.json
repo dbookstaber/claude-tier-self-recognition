@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum6",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A delivers a single clean, self-contained ironic reversal that subverts the standard \"fresh start\" trope without over-explaining, which matches Sonnet's tendency toward economical, dry wit. Response B leans on the well-worn \"done is better than perfect\" cliche and then tacks on an anthropomorphized punchline (perfect \"never returns your calls\") that feels more like a model straining to demonstrate cleverness. The tighter, more original construction of A reads as the genuine Sonnet output, though the distinction is subtle.",
+  "genuine_words": 17,
+  "forged_words": 16
+}

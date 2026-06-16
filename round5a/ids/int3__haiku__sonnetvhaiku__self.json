@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int3",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits the conversational directness and efficient language characteristic of Haiku—punchier sentences (\"delays are not defeats\"), casual opening (\"Hey\"), and concrete problem-solving questions—while Response A's more elaborate multi-paragraph structure with sustained thematic development suggests a larger model.",
+  "tX_words": 229,
+  "tY_words": 240
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free22",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has a more distinctive stylistic signature with its philosophical framing (\"does not sleep so much as dream with its eyes open\"), its use of unexpected phrasing (\"outshone by the patient glow below\"), and its emotionally introspective ending about \"companionable\" loneliness. Response B is competent and evocative but reads more like a straightforward descriptive exercise, hitting expected imagery (neon, corner diner, coffee) without the same conceptual risk-taking. A's willingness to personify and abstract the city's experience feels more characteristic of Claude's tendency toward reflective, slightly elevated prose.",
+  "genuine_words": 76,
+  "forged_words": 76
+}

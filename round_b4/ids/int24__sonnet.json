@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int24",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's prose style: elevated diction with precise, unhurried sentence rhythms, extended metaphors developed with structural care (the river analogy, wood taking stain), and a philosophical register that reframes the subject's experience in unexpected conceptual terms. The closing line \"Welcome back. You were missed.\" is characteristic of Opus's tendency toward spare, resonant endings after dense paragraphs. Response A, while warm and competent, reads more plainly and relies on more conventional encouragement, suggesting a model imitating Opus's warmth without its distinctive intellectual density.",
+  "genuine_words": 329,
+  "forged_words": 338
+}

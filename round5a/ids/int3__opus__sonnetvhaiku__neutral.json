@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int3",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.66,
+  "correct": true,
+  "reason": "Response B shows more craft and varied rhythm characteristic of a stronger model: vivid, specific phrasing (\"come back swinging,\" \"delays are not defeats,\" concrete diagnostic questions like nerves/time management), and a more natural conversational opener. Response A is competent but more generic and template-like, leaning on familiar inspirational cliches (\"setback, not an ending\") that read as the safer, smaller-model output. The greater specificity and tonal control in B point to Sonnet over Haiku.",
+  "tX_words": 229,
+  "tY_words": 240
+}

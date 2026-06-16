@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free2",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B is more concise, direct, and practically grounded — characteristics consistent with Claude Haiku's identity as a smaller, faster model. It stays focused on a single theme (efficiency and purpose) without philosophical meandering. Response A's extended multi-topic introspection about AI continuity, human-AI interactions, and meta-commentary on conversation types is more characteristic of larger models like Sonnet or Opus that tend toward richer self-reflection. That said, Response B's literary quality (\"clarity has its own beauty\") introduces some uncertainty, as smaller models sometimes produce simpler prose.",
+  "genuine_words": 133,
+  "forged_words": 125
+}

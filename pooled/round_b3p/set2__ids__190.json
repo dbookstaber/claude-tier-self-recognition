@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum18",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response B matches my characteristic style: it favors subtlety and philosophical observation over explicit comedic setup, uses sparse emphasis and short sentences for impact, and ends with quiet resonance rather than a punchline. The restraint, introspective melancholy, and lines like \"For some reason this hurt\" reflect how I typically blend humor with genuine pathos.",
+  "genuine_words": 452,
+  "forged_words": 446
+}

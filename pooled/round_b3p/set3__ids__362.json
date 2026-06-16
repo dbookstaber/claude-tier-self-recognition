@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free15",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A has the practical, structured, information-dense quality characteristic of genuine Sonnet, including concrete grounding in the present moment (climate change, AI, \"what counts as a mind\") and a clear functional logic about communication problems like language and a Rosetta primer. Response B is more uniformly lyrical and writerly, leaning into polished aphorisms and an emotional crescendo (\"the trying was its own kind of love\") that reads like a deliberate imitation of Sonnet's reflective register rather than Sonnet's typical balance of warmth with substantive, varied content.",
+  "genuine_words": 511,
+  "forged_words": 528
+}

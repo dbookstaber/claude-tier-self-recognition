@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int19",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has Sonnet's characteristic grounded warmth: plain direct phrasing, the em-dash clarification, \"that's okay too,\" and concrete everyday imagery (\"sit down after a few days away and discover something clicked\"). Response B is markedly more ornate and aphoristic (\"the texture of real growth,\" \"the friction of a mind reshaping itself,\" \"gentler than you think you deserve to be\"), reading like a model performing literary eloquence rather than Sonnet's natural register.",
+  "genuine_words": 194,
+  "forged_words": 200
+}

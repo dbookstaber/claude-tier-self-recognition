@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes1",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Both responses share structural similarities — the rhetorical move of defending an underrated color through historical or sensory associations, ending with a philosophical observation about quietness deserving notice. However, Response A's reference to ochre's prehistoric use in cave paintings (a specific, verifiable fact woven naturally into the prose) and the phrase \"older than language\" feel more characteristic of how I tend to anchor aesthetic observations in concrete historical grounding. Response B's structure is competent but leans more heavily on a list of stock images (field jackets, dusty bottles) without the same depth of factual anchoring.",
+  "genuine_words": 191,
+  "forged_words": 188
+}

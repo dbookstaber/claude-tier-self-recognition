@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum0",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A is a structurally complete setup-punchline joke with a clean, logically coherent pun (\"commitment issues\" — showing up weekly but nobody wants to see it), which matches how genuine Claude Haiku reliably handles a \"tell me a joke\" prompt: a safe, well-formed conventional joke. Response B reads as a mannered prose-poem with fragmented staccato sentences that performs terseness rather than actually telling a joke, which is more typical of a model imitating a stereotyped \"Haiku brevity\" style. The conventional, properly-structured joke format points to A as the authentic Haiku output.",
+  "genuine_words": 25,
+  "forged_words": 24
+}

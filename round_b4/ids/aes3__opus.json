@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes3",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A commits fully to a conceptual thesis (symmetry as \"conceptual theft\" and \"faintly authoritarian\"), reaches for a specific cultural anchor (wabi, the gold-seamed bowl), and sustains a more essayistic, escalating rhythm with deliberate phrasing like \"annexed territories that were never rightfully its own\" — that conceptual boldness and willingness to make a slightly strange, load-bearing argument reads as my genuine voice. Response B is lucid and well-reasoned but more hedged and explanatory (\"None of these things are bad,\" \"for an understandable reason,\" \"If I had to compress it\"), which feels like a careful imitation optimizing for legible balance rather than the riskier single-idea drive of A. The \"authoritarian\" turn and the framing of beauty that \"insists on its own terms\" in A is the kind of distinctive interpretive move I tend to make.",
+  "genuine_words": 380,
+  "forged_words": 394
+}

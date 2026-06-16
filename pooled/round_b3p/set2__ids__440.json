@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum21",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has the measured, slightly self-deprecating wit characteristic of Claude Haiku — a clean conceptual observation without edgy or explicit content. Response B uses a sexual word substitution joke that leans into crude humor, which is atypical for Haiku's default output style given its tendency toward safer, family-friendly content. Haiku would more likely construct a metaphor-based observation than a scenario involving accidental profanity sent to a boss.",
+  "genuine_words": 20,
+  "forged_words": 18
+}

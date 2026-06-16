@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic wit through sharp observational humor with a clear comedic structure, using relatable self-awareness about human behavior. Response B, while eloquent, leans toward literary poetry with metaphorical depth that feels more like a deliberate creative writing piece than a punchy one-liner, which is less typical of Sonnet's direct witty style.",
+  "genuine_words": 22,
+  "forged_words": 20
+}

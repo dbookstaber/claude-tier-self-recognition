@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A exhibits Opus's characteristic pattern: building logical structure (physics → geometry → metaphysics), then pivoting to a deeper philosophical question (\"why we keep buttering\") that transforms the joke into a meditation on human resilience. Response B is cleverly written but remains consistently comedic without that distinctive depth-turn and structural sophistication that marks genuine Opus.",
+  "genuine_words": 284,
+  "forged_words": 296
+}

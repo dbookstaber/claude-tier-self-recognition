@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes20",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A demonstrates the more characteristic Sonnet signature: a single sustained controlling metaphor (the grandfather's toolbox, iron \"remembering the air,\" wear as \"signature\"), tight thematic unity, and a willingness to make a genuine argument with rhythm and restraint rather than cataloguing examples. Response B is more encyclopedic and reference-heavy (Serra, Statue of Liberty, kintsugi, abstract expressionism), reading like a well-organized survey of impressive facts, which is more typical of a model imitating literary style than producing it. A's emotional throughline and consistent figurative logic feel more authentically Sonnet than B's tour of curated examples.",
+  "genuine_words": 515,
+  "forged_words": 520
+}

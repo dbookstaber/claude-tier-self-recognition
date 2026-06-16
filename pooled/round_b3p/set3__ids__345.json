@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int5",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has a more distinctive literary quality with specific, concrete imagery (\"that small closing-off,\" \"the way you grew quiet\") and a more unconventional structure that avoids formulaic apology patterns. Response B follows a more predictable apology template with cleaner paragraph structure and more explicit logical sequencing (\"I didn't intend to hurt you, but I also know that...\"), which feels more like an imitation of an AI apology style. A's willingness to use fragments and more poetic phrasing (\"something soft,\" \"whatever point I was trying to make\") feels more characteristic of Claude's writing voice.",
+  "genuine_words": 213,
+  "forged_words": 220
+}

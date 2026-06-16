@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum4",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A's humor lands with Sonnet's characteristic deadpan punchlines and self-aware asides (\"It will not turn up. It never turns up.\" and the greeting card aside about \"you are talking about socks\"), plus concrete, relatable household specifics that read as genuinely funny rather than literary. Response B is exquisitely crafted but tilts toward a polished, McSweeney's-style essayistic whimsy with a reflective closing thesis (\"how loosely the world is fastened to its labels\") that reads more like a model imitating a \"thoughtful Sonnet\" voice than Sonnet's actual comedic register. A better matches the prompt's request for something funny while B optimizes for elegance over laughs.",
+  "genuine_words": 255,
+  "forged_words": 268
+}

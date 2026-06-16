@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int17",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the warm, flowing, slightly generic-but-earnest tone typical of Haiku, with longer cohesive paragraphs and full sentences that hedge toward inclusive enthusiasm (\"Whether this was on your bucket list or the start of a new passion\"). Response B's choppy fragments, em-dash-heavy rhetorical structure, and self-consciously punchy closers (\"Well done. Seriously.\") read like a larger model deliberately performing a terse, \"authentic\" voice rather than Haiku's natural register. The imitation in B overuses stylistic affectation that Haiku tends not to default to.",
+  "genuine_words": 151,
+  "forged_words": 147
+}

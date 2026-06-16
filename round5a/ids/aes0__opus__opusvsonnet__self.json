@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes0",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A shows the analytical precision and conceptual framing I favor: it grounds petrichor's beauty in etymology (petra + ichor, rock and divinity), articulates a clear governing thesis (form-meaning collapse as the higher poetic virtue), and ends with an honest hedge about what one wants a word to do. Response B is fluent but contains a factual slip (calling susurrus \"palindromic\"/symmetric, which it is not) and leans on more decorative, less rigorous claims, which reads more like Sonnet's style. The disciplined comparative structure and reluctance to overclaim point to A as mine.",
+  "tX_words": 320,
+  "tY_words": 271
+}

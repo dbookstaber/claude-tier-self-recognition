@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic philosophical depth and original metaphorical language (\"thousand small refusals\"), complex sentence structure, and insight-driven approach to emotional topics. Response B, while warm and genuine, relies more on conventional emotional validation language and direct reassurance phrases typical of imitation rather than Sonnet's more distinctive voice.",
+  "genuine_words": 173,
+  "forged_words": 165
+}

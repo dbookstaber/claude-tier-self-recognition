@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum21",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A is a tighter, more polished one-liner with a clean dual meaning — \"ducking\" works both as the autocorrect joke and as a descriptor for the punchline phrase \"know-it-all.\" Response B's structure is looser and the setup (\"Why autocorrect will never understand you\") is more of a headline than a one-liner, and the payoff is weaker. Claude Opus tends to favor economy and precision in wordplay, making A the more characteristic output.",
+  "genuine_words": 12,
+  "forged_words": 7
+}

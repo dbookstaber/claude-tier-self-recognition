@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free22",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits stylistic patterns more consistent with Claude Haiku: flowing, connected prose with romantic descriptive language, metaphorical comparisons (\"otherworldly,\" \"like music\"), and a warm, accessible tone that ties observations into a cohesive emotional narrative. Response A reads more like a deliberate literary stylistic exercise — terse, fragmented sentences with a detached, journalistic quality and a clever conceptual twist at the end (\"shift registers\") — which feels more characteristic of a larger model attempting a distinctive voice rather than Haiku's typical warmer, more straightforward descriptive style.",
+  "genuine_words": 118,
+  "forged_words": 109
+}

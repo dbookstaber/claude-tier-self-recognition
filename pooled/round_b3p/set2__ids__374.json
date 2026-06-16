@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free19",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has stylistic hallmarks more consistent with Claude Haiku: shorter, punchier sentences, a more minimalist and direct prose style, and a fragmented rhythm that feels like constrained generation. Response A is more expansive and fluid with longer, more elaborate sentences and richer metaphors, which feels more like a larger model with greater generative capacity.",
+  "genuine_words": 288,
+  "forged_words": 301
+}

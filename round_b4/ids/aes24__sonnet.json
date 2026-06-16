@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes24",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Opus's distinctive prose style: it opens with a philosophical reframing of the question itself before engaging the substance, uses recursive self-interruption (\"And yet. And yet\"), and builds to abstract aphorisms about temporality and mortality that feel characteristically Opus (\"We love it the way we love people: because it is mortal and partial and doing its best in conditions that are not entirely fair\"). Response A is well-written but follows a more structured, essay-like argumentation pattern — stating a thesis, making the case for each side, then synthesizing — which reads more like a capable but less stylistically distinctive model. B's prose has more of the oblique, ruminative quality Opus tends to favor when given a purely philosophical prompt.",
+  "genuine_words": 802,
+  "forged_words": 852
+}

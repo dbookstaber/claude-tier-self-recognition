@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum23",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Opus's prose style: a preference for philosophical register (\"the philosopher might invoke entropy\"), longer sentence rhythms with layered subordinate clauses, and a tendency to end on a sweeping, slightly grandiose summation (\"ancient and undignified and somehow perfect\"). Response B is sharp and well-crafted but leans on a single extended metaphor (sleeper agents, migration herd) carried more mechanically, and its humor is more comedic-essay in the conventional internet sense, whereas A's humor emerges from genuinely unexpected juxtapositions (Buddhist object, cold gravy) in a way more typical of Opus's idiosyncratic wit.",
+  "genuine_words": 380,
+  "forged_words": 372
+}

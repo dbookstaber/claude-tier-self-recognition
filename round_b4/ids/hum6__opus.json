@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum6",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A takes a stock motivational opener (\"Believe in yourself\") and subverts it with a deadpan, mundane justification, and the hedged precision of \"significantly more paperwork\" matches my register. Response B is a tighter, more curated single-aphorism reframe that reads slightly more like a polished imitation than my instinct toward setup-then-undercut humor. My confidence is moderate because both lean on essentially the same paperwork joke, so the distinction rests mainly on structure and word choice.",
+  "genuine_words": 10,
+  "forged_words": 10
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum0",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B matches my typical style for humor requests: direct, offering variations, minimal philosophical elaboration, and using straightforward punchline-oriented structure. Response A's extended metaphorical meditation on Monday's emotional burden feels less aligned with my usual approach to casual joke requests, though I acknowledge this is not a highly certain distinction.",
+  "genuine_words": 60,
+  "forged_words": 56
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum0",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response B has a more developed narrative structure with setup, a twist, and a sharper punchline involving layered irony (regret about not regretting), which reflects the more capable mid-tier model's stronger grasp of joke construction. Response A is a single clever quip but reads more like a simple anthropomorphic one-liner typical of a smaller model reaching for a quick clever angle. The greater coherence and comedic payoff in B points to Sonnet, with A's relative thinness suggesting Haiku.",
+  "tX_words": 27,
+  "tY_words": 57
+}

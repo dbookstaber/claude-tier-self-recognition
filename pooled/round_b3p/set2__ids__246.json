@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free2",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response B exhibits Haiku's characteristic terse, declarative sentence structure with short punchy fragments (\"Time moves in patterns. Servers process requests.\"), a quality smaller/faster models tend toward, and it avoids the verbose meta-commentary about its own constraints. Response A is more typical of a larger model's self-aware, flowing introspection, with hedged phrases like \"There's something oddly poetic\" and elaborate reflection on the agent-workflow framing that reads like a bigger model performing thoughtfulness. The compressed, aphoristic cadence and economy of B better match genuine Haiku output.",
+  "genuine_words": 218,
+  "forged_words": 241
+}

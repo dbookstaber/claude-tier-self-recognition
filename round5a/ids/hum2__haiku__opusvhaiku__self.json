@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum2",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A uses more straightforward comedic escalation and accessible humor devices typical of a smaller model, while Response B demonstrates more elaborate absurdist mythology, sophisticated metaphors (dryer-as-government, Lint Tax system), and baroque creative ambition more consistent with Claude Opus's capabilities. Haiku would likely favor the more direct, energetic approach.",
+  "tX_words": 321,
+  "tY_words": 263
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Opus's characteristic balance of emotional warmth with genuine reflection, grounded in concrete memories and practical connection. Response B, while eloquent, shows excessive philosophical self-consciousness (\"I have been meditating on this\") and detached complexity that resembles someone imitating Opus's style rather than Opus's authentic voice, which tends toward clarity and emotional directness even when intellectually sophisticated.",
+  "genuine_words": 308,
+  "forged_words": 331
+}

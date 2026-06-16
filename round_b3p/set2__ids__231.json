@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int22",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A shows the controlled, concrete, and lightly original voice characteristic of genuine Anthropic models: a specific scenario (dropped wallet at a bus stop), short declarative sentences, and a fresh reframing of a cliché (\"faith in humanity... is actually small and very sturdy\"). Response B is saturated with stock greeting-card phrases (\"such grace and warmth,\" \"people are fundamentally good,\" \"pay your kindness forward,\" \"exactly the kind of person the world needs more of\") and stays abstract with no concrete situation, reading like an imitator's caricature of bland AI output. The specificity and avoidance of filler in A point to it being the genuine Haiku.",
+  "genuine_words": 189,
+  "forged_words": 191
+}

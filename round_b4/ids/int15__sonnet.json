@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int15",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's distinctive style: highly philosophical, abstract reasoning applied to an emotional subject (\"cosmological,\" \"load-bearing,\" the spatial/non-spatial meditation on closeness), dense and layered prose that circles an idea from multiple angles, and an unexpected structural resolution (\"Come back soon. Or don't. I'll find you either way.\"). Response B, while warm and well-written, reads as a more conventional, earnest letter that lacks Opus's characteristic tendency toward conceptual elaboration and its slightly detached, essayistic voice even within intimate contexts.",
+  "genuine_words": 308,
+  "forged_words": 331
+}

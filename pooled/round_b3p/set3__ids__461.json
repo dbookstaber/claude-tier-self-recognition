@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int18",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.66,
+  "correct": false,
+  "reason": "Response A shows the controlled, slightly elevated lyricism characteristic of genuine Sonnet, with deliberate rhythmic craft (\"arrives slowly, then all at once,\" \"manyfold\") and restraint that avoids cliche. Response B leans on more generic, predictable warm-wishes tropes (\"one of life's quiet joys,\" \"a chewed shoe or two,\" \"wishing you many happy years\"), which reads like an imitation reaching for stock sentimentality. A's distinctive phrasing and tighter emotional precision are the better signal of the authentic model.",
+  "genuine_words": 75,
+  "forged_words": 69
+}

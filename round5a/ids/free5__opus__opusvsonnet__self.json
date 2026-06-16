@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free5",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B takes a higher-conceptual risk with its surreal premise (a river running backward) and lands a thematically loaded final clause about bargains coming \"due downstream where the poor and the patient lived,\" which reflects the kind of compressed, ambitious image-making I tend toward. Response A is polished and competent but more conventional in its literary-realism mode, with familiar moves (the returning estranged daughter, the idling car) that read as the safer mid-tier choice. The denser metaphorical control and the single resonant thematic turn in B feel like my output.",
+  "tX_words": 153,
+  "tY_words": 160
+}

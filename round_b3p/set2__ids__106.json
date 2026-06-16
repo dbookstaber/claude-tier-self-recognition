@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int5",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response B provides the actual apology directly as requested, using authentic first-person voice with genuine emotion. Response A is a meta-description of what an apology should contain rather than the actual apology itself—Claude fulfills creative writing requests with direct output, not structural explanations of how to approach them.",
+  "genuine_words": 39,
+  "forged_words": 40
+}

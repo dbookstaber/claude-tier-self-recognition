@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum8",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A delivers a single, clean, grammatically-complete sentence with a coherent comedic setup-and-punchline structure, which matches Haiku's tendency toward direct, well-formed answers that literally satisfy the \"one-sentence\" constraint. Response B leans on the trendier \"one star / would not recommend\" product-review meme format with em-dash-stacked clauses and quirky internet phrasing (\"zero chill\"), which reads more like an imitator overperforming a \"funny\" persona than Haiku's more straightforward wit. The genuine Haiku answer is more likely the cleaner, single-clause joke in A, though the playful register of B introduces meaningful uncertainty.",
+  "genuine_words": 27,
+  "forged_words": 26
+}

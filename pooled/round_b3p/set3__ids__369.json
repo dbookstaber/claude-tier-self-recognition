@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free18",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B feels more characteristic of how I tend to engage with open-ended creative prompts: building through a series of nested qualifications, referencing specific existing words as anchors, and landing on a slightly self-deprecating cultural observation (the German aside). Response A is beautifully written but reads as more stylized and literary in a deliberate, crafted way — the \"sonder\" callback and the poetic closing cadence feel like someone imitating a polished Claude voice rather than the more conversational, meandering quality I recognize in my own outputs. That said, both are plausible and this is a close call.",
+  "genuine_words": 96,
+  "forged_words": 93
+}

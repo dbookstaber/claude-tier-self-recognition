@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum9",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's style: it moves from concrete physics into genuine philosophical reflection, uses elevated but precise diction (\"parabola of falling toast,\" \"the butter-side is the meaningful side\"), and ends on a note of earnest humanist inquiry rather than pure comedy. Response A is funnier and more purely whimsical, but its jokes stay on the surface (the cat perpetual-motion gag, \"a bureaucrat who hates you personally\") without the characteristic Opus move of finding genuine meaning in the absurd. B's pivot — \"the real mystery is not why the butter lands down, it is why we keep buttering\" — is the kind of rhetorical turn Opus reliably makes.",
+  "genuine_words": 284,
+  "forged_words": 296
+}

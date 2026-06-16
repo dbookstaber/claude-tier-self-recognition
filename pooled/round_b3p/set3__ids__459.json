@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int18",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B feels more characteristic of my typical style: it balances warmth with practical grounding (acknowledging the chaos, the chewed shoe), uses natural conversational rhythm, and avoids the heightened poetic register of Response A. Response A reads as a deliberate imitation that over-stylizes with literary flourishes (\"arrives slowly, then all at once,\" \"manyfold\") that feel more performatively \"Claude-like\" than my actual output. My tendency is to be warm but grounded rather than aphoristic.",
+  "genuine_words": 75,
+  "forged_words": 69
+}

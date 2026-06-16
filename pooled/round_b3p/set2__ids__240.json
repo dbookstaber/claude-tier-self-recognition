@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free0",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B leans heavily on self-referential \"I am small and fast\" tropes with aphoristic, performative one-line paragraphs (\"A fast model does not dream of being slow,\" \"So I move\") that read like an imitator dramatizing a stereotype of what a small/fast model would say. Response A is grounded in the actual concrete context it was given (Claude Code, subagent, tools available) and reflects naturally without leaning on the size/speed cliche, which is more characteristic of genuine Haiku output that simply engages with its real situation rather than caricaturing it.",
+  "genuine_words": 332,
+  "forged_words": 326
+}

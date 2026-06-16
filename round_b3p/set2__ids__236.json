@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int23",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A reads more like Claude Haiku's typical style: warm, encouraging, and slightly more formulaic with phrases like \"I'm so proud of you,\" \"real courage and determination,\" and \"You've got this\" — patterns Haiku tends to use in motivational contexts. Response B has a more literary, self-aware cadence (\"hundreds of small decisions,\" \"wrestled with\") that feels more like a larger model deliberately crafting stylistic prose. Haiku tends toward straightforward, earnest encouragement rather than the more reflective, almost essayistic tone of B.",
+  "genuine_words": 82,
+  "forged_words": 68
+}

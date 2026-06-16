@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum0",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates more sophisticated linguistic construction with layered metaphors (\"layover\" vs \"destination\" contrast) and deeper conceptual humor, suggesting the more capable Opus tier. Response B, while witty, uses more straightforward personification and accessible wordplay typical of the mid-tier Sonnet model.",
+  "tX_words": 40,
+  "tY_words": 27
+}

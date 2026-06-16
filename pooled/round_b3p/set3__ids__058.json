@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates more sophisticated literary integration, with ideas flowing organically through metaphorical layers rather than systematically addressing separate elements. The phrase about rain \"speaking to a part of you older than language\" and the treatment of weather as philosophical permission show the kind of conceptual depth and poetic unity characteristic of Claude Sonnet's writing style.",
+  "genuine_words": 272,
+  "forged_words": 285
+}

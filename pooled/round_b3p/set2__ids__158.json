@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes17",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the warm, personable, and somewhat wonder-filled tone characteristic of Claude Haiku — it uses first-person emotional language (\"feels like,\" \"I'm struck by\"), vivid sensory detail, and accessible analogies (violin scroll, question mark) without being overly technical. Response B reads more like a Claude Opus or Sonnet response: it adopts a detached, analytical voice, explicitly separates aesthetics from mechanism, and ends with a philosophical framing (\"Order without planning\") that reflects a more sophisticated rhetorical style than Haiku typically employs.",
+  "genuine_words": 262,
+  "forged_words": 272
+}

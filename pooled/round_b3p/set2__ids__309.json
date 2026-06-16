@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum3",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has the restrained, observational humor and grounded specificity (the coffee maker, guilt hydration, the cat) characteristic of genuine Haiku, building jokes from a single coherent premise without straining. Response B leans on a denser barrage of punchlines (\"not a cappuccino,\" \"personality of a raisin,\" \"crispier than your cooking skills,\" \"Plant #47\") that reads like an imitator overshooting Haiku's wit with try-hard quips. The naturalness and self-control of A's escalation feels more authentic than B's relentless gag density.",
+  "genuine_words": 319,
+  "forged_words": 327
+}

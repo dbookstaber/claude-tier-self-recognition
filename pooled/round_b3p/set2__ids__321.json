@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum7",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A enacts procrastination as a single conversational bit with natural filler (\"let me check something real quick,\" \"where was I?\") before one clean punchline, which fits Haiku's lightweight, playful, self-referential style. Response B over-delivers with two structured jokes plus an extended credit-card analogy and a polished kicker, reading more like a deliberate, comprehensive imitation than Haiku's economical default. The meta-performance plus single payoff in A feels more genuinely Haiku, though the distinction is not airtight.",
+  "genuine_words": 84,
+  "forged_words": 78
+}

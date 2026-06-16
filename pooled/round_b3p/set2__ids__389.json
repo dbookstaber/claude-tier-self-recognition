@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free24",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the hallmarks of a smaller, more constrained model like Haiku: it is concise, uses evocative but economical language, and avoids over-explaining. Response B reads more like a larger model padding its answer with enumerated definitions and hedged qualifications (\"physical spaces like houses and apartments, but also the feeling...\"), which is characteristic of a model imitating a thorough, comprehensive style rather than Haiku's typically tighter output.",
+  "genuine_words": 83,
+  "forged_words": 65
+}

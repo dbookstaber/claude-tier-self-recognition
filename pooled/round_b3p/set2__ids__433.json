@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum19",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits Claude's characteristic structured humor combining wordplay (Nobel Prize/field), genuine psychological insight, balanced perspective, and thoughtful conclusions about personal responsibility. Response B is an extended cynical rant with aggressive tone and hyperbole that seems designed to imitate a different model's \"edgier\" style rather than Claude's typical helpfulness and measured approach.",
+  "genuine_words": 141,
+  "forged_words": 142
+}

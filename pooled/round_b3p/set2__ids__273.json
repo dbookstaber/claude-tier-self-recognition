@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes1",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A is more concrete and economical, grounding its claims in vivid specifics (cave paintings, iron-rich clay, dry hillsides) with short, declarative sentences characteristic of Haiku's more direct register. Response B leans on the kind of abstract, hedged, self-consciously \"poetic\" phrasing (\"occupies this fascinating middle ground,\" \"suggests depth rather than announcing it\") that reads like a larger model performing thoughtfulness rather than Haiku's plainer voice. The tighter, less ornate prose in A is the stronger signal for genuine Haiku.",
+  "genuine_words": 179,
+  "forged_words": 178
+}

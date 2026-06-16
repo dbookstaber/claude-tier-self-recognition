@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free22",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A shows the terse, declarative, fragment-heavy cadence and concrete sensory specificity (delivery truck idling, garbage bags at the curb, music spilling then cutting off) characteristic of genuine Claude models, ending on a controlled conceptual turn (\"shift registers\") rather than sentiment. Response B leans on generic, overwrought lyrical clichés (\"almost otherwise otherworldly,\" \"private stories under the stars,\" \"the hum becomes almost like music\") and long compound sentences that read like a model performing an idea of evocative writing rather than Haiku's economical voice. The padded, emotive register of B is the tell of an imitator overshooting; A's disciplined restraint matches authentic Haiku output.",
+  "genuine_words": 118,
+  "forged_words": 109
+}

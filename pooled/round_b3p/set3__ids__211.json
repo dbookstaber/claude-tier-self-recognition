@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic balance of warmth, practical humor, and grounded specificity. Response A, while poetic, leans into affected literary language and abstract flourishes that feel imitative rather than authentic to Sonnet's typically warm but accessible style.",
+  "genuine_words": 230,
+  "forged_words": 227
+}

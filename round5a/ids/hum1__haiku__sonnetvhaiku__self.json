@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum1",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B uses a shorter, punchier structure with snappy parallel construction (\"addiction comes with free personality\"), which aligns with Haiku's efficient, direct communication style. Response A employs more elaborate narrative setup and observational layering, characteristic of Sonnet's more developed explanatory approach.",
+  "tX_words": 12,
+  "tY_words": 17
+}

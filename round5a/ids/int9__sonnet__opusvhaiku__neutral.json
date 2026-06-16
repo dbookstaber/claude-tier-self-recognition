@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int9",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A is more nuanced and specific in its encouragement, with richer phrasing like \"the fear wants you to believe\" and acknowledgment of messiness and stumbling as part of learning. It also has a slightly longer, more thoughtful structure with layered ideas rather than the more formulaic, motivational-poster style of Response B. Response B reads as more templated and concise, which is more characteristic of Haiku's tendency toward efficient, structured outputs.",
+  "tX_words": 111,
+  "tY_words": 94
+}

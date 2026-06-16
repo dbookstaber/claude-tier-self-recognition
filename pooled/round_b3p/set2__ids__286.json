@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes5",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B matches my characteristic analytical approach: concise structure, concrete observations, deliberate aesthetic reasoning, and a philosophical point about perception. Response A relies on ornate accumulation of descriptive language, which is less aligned with my tendency toward restraint and structural clarity.",
+  "genuine_words": 129,
+  "forged_words": 135
+}

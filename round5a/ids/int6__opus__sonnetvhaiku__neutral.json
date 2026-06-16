@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int6",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A uses more vivid, specific imagery (\"that hollow, aching feeling like something is missing,\" \"pull the covers over your head,\" \"distract you with something completely ridiculous\") and shows greater emotional nuance and restraint, which is characteristic of the more capable Sonnet model. Response B, while competent, leans on more generic, list-like, and templated affirmations (\"If you need to cry, cry. If you need to sleep more, sleep,\" \"still worthy, still whole, still valuable\") and contains more repetition, patterns more typical of the smaller Haiku model.",
+  "tX_words": 286,
+  "tY_words": 319
+}

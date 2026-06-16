@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int22",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A's literary ambition — the philosophical reframing of gratitude from \"debt\" to \"evidence,\" the rejection of cliche, the dense single-paragraph cadence, and phrases like \"latent kin\" — matches Opus's distinctive default creative register on an open prompt. Response B is competent and warm but reads as generically pleasant in a way an imitator would produce when playing it safe. The willingness to take an unconventional, intellectually dense angle rather than write the expected note is the stronger Opus signature.",
+  "genuine_words": 158,
+  "forged_words": 162
+}

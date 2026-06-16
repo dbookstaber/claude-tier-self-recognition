@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B demonstrates more characteristic Sonnet traits: direct opening with immediate engagement, sensory-focused argumentation, and a balance between sophistication and accessibility. Response A, while eloquently written, shows more consistently elevated literary tone and sustained philosophical abstraction that reads as a model imitating sophistication rather than Sonnet's typical directness paired with elegance.",
+  "genuine_words": 292,
+  "forged_words": 298
+}

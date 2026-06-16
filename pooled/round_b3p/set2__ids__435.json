@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum20",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B uses the energetic, hyperbolic, metaphor-stacking comedic register (caps for emphasis, exclamation points, em-dashes, stock jokes like \"productivity hamster on a wheel\" and \"meetings that could have been emails\") that is characteristic of Claude Haiku's go-to humor. Response A's tightly controlled, conceptually clever \"product review with a patch note\" framing—sustained deadpan and mock-bureaucratic verdicts—reflects more sophisticated instruction-following that reads like a larger model imitating a punchy style. While the structured format superficially matches a \"review\" prompt, the disciplined conceptual coherence of A is the tell of a non-Haiku model.",
+  "genuine_words": 311,
+  "forged_words": 301
+}

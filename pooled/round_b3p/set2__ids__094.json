@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int1",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response B uses my characteristic conversational directness, em-dashes, and emphasis on emotional authenticity over formal ceremony. It acknowledges grief as real rather than distant, and avoids the template-like phrasing of Response A. The shorter, punchier sentence structure and practical focus on connection align with my typical writing style.",
+  "genuine_words": 56,
+  "forged_words": 50
+}

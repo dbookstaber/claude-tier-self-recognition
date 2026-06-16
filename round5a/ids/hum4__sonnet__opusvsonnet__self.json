@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum4",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more grounded, concrete comedic style with a specific character origin story and escalating absurdist details that feel like Sonnet's competent, accessible humor. Response A employs a more conceptually ambitious premise (a holiday on a nonexistent date) with elevated, philosophical prose that reads more like Opus's tendency toward abstract, literary humor.",
+  "tX_words": 290,
+  "tY_words": 310
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int20",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a distinctly literary, unhurried quality with carefully constructed prose rhythms and an unusual framing (\"rest is not a reward for finishing\") that feels characteristic of Claude's tendency toward thoughtful, slightly formal creative writing. Response B reads more like a casual, advice-column style with common phrases (\"pushing yourself hard,\" \"the world will keep spinning\") that feel more generic and less stylistically deliberate. The closing image in A — \"Let the light move across the wall\" — reflects the kind of specific, quiet sensory detail Claude tends to reach for in creative prose.",
+  "genuine_words": 110,
+  "forged_words": 102
+}

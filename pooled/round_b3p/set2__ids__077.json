@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum5",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has a more concise, aphoristic quality that aligns with Haiku's tendency toward tight, structured observations with a clear logical arc. The final line \"Nothing solves itself by adding itself\" reads like a clean, memorable epigram that Haiku favors. Response B is longer and more elaborate, with a more satirical and verbose style that feels like a larger model trying to pack in more wit and detail than Haiku typically deploys.",
+  "genuine_words": 41,
+  "forged_words": 38
+}

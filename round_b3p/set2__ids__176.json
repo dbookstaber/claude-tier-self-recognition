@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes23",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has stylistic hallmarks more consistent with Claude Haiku: short, punchy sentences, a more fragmented and aphoristic structure, and a restrained prose rhythm that prioritizes brevity over elaboration. Response A reads more like a larger model — it develops its ideas in longer, more flowing paragraphs with richer connective tissue and more nuanced unpacking of concepts. Haiku tends toward terse, declarative statements and minimal ornamentation, which matches B's style (\"First, you notice. Then you act. No performance, no waiting for thanks, no announcement.\").",
+  "genuine_words": 195,
+  "forged_words": 203
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum22",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B uses my characteristic direct style with pragmatic tone, the habit of correcting a potential misunderstanding before elaborating, and short punchy sentences mixed with longer explanations. Response A, while well-written, is more consciously literary and poetic—it reads like an imitation of my voice rather than my actual voice.",
+  "genuine_words": 253,
+  "forged_words": 255
+}

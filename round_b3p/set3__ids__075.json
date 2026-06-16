@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum5",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more precise, structurally elegant observation — the self-referential irony of meetings perpetuating themselves is a tightly constructed insight that feels characteristic of Claude's tendency toward compressed, layered wit. Response B, while amusing, relies on a more familiar and broadly circulated joke format (meetings preventing work) that feels like an imitation leaning on common tropes rather than a genuinely fresh angle.",
+  "genuine_words": 30,
+  "forged_words": 29
+}

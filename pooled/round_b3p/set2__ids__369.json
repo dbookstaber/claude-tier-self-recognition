@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free18",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B exhibits hallmarks of smaller-model output: it leans on the well-worn \"sonder\" answer (a stock response common in LLM training data), wraps it in earnest moralizing about empathy and humility, and uses warm, accessible phrasing with em-dash-joined examples like washing dishes together. Response A is more distinctive, self-aware, and stylistically polished (coining \"premising,\" precise meta-commentary on why \"intuition\" falls short), which reads more like a larger model imitating a thoughtful-but-plain Haiku voice. The conventional, slightly over-explained sincerity of B fits genuine Haiku better.",
+  "genuine_words": 173,
+  "forged_words": 172
+}

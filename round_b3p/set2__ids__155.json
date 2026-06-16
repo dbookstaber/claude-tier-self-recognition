@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes16",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has characteristics more consistent with Claude Haiku's style: it picks a concrete physical object (the wedge) and builds a structured, methodical explanation covering mechanics, examples, and elegance criteria in a compact but complete way. Response A, while well-written, reads more like a larger model's prose — it uses more rhetorical flourish (\"That is the whole idea of good design captured in a single character\") and has a slightly more polished, essay-like cadence that feels like a bigger model consciously compressing itself. Response B's matter-of-fact analytical breakdown feels more characteristic of Haiku's direct, functional style.",
+  "genuine_words": 84,
+  "forged_words": 71
+}

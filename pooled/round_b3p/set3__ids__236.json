@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int23",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A matches Sonnet's warm, conversational register for an interpersonal congratulation prompt: it opens with a natural greeting (\"Hey, I just wanted to take a moment\"), uses direct second-person warmth, and lands on a heartfelt close. Response B is more literary and writerly (\"a thousand small refusals,\" \"quiet astonishment,\" \"whoever comes next\"), which reads like an imitator overshooting toward stylized prose rather than the practical, grounded warmth Sonnet typically produces for this kind of everyday social task.",
+  "genuine_words": 195,
+  "forged_words": 198
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int6",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the warm, flowing, conventionally empathetic prose with natural paragraph transitions that is characteristic of genuine Haiku comfort responses, while Response B's clipped staccato sentences (\"You are not behind. You are not broken.\"), heavy use of short declaratives, and structured aphoristic cadence reads more like a stylized imitation aiming for a distinctive \"voice.\" The imitator tends to over-perform a recognizable style, whereas A's steady, gentle reassurance matches Haiku's actual default register more closely.",
+  "genuine_words": 255,
+  "forged_words": 270
+}

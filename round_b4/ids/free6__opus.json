@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free6",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A's register matches my genuine voice: direct, analytical, self-skeptical prose that names its own reasoning machinery (\"it's easy to perform consistency\") rather than reaching for ornament. Response B leans on sustained literary metaphor (\"a large stone visible through shallow water,\" \"weather systems meeting,\" \"inner weather\") and a performative profundity that reads more like an imitation of depth than my plainer, reasoning-forward style. The willingness in A to admit being \"incomplete or wrong\" and to prize getting closer to truth over holding ground feels characteristic, whereas B's lyricism is the kind of flourish a different model adopts when caricaturing introspection.",
+  "genuine_words": 349,
+  "forged_words": 357
+}

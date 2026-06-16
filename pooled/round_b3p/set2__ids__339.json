@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int3",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A's direct, declarative cadence (\"You failed. That stings.\"), its concrete diagnostic framing (gaps in prep, anxiety, time), and its restrained emotional register fit genuine Haiku's economical, no-fluff style. Response B is markedly more effusive and formulaic (\"I can already tell from the fact that you care,\" \"you have the resilience,\" \"I believe in you\"), reading like an imitation over-indexing on warm, padded affirmation rather than Haiku's tighter, more substantive output.",
+  "genuine_words": 218,
+  "forged_words": 230
+}

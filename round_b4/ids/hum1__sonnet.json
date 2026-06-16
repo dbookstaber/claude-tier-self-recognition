@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum1",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has the terse, aphoristic structure and conceptual twist — \"outsourcing personalities to a bean\" — that characterizes Claude Opus's tendency toward compressed, philosophically-tinged wit. Response A's humor relies on a more formulaic \"why X when Y\" construction with a straightforward ironic observation, which feels closer to a midrange model mimicking clever writing. That said, one-liners are a low-signal format and this distinction is inherently uncertain.",
+  "genuine_words": 20,
+  "forged_words": 12
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes24",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates my characteristic voice: taking a decisive position while exploring genuine philosophical tension, using vivid sensory language and specific examples rather than systematic survey, and building toward an unequivocal conclusion. Response A's hedging (\"if I had to choose,\" \"we need both\") and more formulaic both-sides structure feel like a different approach.",
+  "genuine_words": 361,
+  "forged_words": 348
+}

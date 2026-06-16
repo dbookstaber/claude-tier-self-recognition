@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes17",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B reads as a more deliberate, essay-crafted imitation: it leans on a \"clever\" reframe (efficiency and beauty being identical), uses dramatic short closers (\"That overlap seems worth noticing\"), and front-loads precise factoids (137.5 degrees, 34/55) in a way that feels like a model performing erudition. Response A has the looser, flowing, slightly redundant warmth and self-referential framing (\"What draws me to it,\" \"which feels like how nature's most elegant designs tend to work\") that is more characteristic of Haiku's genuine conversational register. The choice is close, but A's earnest, less self-consciously polished voice reads as the authentic Haiku.",
+  "genuine_words": 186,
+  "forged_words": 184
+}

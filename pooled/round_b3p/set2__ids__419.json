@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes24",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has stylistic hallmarks more consistent with Claude Haiku: short punchy sentences used for emphasis (\"But asymmetry wins.\"), a tighter and more compressed argumentative structure, and a rhetorical rhythm that builds to a clean one-line conclusion. Response B reads more like a longer-form essay with fuller paragraph development, transitional phrases, and a more hedged conclusion — patterns more typical of larger models trying to cover all bases rather than Haiku's characteristically direct, punchy style.",
+  "genuine_words": 293,
+  "forged_words": 295
+}

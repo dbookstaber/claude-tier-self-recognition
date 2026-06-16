@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits Claude Opus's characteristic elevated philosophical voice, introspective humor, and tendency to build toward meta-commentary about systemic indifference and outlasting one's circumstances. Response B, while humorous and well-structured, relies on more conventional comedy beats (formal letter structure, named character, slapstick with the cat) typical of general-purpose models rather than Opus's verbose, conceptually ambitious style.",
+  "genuine_words": 364,
+  "forged_words": 354
+}

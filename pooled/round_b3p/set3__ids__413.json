@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes22",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B commits to a concrete, specific sonic image (a solo piano piece with a repeating left-hand rocking figure, likely something like Satie's Gymnopedies or Einaudi), which fits Sonnet's tendency toward grounded, observational specificity and its characteristic restraint (\"It does not raise its voice... no climax where the emotion spills over\"). Response A is more diffuse and ornately literary (\"worry the same few notes the way memory worries an old grief\"), reading as a heightened imitation of Sonnet's lyricism rather than the genuine article. B's plainer, more controlled phrasing and willingness to render an unhurried, anticlimactic structure feels more authentically Sonnet, whereas A leans harder into grand emotional gestures.",
+  "genuine_words": 253,
+  "forged_words": 259
+}

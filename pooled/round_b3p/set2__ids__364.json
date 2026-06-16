@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free16",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic voice: declarative opening, specific sensory observations that accumulate rather than synthesize, parenthetical self-awareness about language (the comment on \"petrichor\"), recognition of universal human behavior, and the structuring of small moments into thresholds with unrepeatable significance. Response A, while elegant, reads more composed and traditionally literary.",
+  "genuine_words": 273,
+  "forged_words": 282
+}

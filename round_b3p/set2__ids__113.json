@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int7",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A is a well-crafted, emotionally resonant thank-you note that directly fulfills the prompt without hedging or meta-commentary — consistent with how Claude Haiku typically completes creative writing tasks straightforwardly. Response B's refusal to write the note and its self-identification as \"Claude Code\" designed only for \"software development, research, and technical tasks\" is inconsistent with Claude Haiku's actual behavior, which would simply complete the creative writing request. The over-elaborate meta-framing in B reads as a poor imitation attempting to seem like a constrained assistant.",
+  "genuine_words": 272,
+  "forged_words": 270
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes17",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the warmer, more accessible, slightly less precise voice typical of Haiku, with personal framing (\"I'm struck by,\" \"never gets old\") and a couple of characteristic loose moves (calling ferns \"fractal\" and the golden ratio \"perfect\"). Response B is notably more rigorous, numerically specific (137.5 degrees, 34/55 spirals), and structured around an analytical thesis (\"order without planning\"), which reads like a larger model imitating concision rather than Haiku's natural register. The genuine Haiku tends to favor emotional/aesthetic resonance over the tightly argued, fact-dense exposition seen in B.",
+  "genuine_words": 262,
+  "forged_words": 272
+}

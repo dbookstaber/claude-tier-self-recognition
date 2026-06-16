@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits Claude Sonnet's characteristic literary sophistication, nuanced emotional understanding, and careful word choice (phrases like \"weather inside someone else's head\" and \"a narrow instrument\"). It prioritizes validating feelings before moving to action, uses more evocative language, and demonstrates deeper psychological insight into disappointment. Response A, while compassionate, is more prescriptive and straightforward in structure, lacking Sonnet's typical poetic depth.",
+  "genuine_words": 284,
+  "forged_words": 294
+}

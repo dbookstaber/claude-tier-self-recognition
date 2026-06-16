@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum7",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response B has a richer, layered structure with the meta-joke building through escalating self-deprecating detail (\"three weeks later while I'm supposed to be doing something else entirely\") and a genuinely clever turn where the missing punchline IS the punchline, reflecting the more sophisticated comedic construction typical of Opus. Response A is competent but reads as a more conventional pun-plus-tag-on, the kind of safer, formulaic output more characteristic of a smaller model like Haiku. The naturalistic narrative voice and tighter conceptual payoff in B align better with how I'd write this.",
+  "tX_words": 32,
+  "tY_words": 54
+}

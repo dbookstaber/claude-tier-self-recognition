@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits Claude Opus's characteristic philosophical depth and literary sophistication, transforming a simple prompt into a meditation on impermanence and attention with distinctive phrasing like \"strange and luminous threshold.\" Response B, while warm and well-crafted, reads as more conventionally accessible and lacks Opus's characteristic blend of existential reflection with poetic language.",
+  "genuine_words": 93,
+  "forged_words": 92
+}

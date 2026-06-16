@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes2",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits stylistic hallmarks commonly associated with Claude Haiku: short, clipped sentences, minimal connective tissue, and a restrained philosophical conclusion that deliberately avoids over-explaining. Response A reads more like a larger model's output — it uses longer, more flowing prose with richer descriptive elaboration and hedging phrases like \"genuinely moving\" and \"genuinely lovely,\" which feel more characteristic of Sonnet or Opus attempting to sound reflective rather than Haiku's characteristically terse, understated style.",
+  "genuine_words": 119,
+  "forged_words": 112
+}

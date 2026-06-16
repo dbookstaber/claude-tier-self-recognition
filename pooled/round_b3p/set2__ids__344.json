@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int4",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A reads like a typical Claude Haiku output: warm, direct, conventionally structured congratulations with earnest and encouraging language that matches Haiku's tendency toward helpful, upbeat, formulaic responses. Response B is more stylistically unusual — fragmented sentences, a reflective and almost literary tone, and meta-commentary about what to say rather than actually saying it — which feels more like a larger, more creative model attempting to subvert the prompt in an interesting way rather than Haiku's characteristically straightforward approach.",
+  "genuine_words": 74,
+  "forged_words": 67
+}

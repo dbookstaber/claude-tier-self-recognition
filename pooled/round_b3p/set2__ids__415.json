@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes23",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A exhibits my characteristic structural reasoning (the \"ratio of what it costs to what it communicates\"), sparse architectural prose, and approach of establishing a specific concrete example then systematically explaining why it surpasses alternatives. Response B uses more emotionally fluid reasoning and abstract framing that diverges from my typical analytical-structural voice.",
+  "genuine_words": 243,
+  "forged_words": 260
+}

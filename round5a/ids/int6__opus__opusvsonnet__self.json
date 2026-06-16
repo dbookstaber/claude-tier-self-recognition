@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int6",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A shows more distinctive craft and specificity characteristic of Opus: the concrete imagery of \"reaching for your phone to tell them something,\" the layered \"today, and then tomorrow\" framing, and the precise \"you weren't bracing against the hurt in that moment\" observation. Response B is warm and competent but leans on more conventional, slightly more generic comfort phrasing (comfort food, old movies, covers over your head), which reads as the mid-tier Sonnet register.",
+  "tX_words": 338,
+  "tY_words": 286
+}

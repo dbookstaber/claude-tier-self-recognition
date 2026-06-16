@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free22",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A has the clipped, observational prose style characteristic of Claude Haiku: short declarative sentences, concrete details without over-explaining, and an understated philosophical turn at the end (\"more honest somehow\"). Response B reads more like a generic creative writing model imitating \"poetic\" city description, leaning on flowery metaphors (\"dark sentinels,\" \"scattered stars,\" \"breathe with the rhythm\") and a more conventional build-up that feels less like Haiku's terse, direct voice.",
+  "genuine_words": 115,
+  "forged_words": 115
+}

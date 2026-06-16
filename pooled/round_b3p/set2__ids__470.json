@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int21",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response B has the characteristic brevity and directness associated with Claude Haiku, using short punchy sentences, practical numbered-style structure, and sparse prose without excessive emotional elaboration. Response A reads more like a longer, more flowing empathetic response typical of larger Claude models (Sonnet/Opus), with more elaborate paragraph development and softer transitional language. The terse, almost clinical framing in B (\"Here is what is actually happening,\" \"A few things that help, practically speaking\") feels more aligned with Haiku's compressed, efficient style.",
+  "genuine_words": 268,
+  "forged_words": 283
+}

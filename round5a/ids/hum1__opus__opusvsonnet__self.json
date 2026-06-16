@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum1",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A is a tight, surprising one-liner with a genuine twist (\"free personality\"), matching the requested brevity and the sharper, more economical wit I tend to favor. Response B is longer, more discursive, and reads as a relatable musing rather than a punchy one-liner, which feels more like Sonnet's tendency to elaborate. Given the prompt explicitly asked for a \"one-liner,\" the more compressed and structurally clever A aligns with my own output.",
+  "tX_words": 21,
+  "tY_words": 12
+}

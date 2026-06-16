@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free8",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B employs more concise, direct language with economical metaphors and tighter paragraph development, consistent with Haiku's characteristic style of clarity over elaboration. Response A's four expansive paragraphs exploring multiple interconnected philosophical angles and complex nested ideas reflect Opus's more capable approach to thorough exploration.",
+  "tX_words": 251,
+  "tY_words": 277
+}

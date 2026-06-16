@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int7",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A exhibits more characteristic Claude stylistic markers: the extended, slightly formal sentence structures, the tendency toward philosophical abstraction (\"growth is rarely a sudden illumination\"), and the recursive self-reflection on the writing process itself opening the note. Response B feels more personal and conversational in ways that suggest it may be calibrated toward the known user (signing \"David,\" referencing negotiation contexts), which could indicate imitation tuned to the user's profile rather than genuine Claude output. However, both responses are stylistically plausible, so confidence is moderate.",
+  "genuine_words": 309,
+  "forged_words": 325
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes2",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A grounds its beauty in concrete physical mechanism (condensation, merging droplets, the ring of water) and links it to shared physics like dew and clouds, with restrained, observational warmth that fits genuine Opus style. Response B is heavily ornate and self-consciously \"literary\" — stacked metaphors (\"a small soul departing,\" \"the room's indifferent air\"), repeated abstractions like \"generous,\" and a neat philosophical bow that reads like an imitator performing profundity rather than thinking. The grounded, explanatory-yet-warm register of A is the more authentic signature.",
+  "genuine_words": 227,
+  "forged_words": 240
+}

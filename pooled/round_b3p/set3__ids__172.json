@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic voice: opening with a paradoxical observation (\"It listens before it speaks\"), using compressed poetic language with surprising metaphors, and ending with philosophical insight about the listener's transformation rather than just describing the music. Response A, while well-written, relies more on conventional descriptive similes and extended metaphors without the meta-awareness and economical precision typical of Sonnet's style.",
+  "genuine_words": 219,
+  "forged_words": 217
+}

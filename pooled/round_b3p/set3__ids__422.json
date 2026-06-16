@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum15",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A delivers a concrete, observational joke (\"strongest in the one room you're not in\") that matches Sonnet's tendency toward specific, relatable everyday detail and genuine wit when asked for humor. Response B leans on a more contrived \"like trust\" simile that reads as an imitator's attempt to seem profound and \"writerly,\" which is the kind of overwrought aphorism a model produces when mimicking a stereotype of clever style rather than landing an actual joke. A is funnier and wryer in the way the prompt requested, while B trades the wryness for forced sentiment.",
+  "genuine_words": 14,
+  "forged_words": 12
+}

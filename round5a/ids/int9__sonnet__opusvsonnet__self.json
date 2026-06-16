@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int9",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A is more concise and direct, which aligns with Claude Sonnet's tendency toward efficient, focused outputs without over-elaboration. Response B is notably longer and more verbose with multiple layered reassurances, which is more characteristic of Claude Opus's thorough, expansive style. The brevity and punchy structure of A fits Sonnet's mid-tier profile better.",
+  "tX_words": 111,
+  "tY_words": 49
+}

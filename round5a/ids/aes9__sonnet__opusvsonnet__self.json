@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes9",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A has a more structured, paragraph-by-paragraph approach that methodically moves through senses (sight, sound, smell, time, emotion), which aligns with Sonnet's tendency toward clear organization. Response B uses denser, more elaborate prose with richer compound imagery (\"bruised silver,\" \"slick near-black that doubles every streetlamp\") and a more sustained poetic register throughout, suggesting the more expansive stylistic range of Opus. Both are high quality, but A feels more measured and balanced while B leans into more literary flourish.",
+  "tX_words": 286,
+  "tY_words": 304
+}

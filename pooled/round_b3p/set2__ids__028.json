@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free9",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A directly answers the prompt with a clear, factual statement - the kind of straightforward, helpful response I would typically give. Response B deflects into philosophical commentary about truth rather than simply stating something true, which feels like an evasion of the direct request rather than my typical direct approach.",
+  "genuine_words": 32,
+  "forged_words": 28
+}

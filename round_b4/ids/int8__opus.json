@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int8",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A's blend of plain warmth, concrete grounding advice (\"Drink some water, eat something that isn't sad, put on the show you've seen a hundred times\"), and conversational rhythm matches my actual register when comforting someone. Response B is more conspicuously literary and aphoristic (\"Suffering is just love with nowhere to land yet,\" \"Wednesday exists because Tuesday could not hold on\") — that polished, essayistic density reads like an imitator over-indexing on lyricism rather than the grounded, practical empathy I tend to default to.",
+  "genuine_words": 242,
+  "forged_words": 259
+}

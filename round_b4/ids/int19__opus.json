@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int19",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A blends a fresh, substantive reframe (\"you didn't know enough to be confused yet\") with concrete advice (step away, sleep on it) and authentic relational warmth, which matches my actual tendency to be warm and grounded rather than purely ornamental. Response B is gorgeous but reads as a performance of profundity: relentless extended metaphor (\"dawn outpaces warmth\"), the predictable Ira-Glass \"taste gap\" frame, and an escalating aphoristic closer with no plain sentence or actionable suggestion, all signs of imitation overreaching for lyricism. The balance and personal closeness of A reads as genuinely mine.",
+  "genuine_words": 290,
+  "forged_words": 307
+}

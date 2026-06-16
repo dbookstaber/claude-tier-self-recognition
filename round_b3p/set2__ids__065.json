@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum1",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B uses a more grounded, observational style typical of Haiku — describing coffee in simple, deflating terms (\"hot bean water\") and anchoring the humor in a relatable workplace scenario. Response A leans on a more elaborate, abstract construction about withdrawal and emotional sequencing, which feels more like a larger model attempting clever wordplay. Haiku tends toward direct, unpretentious humor rather than multi-clause philosophical framings.",
+  "genuine_words": 22,
+  "forged_words": 22
+}

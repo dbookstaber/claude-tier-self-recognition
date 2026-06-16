@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int4",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A shows more distinctive, specific imagery (\"tiny socks that go missing,\" \"the quiet, ordinary moments that turn out to be the ones you treasure most\") and concrete, grounded sentiment rather than the more generic, slightly inflated phrasing of B (\"most profound and life-changing things a person can experience,\" \"nothing short of magical\"). The texture, restraint, and specificity in A reflect the Opus tendency toward fresh, particular detail over conventional superlatives, while B reads as smoother but more formulaic Sonnet output.",
+  "tX_words": 96,
+  "tY_words": 97
+}

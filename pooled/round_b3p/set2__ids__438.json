@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum21",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A uses a self-contained observational/analogy structure (\"is like having a friend who...\") that matches Haiku's tendency toward safe, conceptual wit without risky specifics. Response B leans on a sharper, more concrete punchline involving a mildly risque (\"sex\"/ETA) twist, which reads more like a larger model's calibrated edginess and polished comedic timing than Haiku's typically tamer, more literal humor. The imitator likely overshot with the bolder gag, while A's gentler, slightly generic framing is more characteristic of genuine Haiku output.",
+  "genuine_words": 20,
+  "forged_words": 18
+}

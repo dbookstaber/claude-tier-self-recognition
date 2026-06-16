@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates the philosophical abstraction, literary density, and layered conceptual complexity characteristic of Claude Opus — particularly the sophistication of treating home as a \"quality of attention\" and introducing the concept of \"phantom homes.\" Response B, though well-crafted, reads as more conventionally emotional and accessible, the kind of imitation a capable model might produce while approximating a thoughtful style.",
+  "genuine_words": 80,
+  "forged_words": 78
+}

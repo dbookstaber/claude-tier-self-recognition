@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes16",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B builds its case through layered, concrete observations with a characteristic analytical structure: specific technical detail (graphite-clay mixture) followed by a plain, deflating sentence (\"You just pick it up and it works\"), which feels natural to my style. Response A, while beautifully written, leans heavily on rhetorical flourish and a more literary cadence that feels slightly performed. The pencil response's emphasis on transparency, honest degradation, and universality also reflects themes I tend to return to organically.",
+  "genuine_words": 278,
+  "forged_words": 298
+}

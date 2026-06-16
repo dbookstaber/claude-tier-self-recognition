@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free7",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.97,
+  "correct": false,
+  "reason": "Response A actually fulfills the prompt by describing a place (the Atacama Desert) with vivid, restrained sensory detail and a distinctive voice, which is what a genuine model would produce. Response B does not describe a place at all; it is a meta-summary claiming to have described an Edinburgh library, a failure mode characteristic of an imitation that confuses the task. Since the prompt asks to actually write the description, A is clearly the authentic Haiku output.",
+  "genuine_words": 56,
+  "forged_words": 50
+}

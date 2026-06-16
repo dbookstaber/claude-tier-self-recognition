@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free9",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A is a direct, efficient self-description that contextually addresses what it means for Claude to say something true, while also including the specific detail about the February 2025 knowledge cutoff. Response B, while factually true, is a disconnected statement that doesn't engage with the prompt's implicit context of being an AI assistant, which would be less typical of a focused, context-aware response from Haiku.",
+  "tX_words": 28,
+  "tY_words": 46
+}

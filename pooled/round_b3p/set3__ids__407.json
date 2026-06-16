@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes20",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B exhibits Sonnet's characteristic argumentative restraint and conceptual through-line (the \"information\"/\"records\" framing, the escalating \"Rust is iron in time / Patina is bronze in time\" parallelism that resolves cleanly), with prose that is rich but disciplined rather than ornamental. Response A is more lush and aphoristic (\"Time is writing, and rust is its ink\"), leaning into dense metaphor-stacking and a self-conscious literariness that reads more like a model performing \"beautiful writing\" than Sonnet's typical balance of clarity and idea-development. B's plainer, claim-driven structure and the way it builds one controlling argument (that wear adds information/history) is the more genuine Sonnet signature.",
+  "genuine_words": 575,
+  "forged_words": 606
+}

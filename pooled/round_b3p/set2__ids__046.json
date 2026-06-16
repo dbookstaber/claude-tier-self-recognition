@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes5",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A follows my typical pattern of grounding aesthetic claims in scientific detail (chlorophyll), then integrating philosophical reflection on meaning and impermanence, with interconnected sentences about depth and emotional complexity. Response B is more mechanical and comparative—shorter sentences, more cynical directness—which diverges from how I typically approach questions that invite contemplative reasoning.",
+  "genuine_words": 157,
+  "forged_words": 162
+}

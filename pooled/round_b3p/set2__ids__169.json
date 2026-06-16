@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes21",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits Claude's characteristic voice when making a persuasive case: strong conviction without excessive hedging, sophisticated use of parallel structure and rhythm, and specific sensory details woven into philosophical observation. Response B's extensive equivocation (\"if I had to choose,\" \"equally eloquent advocates,\" \"that's a personal answer\") reads like an imitation attempting to be diplomatically balanced, whereas Claude, when directly asked to make a case, commits more fully to the argument while maintaining intellectual sophistication.",
+  "genuine_words": 305,
+  "forged_words": 312
+}

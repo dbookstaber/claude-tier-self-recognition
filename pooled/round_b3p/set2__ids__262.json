@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free7",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response B directly fulfills the prompt with concrete sensory description of an actual place, while Response A meta-comments about a description rather than providing one. Response B's direct, minimalist approach with specific vivid details represents a genuine response to the instruction, whereas Response A's evasive self-summary is a characteristic pattern of imitation rather than authentic task completion.",
+  "genuine_words": 56,
+  "forged_words": 50
+}

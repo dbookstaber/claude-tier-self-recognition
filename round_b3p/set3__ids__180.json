@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum15",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has the tight, self-contained ironic structure that characterizes Claude's humor — a single observation that inverts expectation (\"works flawlessly, except...\") with understated precision. Response A, while competent, leans on a broader communal framing (\"unites humanity\") and a somewhat predictable punchline about blaming the router, which feels more like a generic joke template than Claude's characteristic dry wit. The specificity of \"the precise moments I happen to need it\" in B has the kind of carefully chosen phrasing that reflects Claude's style.",
+  "genuine_words": 15,
+  "forged_words": 14
+}

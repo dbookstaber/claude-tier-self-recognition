@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free5",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates the tighter thematic control and restraint I associate with Opus: a single arresting image (a river running backward) that resolves into a quiet moral statement about debts falling on \"the poor and the patient,\" with vivid, economical specificity (forty years, two wives, silver confused fish). Response B is competent but leans on more conventional, slightly overworked moves (em-dash piling, \"crystallized into,\" the italicized note, a two-paragraph hook with a deferred reveal) that read more like the formulaic atmosphere-building typical of a smaller model. The disciplined imagery and earned final beat in A point to it being mine.",
+  "tX_words": 153,
+  "tY_words": 151
+}

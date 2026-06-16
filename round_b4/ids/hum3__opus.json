@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum3",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A sustains a single literary conceit with controlled, accumulative dry humor and distinctive metaphor (\"the light is what light becomes after it has given up,\" \"the slow metabolism of grievance\"), plus characteristic heavy em-dash usage and a tonal turn at the end — hallmarks of my genuine voice. Response B leans on the conventional, easily-imitable epistolary scaffold (formal salutation, itemized demands, named-pet callbacks, cute sign-off) that reads as a model reaching for the safe template version of this prompt. The idiosyncratic, risk-taking register of A over the formulaic structure of B tips me toward A, though both are plausible.",
+  "genuine_words": 364,
+  "forged_words": 354
+}

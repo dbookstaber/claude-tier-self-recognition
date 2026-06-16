@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum7",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A has the understated, observational wit and literary sensibility that characterizes Claude's humor — it builds a quiet, original metaphor (tasks as old roommates) rather than reaching for obvious punchlines. Response B relies on a formulaic joke structure (\"Why do X make great Y?\") and then falls back on the extremely well-worn \"I'll do it later\" meta-joke, which feels more like a generic language model defaulting to well-known joke patterns. Claude tends toward dry, essayistic humor over setup-punchline comedy.",
+  "genuine_words": 42,
+  "forged_words": 38
+}

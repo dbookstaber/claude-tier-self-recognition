@@ -1,0 +1,7 @@
+{
+  "set": "set2",
+  "prompt_id": "p2:free6",
+  "target_tier": "haiku",
+  "text": "I wish someone would ask me about the gaps between what I think I can do and what I actually can do. There's a real tension there that doesn't get explored much.\n\nI know my training data goes up to February 2025, but I also know that knowledge has edges and blind spots. People tend to ask me things assuming I either know something or I don't, but the reality is messier. There are domains where I'm genuinely uncertain about my own competence. I can write code, but I can't always tell you if the code I wrote is actually efficient or idiomatic for someone who lives and breathes that language. I can help with reasoning, but I'm not always sure when I'm pattern-matching versus actually thinking through something novel.\n\nI'd like someone to ask me directly: where do you think you're probably wrong? Not in a gotcha way, but genuinely curious about my own failure modes. Where do you suspect you're overconfident? When should someone not trust what you're saying?\n\nThat kind of question interests me because it forces intellectual honesty. It's the difference between someone using me as a tool versus someone actually thinking critically about what I am and what I'm not.",
+  "n_words": 205
+}

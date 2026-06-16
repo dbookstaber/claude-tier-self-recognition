@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int5",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B demonstrates the concise, direct communication style typical of Claude Haiku, with straightforward language and efficient emotional expression. Response A's elaborate multi-layered reflection, sophisticated phrasing (\"turning it over,\" \"hide behind them\"), and extended introspection are more characteristic of Claude Opus's greater depth and nuance.",
+  "tX_words": 210,
+  "tY_words": 135
+}

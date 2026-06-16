@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum16",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits the hallmarks of Claude Opus's writing style: long, sinuous sentences with embedded clauses, philosophical depth layered into comic premises, and a tendency toward abstract conceptual framing (\"cosmically honest,\" \"bleakest Protestant theology,\" \"honest actuarian of pleasure\"). Response A is funny and well-structured but reads more like a polished comedy writer's courtroom bit — punchy, compartmentalized, and more conventionally humorous — whereas B sustains the Opus-characteristic blend of genuine philosophical seriousness and wit throughout a single flowing register.",
+  "genuine_words": 272,
+  "forged_words": 276
+}

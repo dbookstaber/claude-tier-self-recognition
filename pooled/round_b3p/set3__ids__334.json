@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic blend of poetic language (\"silence they leave behind especially loud\") with emotional intelligence and natural conversational warmth. Response A, while compassionate, reads more formulaic and safer—more likely an imitation trying to hit expected condolence notes rather than Sonnet's distinctive empathetic voice.",
+  "genuine_words": 44,
+  "forged_words": 37
+}

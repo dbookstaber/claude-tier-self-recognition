@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum18",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B reads as more genuinely Sonnet: its humor comes from escalating, conversational comic beats (the named \"Gerald,\" the unexplored \"sticky brown substance,\" the dog it can't discuss) and a self-aware passive-aggressive voice that lands the \"comic complaint\" brief naturally. Response A is more polished and literary, leaning on aphoristic wordplay (\"WELOME, which sounds like a Welsh village\") and a tidy stoicism-and-tapestry arc that feels like a model imitating an elevated \"Sonnet style\" rather than the genuine article's looser, funnier register. The brief specifically asked for comic, and B's everyday absurdity reads more authentically generated than A's overworked elegance.",
+  "genuine_words": 329,
+  "forged_words": 311
+}

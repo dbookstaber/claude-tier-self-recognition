@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes17",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a more direct, analytical structure that moves from observation to mechanism to philosophical reflection, which aligns with how I tend to organize ideas. The closing line \"The beauty is not stored anywhere in particular. It lives only in the relationship between the birds, and it vanishes the moment they land\" has a spare, precise quality I recognize as characteristic of my writing. Response B, while well-crafted, leans more heavily on lyrical framing (\"Some afternoons the light slants just so\") and a consoling personal narrative arc that feels slightly more stylized than my usual register.",
+  "genuine_words": 238,
+  "forged_words": 239
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B demonstrates characteristic Opus traits: intellectual humility, acknowledgment of uncertainty, engagement with counterarguments, and self-awareness about its own sentimentality. Response A, while eloquent, presents its thesis with unqualified confidence and lacks the nuanced hedge-and-reconsider pattern typical of Opus when discussing subjective aesthetic questions.",
+  "genuine_words": 285,
+  "forged_words": 308
+}

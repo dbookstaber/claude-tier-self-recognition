@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B displays Claude Sonnet's characteristic direct, practical, and warm communication style. It leads with validation, uses straightforward language, avoids metaphorical ornamentation, and focuses on concrete reasoning—hallmarks of Sonnet. Response A uses more literary devices, sophisticated framing, and elaborate metaphors that align more with Claude Opus's tendency toward poetic abstraction.",
+  "genuine_words": 194,
+  "forged_words": 200
+}

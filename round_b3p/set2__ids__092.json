@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int0",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A follows the conventional, structured format that Claude Haiku typically produces for warm personal notes: a clear greeting, enthusiastic opening, personal reflection, encouragement, a concrete next step (celebrating together), and a sign-off. This templated warmth with placeholder brackets like \"[Friend's name]\" and \"[Your name]\" is characteristic of Haiku's tendency toward helpful, formulaic outputs. Response B reads more like a larger model's stylistically deliberate prose — with measured, philosophical observations (\"not because everything will be easy, but because you are the kind of person who figures things out\") that feel more like Claude Sonnet or Opus crafting a distinctive voice rather than Haiku's straightforward, accessible tone.",
+  "genuine_words": 134,
+  "forged_words": 128
+}

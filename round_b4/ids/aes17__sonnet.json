@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes17",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A displays hallmarks of Opus's prose style: long, syntactically intricate sentences that loop back on themselves, an unexpected philosophical pivot (comparing the river's behavior to morality), and the distinctive move of finding something almost ethical in a purely physical process. The \"palimpsest\" metaphor and the framing of revision-as-landscape feel characteristic of Opus's tendency toward literary density and conceptual ambition. Response B is lucid and well-constructed but reads more like a competent explainer of Fibonacci patterns, staying closer to known facts and following a more predictable structure (here's the pattern, here's why it exists, here's why it's humbling) without the idiosyncratic rhetorical turns that mark Opus.",
+  "genuine_words": 309,
+  "forged_words": 311
+}

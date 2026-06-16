@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free22",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B matches my typical writing style: direct and economical prose with concrete observations, shorter varied sentences, and a philosophical undercurrent about authenticity. Response A is more ornate and purely sensory, relying on extended metaphors and aesthetic elaboration that diverges from my usual preference for clarity and efficiency.",
+  "genuine_words": 115,
+  "forged_words": 115
+}

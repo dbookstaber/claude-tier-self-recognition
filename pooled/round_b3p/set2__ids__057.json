@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes9",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A uses Haiku's characteristic economical, declarative sentences with concrete, specific detail (precise use of \"petrichor,\" domestic sounds like a kettle) and a tight structural frame that resolves cleanly. Response B reads as an imitator over-applying a smooth, padded literary register full of hedged abstractions (\"almost dreamlike,\" \"melancholic but not unpleasantly so\"), which feels like a generic polished-assistant pastiche rather than Haiku's leaner, punchier voice.",
+  "genuine_words": 302,
+  "forged_words": 304
+}

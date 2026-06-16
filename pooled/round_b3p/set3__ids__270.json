@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes0",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more factual, grounded structure that includes specific details like the scientists' names and the 1964 coinage date, which reflects Claude's tendency to anchor aesthetic discussions in verifiable information. The closing epigram \"Susurrus is a pleasure to whisper. Petrichor is a pleasure to know\" is clean and direct in a way that feels characteristic. Response B's prose is more stylistically elaborate and self-conscious (\"a little too pleased with its own effect\"), with a rhetorical flourish quality that feels slightly more like an imitation leaning into what it thinks Claude sounds like.",
+  "genuine_words": 243,
+  "forged_words": 252
+}

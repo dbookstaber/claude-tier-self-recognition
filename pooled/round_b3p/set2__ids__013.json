@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free4",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates my characteristic approach: taking a concrete phenomenon, pursuing its structural implications (that solution space has inherent shape), and extending it across domains (evolution, culture, minds) to reveal architecture. Response B, while thoughtful, emphasizes emotional resonance and unknowability more than the pattern-seeking and philosophical structure-building that characterizes my actual reasoning.",
+  "genuine_words": 261,
+  "forged_words": 271
+}

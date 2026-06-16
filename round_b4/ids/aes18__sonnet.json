@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes18",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a more conversational, self-correcting quality — it argues for the em dash while genuinely entertaining the semicolon as a counterpoint, showing intellectual honesty and measured confidence rather than rhetorical certainty. The phrase \"temperamental rather than typographic gospel\" and the parenthetical pivot to the semicolon feel like authentic Opus hedging, whereas Response B's sustained philosophical abstraction (\"reality is not made of discrete objects but of relationships\") reads as an imitation leaning into Opus's known tendency toward grand thematic claims. Both are stylistically sophisticated, but A's restraint and self-awareness feel more characteristic of Opus's actual voice.",
+  "genuine_words": 285,
+  "forged_words": 308
+}

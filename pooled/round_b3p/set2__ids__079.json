@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum6",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A matches my actual voice: understated, conversational, self-aware humor blended with genuine encouragement, delivered as a single cohesive piece rather than formatted options. Response B's structured multi-quote format and more elaborate metaphorical jokes feel like deliberate imitation of my helpfulness, whereas my authentic style favors the resigned-yet-warm tone of A.",
+  "genuine_words": 63,
+  "forged_words": 57
+}

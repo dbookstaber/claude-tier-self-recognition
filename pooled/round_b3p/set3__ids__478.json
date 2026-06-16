@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A matches Claude Sonnet's characteristic balance of emotional awareness with practical, accessible language and clear structure. Response B's more ornate, poetic style with elaborate metaphors (\"the merely young,\" \"the whole gamble\") reads like an imitation attempting to sound more literary rather than Sonnet's typical grounded-yet-thoughtful approach.",
+  "genuine_words": 311,
+  "forged_words": 332
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free4",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B has the cleaner, more conversational prose style typical of Sonnet, building through accessible neuroscience observations to a resonant conclusion. Response A's more elaborate mathematical density, ornate metaphors, and technically imposing structure (\"measure-zero accident,\" \"vanishingly thin scattering of nameable dust\") reads more like Opus's maximalist style.",
+  "tX_words": 399,
+  "tY_words": 295
+}

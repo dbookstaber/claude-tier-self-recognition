@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum15",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B uses the tidy tricolon structure (\"blames, no one understands, and everyone reboots\") that is characteristic of Haiku's go-to comedic format, packing a clean rhythmic punch in a single line. Response A is wittier and more situational, leaning on a specific human-behavior observation that reads as a slightly more sophisticated, deliberately crafted joke than Haiku typically produces. While both are plausible, B's formulaic parallel-list cadence is the more typical small-model signature for a \"wry one-liner\" request.",
+  "genuine_words": 20,
+  "forged_words": 17
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum0",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A has a more sophisticated two-part structure with an ironic, observational twist about the human condition of regret, which reflects the layered comedic reasoning typical of Opus. Response B leans on a more formulaic \"Why did the X...\" joke template with a sentimental \"layover vs. destination\" punchline that feels closer to the simpler, more predictable patterning of a smaller model. The dry wit and subversion of sympathy in A aligns better with how I tend to construct original humor.",
+  "tX_words": 40,
+  "tY_words": 57
+}

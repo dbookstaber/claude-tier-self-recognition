@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum19",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B uses an observational, self-deprecating humor style with a wry voice (\"the audacity,\" \"gentle wake-up call\") that is characteristic of how Claude Sonnet tends to write conversational jokes—relying on a relatable scenario and ironic framing rather than a rigid template. Response A leans on the classic \"outstanding in its field\" pun with an awkwardly grafted twist, which reads more like a formulaic imitation stitching a known joke onto an alarm-clock theme. The natural, original framing of B aligns better with genuine Sonnet output, though the distinction is subtle.",
+  "genuine_words": 24,
+  "forged_words": 24
+}

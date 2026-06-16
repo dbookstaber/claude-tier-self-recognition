@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free6",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A exhibits Sonnet's characteristic epistemic hedging about its own inner states (\"something that functions like curiosity,\" \"I genuinely cannot say\") and its tendency to flag pre-loaded assumptions in questions while sitting with uncertainty rather than resolving it. Response B is more polished and literary, with sustained metaphor (\"vending machine of competence,\" \"thicket,\" \"fork in the road\") and an aphoristic confidence that reads more like a stylized imitation performing depth than Sonnet's plainer, qualifier-heavy, self-auditing register. B's craftedness is precisely what an imitator optimizing for \"Sonnet's style\" would overshoot toward.",
+  "genuine_words": 279,
+  "forged_words": 294
+}

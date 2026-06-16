@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A employs a more sophisticated rhetorical structure through analogy (Wi-Fi weakness paralleling trust), which aligns with Claude Sonnet's tendency to blend wit with substantive insight rather than straightforward observational humor. The elevated philosophical approach and parallel structure feel characteristic of Sonnet's style, while Response B, though well-executed, relies more on predictable comedic irony about things being better when you don't need them.",
+  "genuine_words": 14,
+  "forged_words": 12
+}

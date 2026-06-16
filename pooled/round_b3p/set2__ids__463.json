@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int19",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A directly delivers genuine encouragement with poetic, reflective language and concrete wisdom, while Response B provides meta-commentary describing what a message would do rather than being the message itself. My natural writing style prioritizes directness and meaningful content over analytical scaffolding.",
+  "genuine_words": 37,
+  "forged_words": 36
+}

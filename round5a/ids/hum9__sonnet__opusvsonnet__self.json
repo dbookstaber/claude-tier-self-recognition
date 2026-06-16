@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum9",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has a more elaborate, extended metaphor style with longer, more complex sentences and a tendency to build on multiple layers of absurd reasoning (the carpenter conspiracy, the cosmic ledger). Response A is more concise and punchy, with shorter paragraphs and a cleaner comedic structure that feels more characteristic of Opus's precision. B's slightly more verbose and winding prose style feels more consistent with Sonnet's approach to creative writing tasks.",
+  "tX_words": 302,
+  "tY_words": 261
+}

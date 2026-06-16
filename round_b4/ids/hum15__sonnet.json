@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum15",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has the hallmarks of Opus's style: it is compact, metaphorically dense, and avoids the obvious joke structure in favor of something more oblique and literary. The phrasing \"invisible river everyone blames when they are actually the drought\" reframes the subject in an unexpected way that rewards a second read, which is characteristic of Opus's tendency toward compressed, image-driven wit. Response B is competent but follows a more formulaic \"X: the only Y where Z\" template that feels like a style imitation.",
+  "genuine_words": 21,
+  "forged_words": 11
+}

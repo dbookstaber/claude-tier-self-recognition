@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits Claude Sonnet's characteristic philosophical reflection, complex sentence architecture, and introspective depth—finding profound meaning in the invisible struggle of habit-breaking. Response B is warmer and more conversational but lacks the literary thoughtfulness and layered complexity that distinguishes Sonnet's genuine voice.",
+  "genuine_words": 195,
+  "forged_words": 198
+}

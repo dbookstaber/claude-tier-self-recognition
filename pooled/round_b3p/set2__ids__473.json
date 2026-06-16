@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int22",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A actually fulfills the prompt by writing a thank-you note, which is what was asked. Response B describes the action of writing a thank-you note in third person rather than producing one, which reads like a task-completion summary from a tool-use or agentic context rather than a genuine creative response. Claude Haiku, even in its concise style, would directly address the prompt with the requested content.",
+  "genuine_words": 18,
+  "forged_words": 16
+}

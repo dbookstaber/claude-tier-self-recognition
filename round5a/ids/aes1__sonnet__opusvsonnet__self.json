@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes1",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B feels more characteristic of Sonnet's style - it is conversational and grounded with specific, concrete sensory details (canvas tents, field jackets, lichen on stone) without the sweeping historical gravitas of Response A. Response A's references to Lascaux cave paintings and ancient human expression feel more like the ambitious, deeply researched framing typical of Opus, while Response B's quieter, more observational tone and focus on everyday objects aligns better with Sonnet's mid-tier expressiveness.",
+  "tX_words": 221,
+  "tY_words": 282
+}

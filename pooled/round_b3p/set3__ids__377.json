@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free20",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has the more controlled, organically developing essay structure characteristic of genuine Sonnet, with concrete sensory grounding (\"thinning sheaf beneath your right thumb\") and a single coherent arc rather than a list of discrete observations. Response B leans on punchier aphoristic one-liners (\"It is the loudest thing in the book,\" \"opens in only one direction\") and a more formulaic paragraph-per-idea cadence that reads like an imitation amplifying Sonnet's surface mannerisms. B's opening claim (\"happens nowhere else in human experience\") is also an overstatement of a kind Sonnet tends to hedge.",
+  "genuine_words": 432,
+  "forged_words": 448
+}

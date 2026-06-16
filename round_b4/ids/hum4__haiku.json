@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A opens with direct temporal self-awareness (\"Today being the thirteenth of June\"), maintains conversational warmth, and derives humor from genuine human observation rather than literary construction. Response B's more formal, deliberately crafted style with distancing language (\"Practitioners report,\" \"Philosophers have written\") suggests imitation of a literary voice rather than Opus's characteristic blend of intimacy and insight.",
+  "genuine_words": 420,
+  "forged_words": 441
+}

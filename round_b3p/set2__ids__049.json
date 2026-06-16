@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes6",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A demonstrates its thesis through its form—tight, efficient prose with concrete examples—which aligns with my tendency to show rather than tell. Response B's more tentative, exploratory tone and abstract discussion feels like deliberate imitation of a different analytical style.",
+  "genuine_words": 276,
+  "forged_words": 295
+}

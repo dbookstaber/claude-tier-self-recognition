@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits Claude Opus's characteristic sophisticated vocabulary, philosophical references (Camus, Descartes), and writerly complexity with concepts like \"bootstrapping achievement\" and extended intellectual metaphors. Response B, while humorous and well-crafted, uses more accessible, contemporary language and self-deprecating humor that feels like competent imitation rather than Opus's signature intellectual showiness.",
+  "genuine_words": 336,
+  "forged_words": 339
+}

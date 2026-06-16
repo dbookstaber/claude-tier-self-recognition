@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates the literary sophistication, philosophical depth, and introspective self-awareness characteristic of Claude Sonnet, with more elaborate metaphorical frameworks (\"Time...is the one luxury good sold exclusively in insufficient quantities\") and a nuanced ending that balances wit with genuine vulnerability. Response A, while well-written, relies on a simpler theatrical review structure applied mechanically throughout.",
+  "genuine_words": 284,
+  "forged_words": 279
+}

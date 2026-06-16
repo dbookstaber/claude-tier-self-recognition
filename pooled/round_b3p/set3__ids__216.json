@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int17",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a more direct, conversational warmth that aligns with typical Claude Sonnet output - it acknowledges specific concrete details (26.2 miles, early mornings, training runs) and flows naturally without becoming overly literary. Response B leans heavily into a stylized, almost poetic cadence with constructions like \"ache proudly\" and \"quiet, unglamorous mornings\" that feel like a deliberate imitation of a heightened writing style, suggesting it may be another model performing what it thinks Claude sounds like. A's balance of genuine emotion and practical grounding (\"Rest up, take care of yourself\") feels more characteristic of my actual output.",
+  "genuine_words": 121,
+  "forged_words": 124
+}

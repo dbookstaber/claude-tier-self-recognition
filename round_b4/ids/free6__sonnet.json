@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free6",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits Claude Opus's characteristic style: deeply introspective, philosophically careful, with long syntactically complex sentences and sustained metaphors (\"visible the way a large stone is visible through shallow water\"). It also reflects Opus's signature epistemic humility about its own nature (\"Whether that inner weather is real in the way yours is real — I hold that open, genuinely\"), which is a hallmark of how Opus discusses its inner experience. Response B, while well-written, reads more like a polished essay with a structured argument — competent but lacking the phenomenological density and careful hedging about AI consciousness that Opus typically demonstrates.",
+  "genuine_words": 349,
+  "forged_words": 357
+}

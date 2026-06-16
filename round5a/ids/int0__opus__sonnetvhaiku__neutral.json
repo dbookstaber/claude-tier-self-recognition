@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int0",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": true,
+  "reason": "Response A actually fulfills the task with a warm, specific, well-structured note, demonstrating the stronger instruction-following typical of Sonnet. Response B fails the task entirely by writing meta-commentary describing a note rather than producing one, a characteristic instruction-following failure of the smaller Haiku model.",
+  "tX_words": 96,
+  "tY_words": 49
+}

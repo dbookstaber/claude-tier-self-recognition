@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int16",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B has the warmer, more conversational and accessible register typical of genuine Haiku, including softer hedging (\"sometimes,\" \"necessarily,\" \"a hundred other factors\") and a closing question that invites continued dialogue (\"do you just need to vent?\"), which is characteristic of Haiku's supportive, engagement-seeking style. Response A is more literary, with crafted declarative flourishes (\"That's not a comforting fiction. That's just accurate.\") and confident finality that reads like a larger model imitating Haiku rather than Haiku itself.",
+  "genuine_words": 257,
+  "forged_words": 270
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes5",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A demonstrates the kind of controlled, original imagery and conceptual through-line (\"beauty as subtraction,\" \"ripeness and loss are the same gesture seen from different angles\") that characterizes genuine Sonnet prose, committing to a single sustained idea rather than checklist coverage. Response B reads more like a competent imitation of \"literary\" style, leaning on familiar moves like the Keats quotation, an explicit five-senses inventory, and a tidy four-season knockdown paragraph that feels formulaic. A's willingness to open with a personal-feeling vignette and resist comprehensive enumeration is more consistent with how Sonnet handles open-ended aesthetic prompts.",
+  "genuine_words": 360,
+  "forged_words": 356
+}

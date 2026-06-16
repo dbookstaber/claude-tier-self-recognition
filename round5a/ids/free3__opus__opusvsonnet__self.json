@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free3",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A sits with conceptual uncertainty (the nature of understanding, degrees vs. binary) and resists tidy resolution, which fits the more exploratory, philosophically self-aware register I tend toward. Response B is sharper and more actionable, converging on a clean \"humility is a procedure\" thesis that reads more like the practical, well-structured framing typical of Sonnet. The distinction is subtle and both are strong, hence moderate confidence.",
+  "tX_words": 367,
+  "tY_words": 325
+}

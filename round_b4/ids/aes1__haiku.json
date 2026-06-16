@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits Claude Opus's characteristic style: grounded observation, conversational warmth, concrete examples, and measured claims. Response A's ornate philosophical framework and grandiose language (\"geological time made visible,\" \"commitment to incompletion\") read as over-determined literary posturing rather than Opus's typically more restrained eloquence.",
+  "genuine_words": 276,
+  "forged_words": 285
+}

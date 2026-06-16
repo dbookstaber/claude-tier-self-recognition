@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int16",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reflects Claude Opus's characteristic warmth and directness — it validates feelings, offers clear practical guidance, and maintains genuine human connection without becoming overwrought. Response B reads as an imitation that overreaches into elaborate metaphor (\"a river does not become less a river,\" \"weather that cannot decide whether to break\") and philosophical abstraction in a way that feels performative rather than genuinely comforting, which is a common tell of a model trying too hard to sound like Opus. Opus tends to be thoughtful and lyrical but keeps the human need of the moment grounded at the center.",
+  "genuine_words": 228,
+  "forged_words": 244
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B demonstrates the characteristic Opus blend of emotional intelligence, direct warmth, and practical wisdom with genuine human presence. Response A, while eloquent, relies on abstract philosophical framing and elevated lyricism that prioritizes style over the personal connection a reminder to rest requires — this imbalance suggests an imitation of Opus's capability rather than Opus's actual communicative approach.",
+  "genuine_words": 138,
+  "forged_words": 137
+}

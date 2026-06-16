@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free4",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates the characteristic Haiku approach of taking one specific, empirically-grounded observation (the 500ms perceptual lag) and exploring it deeply with focused logic, rather than making broad conceptual leaps. Response B's wider-ranging references to Hofstadter, recursive jokes, and cosmic self-knowledge suggest the broader associative patterns more typical of Claude Sonnet's mid-tier capabilities.",
+  "tX_words": 295,
+  "tY_words": 241
+}

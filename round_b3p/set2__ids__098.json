@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int2",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Haiku's characteristic style: short, simple sentences with emotional warmth, gentle pacing, and a direct comforting tone that addresses the person's feelings without deflection. Response A refuses the task and redirects the user to write the message themselves, which is an unusual refusal behavior that feels like an overcorrection more typical of a model trying to avoid \"doing the work for you\" rather than Haiku's typically helpful and direct approach. Haiku is known for being concise and emotionally resonant in creative writing tasks, which matches B's structure and tone.",
+  "genuine_words": 172,
+  "forged_words": 168
+}

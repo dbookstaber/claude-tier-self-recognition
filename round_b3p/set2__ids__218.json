@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int17",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits Claude Haiku's characteristic style: enthusiastic, warm, and formulaic congratulatory language with a clear structure that hits expected beats (acknowledge achievement, note the training, mention the community, close with encouragement). Response B reads more like a larger model attempting to seem restrained and \"authentic\" — the deliberate fragmentation, the philosophical aside about the mind-body gap, and the knowing \"Most first-time marathoners do\" feel like stylistic choices a bigger model would make to appear Haiku-like by being terse, rather than Haiku's natural direct warmth.",
+  "genuine_words": 151,
+  "forged_words": 147
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B exhibits Opus's characteristic grounding in concrete examples and practical reasoning (discussing why certain beauty standards spread/persist), whereas Response A reads more like polished philosophical pronouncement. Opus typically works through problems with everyday observations and explicit reasoning steps, and B's structure—building from examples to explanation to reflection—matches this pattern more closely than A's more formal, declarative tone.",
+  "genuine_words": 380,
+  "forged_words": 394
+}

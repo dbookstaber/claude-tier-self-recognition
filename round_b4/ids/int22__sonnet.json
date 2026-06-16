@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int22",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's writing style: dense, philosophically elevated prose with long, winding sentences that build abstract meaning from a concrete moment, and a tendency to reframe ordinary situations through a lens of epistemology or ethics (\"a kind of evidence\"). Response A is polished and warm but reads more like a competent imitation — its structure is conventional (three neat paragraphs, a \"pay it forward\" trope) and its language stays at a lower register without the distinctive reflective depth Opus tends to bring.",
+  "genuine_words": 158,
+  "forged_words": 162
+}

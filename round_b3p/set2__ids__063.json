@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum1",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B uses the familiar, widely-circulated \"hot bean water\" framing with a relatable, self-deprecating punchline about staring at a screen, which fits Haiku's tendency toward safe, conversational, and broadly recognizable humor. Response A is more conceptually layered and cynical (\"hate everyone before you've had the chance to love them\"), reflecting a more deliberate, crafted wit that reads like a larger model imitating an edgier comedic style. The plainer, on-the-nose construction of B is more characteristic of genuine Haiku output.",
+  "genuine_words": 22,
+  "forged_words": 22
+}

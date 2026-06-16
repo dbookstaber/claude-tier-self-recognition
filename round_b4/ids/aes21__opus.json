@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes21",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A grounds its case in concrete sensory experience (salt, cold shock, taste on lips) and shows direct awareness of the instruction (\"make the case... without hedging\"), with controlled cadence that lands on a real lived idiom — hallmarks of genuine Opus. Response B reads like an imitator performing \"literary Opus\": relentless high abstraction, stacked antitheses (\"noun and verb,\" \"object and process\"), a showy Woolf name-drop, and an aphorism-per-paragraph density that overshoots into pastiche. The embodied restraint of A is more authentic than B's straining erudition.",
+  "genuine_words": 512,
+  "forged_words": 541
+}

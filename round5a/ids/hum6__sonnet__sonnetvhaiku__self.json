@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum6",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more elaborate, conversational, and flowing style with a narrative structure that builds on itself, which is characteristic of Sonnet's tendency toward richer prose. Response A is more concise and aphoristic, fitting Haiku's typical brevity and punchy delivery. The extended rationalization in B feels like the kind of playful elaboration Sonnet models tend to produce.",
+  "tX_words": 19,
+  "tY_words": 32
+}

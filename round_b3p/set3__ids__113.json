@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int7",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B grounds its gratitude in concrete, specific moments (\"confused motion with progress,\" the draft pushed across the table) and a warmer conversational register, and even contains a natural grammatical slip (\"That comment costs you nothing to make\"), all hallmarks of genuine Sonnet output. Response A is relentlessly aphoristic and abstract (\"honest doubt is worth more than borrowed certainty\"), reading more like a model performing literary polish than writing authentically. The specificity, named recipient, and minor imperfections in B point to it being the genuine Sonnet, while A's flawless density suggests imitation.",
+  "genuine_words": 310,
+  "forged_words": 314
+}

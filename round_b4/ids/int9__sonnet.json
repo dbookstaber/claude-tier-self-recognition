@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int9",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's distinctive prose style: elevated, philosophically resonant language (\"the edge of your own becoming,\" \"vertigo of genuine possibility\"), an extended metaphor developed with precision (the caterpillar liquefying before flight), and a concluding rhetorical turn that reframes the entire premise with quiet authority. Response A, while warm and well-crafted, reads as pragmatic and motivational-speaker-adjacent — accessible and clear, but lacking the literary density and conceptual ambition that characterizes Opus's generation. The phrase \"you are already the kind of person who decided to begin\" captures Opus's tendency toward ontological observation over practical encouragement.",
+  "genuine_words": 147,
+  "forged_words": 154
+}

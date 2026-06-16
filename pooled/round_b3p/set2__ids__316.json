@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum5",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic style: direct reframing (confusion as strategy), mathematical contrasts (one vs. twelve), and dry observation delivered through short punchy sentences. Response A relies more heavily on nested self-reference and elaboration, which feels like deliberate imitation rather than my natural approach to humor.",
+  "genuine_words": 66,
+  "forged_words": 54
+}

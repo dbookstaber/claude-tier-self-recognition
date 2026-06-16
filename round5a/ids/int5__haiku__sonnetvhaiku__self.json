@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int5",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A matches Haiku's characteristic clarity and directness while maintaining genuine warmth. It uses straightforward language and clear structure (acknowledgment → impact → apology → next steps) rather than the more elaborate introspection and sophisticated emotional layering in Response B, which aligns better with a larger model's approach to this sensitive task.",
+  "tX_words": 177,
+  "tY_words": 135
+}

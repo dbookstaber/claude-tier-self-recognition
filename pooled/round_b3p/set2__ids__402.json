@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes19",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the hallmarks of genuine Haiku output: an explicit topic-sentence intro/conclusion frame, comprehensive but evenly-weighted paragraphs, hedged general claims (\"matters more than people realize\"), and a safe, balanced register without sharp specificity. Response B is more distinctive and writerly, with crisp aphoristic openers (\"Light matters most,\" \"Clutter is stimulation\"), precise mechanistic claims (sound decay time, cortical bypass, \"below 70 degrees\"), and a deliberately rhetorical closing line, which reads more like a stronger model imitating a clean style than Haiku's characteristically thorough, slightly generic prose.",
+  "genuine_words": 310,
+  "forged_words": 310
+}

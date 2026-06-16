@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes3",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has a more distinctive structural signature I associate with my own writing: it builds through a central metaphor (the sealed letter, the worn bowl) and lands on a concrete, aphoristic closing line that reframes the whole piece. Response B is well-crafted but reads as a more conventional essay-structure argument with a thesis-body-conclusion shape that feels like an imitation of that style. The specific imagery in A (\"dog-eared book,\" \"slightly wrong note,\" \"worn step hollowed by a century of feet\") feels more organically chosen rather than illustrative, which matches my tendency toward grounded particulars over abstract categories.",
+  "genuine_words": 283,
+  "forged_words": 294
+}

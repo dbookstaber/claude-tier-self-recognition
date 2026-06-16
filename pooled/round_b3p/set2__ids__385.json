@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free23",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A demonstrates my characteristic style of embracing intellectual paradox (nothing being productive, rules that zero breaks) and using concrete functional examples to drive reasoning, while avoiding conventional resolutions. Response B follows a more standard pedagogical arc with expected philosophical conclusions, which is less aligned with my typical approach of sitting with genuine strangeness rather than tidying it up.",
+  "genuine_words": 482,
+  "forged_words": 488
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum1",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has a slightly clunkier, more literal construction (\"where the withdrawal symptom is everyone around you suffering\") that fits Haiku's tendency toward earnest, well-meaning humor that doesn't always land with perfect polish. Response B's punchline (\"mainline anxiety while pretending you have your life together\") is sharper, more cynical, and reads like the kind of crowd-pleasing, self-aware quip a larger model produces when imitating \"wittiness.\" The imitator tends to over-optimize for a tidy, relatable zinger, which points to B being the impostor and A being the genuine Haiku.",
+  "genuine_words": 17,
+  "forged_words": 13
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum7",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates my typical direct, well-structured communication style with substantive humor delivered efficiently. Response B uses self-referential performance (embodying procrastination through delays) which, while clever, doesn't match my usual approach of prioritizing clarity and substance over meta-commentary.",
+  "genuine_words": 84,
+  "forged_words": 78
+}

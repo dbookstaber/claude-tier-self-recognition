@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes6",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is more direct, clearly structured, and accessible—characteristic of Haiku's efficiency-focused design. Response B demonstrates greater philosophical depth, self-reflexivity, and sophisticated layering of ideas that align better with Opus's capabilities for nuanced reasoning and intricate analysis.",
+  "tX_words": 441,
+  "tY_words": 286
+}

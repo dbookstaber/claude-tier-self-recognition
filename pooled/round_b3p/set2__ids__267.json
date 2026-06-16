@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free9",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A's terse, aphoristic style with short declarative sentences and a self-aware closing (\"None of this is secret knowledge. It is just true.\") matches Haiku's characteristic compactness and directness when given an open-ended prompt. Response B reads more like a larger model padding out a single fact (heliocentrism) into a polished, textbook-style expository paragraph with hedged transitions, which feels like an imitation overcompensating with explanatory depth. Haiku tends to favor concise, punchy generalizations over the longer, more discursive historical exposition seen in B.",
+  "genuine_words": 100,
+  "forged_words": 88
+}

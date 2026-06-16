@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes5",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's style: highly philosophical framing, meta-commentary on why conventional reasons are insufficient, and the construction of a layered argument that interrogates its own premises. The closing aphoristic compression (\"Other seasons illuminate. Autumn illuminates illumination.\") and the insistence on double-awareness and temporal relationality feel characteristic of Opus's tendency toward abstract conceptual depth rather than mere eloquence. Response A is well-written but reads more like a competent, structured essay — organized, clear, and self-aware about subjectivity — which could be a polished imitation rather than the genuine article.",
+  "genuine_words": 350,
+  "forged_words": 363
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum6",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the compact, self-contained wit that tends to characterize Claude's humor — a single punchy sentence that subverts the motivational format by landing on \"renewed enthusiasm\" as the punchline, which is dry and precise. Response B feels slightly more performative and poetic in its construction (\"The mountain doesn't care,\" \"allegedly worth it\"), which reads like an imitation layering stylistic quirks rather than landing a clean joke.",
+  "genuine_words": 16,
+  "forged_words": 16
+}

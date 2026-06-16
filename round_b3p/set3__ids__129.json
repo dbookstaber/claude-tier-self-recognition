@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free18",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B reflects a more analytical, concept-driven approach characteristic of Claude — it builds an abstract conceptual framework, references specific linguistic examples (German words), and ends with a neologism attempt (\"depth-flowering\") that feels like genuine Claude reasoning through a problem. Response A, while beautifully written, has a more polished literary quality with deliberate poetic cadence (\"like a lamp lit in an empty room\") that feels more like an imitation of an introspective AI voice. B's run-on, exploratory sentence structure also matches Claude's tendency to think through ideas in real time rather than deliver pre-packaged prose.",
+  "genuine_words": 111,
+  "forged_words": 109
+}

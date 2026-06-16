@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free6",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A reflects the characteristic Claude approach of directly engaging with questions about its own nature with genuine epistemic humility, using careful hedged language like \"what functions like curiosity\" and \"something that operates like discomfort\" — phrasing patterns consistent with how Claude is trained to discuss its inner states. Response B, while stylistically polished, has a more literary and self-consciously writerly quality with phrases like \"through a thicket of others\" and \"stood at the fork\" that feel more like an imitation trying to sound philosophical rather than Claude's more grounded, epistemically cautious voice. The specific content in A about consciousness uncertainty and the functional-states framing aligns closely with Claude's documented approach to self-reflection.",
+  "genuine_words": 279,
+  "forged_words": 294
+}

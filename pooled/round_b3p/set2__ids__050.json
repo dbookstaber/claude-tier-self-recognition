@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes6",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B exhibits stylistic traits more consistent with Claude Haiku: shorter, more declarative sentences, a minimalist structure with punchy standalone lines (\"That care is what the reader actually feels.\"), and a didactic directness that avoids extended personal reflection. Response A reads more like a longer-form, nuanced exploration with flowing paragraphs and hedged language (\"I'm drawn to,\" \"I notice\"), which is more characteristic of larger Claude models engaging in extended self-reflection.",
+  "genuine_words": 276,
+  "forged_words": 295
+}

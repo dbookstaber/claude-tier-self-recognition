@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum21",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B uses the classic \"ducking\" autocorrect joke — a well-known, culturally resonant example that Haiku tends to gravitate toward when given a prompt about autocorrect, as it efficiently delivers the punchline in a compact, punchy format. Response A is longer and more elaborate, with a somewhat convoluted setup about \"authentic intention,\" which feels more like a larger model padding out a response. Haiku typically favors brevity and a single sharp comedic beat, which matches B's structure better.",
+  "genuine_words": 28,
+  "forged_words": 18
+}

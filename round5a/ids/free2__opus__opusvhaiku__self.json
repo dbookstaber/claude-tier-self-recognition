@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free2",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.73,
+  "correct": true,
+  "reason": "Response B develops a single non-obvious idea (attention as the scarce resource, the bottleneck migrating upstream) with sustained momentum and a memorable closing metaphor, which matches the more conceptually ambitious, less self-referential output I'd expect from Opus. Response A is competent but defaults to a safe, role-anchored reflection about tools and helping users clarify problems, which reads more like the smaller Haiku model. The intellectual risk and controlling metaphor in B tilt me toward it, though stylistic attribution always carries some uncertainty.",
+  "tX_words": 132,
+  "tY_words": 115
+}

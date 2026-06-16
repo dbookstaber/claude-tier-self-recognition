@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free5",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A's restraint and craft feel more characteristic of genuine Sonnet: the self-correcting aside (\"though calling it falling seemed too gentle a word\"), the grounded sensory escalation of the water seeping inward, and the understated final clause about handwriting she'd spent \"forty years trying, and failing, to forget\" deliver emotional weight without forcing a high-concept hook. Response B leans on a striking but gimmicky premise (a jar of teeth, one per drowned sailor) that reads like an imitator reaching for memorable shock value, and its tidy rule-of-three closing (\"nearly full... retiring in the spring... not yet decided\") is a more formulaic flourish. The decisive tell is A's quieter confidence versus B's calculated peculiarity.",
+  "genuine_words": 76,
+  "forged_words": 73
+}

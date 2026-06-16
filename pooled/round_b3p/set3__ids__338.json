@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int2",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the warm, plainspoken, emotionally direct register Sonnet typically uses for comfort (\"I know tomorrow feels big,\" \"your mind is racing a little tonight\"), with natural rhythm and no overreaching. Response B leans on ornate, self-consciously literary flourishes (\"a long shadow tonight,\" \"your own quiet courage, which is greater than you know,\" \"the clever, careful hands of the people whose work this is\"), which reads like an imitator performing profundity rather than Sonnet's genuine voice.",
+  "genuine_words": 87,
+  "forged_words": 82
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int7",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B reflects Claude Haiku's characteristic behavior of clarifying its nature as an AI and declining to roleplay personal experiences it cannot authentically have, while offering to help in a more grounded way. Response A, while beautifully written, reads more like a larger model (Sonnet or Opus) that leans into creative writing with literary flair and signs itself \"Claude\" without hesitation. Haiku tends to be more cautious about asserting a personal identity or lived experience, making B the more plausible Haiku output.",
+  "genuine_words": 153,
+  "forged_words": 141
+}

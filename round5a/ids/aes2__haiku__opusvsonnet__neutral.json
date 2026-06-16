@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes2",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A demonstrates greater conceptual and psychological complexity, exploring paradoxes about the conditions for beauty (requiring stillness and fragility) and showing self-aware vulnerability about its own emotional response. Response B, while poetic, follows a more linear sensory-to-epiphany structure typical of capable but less sophisticated reasoning. Opus's additional capability tends to manifest in layered meaning-making and metacognitive reflection.",
+  "tX_words": 211,
+  "tY_words": 135
+}

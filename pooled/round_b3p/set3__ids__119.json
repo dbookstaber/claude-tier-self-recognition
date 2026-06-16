@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int9",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B has the natural, grounded warmth and conversational rhythm Sonnet typically uses for a friendly interpersonal request, including the casual em-dash aside and the plain \"I'm rooting for you every step of the way\" closer. Response A relies on a polished aphorism (\"courage was never the absence of fear but the choice to move through it\") and precious touches like \"Go gently,\" which read more like an imitator reaching for literary gravitas than Sonnet's genuine voice. Confidence is moderate because both are plausible and the styles are close.",
+  "genuine_words": 55,
+  "forged_words": 54
+}

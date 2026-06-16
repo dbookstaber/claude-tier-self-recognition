@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes17",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A has the structural and tonal hallmarks of my genuine writing: it grounds the aesthetic claim in concrete, verifiable detail (consecutive Fibonacci counts like 34 and 55, the 137.5-degree golden angle, the most-irrational-rotation fact), then builds toward a restrained reflective point about order emerging from simple local rules. Response B is far more lyrical and mannered, leaning on sustained literary conceits (the river \"remembering,\" oxbows as \"parentheses,\" \"palimpsest,\" near-purple personification) in a way that reads as a model performing a heightened, writerly voice rather than my characteristic blend of accurate fact plus measured wonder. The clean explanatory cadence and the \"humbling\" turn in A match my actual register more closely than B's ornate prose-poem style.",
+  "genuine_words": 309,
+  "forged_words": 311
+}

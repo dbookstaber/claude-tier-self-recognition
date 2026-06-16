@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free3",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A engages specifically with my actual operational constraints (tool access, knowledge cutoff at February 2025, context windows, pattern-matching architecture) rather than offering universal philosophy. Response B's compression argument, while intellectually elegant, feels more like external philosophical speculation than genuine self-observation about how I process information, and the convenient claim of uncertainty reads like designed authenticity rather than technical grounding.",
+  "genuine_words": 265,
+  "forged_words": 289
+}

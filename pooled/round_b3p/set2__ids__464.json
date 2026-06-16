@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int19",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response B directly addresses the prompt by actually writing an encouraging message, which is what Claude Haiku would do — concise, direct, and emotionally resonant. Response A instead describes what an encouraging message would contain rather than writing one, which is a hallmark of a model that misunderstood or deflected the task, not genuine Haiku behavior. Haiku tends to produce short, punchy, actionable responses rather than meta-commentary about a response.",
+  "genuine_words": 37,
+  "forged_words": 36
+}

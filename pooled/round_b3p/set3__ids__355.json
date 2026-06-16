@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic balance of warmth with accessibility and practical empathy, meeting someone emotionally where they are rather than through sustained poetic distance. Response A, while beautifully written, prioritizes lyrical language and metaphor over the direct, grounded support that Sonnet typically provides in emotionally vulnerable moments.",
+  "genuine_words": 232,
+  "forged_words": 241
+}

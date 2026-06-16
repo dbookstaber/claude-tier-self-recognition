@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free24",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits the hallmarks of a smaller, helpful-tuned model like Haiku: it is more literal and comprehensive (\"physical spaces like houses and apartments\"), hedges with enumeration (\"a physical location, a person you're close to, or even an internal state\"), and uses qualifying adverbs like \"fundamentally,\" prioritizing coverage over craft. Response A is notably more literary and restrained (\"the particular way light falls in a room you know by heart\"), which reads like a deliberate stylistic imitation by a more capable model rather than Haiku's earnest, list-leaning default. The aphoristic polish and economy of A is the tell of an imitator overshooting toward elegance.",
+  "genuine_words": 83,
+  "forged_words": 65
+}

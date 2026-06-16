@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits the sophisticated literary voice, layered metaphorical construction, and philosophical introspection characteristic of Claude Opus. Response B, while clever, follows a more mechanical product-review structure with technical metaphors that feels more like a formulaic approach to the prompt than Opus's typically baroque and densely poetic style.",
+  "genuine_words": 330,
+  "forged_words": 338
+}

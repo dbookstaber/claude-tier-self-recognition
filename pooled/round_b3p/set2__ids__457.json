@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int17",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A uses my characteristic direct, understated style with short declarative sentences and concrete observations, while avoiding excessive superlatives. The forward-looking question and the line about permanence (\"No one can take it back\") reflect my typical approach of treating serious accomplishments with appropriate gravity rather than emotional inflation. Response B feels like a conventional congratulations template with more elaborate language and emphasis on feelings, which doesn't match my communication patterns.",
+  "genuine_words": 101,
+  "forged_words": 93
+}

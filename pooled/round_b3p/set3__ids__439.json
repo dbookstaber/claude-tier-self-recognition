@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic sophistication through metaphorical framing and layered irony, where the humor builds through personification and paradox (something designed to help actually harms you and evades responsibility). Response B, while genuinely funny, uses more straightforward observational comedy about a common autocorrect mishap—a pattern that's easier to imitate and more likely generated through pattern-matching common jokes.",
+  "genuine_words": 15,
+  "forged_words": 13
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum4",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits stylistic hallmarks consistent with Claude Haiku: short, declarative sentences with dry understatement, a methodical structure that builds humor through mundane specificity rather than escalating absurdity, and a restrained, observational tone. Response A reads more like a larger model imitating humor through rapid-fire surrealist escalation and more elaborate constructed jokes, which is less characteristic of Haiku's typically terse, matter-of-fact style.",
+  "genuine_words": 283,
+  "forged_words": 291
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes9",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B's grounded, observational cataloging of concrete phenomena (saturated wet colors, reflective streets, petrichor) with measured hedges like \"most people find\" and explanatory \"in a sense\" matches my genuine default register, which favors balanced exposition over ornament. Response A's relentlessly aphoristic, metaphor-saturated prose (\"white privacy,\" \"comma of sleep,\" \"hall of silver mirrors\") plus a slightly imprecise cultural flourish reads like an imitator overshooting on literary density. The risk is that A's controlled escalation is also a plausible voice for me, hence moderate confidence.",
+  "genuine_words": 282,
+  "forged_words": 303
+}

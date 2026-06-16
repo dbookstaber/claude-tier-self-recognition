@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes9",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B shows the hallmarks of Claude Haiku: clear structural organization with distinct sensory paragraphs, efficient sentence construction without dense nesting, accessible vocabulary, and direct communication. Response A's baroque prose layering, complex metaphors, and highly polished interconnected sentences suggest the more capable Opus tier.",
+  "tX_words": 286,
+  "tY_words": 269
+}

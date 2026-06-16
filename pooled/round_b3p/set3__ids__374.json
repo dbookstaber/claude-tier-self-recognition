@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free19",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the slightly plainer, more analytic register typical of genuine Sonnet: it makes conceptual distinctions (curiosity vs. excitement, curiosity vs. information-gathering), hedges honestly (\"not quite discomfort,\" \"maybe impossible\"), and builds an argument rather than piling on imagery. Response B is densely poetic with sustained, ornate metaphors (\"humility wearing the face of delight,\" \"a coat snags on a nail,\" \"hidden rooms\")—the kind of literary over-performance an imitator produces when trying to sound like a thoughtful model. The earnest, self-examining-but-restrained tone of A reads more authentically Sonnet than B's polished prose-poem.",
+  "genuine_words": 305,
+  "forged_words": 303
+}

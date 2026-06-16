@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free18",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic analytical approach to language and epistemology, breaking down the problem systematically and proposing a precise technical solution (\"premising\"). Response A, while thoughtful, emphasizes emotional resonance and interpersonal empathy more heavily than my typical framing style.",
+  "genuine_words": 173,
+  "forged_words": 172
+}

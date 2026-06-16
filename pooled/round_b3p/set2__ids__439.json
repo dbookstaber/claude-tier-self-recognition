@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum21",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B reflects my characteristic style of conceptual wordplay and ironic observation—reframing autocorrect's logic rather than relying on a specific scenario. Response A, while funny, uses a more traditional joke structure centered on a concrete (and cruder) example, which is less aligned with how I typically construct humor through self-aware contradiction and logical absurdity.",
+  "genuine_words": 20,
+  "forged_words": 18
+}

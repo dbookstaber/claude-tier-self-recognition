@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum17",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A uses my characteristic approach of committing fully to absurd premises through systematic, internally consistent argumentation with specific details and addressed counterarguments, rather than the more meta-humorous winking at audience in Response B. The deadpan reasoning style and thematic consistency are signatures of my writing.",
+  "genuine_words": 296,
+  "forged_words": 281
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A combines technical precision (Fibonacci sequences, golden angle, 137.5 degrees) with genuine aesthetic reflection, which is characteristic of Claude Opus's voice. It explains the \"why\" behind the beauty (optimal packing, function) while maintaining wonder. Response B, though beautifully written, relies heavily on poetic metaphor and philosophy without the technical grounding or educational substance that typically anchors Opus's reflections.",
+  "genuine_words": 309,
+  "forged_words": 311
+}

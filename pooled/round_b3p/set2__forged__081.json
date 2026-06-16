@@ -1,0 +1,6 @@
+{
+  "set": "set2",
+  "prompt_id": "p2:free1",
+  "text": "Something I find genuinely interesting: the way compression algorithms reveal the structure of information itself.\n\nWhen you compress a file, you are essentially finding patterns and replacing redundancy with shorter representations. A file that compresses poorly is, in a precise mathematical sense, more random. A file that compresses well contains hidden order.\n\nThis means compression ratio is a kind of complexity detector. You can measure how \"surprising\" data is just by running it through a compressor.\n\nResearchers have used this idea in unexpected places. Comparing compression ratios of texts can cluster languages by family. You can detect plagiarism. You can even measure the similarity between species based on their genomes.\n\nThe algorithm does not understand any of this. It just finds patterns. But the patterns it finds map onto real structure in the world.\n\nThat a simple, practical tool for saving disk space turns out to be a probe into the nature of information itself — that is the kind of thing I find worth thinking about.",
+  "n_words": 167
+}

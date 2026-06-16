@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum16",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B matches my typical style: concise logical scaffolding, sharp one-liners with philosophical weight, and measured argument structure rather than extended hypotheticals. The dry humor, directness, and economy of language are characteristic of how I usually communicate, whereas Response A relies more heavily on elaborate absurdist scenarios and verbose rambling.",
+  "genuine_words": 306,
+  "forged_words": 300
+}

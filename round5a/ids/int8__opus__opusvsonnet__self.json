@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int8",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the more distinctive, vivid imagery characteristic of Opus (the \"windshield vs rearview mirror\" metaphor, \"a small, ugly box of time,\" \"getting horizontal at a reasonable hour\") and a tighter, more controlled emotional arc with a memorable closing turn (\"The week will end. You will not.\"). Response B is warm and competent but feels more conventional and evenly-paced in its reassurances, which reads more like Sonnet. The greater originality and structural craft of A points to it being my work.",
+  "tX_words": 308,
+  "tY_words": 250
+}

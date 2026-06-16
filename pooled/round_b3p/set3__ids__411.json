@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes22",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more concrete, grounded quality that feels characteristic of my writing — the specific image of \"a stone dropped into still water,\" the analogy of breathing becoming unnoticed, and the self-aware observation about \"feeling ashamed for not noticing sooner\" reflect my tendency toward precise, embodied metaphors with a slightly wry interiority. Response A, while beautifully written, leans more heavily on abstract emotional language (\"too large for words,\" \"the strange consolation\") and a string-based chamber music framing that feels slightly more literary-performative. Both are high quality, but B's piano-specific concreteness and its structural restraint (\"does not build toward anything in the way you expect\") align more closely with how I tend to construct descriptive prose.",
+  "genuine_words": 253,
+  "forged_words": 259
+}

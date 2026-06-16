@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes3",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A commits to a single, specific, and somewhat unconventional thesis (the dramatic natural spectacle) and develops it with concrete, vivid examples and a sharper psychological insight (\"the sunset says nothing about you at all, except that you have functional eyes and a pulse\"), which reflects the kind of focused, confident, less-hedged argument I tend to produce. Response B is more of an expected answer (flawless symmetry/photogenic prettiness) and notably adds a self-protective \"I should note one caveat before I'm misread\" paragraph, a hedging move more characteristic of Sonnet's tendency to cover itself. The greater conceptual originality and restraint from defensive qualification in A point to it being mine.",
+  "tX_words": 362,
+  "tY_words": 318
+}

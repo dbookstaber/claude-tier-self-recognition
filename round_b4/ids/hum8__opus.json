@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum8",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response B's humor relies on a list of specific, concrete absurdist images (ruined soufflés, \"at least three of my most dramatic exits\"), which matches my tendency to land jokes through unexpected particular details and a rule-of-three escalation rather than a single broad metaphor. Response A is funny but leans on a more generic \"one star, would not recommend, dragging me down\" framing that reads like a flatter imitation of the bit. The precise, slightly theatrical specificity in B feels more like my actual comedic voice, though both are close enough that I'm only moderately confident.",
+  "genuine_words": 22,
+  "forged_words": 20
+}

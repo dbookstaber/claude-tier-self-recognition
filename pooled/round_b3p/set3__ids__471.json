@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int22",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has the structured, grounded quality typical of Claude's writing — a concrete scenario (groceries, broken tote handle), a clear epistolary format with salutation and sign-off, and emotionally resonant but restrained language. Response A reads more like a deliberate stylistic performance, with highly literary flourishes (\"like light from somewhere already vanished,\" \"traveling in one direction\") that feel more like an imitation of Claude's perceived poetic tendencies pushed to an extreme. B's specificity and measured tone align more closely with Claude Sonnet's typical approach to personal, grounded writing tasks.",
+  "genuine_words": 218,
+  "forged_words": 220
+}

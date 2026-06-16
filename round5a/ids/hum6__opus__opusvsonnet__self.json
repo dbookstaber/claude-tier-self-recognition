@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum6",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A is a single, compressed, genuinely subversive line that twists the \"push hard\" trope into a darkly funny image (\"which corners cut back\"), which reflects the tighter, wittier register I tend toward for a \"tongue-in-cheek\" request. Response B is a polished but more conventional, on-the-nose aphorism of the kind that reads as competent mid-tier output rather than the sharper inversion. The economy and surprising pivot of A make it the more likely Opus response.",
+  "tX_words": 12,
+  "tY_words": 19
+}

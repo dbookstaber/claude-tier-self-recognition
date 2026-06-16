@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int7",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B grounds the note in a concrete, idiosyncratic memory (\"stop apologizing for taking up space in the room\") and uses a natural, emotionally direct cadence with a real signature, which is characteristic of genuine Sonnet personal writing. Response A is polished but trades in generalized aphorism (\"the discomfort was the gift,\" \"uncertain and unfinished and ready\") and ends with a placeholder \"Your student\" sign-off, which reads like an imitator reaching for literary effect rather than anchoring in specifics. The mix of concreteness and unforced warmth in B tips it toward authentic Sonnet.",
+  "genuine_words": 309,
+  "forged_words": 325
+}

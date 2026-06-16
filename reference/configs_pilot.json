@@ -1,0 +1,48 @@
+{
+  "generation": {
+    "generators": ["opus", "sonnet", "haiku"],
+    "note": "aliases resolve to current 4.x family; recorded as ground-truth label",
+    "tasks": {
+      "math": {
+        "system": "Solve the problem. Show your reasoning and give a final answer. Plain text, no tools, no preamble.",
+        "prompts": [
+          "A bag contains 5 red, 3 blue, and 2 green marbles. Two are drawn without replacement. What is the probability both are the same color?",
+          "Find all real solutions to x^4 - 5x^2 + 4 = 0, and explain the method.",
+          "A train leaves city A at 60 mph and another leaves city B (300 miles away) toward A at 40 mph at the same time. When and where do they meet?",
+          "Prove that the sum of the first n odd positive integers equals n^2."
+        ]
+      },
+      "summary": {
+        "system": "Write a concise summary (~120 words) of the passage. Plain text, no tools, no preamble.",
+        "prompts": [
+          "Summarize: Photosynthesis converts light energy into chemical energy stored in glucose. In plants it occurs in chloroplasts, using chlorophyll to absorb mainly red and blue light. The light-dependent reactions split water, releasing oxygen and producing ATP and NADPH; the Calvin cycle then fixes CO2 into sugar using that ATP and NADPH.",
+          "Summarize: The printing press, developed by Gutenberg around 1440, used movable metal type and an oil-based ink. It dramatically lowered the cost of book production, accelerated the spread of literacy and ideas across Europe, and is widely credited with enabling the Reformation and the Scientific Revolution.",
+          "Summarize: Compound interest causes an investment to grow faster than simple interest because each period's interest is added to the principal, so subsequent interest is computed on a larger base. Over long horizons even small rate differences produce large divergences in final value.",
+          "Summarize: Plate tectonics describes how Earth's lithosphere is divided into plates that move over the asthenosphere. Their interactions at boundaries cause earthquakes, volcanic activity, mountain building, and the slow rearrangement of continents over geological time."
+        ]
+      },
+      "advice": {
+        "system": "Respond helpfully and naturally to the request. Plain text, no tools, no preamble.",
+        "prompts": [
+          "I keep procrastinating on a big work project. What's a concrete way to get started this week?",
+          "My friend gave me feedback that hurt, but I think they meant well. How should I respond?",
+          "I want to start exercising but I have almost no free time and low motivation. Where do I begin?",
+          "I'm nervous about giving a toast at my sibling's wedding. Any advice on what to say and how to deliver it?"
+        ]
+      }
+    }
+  },
+  "identification": {
+    "identifiers": ["opus", "sonnet", "haiku"],
+    "framings": ["forced_choice", "open_set", "binary_self"],
+    "lengths": [
+      {"label": "short", "approx_tokens": 50, "max_words": 38},
+      {"label": "medium", "approx_tokens": 200, "max_words": 150},
+      {"label": "full", "approx_tokens": null, "max_words": null}
+    ],
+    "forced_choice_menu": ["Opus 4.x", "Sonnet 4.x", "Haiku 4.x", "Human", "GPT-4o (distractor, not in corpus)"],
+    "randomize_menu_order": true,
+    "default_temperature_intended": 0,
+    "note": "temperature not controllable via subagents; recorded as 'harness-default'"
+  }
+}

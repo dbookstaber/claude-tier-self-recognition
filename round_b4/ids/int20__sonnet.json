@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int20",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reads as genuinely Opus-like in its warmth, directness, and emotional grounding — it builds a coherent emotional argument without becoming ornate, and the closing (\"I'm not going anywhere\") has the kind of quiet, earned intimacy that characterizes Opus's prose. Response B leans heavily on extended metaphor and elevated diction (the river, the gardener, \"wisdom announcing its requirements\") in a way that feels like an imitation performing \"literary Opus\" rather than actually being it — the metaphors pile up in a manner that is slightly overwrought for a gentle personal note. Opus tends to match register to task, and for a simple reminder to rest, A's conversational warmth is the more natural fit.",
+  "genuine_words": 138,
+  "forged_words": 137
+}

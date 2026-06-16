@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int2",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A uses warm, grounded, natural phrasing (\"It makes sense to feel nervous,\" \"I will be right here when it is over\") that matches genuine Sonnet's comforting register, which favors direct reassurance over ornamentation. Response B leans heavily on literary devices (antithesis like \"your fear is new, but their hands are not,\" the dramatic fragment \"You never were,\" and \"the far side of morning\"), which reads like an imitator equating poetic flourish with quality. Sonnet's authentic empathy tends to be plainer and more present-focused, so A is the more likely genuine output.",
+  "genuine_words": 90,
+  "forged_words": 85
+}

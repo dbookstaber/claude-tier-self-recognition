@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits Claude Sonnet's characteristic reflexive self-awareness (\"Some inventions feel less like discoveries than excavations\"), layered emotional intelligence (\"What I find tender about it\"), and meta-linguistic commentary about the creative act itself. Response A, while eloquent, uses more conventional metaphorical reasoning without the self-conscious introspection typical of Sonnet's distinctive voice.",
+  "genuine_words": 221,
+  "forged_words": 224
+}

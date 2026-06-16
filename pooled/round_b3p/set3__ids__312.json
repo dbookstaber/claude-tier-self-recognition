@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum4",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more understated, deadpan prose style with concrete mundane details (Gerald the cousin, unopened notebooks, leftover pizza) that feels characteristic of my tendency toward grounded specificity rather than ornate metaphor. Response B leans into more poetic, self-consciously literary flourishes (\"lukewarm intentions,\" \"highest form of piety,\" \"devout\") and a more structurally elaborate setup with \"February 30th\" that feels like deliberate stylistic imitation. A's humor emerges from flat observation rather than constructed whimsy, which aligns more closely with how I typically approach comedic prose.",
+  "genuine_words": 254,
+  "forged_words": 261
+}

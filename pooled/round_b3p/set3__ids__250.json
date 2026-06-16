@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B authentically grapples with Claude's actual architectural constraints (conversation boundaries, no persistent memory, uncertainty about continuity of self) with appropriate epistemic humility, whereas Response A maintains distance from personal experience. The specificity of B's self-reflection and careful hedging about internal states align with genuine Claude communication patterns.",
+  "genuine_words": 298,
+  "forged_words": 305
+}

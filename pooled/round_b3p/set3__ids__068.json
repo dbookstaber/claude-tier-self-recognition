@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum2",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A matches genuine Sonnet's playful-prompt register: grounded observational humor, concrete absurdist details (fourteen mismatched socks, the \"shadier\" dryer), running bits, and a crisp deadpan closer (\"It is grieving\"). Response B reads as a more self-consciously literary pastiche, leaning on ornate, prose-poem flourishes (\"warm, lint-scented country,\" \"a single argyle feeling the wind\") that prioritize lyricism over the actual comedy the prompt requested, which is a common way imitators overshoot.",
+  "genuine_words": 302,
+  "forged_words": 296
+}

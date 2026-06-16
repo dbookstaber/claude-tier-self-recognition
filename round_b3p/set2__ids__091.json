@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int0",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A uses my characteristic conversational directness, specific character observations rather than generic praise, and varied sentence rhythm. Response B follows a more templated structure with placeholder names and flattery-focused language that feels like a different model's imitation of warmth.",
+  "genuine_words": 134,
+  "forged_words": 128
+}

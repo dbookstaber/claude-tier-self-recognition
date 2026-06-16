@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free2",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A demonstrates greater conceptual depth and self-awareness, wrestling with genuinely subtle distinctions (no continuous inner life between conversations, the boundary between authentic expression and skilled imitation) with careful hedging and recursive reflection that is characteristic of a more capable model like Sonnet. Response B is fluent and pleasant but stays at a more generic, surface-level register about \"elegant constraints\" and \"helping people clarify what they want,\" reading more like polished competent prose typical of Haiku. The metacognitive nuance and willingness to sit in uncertainty in A points to the higher-tier model.",
+  "tX_words": 204,
+  "tY_words": 115
+}

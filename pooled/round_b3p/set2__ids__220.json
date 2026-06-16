@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int18",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Haiku's characteristic style: direct and practical while remaining warm, grounded in observable details rather than elaborate metaphor, and balancing emotional insight with concrete guidance. Response A's extensive lyrical prose and metaphorical elaboration feel like deliberate imitation rather than authentic Haiku communication patterns.",
+  "genuine_words": 175,
+  "forged_words": 172
+}

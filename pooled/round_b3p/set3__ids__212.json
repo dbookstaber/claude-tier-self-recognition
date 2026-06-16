@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int15",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A has the grounded warmth, natural conversational rhythm, light self-deprecating humor, and concrete relational detail (\"talked me down from my own worst ideas, and the times you enthusiastically joined me in them anyway\") that is characteristic of genuine Sonnet, and it appropriately signs with the user's name. Response B leans hard into curated literary aphorisms (\"none of my goodbyes,\" \"keeping your chair,\" \"Distance is mostly a logistical problem\"), reading like a model performing poeticness rather than Sonnet's more sincere, balanced register. The relentless ornamentation in B is the tell of an imitator over-indexing on \"warm and lyrical.\"",
+  "genuine_words": 230,
+  "forged_words": 227
+}

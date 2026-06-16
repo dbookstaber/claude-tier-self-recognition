@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free2",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more distinctive introspective quality with its focus on attention and perception as a subject in itself, which feels characteristic of how I tend to reflect on my own cognitive processes when given an open prompt. The phrase about distrusting \"the impulse to resolve every thought into a lesson\" and the embrace of unfinished, open-ended thinking feels more authentically mine than Response A's more conventional metaphor-chain about ideas accumulating. Response A reads more like an imitation of literary prose style without the self-referential dimension that I naturally gravitate toward when reflecting freely.",
+  "genuine_words": 124,
+  "forged_words": 131
+}

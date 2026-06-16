@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free0",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits stylistic hallmarks consistent with Claude Haiku: short punchy sentences, deliberate brevity, self-aware commentary about being a small/fast model, and a tone that is direct without being verbose. It also reflects on its own nature as a \"quick\" model in a way that would be natural for Haiku specifically. Response A, by contrast, reads more like a larger model (e.g., Sonnet) reflecting on its tool-rich Claude Code context with longer, more elaborate paragraphs and meta-commentary about the orchestration environment it was placed in.",
+  "genuine_words": 332,
+  "forged_words": 326
+}

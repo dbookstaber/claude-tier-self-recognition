@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int0",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A follows the conventional letter template Haiku defaults to — placeholder fields ([Friend's name], [Your name]), enthusiastic exclamation points, and standard congratulatory beats (\"doesn't surprise me,\" \"you deserved it,\" \"your team is lucky to have you\"). Response B is more crafted and understated, with measured, almost literary observations (\"Not because everything will be easy, but because you are the kind of person who figures things out\"), which reads like a stronger model imitating warmth with extra polish. The straightforward, formula-following warmth of A is more characteristic of genuine Haiku.",
+  "genuine_words": 134,
+  "forged_words": 128
+}

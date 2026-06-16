@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes4",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A shows more sophisticated, integrated prose with subtler observations (the metronome contrast, \"occupies just enough of the auditory field,\" the \"narrative quality\" of being sheltered) and flowing sentences that build a unified argument, hallmarks of the more capable Sonnet tier. Response B is competent but more formulaic and list-like, organizing thoughts into discrete buckets (acoustic properties, then context) with more conventional phrasing, which fits the smaller Haiku model. The greater conceptual depth and stylistic cohesion of A point to Sonnet.",
+  "tX_words": 194,
+  "tY_words": 205
+}

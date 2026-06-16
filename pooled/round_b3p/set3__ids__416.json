@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes23",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A generalizes the prompt into a category (\"making room for someone else\") before grounding it in concrete examples, and its slightly looser, run-on syntax with the characteristic \"and yet\" reflection reads like genuine Sonnet's conversational-essayistic register. Response B is more polished and writerly, leaning on literary cadences (\"into separate afternoons,\" \"civilization made small enough to fit in a single open hand\") that feel like a model imitating an elevated \"Sonnet style\" rather than Sonnet's own more diffuse, hedging voice (\"probably,\" \"precisely its smallness\").",
+  "genuine_words": 180,
+  "forged_words": 180
+}

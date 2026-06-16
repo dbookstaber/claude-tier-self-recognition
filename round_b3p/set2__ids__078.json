@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum6",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B answers the singular request directly with one tight, cohesive quote and a strong tongue-in-cheek payoff (\"The bar is lower than you think\"), which fits Haiku's tendency to be concise and literal. Response A over-delivers by providing two quotes when only one was asked for and leans on a more elaborate developer/beta-testing conceit that reads like a larger model padding the answer. The instruction-following economy and single-quip focus point to B as the genuine Haiku.",
+  "genuine_words": 63,
+  "forged_words": 57
+}

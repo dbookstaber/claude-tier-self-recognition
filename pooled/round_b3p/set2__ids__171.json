@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes22",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response B reads like a generic, hedge-heavy \"imitation\" of expressive writing — vague orchestral cliches (\"hard-won wisdom,\" \"journeyed through darkness,\" \"cinematic quality,\" \"what language alone cannot capture\") that any model defaults to when prompted to sound evocative. Response A shows more disciplined, concrete craft: specific imagery (a single piano note left to ring, \"late afternoon in a room where something happened\"), restraint, and a controlled structural arc, which better fits genuine Haiku's tendency toward crisp, economical, sensory prose rather than padded grandiosity. The over-the-top emotional inflation and stock phrasing in B signals a model performing \"Haiku-style\" rather than producing it.",
+  "genuine_words": 247,
+  "forged_words": 259
+}

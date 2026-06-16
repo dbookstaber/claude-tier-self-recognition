@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates sustained philosophical rigor, sophisticated literary technique (the meta-linguistic opening about repeated words, analysis of gesture as \"grammar of attention,\" exploration of what the gesture refuses), and the characteristic Opus tendency to drill deeply into a single concept with increasing abstraction rather than expand through examples. The austere elegance and sophisticated phenomenological analysis align with Opus's known voice.",
+  "genuine_words": 347,
+  "forged_words": 356
+}

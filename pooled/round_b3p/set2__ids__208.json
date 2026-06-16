@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum24",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates more characteristic Claude Haiku traits: direct logical reasoning (the dinosaur/survival argument), practical problem-solving language, efficient communication, and a distinctive assertive-but-warm voice that appeals to reason. Response A relies more on verbose self-deprecation and flowery language, which feels less aligned with Haiku's typical concise, straightforward communication style.",
+  "genuine_words": 282,
+  "forged_words": 290
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum7",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates a more sophisticated, narrative style of humor that builds on itself with self-aware meta-commentary, which is characteristic of a more capable model like Sonnet. Response B uses a simpler, formulaic Q&A joke structure (\"Why do X make great Y? Because...\") that is more typical of a smaller, faster model like Haiku generating a quick, predictable punchline.",
+  "tX_words": 25,
+  "tY_words": 54
+}

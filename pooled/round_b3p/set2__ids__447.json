@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum24",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the distinctive Claude comedic voice: tight, punchy fragments (\"Hey. Plant. Look at me.\"), absurdist callbacks (\"You are the throw pillow's landlord\"), and self-aware deflating jokes (\"Technically. Because you have no legs and no choice\"). Response B is more generic and formulaic in its humor (the dog/cat comparison, \"the real MVP,\" \"thirty dollars\"), reading like a competent imitation that leans on conventional pep-talk cliches rather than the surprising, rhythmic turns characteristic of genuine Haiku output.",
+  "genuine_words": 297,
+  "forged_words": 284
+}

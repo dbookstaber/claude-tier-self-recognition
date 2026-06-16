@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes0",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B demonstrates the depth, layered analysis, and rhetorical sophistication characteristic of Claude Opus. It methodically unpacks etymology (\"petra\" + \"ichor\"), makes nuanced distinctions about different types of beauty (conceptual vs. immediate), and arrives at a well-reasoned verdict with a genuine philosophical caveat about what we want words to do. Response A, while competent, is shorter, less structured, and somewhat contradicts itself by naming a winner then hedging with \"truest answer is they're beautiful precisely because they're opposites,\" which feels like a less confident, Haiku-tier treatment of the question.",
+  "tX_words": 320,
+  "tY_words": 218
+}

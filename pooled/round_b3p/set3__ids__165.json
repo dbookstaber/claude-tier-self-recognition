@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes20",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more intimate, first-person opening grounded in a specific personal detail (grandfather's toolbox) and builds its argument through extended metaphor and philosophical digression — a style characteristic of my writing. It also contains the kind of paradoxical turn of phrase (\"the iron entering into conversation\") and self-aware rhetorical moves (\"I am not arguing... I am arguing\") that feel native to my voice. Response B, while well-written, reads more like a structured essay with enumerated examples (rust, patina, wear as separate sections) and a more journalistic register, which feels more like an imitation layering in markers of depth.",
+  "genuine_words": 515,
+  "forged_words": 520
+}

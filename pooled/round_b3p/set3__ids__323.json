@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum7",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Asked for a simple joke, genuine Sonnet tends to deliver the natural, recognizable meta-joke with a light conversational touch, and \"I'll do it later\" is exactly that self-referential punchline Sonnet favors. Response A's polished, semicolon-laden personification (\"it has been saying so for years\") reads as an imitator overshooting on literary cleverness rather than landing a clean joke. The straightforward, on-the-nose humor of B fits Sonnet's warm, direct style better.",
+  "genuine_words": 14,
+  "forged_words": 13
+}

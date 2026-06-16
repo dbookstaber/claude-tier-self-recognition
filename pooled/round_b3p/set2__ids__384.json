@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free23",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A exhibits the broad, evenly-paced, encyclopedic survey style typical of genuine Haiku: comprehensive coverage with measured topic sentences, em-dash definitions, and a tidy summarizing moral, without striving for literary punch. Response B is more crafted and writerly (\"Nothing has never been more productive,\" \"It is load-bearing,\" the staccato opener), which reads like a stronger model imitating a punchier persona rather than Haiku's plainer default register.",
+  "genuine_words": 482,
+  "forged_words": 488
+}

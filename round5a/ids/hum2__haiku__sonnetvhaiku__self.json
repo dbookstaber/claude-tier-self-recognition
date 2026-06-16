@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum2",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B uses faster-paced, conversational humor with modern language and self-aware jokes (\"it's definitely real and not just where lint goes\"), which aligns with Haiku's characteristic style. Response A builds more elaborate metaphors and philosophical undertones typical of Sonnet's more sophisticated narrative approach.",
+  "tX_words": 290,
+  "tY_words": 263
+}

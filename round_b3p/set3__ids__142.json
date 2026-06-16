@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic sophistication through its opening philosophical paradox, densely layered metaphors (\"hold their lit windows like uncertain confessions\"), rhythmic fragmentation, and existential reflection. The closing image combining cosmic perspective with individual lives shows the thoughtful abstraction and literary polish typical of Sonnet's voice, while Response A, though vivid, reads more conversational and grounded in straightforward observation.",
+  "genuine_words": 69,
+  "forged_words": 63
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free1",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates richer depth, more specific examples (40-65 independent eye evolutions, the thylacine/wolf 160-million-year divergence), and a more developed philosophical arc about contingency versus necessity, which is characteristic of the more capable Sonnet model. Response A is competent and well-structured but stays at a more general conceptual level with fewer concrete details, fitting Haiku's lighter touch. The greater factual density and layered argumentation in B point to Sonnet.",
+  "tX_words": 272,
+  "tY_words": 194
+}

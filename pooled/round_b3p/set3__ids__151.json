@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic balance of poetic reflection with concrete specifics (mathematical properties, scientific examples), careful conceptual distinctions (perfect vs. beautiful), and an ending that reframes the question itself rather than simply choosing. Response A, while eloquent, maintains a more uniformly romantic tone without the intellectual precision and clarifying distinctions typical of Sonnet's voice.",
+  "genuine_words": 329,
+  "forged_words": 347
+}

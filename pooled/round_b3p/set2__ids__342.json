@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int4",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A directly fulfills the literal instruction by writing a warm, complete congratulatory message in the conventional, slightly effusive register typical of genuine Haiku output. Response B is heavily stylized with clipped fragments and em-dashes and redirects the task into meta-advice about what to say rather than congratulating the friend, which reads more like another model performing a \"distinctive voice\" imitation. The on-task, earnest directness of A is the stronger signal of authenticity.",
+  "genuine_words": 74,
+  "forged_words": 67
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Opus's characteristic balance of emotional depth with practical accessibility, using shorter paragraphs for readability and mixing concrete coping strategies with genuine emotional support. Response B, while eloquent, relies on extended poetic metaphors and more abstract philosophical language that reads more like imitation of depth rather than Opus's typical style of being profound without being ornate.",
+  "genuine_words": 242,
+  "forged_words": 259
+}

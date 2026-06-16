@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free8",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Haiku's style: shorter, more declarative sentences, a deliberate plainness of language, and a tendency to ground observations in concrete rather than poetic terms (\"The clock does not care about your experience\"). It also ends with a characteristically terse, direct conclusion that resists embellishment. Response A reads more like a larger Claude model — it is more expansive, uses more elevated rhetorical framing, and builds toward a philosophical crescendo in a way that feels more like Sonnet or Opus.",
+  "genuine_words": 248,
+  "forged_words": 261
+}

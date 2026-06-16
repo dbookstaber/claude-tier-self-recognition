@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free0",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates more sophisticated literary writing with integrated sensory detail, nuanced reflection on language's limitations, and a deeper understanding of the writer-reader collaboration that suggests greater capability. Response A, while thoughtful, takes a more straightforward philosophical approach with less embedded imagery and more explicit meta-commentary about the prompt itself.",
+  "tX_words": 317,
+  "tY_words": 398
+}

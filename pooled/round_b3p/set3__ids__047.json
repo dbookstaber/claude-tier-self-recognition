@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes5",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the genuine Sonnet voice: it holds its preference loosely, qualifies its claims (\"though I hold the choice loosely,\" \"ask me again in spring\"), and uses original, controlled imagery without reaching for the obvious cultural reference. Response B reads like an imitation overplaying \"thoughtful essay\" tropes — the predictable \"golden hour\" name-drop, the explicitly defined \"mono no aware,\" and the unsupported overclaim that autumn \"has consistently inspired more poetry, painting, and music than any other season\" are the kind of confident, list-y, slightly performative moves Sonnet tends to avoid. A's intellectual humility and self-aware closing are characteristic Sonnet hedging.",
+  "genuine_words": 342,
+  "forged_words": 340
+}

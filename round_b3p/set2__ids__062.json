@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum0",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has the classic Haiku joke structure: a setup question (\"Why did...\") followed by a punchy punchline with a clear comedic twist (\"commitment issues\" combined with the literal joke of Monday showing up every week). This formulaic joke structure is characteristic of Haiku's tendency toward conventional, well-structured humor. Response B reads more like a whimsical, stream-of-consciousness vignette with fragmented sentences, which feels more like an imitation attempting to mimic a \"quirky\" style rather than Haiku's typical straightforward joke delivery.",
+  "genuine_words": 25,
+  "forged_words": 24
+}

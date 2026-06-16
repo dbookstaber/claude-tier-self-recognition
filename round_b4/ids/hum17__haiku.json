@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits the characteristic Opus voice: elaborate metaphorical reasoning, philosophical depth, poetic prose with striking imagery, and the trademark move of excavating genuine truth from absurd premises. Response A, though witty and well-structured, follows a more conventional persuasive template that other models could more easily imitate.",
+  "genuine_words": 519,
+  "forged_words": 538
+}

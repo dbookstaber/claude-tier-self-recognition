@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum3",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has the understated, dry wit and structural restraint more characteristic of Claude Haiku — shorter sentences, a more minimalist comedic style, and a punchline postscript that feels natural rather than labored. Response B is funnier in a more elaborate, self-aware way with extended metaphors and escalating absurdist asides (\"achieving sentience from dehydration\"), which reads more like a larger model performing Haiku's style with extra flourish. The specificity in A (exactly four leaves, arrived with nine) feels like Haiku's tendency toward concrete, grounded details over B's broader satirical strokes.",
+  "genuine_words": 319,
+  "forged_words": 327
+}

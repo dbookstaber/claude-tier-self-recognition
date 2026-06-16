@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free1",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A presents genuine intellectual curiosity about octopus neurology without self-aware framing about AI limitations, while Response B's conclusion (\"Machines struggle here\") uses a rhetorical framing that positions itself as external commentary on AI — a tell-tale imitation device.",
+  "genuine_words": 129,
+  "forged_words": 125
+}

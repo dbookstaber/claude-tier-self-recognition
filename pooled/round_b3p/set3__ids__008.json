@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free2",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B leans heavily on ornate, performative literary devices (em-dashes, \"dissolves like breath on glass,\" \"small, unhurried dignity of noticing\") that read like an imitation straining to sound profound. Response A has the more characteristic genuine-Sonnet register: reflective and image-rich but grounded, with concrete connective metaphors (ideas as an underground current, language as inheritance and archaeology) and a steadier, less self-consciously poetic cadence. B's aphoristic flourishes and the meta \"so that is what is on my mind\" framing feel like a model performing introspection rather than doing it.",
+  "genuine_words": 124,
+  "forged_words": 131
+}

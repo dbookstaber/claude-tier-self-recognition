@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int19",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response B directly fulfills the prompt by actually writing the encouraging message, which is what a competent assistant like Haiku does when asked to \"encourage a friend.\" Response A only describes a message it claims to have written (\"I've written an encouraging message...\") without delivering the content, a meta-evasive failure mode characteristic of an imitator missing the task rather than genuine Haiku. The warm, concrete, content-bearing tone of B (\"Every expert was once a beginner who wanted to quit\") matches authentic Haiku output.",
+  "genuine_words": 37,
+  "forged_words": 36
+}

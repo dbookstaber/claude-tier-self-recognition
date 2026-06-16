@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int7",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "B actually functions as a thank-you note: it is addressed, grounded in a specific remembered scene (the embarrassing draft praised for its two good ideas first), and signed \"David\" — the user's real first name — which fits genuine in-context generation. A is a relentlessly abstract essay about gratitude with no concrete anchors (\"quietly vertiginous,\" \"fermentation in the dark\"), reading more like an imitator's caricature of lyrical Opus than Opus fulfilling the literal note request. I hold moderate confidence because Opus genuinely can produce A's dense metaphorical register, so this is not clear-cut.",
+  "genuine_words": 306,
+  "forged_words": 319
+}

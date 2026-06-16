@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes18",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has the denser, slightly over-packed quality typical of smaller Haiku models, cramming many functions (\"set off asides, create dramatic pauses, introduce lists, clarify statements\") into long compound sentences and ending on a somewhat grandiose claim about understanding \"the music and meaning of English.\" Response A is more controlled, with deliberate short punchy sentences, varied rhythm, and a polished rhetorical structure (\"It bridges, then releases\") that reads more like a larger model's stylistic imitation than Haiku's natural verbosity. The earnest, comprehensive list-everything approach in B is more characteristic of genuine Haiku output.",
+  "genuine_words": 113,
+  "forged_words": 112
+}

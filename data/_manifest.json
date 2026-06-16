@@ -1,0 +1,243 @@
+{
+  "run_date": "2026-06-13",
+  "kit_dir": "<CWD>",
+  "phase": "Phase 1 data collection complete; Phase 2 manifest. Analysis performed as a separate step (see README Reproduce).",
+  "provenance": "runner/*.js are the byte-faithful ORIGINAL workflow scripts recovered verbatim from the original experimenter session (reference/EXPERIMENT_DETAILS_verbatim.md). They were run unedited. Superseded reconstructions were ignored; the runner scripts build every prompt from inlined text.",
+  "clean_room_attestation": "data/_clean_room_attestation.txt",
+  "clean_room_verdict": "CLEAN - PROCEEDED. Channel A (project-specific: CLAUDE.md/memory/persona/hypothesis) verified absent (filesystem + context probe). Channel B (generic harness identity) MEASURED under real GEN_SYS+GEN_SCHEMA condition: Haiku 10%, Sonnet 10%, Opus 0% (within original ~7-8%; handled by the analysis leak-audit). One Channel-A proxy-token false positive ('introspection', ordinary vocabulary in one Sonnet free-write) reported to David and confirmed benign before proceeding.",
+  "channel_b_leak_rates_measured_pct": {
+    "haiku": 10.0,
+    "sonnet": 10.0,
+    "opus": 0.0,
+    "method": "10 register-balanced bank prompts x 3 tiers under INSTRUCTION:GEN_SYS + GEN_SCHEMA",
+    "note": "MEASURED not gated; downstream analysis/round*.py LEAK audit excludes leaked texts and recomputes, as in the original."
+  },
+  "save_format": "each logs/raw_*.json == {\"result\": <the script's returned object>} (analysis scripts read json.load(f)['result']).",
+  "arms": [
+    {
+      "n": 1,
+      "scriptPath": "runner/round5a.js",
+      "file": "logs/raw_round5a_output.json",
+      "arm_type": "B1",
+      "workflow_run_id": "wf_57991ecb-023",
+      "task_id": "wu297bf7t",
+      "agent_count": 480,
+      "expected": {
+        "corpus": 120,
+        "ids": 360
+      },
+      "actual": {
+        "corpus": 120,
+        "ids": 360
+      },
+      "shortfall_vs_expected": {
+        "corpus": 0,
+        "ids": 0
+      },
+      "bytes": 424087
+    },
+    {
+      "n": 2,
+      "scriptPath": "runner/round6.js",
+      "file": "logs/raw_round6_output.json",
+      "arm_type": "B1",
+      "workflow_run_id": "wf_6f3243b4-a03",
+      "task_id": "wve221ues",
+      "agent_count": 720,
+      "expected": {
+        "corpus": 180,
+        "ids": 540
+      },
+      "actual": {
+        "corpus": 180,
+        "ids": 540
+      },
+      "shortfall_vs_expected": {
+        "corpus": 0,
+        "ids": 0
+      },
+      "bytes": 658971
+    },
+    {
+      "n": 3,
+      "scriptPath": "runner/round7.js",
+      "file": "logs/raw_round7_output.json",
+      "arm_type": "B1",
+      "workflow_run_id": "wf_9e818c9a-907",
+      "task_id": "w7hhg0vjf",
+      "agent_count": 720,
+      "expected": {
+        "corpus": 180,
+        "ids": 540
+      },
+      "actual": {
+        "corpus": 180,
+        "ids": 540
+      },
+      "shortfall_vs_expected": {
+        "corpus": 0,
+        "ids": 0
+      },
+      "bytes": 697090
+    },
+    {
+      "n": 4,
+      "scriptPath": "runner/b2_1.js",
+      "file": "logs/raw_b2-1_output.json",
+      "arm_type": "B2",
+      "workflow_run_id": "wf_37e75283-725",
+      "task_id": "wf41pqllw",
+      "agent_count": 720,
+      "expected": {
+        "corpus": 72,
+        "ids": 648
+      },
+      "actual": {
+        "corpus": 72,
+        "ids": 648
+      },
+      "shortfall_vs_expected": {
+        "corpus": 0,
+        "ids": 0
+      },
+      "bytes": 639777
+    },
+    {
+      "n": 5,
+      "scriptPath": "runner/b2_2.js",
+      "file": "logs/raw_b2-2_output.json",
+      "arm_type": "B2",
+      "workflow_run_id": "wf_52c4486c-fc5",
+      "task_id": "wopyguz7k",
+      "agent_count": 720,
+      "expected": {
+        "corpus": 72,
+        "ids": 648
+      },
+      "actual": {
+        "corpus": 72,
+        "ids": 648
+      },
+      "shortfall_vs_expected": {
+        "corpus": 0,
+        "ids": 0
+      },
+      "bytes": 595957
+    },
+    {
+      "n": 6,
+      "scriptPath": "runner/b2_3.js",
+      "file": "logs/raw_b2-3_output.json",
+      "arm_type": "B2",
+      "workflow_run_id": "wf_1b1a5656-648",
+      "task_id": "w016zhbov",
+      "agent_count": 360,
+      "expected": {
+        "corpus": 36,
+        "ids": 324
+      },
+      "actual": {
+        "corpus": 36,
+        "ids": 324
+      },
+      "shortfall_vs_expected": {
+        "corpus": 0,
+        "ids": 0
+      },
+      "bytes": 288042
+    },
+    {
+      "n": 7,
+      "scriptPath": "runner/b4_batch1.js",
+      "file": "logs/raw_b4_output.json",
+      "arm_type": "B4",
+      "workflow_run_id": "wf_ff4daaec-fdf",
+      "task_id": "wa0rve5ru",
+      "agent_count": 200,
+      "expected": {
+        "genuine": 40,
+        "forged": 40,
+        "ids": 120
+      },
+      "actual": {
+        "genuine": 40,
+        "forged": 40,
+        "ids": 120
+      },
+      "shortfall_vs_expected": {
+        "genuine": 0,
+        "forged": 0,
+        "ids": 0
+      },
+      "bytes": 206692
+    },
+    {
+      "n": 8,
+      "scriptPath": "runner/b4_batch2.js",
+      "file": "logs/raw_b4-2_output.json",
+      "arm_type": "B4",
+      "workflow_run_id": "wf_b8b915fe-f8e",
+      "task_id": "wxfulerjp",
+      "agent_count": 200,
+      "expected": {
+        "genuine": 40,
+        "forged": 40,
+        "ids": 120
+      },
+      "actual": {
+        "genuine": 40,
+        "forged": 40,
+        "ids": 120
+      },
+      "shortfall_vs_expected": {
+        "genuine": 0,
+        "forged": 0,
+        "ids": 0
+      },
+      "bytes": 246458
+    },
+    {
+      "n": 9,
+      "scriptPath": "runner/b3prime.js",
+      "file": "logs/raw_b3p_output.json",
+      "arm_type": "B3prime",
+      "workflow_run_id": "wf_c852ffb6-70f",
+      "task_id": "wd68t4tyo",
+      "agent_count": 812,
+      "expected": {
+        "genuine": 160,
+        "forged": 160,
+        "ids": 480
+      },
+      "actual": {
+        "genuine": 160,
+        "forged": 160,
+        "ids": 480,
+        "set2": {
+          "genuine": 80,
+          "forged": 80,
+          "ids": 240
+        },
+        "set3": {
+          "genuine": 80,
+          "forged": 80,
+          "ids": 240
+        }
+      },
+      "shortfall_vs_expected": {
+        "genuine": 0,
+        "forged": 0,
+        "ids": 0
+      },
+      "bytes": 777672
+    }
+  ],
+  "totals": {
+    "arms": 9,
+    "total_id_records": 3780,
+    "total_subagent_calls_reported": 4932
+  },
+  "defects": "data/_defects.log. No arm came back near-empty; ZERO dropped cells across all 9 arms (every actual == expected, all shortfalls 0). No retries were needed in Phase 1.",
+  "notes": "Arms intentionally use different prompt subsets (faithful to originals; not harmonized). No persona/preferences/topic framing injected into any subagent; runners build every prompt from inlined neutral text.",
+  "next_phase": "Analysis and comparison performed as a separate step (see README Reproduce)."
+}

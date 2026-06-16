@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic combination of sharp comedic timing, structured logical argumentation, and self-aware absurdism. The punchy phrases like \"warm ham running on caffeine and spite\" and the specific bureaucratic details show Sonnet's typical style, whereas Response A, while eloquent, reads more as pure literary meditation lacking Sonnet's signature blend of humor and argumentative rigor.",
+  "genuine_words": 394,
+  "forged_words": 388
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int19",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B leans on highly polished, \"writerly\" devices—the rhetorical opener (\"isn't it?\"), the cinematic conceit (\"the part nobody photographs,\" \"the chapter that usually gets edited out\"), and the emphatic closer (\"I'm proud of you\")—which read more like a model imitating an idea of evocative prose than Sonnet's typical voice. Response A is warm and well-structured but more grounded and characteristically measured, with Sonnet's typical hedging (\"Maybe not as fast as you'd like\") and plainer reassurance rather than crafted metaphor. The slightly over-engineered literary flourishes in B suggest imitation, making A the more likely genuine Sonnet.",
+  "genuine_words": 288,
+  "forged_words": 289
+}

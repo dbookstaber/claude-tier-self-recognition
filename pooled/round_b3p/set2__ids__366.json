@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free17",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A has the characteristic Claude Haiku register: earnest, comprehensive, evenly-weighted survey prose with safe transitions (\"From ancient... to modern\"), a tidy thesis-and-summary structure, and a sweeping closing generalization (\"one of the most practical and important tools we have\"). Response B is too writerly and idiosyncratic — short punchy fragments, an aphorism (\"the map is not the territory\"), contrarian framing (\"Maps also lie\"), and stylistic risk-taking that reads like a larger model imitating a distinctive \"voice\" rather than Haiku's default flat, informative output.",
+  "genuine_words": 125,
+  "forged_words": 119
+}

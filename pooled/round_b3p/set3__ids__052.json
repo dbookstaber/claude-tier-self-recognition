@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic voice through poetic reasoning, emotional vulnerability (\"I confess\"), comfort with paradox without needing to fully resolve it, and a contemplative tone that invites reflection rather than demands agreement. Response A reads more like a structured argument being demonstrated, lacking the intimate, introspective quality central to Sonnet's distinctive style.",
+  "genuine_words": 353,
+  "forged_words": 372
+}

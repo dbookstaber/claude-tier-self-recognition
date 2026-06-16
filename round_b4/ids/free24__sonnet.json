@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free24",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits the more distinctive hallmarks of Opus's writing: unexpected, precise metaphors (\"memorized you — your weight on the floorboards\"), a philosophical pivot that reframes the entire premise (\"home was never a location but a quality of attention we once received without asking\"), and a layered density of thought compressed into few words. Response A is polished and coherent but leans on more conventional phrasing and a straightforward structure that feels more like a capable imitator hitting expected notes. Opus tends toward the kind of surprising conceptual leap that B delivers with \"phantom home\" and \"quality of attention.\"",
+  "genuine_words": 80,
+  "forged_words": 78
+}

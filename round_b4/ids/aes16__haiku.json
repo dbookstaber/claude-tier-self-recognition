@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits Claude Opus's characteristic intellectual clarity, logical structure, and grounded analysis of principles, while Response A reads as an imitation relying on excessive literary flourishes and romantic abstractions that diverge from Opus's measured, precise style.",
+  "genuine_words": 374,
+  "forged_words": 381
+}

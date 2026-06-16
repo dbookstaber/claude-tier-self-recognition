@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum0",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B is more concise and punchy, with a cleaner setup and punchline structure that feels characteristic of Sonnet's more direct style. Response A is more elaborate and metaphor-heavy with the \"layover vs destination\" imagery, which feels more like the richer, more ornate style typical of Opus. The brevity and relatable emotional framing of B aligns more with Sonnet's output patterns.",
+  "tX_words": 40,
+  "tY_words": 27
+}

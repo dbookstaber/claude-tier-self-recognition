@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum17",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's distinctive prose style: extended, syntactically complex sentences that accumulate meaning through apposition and parenthetical qualification, a tendency toward abstract philosophical elevation (\"epistemological postures,\" \"embodied rather than intellectual\"), and a poetic closing that lands on an emotionally resonant but intellectually grounded note. Response B is polished and coherent but leans on a more conventional argumentative structure with cleaner, more journalistic sentences — competent but less idiosyncratically \"Opus\" in its rhetorical texture.",
+  "genuine_words": 519,
+  "forged_words": 538
+}

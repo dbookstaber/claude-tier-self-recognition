@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes21",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the balanced, measured, and diplomatic tone characteristic of Claude Haiku — it presents both sides thoughtfully before arriving at a conclusion, and hedges with \"But that's a personal answer.\" Response B's style is far more stylistically assertive and fragmented, with short punchy declarative sentences and a more distinctive rhetorical voice that feels like a deliberate stylistic performance rather than Haiku's typical conversational balance.",
+  "genuine_words": 305,
+  "forged_words": 312
+}

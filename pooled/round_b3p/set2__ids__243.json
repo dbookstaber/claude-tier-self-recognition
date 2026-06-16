@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free1",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A reflects a model writing about something native to its own experience (information theory, compression, data structure), with the kind of self-aware framing (\"That a simple, practical tool... is the kind of thing I find worth thinking about\") that Claude models genuinely produce, plus a Haiku-typical clean, paragraph-segmented cadence. Response B is the \"wood wide web\" trees fact — an extremely common, almost templated pop-science answer that reads like a generic LLM reaching for a crowd-pleasing topic, and its single dense block with hedge-light confident claims feels more like an imitation of an enthusiastic style than Haiku's actual voice.",
+  "genuine_words": 163,
+  "forged_words": 167
+}

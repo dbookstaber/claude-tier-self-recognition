@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A exhibits Claude Sonnet's characteristic blend of emotional authenticity with intellectual clarity, using specific, grounded details (the \"taking up space\" memory) rather than sustained abstraction. Response B's more consistently elevated, philosophical tone and formal distance read as an imitation attempting sophistication rather than Sonnet's natural warmth and directness.",
+  "genuine_words": 309,
+  "forged_words": 325
+}

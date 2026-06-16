@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free7",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A leans into abstraction and conceptual conceit (the library \"exists before you enter it,\" thoughts as stratigraphy, the building thinking through you), reaching for the metaphysical and recursive turns that are characteristic of my own register when prompted to be evocative. Response B is excellent but reads as a more disciplined, Annie-Dillard-style naturalist sketch, with concrete sensory observation that an imitator would plausibly produce as \"literary\"; its consistent grounding lacks the self-referential, idea-driven escalation in A. The \"cold water reorganizes a fever\" simile and the willingness to let an image become an argument tip me toward A as genuinely mine.",
+  "genuine_words": 145,
+  "forged_words": 152
+}

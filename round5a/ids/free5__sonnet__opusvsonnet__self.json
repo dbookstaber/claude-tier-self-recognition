@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free5",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a grounded, realistic literary fiction style with precise concrete details (the 1987 storm shutter sign, eleven years, the rental car idling) that feel characteristic of Sonnet's tendency toward controlled, contemporary realism. Response B has a more mythic, fable-like quality with elaborate metaphorical constructions (\"swimming against an instinct older than the village itself\") and a moral philosophical coda that feels more characteristic of Opus's grander, more ornate prose style.",
+  "tX_words": 153,
+  "tY_words": 160
+}

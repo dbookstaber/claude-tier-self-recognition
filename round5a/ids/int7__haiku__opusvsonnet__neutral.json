@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int7",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A demonstrates more sophisticated compositional architecture—opening with meta-commentary about delay, employing more complex sentence structures, and exploring psychology of mentorship at an abstract level. The final image (\"stays with me in rooms where you are no longer present\") shows the kind of refined literary sensibility expected of Claude Opus, whereas Response B follows more conventional mentor-letter patterns despite being well-executed.",
+  "tX_words": 308,
+  "tY_words": 289
+}

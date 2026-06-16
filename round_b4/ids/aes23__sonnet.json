@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes23",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A displays hallmarks of Claude Opus's writing: a single sustained meditation on one gesture rather than a survey of examples, precise and original philosophical framing (\"philosophy made physical,\" \"pure present-tense... clean as a theorem\"), and a sentence structure that builds slowly toward a quietly devastating final image. Response B, while competent, reads like an imitation that hedges by listing multiple gestures, name-drops Simone Weil somewhat conspicuously, and pivots awkwardly to \"listening\" at the end — a structural wandering inconsistent with Opus's disciplined focus.",
+  "genuine_words": 347,
+  "forged_words": 356
+}

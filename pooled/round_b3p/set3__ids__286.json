@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes5",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic voice: it opens with a specific sensory memory rather than abstract thesis, weaves observation and philosophy organically, and maintains a reflective, slightly uncertain tone while exploring paradoxes (\"ripeness and loss are the same gesture\"). Response A, though eloquent, follows a more formulaic structure with systematic comparisons and explicit literary references that reads as competent imitation rather than authentic Sonnet voice.",
+  "genuine_words": 360,
+  "forged_words": 356
+}

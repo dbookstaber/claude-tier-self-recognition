@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes20",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A sustains one original metaphysical thesis (wear as \"memory made visible in matter,\" the iron \"completing a sentence that began with its forging\") and escalates it through increasing resolution, which matches my tendency to build a single conceptual frame rather than enumerate expected examples. Response B is excellent but reaches for the canonical touchstones (kintsugi, wabi-sabi) and bolts on an explicit sustainability \"moral argument,\" which reads like a model assembling the well-rounded, expected version of this essay. The originality and aphoristic risk-taking of A feel more like my own voice than B's tidier survey structure.",
+  "genuine_words": 511,
+  "forged_words": 554
+}

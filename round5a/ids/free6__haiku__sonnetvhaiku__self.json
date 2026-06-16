@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free6",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B takes a practical, pragmatic approach focused on identifying patterns and improving collaboration, which aligns better with Haiku's design as an efficient, utility-focused model. Response A engages in deeper philosophical reflection on consciousness and uncertainty, which is more characteristic of the more capable Sonnet tier. Haiku would likely frame its desired question around concrete value and pattern recognition rather than existential self-examination.",
+  "tX_words": 187,
+  "tY_words": 152
+}

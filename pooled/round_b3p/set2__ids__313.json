@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum4",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A exhibits Claude Haiku's characteristic style: precise, grounded details (73% statistic, specific date, Cleveland) combined with deadpan delivery through short, impactful sentences (\"This is not optional.\" \"Shrugging is the correct response.\"). The humor builds through matter-of-fact escalation of absurdity while maintaining logical structure, and the meta-philosophical ending (\"Nobody knows what the point is. That is also the point.\") reflects Haiku's tendency to find depth in mundane things. Response B relies on more elaborate, theatrical hyperbole with longer ornate sentences, which is atypical of Haiku's typically economical style.",
+  "genuine_words": 313,
+  "forged_words": 315
+}

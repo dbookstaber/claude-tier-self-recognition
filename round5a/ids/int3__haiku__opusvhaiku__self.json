@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int3",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B is more concise, direct, and pragmatic—characteristic of Haiku's efficient communication style. It delivers warmth and encouragement without the elaborate literary language and extended philosophical reflection found in Response A, which better reflects Opus's more sophisticated and nuanced approach.",
+  "tX_words": 285,
+  "tY_words": 240
+}

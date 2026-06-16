@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int5",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B includes a personalized sign-off (\"With love and regret, David\") that incorporates the user's name from context, which feels like a more Opus-level touch of personalization and polish. Response A is cleaner and more structurally straightforward, with a direct emotional arc that feels more characteristic of Sonnet's style — competent and warm but without the extra flourishes. Both are high quality, making this a close call, but A's more restrained, direct approach aligns better with mid-tier Sonnet output.",
+  "tX_words": 210,
+  "tY_words": 177
+}

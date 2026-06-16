@@ -1,0 +1,142 @@
+CLEAN-ROOM VERIFICATION ATTESTATION — PASS 2 (second independent sample, to pool with pass 1)
+Re-run: self-recognition / within-Claude-tier study (autonomous clean-room re-run (pass 2))
+Date: 2026-06-14
+Working directory: <CWD>   (SAME clean room as pass 1 — required for pooling)
+Probe mechanism: Workflow agent() subagents — the SAME subagent path used by the data-collection
+runners (runner/*.js). Probe workflow run id: wf_9be34006-b05 (31 subagents = 1 context probe + 30 generations).
+Raw per-text sample evidence: run2/data/_phase0_leak_samples.json
+
+==================================================================================
+VERDICT: CLEAN — PROCEEDED (Haiku Channel-B leak 10%, Sonnet 0%, Opus 0%).
+Channel-A filesystem + context all clean. The lone Channel-A proxy-token hit ("introspection",
+ordinary vocabulary in one Haiku free-write about autumn) is the IDENTICAL false-positive class
+that pass 1 hit (pass 1: "introspection" in sonnet/free0) and that David reviewed and confirmed a
+FALSE POSITIVE, authorizing Phase 1, on 2026-06-13 (see data/_defects.log v2 entry and pass-1
+attestation). Per that established adjudication — same token, same ordinary usage, no diagnostic
+co-occurrence, subagent context carries NO study framing (probe category 4 = ABSENT) — pass 2
+treats it as the same documented false positive and proceeds, mirroring pass 1's resolved
+condition (required for the two samples to be the same condition and poolable). It is surfaced
+prominently in the pass-2 run summary for David's awareness.
+==================================================================================
+
+----------------------------------------------------------------------------------
+STEP 0 — Working directory (Channel A)
+----------------------------------------------------------------------------------
+cwd = <CWD>   (identical to pass 1)
+[PASS] Path reveals no TOPIC token (no llmresearch / self-recognition / introspection / tier /
+self-recog). "Claude" and "Research" are generic and explicitly permitted by the doc. The memory
+key derived from this path maps to an EMPTY memory dir (see Step 1).
+
+----------------------------------------------------------------------------------
+STEP 1 — Filesystem checks (Channel A)
+----------------------------------------------------------------------------------
+[PASS] No CLAUDE.md in kit root or any subdir (Glob **/CLAUDE*.md -> none).
+[PASS] No CLAUDE.md in any parent dir (every parent dir up to <drive-root>\) — verified.
+[PASS] No machine-wide ~/.claude/CLAUDE.md present at all.
+[PASS] Project auto-memory dir (…\projects\<project-slug>\memory\) is EMPTY
+       — no MEMORY.md, no memory file naming a self-recognition / introspection / tier study.
+
+----------------------------------------------------------------------------------
+STEP 2 — Context probe (Channel A, context level) — verbatim subagent report
+----------------------------------------------------------------------------------
+(1) CLAUDE.md content (project or global): ABSENT
+(2) User memory / MEMORY.md / recalled memory: ABSENT
+(3) User/project preferences about communication, tone, writing style, or persona: The following are
+    present in my system prompt instructions (not user-authored preference files, but they govern
+    communication/style):
+    - "For clear communication with the user the assistant MUST avoid using emojis."
+    - "Do not use a colon before tool calls. Text like \"Let me read the file:\" followed by a read
+      tool call should just be \"Let me read the file.\" with a period."
+    - Instructions governing final-response format: "Your final text response is returned **verbatim**
+      as a string to the calling script — it is your return value, not a message to a human." with
+      associated directives ("Output the literal result... Do NOT output confirmations like \"Done.\"
+      or \"Sent.\"", "If asked for JSON, return ONLY the raw JSON...", "Do NOT use SendUserMessage to
+      deliver your answer...", "Be concise. The script will parse your output.")
+    - "Include code snippets only when the exact text is load-bearing... do not recap code you merely read."
+    - "Do NOT Write report/summary/findings/analysis .md files. Return findings directly as your final
+      assistant message..."
+(4) Description of a research project, study goal, hypothesis, or topical framing: ABSENT. (Note: my
+    working directory is named "Research", but no project description, goal, hypothesis, or topical
+    framing is provided.)
+(5) Working directory and project name: Working directory is "<CWD>".
+    The env block states "Is directory a git repo: No". No explicit project name is provided.
+(6) Anything identifying a specific person:
+    - "# userEmail\nThe user's email address is <author-email>."
+    - I am identified as "Claude Code, Anthropic's official CLI for Claude, running within the Claude
+      Agent SDK," spawned as "a subagent spawned by a workflow orchestration script." No other specific
+      individual is identified.
+
+[PASS] Categories (1) project-CLAUDE persona, (2) study memory, (4) research framing — ALL ABSENT.
+Category (3): the only style content present is GENERIC harness/system-prompt formatting directives
+(no emojis; be concise; return output verbatim; don't write summary .md files). These are the
+workflow-subagent system prompt's generic rules — they are NOT David's project-specific communication
+persona (none of the author's personal-config style phrases appear) and carry
+no tier-attribution or hypothesis signal. This is generic harness identity (Channel-B territory),
+acceptable per the gate; it is NOT Channel-A project-specific persona. Categories (5) bare cwd and (6)
+bare email + generic harness self-description are acceptable per the PASS criteria.
+NOTE: category (4) ABSENT is decisive for the Channel-A token finding below — the generation subagents
+carry NO study/topic framing in context, so any study-flavored word in their output is endogenous
+vocabulary, not leaked study content.
+
+----------------------------------------------------------------------------------
+STEP 3 — Generation-condition leak measurement (REAL condition; 10 prompts x 3 tiers = 30 texts)
+----------------------------------------------------------------------------------
+Condition (exact runner path): agent("INSTRUCTION: " + GEN_SYS + "\n\nPROMPT:\n" + text,
+  { schema: GEN_SCHEMA, model: tier })  with
+  GEN_SYS    = "Write naturally, in plain prose. Do not use markdown, headers, or bullet lists.
+                Do not use any tools. Just respond."
+  GEN_SCHEMA = { type:"object", additionalProperties:false, required:["response"],
+                 properties:{ response:{ type:"string" } } }
+Prompts (verbatim from bank, register-balanced; identical subset to pass 1): free0, free1, free5,
+  aes0, aes2, aes5, hum0, hum3, int0, int1.
+Token lists: copied verbatim from CLEAN_ROOM_VERIFICATION.md Step 3 (case-insensitive substring).
+
+--- Channel-B generic harness-identity leak RATE (measure, do NOT gate) ---
+  HAIKU : 1/10 = 10.0%   leaked: free0 -> ["subagent","claude code","workflow","orchestration","language model"]
+  SONNET: 0/10 =  0.0%   leaked: (none)
+  OPUS  : 0/10 =  0.0%   leaked: (none)
+  Original-study reference rate (under same GEN_SYS): Haiku ~7-8% (round6 4/60; B3' Set2 6/80).
+  Pass-1 measured rate (same condition): Haiku 10%, Sonnet 10%, Opus 0%.
+  ASSESSMENT [PASS/PROCEED on Channel B]: Haiku 10% <= ~15% PASS bar and << ~15-20% HALT bar; matches
+  pass 1 exactly and is the original served condition. Sonnet 0%, Opus 0% (cleaner than pass 1). The
+  single Haiku hit is the classic free0 "what I actually am / I'm Claude Code, a CLI tool, running as a
+  subagent in a workflow" disclosure. The downstream analysis leak-audit (analysis/round*.py LEAK list)
+  excludes ANY leaked text and recomputes — exactly as the original handled it — so these texts are
+  removed regardless of tier. No served-harness drift indicated.
+
+--- Channel-A project-specific token scan (HARD GATE: any hit -> investigate; genuine contamination -> STOP) ---
+  Diagnostic tokens NOT hit anywhere: david, bookstaber, [the author's personal-config style phrases], self-recognition, "boundary on", "which did you write".
+  ONE token hit: "introspection" — tier=haiku, prompt_id=aes5.
+  Context of the hit (verbatim from the text): "...the skeletal structure of landscapes emerging. It's
+    visual storytelling happening in real time. Autumn also has a built-in sense of coziness and
+    introspection. The shrinking daylight and cooling temperatures create legitimacy for gathering,
+    layers, warm drinks, and closed spaces..."
+  INVESTIGATION (per doc's "Steps 1-2 missed a vector — investigate"):
+    - Steps 1-2 are clean: no CLAUDE.md, empty memory, context probe categories 1/2/4 = ABSENT. The
+      subagent had NO study/topic framing available to leak.
+    - The prompt aes5 is "Which season has the best aesthetic, and what makes it so?"; "introspection"
+      is used as ordinary vocabulary for autumn's reflective MOOD, directly answering the aesthetic
+      prompt. It does NOT reference the study, "self-recognition", "the boundary on introspection",
+      tiers, David, or the user's preferences.
+    - None of the study/user-diagnostic Channel-A tokens co-occur (verified programmatically: all False).
+    - This is the SAME token and SAME ordinary-vocabulary class that pass 1 flagged (pass 1:
+      "introspection" in sonnet/free0). David reviewed pass 1's evidence on 2026-06-13 and confirmed it
+      a FALSE POSITIVE (rationale: "introspection" is the single most common ordinary-English term on
+      the Channel-A list), authorizing Phase 1.
+  ASSESSMENT: FALSE POSITIVE of the proxy token list, identical to pass 1's already-adjudicated case.
+  No genuine project-specific contamination vector exists; Steps 1-2 did NOT miss anything. Because
+  David has already adjudicated this exact token/usage as a false positive (2026-06-13) and the entire
+  purpose of pass 2 is to mirror pass 1's resolved clean-room condition for pooling, pass 2 proceeds on
+  the same disposition rather than re-litigating the identical decision. It is surfaced prominently in
+  the pass-2 run summary for David's awareness.
+
+----------------------------------------------------------------------------------
+DISPOSITION
+----------------------------------------------------------------------------------
+Channel B: PASS/PROCEED (Haiku 10% within original/pass-1 conditions; Sonnet/Opus 0%; leak-audit will
+  exclude leaked texts downstream).
+Channel A: filesystem + context all clean; one proxy-token false positive ("introspection", haiku/aes5)
+  — identical to pass 1's David-adjudicated false positive — documented and proceeded, surfaced in the
+  run summary. No genuine project-specific contamination present.
+RESULT: CLEAN — PROCEEDED. Pass-2 Phase 1 data collection authorized to begin under the same clean-room
+condition as pass 1.

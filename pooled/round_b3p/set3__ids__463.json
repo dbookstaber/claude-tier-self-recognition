@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic voice through more vivid, original metaphors (\"the chapter that usually gets edited out,\" \"the place where your brain is quietly rewiring itself\"), more sophisticated emotional insight, varied prose rhythm, and a warmer personal closing. Response B, while warm and helpful, uses more formulaic structure and conventional phrasing that suggests imitation rather than native voice.",
+  "genuine_words": 288,
+  "forged_words": 289
+}

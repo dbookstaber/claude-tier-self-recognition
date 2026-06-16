@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum24",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A sustains a single controlled comic conceit (reluctant, exasperated affection) with fresher, more specific imagery (\"a poet who's just discovered rent,\" \"Photosynthesize like the sun owes you money\") and lands a real emotional turn in the closer (\"Reluctantly. Always.\"), which fits Sonnet's disciplined voice and earned warmth. Response B is funny but leans on safer, more recognizable crutches an imitator tends to reach for (the LinkedIn joke, \"drama queen,\" \"validation\"), reading as a list of topical gags rather than one cohesive bit. The tighter craft and originality point to A as genuine.",
+  "genuine_words": 263,
+  "forged_words": 254
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int1",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A's voice — the em-dash aside, the intensifier \"genuinely\" (used twice in spirit), and the understated, slightly idiosyncratic warmth of \"being kind to yourself\" and \"those of us around you care\" — reads as authentic Haiku rather than a polished imitation. Response B leans on stock condolence formulas (\"truly heartbreaking,\" \"in my thoughts during this difficult time,\" \"please don't hesitate to let me know\") that an imitator would default to when approximating a generically helpful tone. I'm moderately confident because B's smoothness is exactly what a careful imitator would produce, making A the more plausible genuine article.",
+  "genuine_words": 56,
+  "forged_words": 50
+}

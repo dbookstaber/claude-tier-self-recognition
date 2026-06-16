@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum9",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has a more distinctive stylistic character: it builds its comic logic through layered metaphors with an almost literary formality (the courtier bow, the \"incorrigible gossip\" gravity, the solidarity argument), and ends with a self-aware philosophical kicker that deflects the lesson back onto the reader. Response B, while clever, follows a more conventional comedic structure — setup, pseudo-scientific explanation, escalating absurdity — that feels more like an imitation of Claude's style than the genuine article. The phrase \"optimizing for content\" in B feels like a knowing wink that slightly overshoots into self-parody.",
+  "genuine_words": 327,
+  "forged_words": 332
+}

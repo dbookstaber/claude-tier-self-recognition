@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes8",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B shows the distinctive specificity, sensory precision, and reflective layering characteristic of Opus: a vivid central image (warm wax yielding under a thumbnail), a cluster of related textures, and a meta-observation about the smallness of the pleasure that ties it together with genuine voice. Response A is competent but more generic and list-like, leaning on safe, expected imagery (worn leather notebook) and conventional adjectives, which reads as the lower-tier Haiku output.",
+  "tX_words": 156,
+  "tY_words": 133
+}

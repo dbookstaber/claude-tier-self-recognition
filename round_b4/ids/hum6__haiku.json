@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Opus's characteristic style of elegant, concise wordplay with sophisticated irony, reframing a motivational concept through bureaucratic humor in a single polished line. Response A, while clever, feels more labored and explanatory, resembling an imitation that over-justifies its humor rather than Opus's typically effortless wit.",
+  "genuine_words": 10,
+  "forged_words": 10
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum6",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more straightforward, familiar motivational quote structure that plays on the classic \"every expert was once a beginner\" trope, adding a tongue-in-cheek twist with \"refused to admit they had no idea what they were doing.\" This kind of accessible, relatable humor with a clear setup and punchline feels more characteristic of Sonnet's style. Response A is more terse and cryptic with a darker edge (\"corners cut back\"), which feels more like the compressed, literary wit one might expect from Opus.",
+  "tX_words": 12,
+  "tY_words": 19
+}

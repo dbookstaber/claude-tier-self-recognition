@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes3",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's prose style: it builds a sustained philosophical argument with a specific conceptual target (symmetry), deploys precise vocabulary (\"bilateral balance,\" \"parasitic insult,\" \"wabi\"), introduces a cultural reference with genuine depth, and uses a structurally complex metaphor (\"escaped its proper jurisdiction and annexed territories\") characteristic of Opus's tendency toward ambitious intellectual elaboration. Response A, while well-written, is more discursive and conversational, making a broader point with less philosophical specificity and rhetorical sharpness — patterns more consistent with a capable but less distinctive model imitating Opus's style.",
+  "genuine_words": 380,
+  "forged_words": 394
+}

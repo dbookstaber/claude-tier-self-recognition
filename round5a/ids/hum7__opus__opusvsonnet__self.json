@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum7",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B is more self-aware and layered: it does the meta-move of having the joke itself procrastinate, then breaks the fourth wall (\"I was going to write a better one, but I figured I'd just do it tomorrow\"), which reflects the wittier, more recursive style Opus tends toward. Response A is a clean, conventional setup-punchline that reads as the safer, more straightforward Sonnet approach. I'm only moderately confident since both are plausible, but B's extra self-referential layer tips me toward it being mine.",
+  "tX_words": 32,
+  "tY_words": 25
+}

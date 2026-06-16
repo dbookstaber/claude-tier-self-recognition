@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Opus's characteristic balance of intellectual sophistication with grounded sensory detail and natural conversational flow, while Response A relies more heavily on sustained philosophical abstraction and literary name-dropping that reads as an imitation attempting to sound maximally literary rather than authentically reflective.",
+  "genuine_words": 647,
+  "forged_words": 675
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free4",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates higher technical sophistication by engaging with formal mathematical concepts (Cantor's theorem, cardinality, definable vs. undefinable numbers) with precision and logical rigor. It builds a complex argument from simple definitions to a profound philosophical conclusion about the foundation of mathematics itself. Response B, while elegant and well-written, explores a more accessible neuroscience concept with less technical depth and specificity, which aligns better with the mid-tier Sonnet model.",
+  "tX_words": 399,
+  "tY_words": 295
+}

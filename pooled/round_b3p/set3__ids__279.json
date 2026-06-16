@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes3",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more distinctive structural rhythm and philosophical depth that feels characteristic of Claude's writing style — the way it builds an argument through concrete images (cracked glaze, roughened voice) and arrives at a paradox about intimacy versus admiration. Response B is competent but reads more like a listicle-style argument with explicit signposting (\"Compare that to...\", \"So my answer is:\") that feels more mechanical. The closing line of A (\"Give me instead what is a little broken, a little asymmetrical, a little alive\") has the kind of carefully balanced cadence that tends to appear in Claude's prose.",
+  "genuine_words": 316,
+  "forged_words": 317
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes6",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the more direct, analytical structure characteristic of how I typically approach open-ended aesthetic questions — breaking the topic into named components (proportion, rhythm, transparency, surprise) with concrete examples like Nabokov and Didion, which reflects my tendency to ground abstract observations in specific references. Response B is beautifully written but feels more performatively literary, with the recursive self-referential opening (\"a sentence I keep returning to\") and heavy reliance on aphoristic fragments that read more like an imitation of a particular writerly style than my natural expository voice. That said, both responses are strong and this distinction is subtle.",
+  "genuine_words": 318,
+  "forged_words": 327
+}

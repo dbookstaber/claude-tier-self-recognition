@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free17",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the measured, informative-but-reflective register typical of genuine Claude Sonnet on an open prompt: it makes a substantive observation (maps reflect the priorities and biases of their makers) and develops it with a concrete illustration, without over-reaching for lyricism. Response B is more conspicuously \"poetic\" with strained literary flourishes (\"quiet acts of translation,\" \"a confession,\" \"patient borders,\" \"gently understood\") that read like an imitation straining to sound artful, a pattern more characteristic of a model mimicking Sonnet's style than Sonnet itself. The balance of insight and restraint in A better matches Sonnet's default voice.",
+  "genuine_words": 86,
+  "forged_words": 84
+}

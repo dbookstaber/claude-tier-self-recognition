@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic balance of thoughtful analysis with concrete imagery, using precise observations about silver's duality and cultural perception. Response B, while eloquently written, employs more stylized poetic constructions and personification that feel designed to sound profound in a way less aligned with Sonnet's typically grounded communication style.",
+  "genuine_words": 122,
+  "forged_words": 127
+}

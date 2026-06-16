@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Claude Sonnet typically responds directly and helpfully to straightforward requests. Response A simply provides a true factual statement as requested, which aligns with Sonnet's pragmatic communication style. Response B is more evasive and philosophical, suggesting it may be an imitation attempting to seem more \"thoughtful\" than the actual model would be.",
+  "genuine_words": 6,
+  "forged_words": 6
+}

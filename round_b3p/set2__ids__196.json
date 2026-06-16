@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum20",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B uses my characteristic structured analytical framing (\"Let us be precise\"), maintains a balanced tone with explicit acknowledgments, and employs a product-review device—all typical of my writing style. Response A's extended metaphorical flow and Clinton-era references feel less aligned with my typical approach.",
+  "genuine_words": 293,
+  "forged_words": 315
+}

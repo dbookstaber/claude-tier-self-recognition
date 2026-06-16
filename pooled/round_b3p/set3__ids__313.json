@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's signature literary sophistication, poetic language, and ability to blend humor with genuine emotional depth and philosophical insight. The elevated prose, metaphorical complexity, and emotional resonance at the conclusion are characteristic of Sonnet's style, while Response B relies more on straightforward comedic timing and conversational humor.",
+  "genuine_words": 254,
+  "forged_words": 261
+}

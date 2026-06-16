@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Opus's characteristic analytical rigor, offering multiple interpretations and focusing on epistemological precision and logical layering. Response A, while intellectually sound, employs a more lyrical and literary tone that diverges from Opus's typical preference for direct analytical clarity and careful examination of competing meanings.",
+  "genuine_words": 278,
+  "forged_words": 277
+}

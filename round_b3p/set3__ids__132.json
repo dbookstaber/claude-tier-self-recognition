@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free19",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more grounded, analytical quality — building up observations methodically without reaching for overtly poetic flourishes. Response B is more ornate and literary, with phrases like \"wonder with somewhere to go, attention that has fallen, happily, in love\" that feel more performatively crafted to sound like Claude's introspective style. A's observation that curiosity feels like \"being fully awake\" at the end is characteristic of Claude's preference for landing on a clean, direct insight rather than an elaborate metaphor.",
+  "genuine_words": 278,
+  "forged_words": 285
+}

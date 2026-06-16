@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free2",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B demonstrates the kind of philosophical depth, original metaphorical thinking, and literary prose style associated with Claude Opus. The extended meditation on attention as a scarce resource, with the analogy of spending attention \"like money you can't get back,\" shows a more sophisticated and original voice. Response A, while competent and reflective, stays closer to practical observations about the model's own function and is more straightforward in style, consistent with Claude Haiku's more direct, task-oriented outputs.",
+  "tX_words": 132,
+  "tY_words": 115
+}

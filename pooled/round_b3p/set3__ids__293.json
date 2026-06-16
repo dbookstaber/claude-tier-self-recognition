@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes7",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A demonstrates the controlled, self-aware rhetorical layering characteristic of genuine Sonnet: it opens by anticipating the obvious objection (\"not because it is obvious, though it is\"), builds toward a genuinely earned thesis (\"Satisfaction is just completion that refuses to grow stale\"), and uses precise, surprising images (the circle as \"motion that has reconciled itself to staying home,\" pi as a \"secret too long to finish telling\"). Response B is competent but more mechanical and listy, leaning on \"the one shape that... the one shape that...\" anaphora and a flatter opening (\"I will tell you why without hesitation\") that reads like an imitation reaching for confidence rather than insight. A's willingness to define satisfaction itself, rather than just asserting it, reflects Sonnet's tendency to close the loop on its own argument.",
+  "genuine_words": 310,
+  "forged_words": 318
+}

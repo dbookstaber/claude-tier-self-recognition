@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free8",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates greater philosophical sophistication through layered argumentation, more complex integration of multiple perspectives (presence, attention, irreversibility), richer metaphorical development, and deeper exploration of paradoxes. Response A, though elegantly written, is more direct and economical in its approach, characteristic of a capable but less elaborate model.",
+  "tX_words": 251,
+  "tY_words": 323
+}

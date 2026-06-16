@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes3",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.9,
+  "correct": true,
+  "reason": "Response A demonstrates the hallmarks of Claude Opus: longer, more elaborately structured prose with nuanced qualifications (the closing caveat), a distinctive voice that builds layered arguments, and precise language choices like \"inhuman once the novelty wears off\" and \"engineered for the quick verdict of a passing glance.\" Response B is competent but shorter, more formulaic, and reaches its conclusion with less rhetorical sophistication, consistent with Claude Haiku's more economical style.",
+  "tX_words": 362,
+  "tY_words": 193
+}

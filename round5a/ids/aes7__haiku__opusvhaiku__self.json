@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes7",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B demonstrates the directness, conciseness, and simpler sentence structures typical of Claude Haiku, while Response A shows the sophisticated philosophical reasoning, mathematical depth (exploring pi's irrationality), and elaborate argument structure characteristic of Claude Opus's more capable tier.",
+  "tX_words": 537,
+  "tY_words": 265
+}

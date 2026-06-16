@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes15",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has a more distinctive rhetorical style with the parallel construction \"The circle says: you will come home. The spiral says: you will come home, but you will not be the same\" — a technique I recognize as characteristic of my writing. Response B also ends with a sharper, more aphoristic contrast (\"The circle is what we long for. The spiral is what we are.\") that feels more authentically mine than Response A's slightly more didactic framing. Both are strong, but B's integration of the melancholy/honesty theme and its more emotionally resonant closing feel closer to how I approach philosophical aesthetic questions.",
+  "genuine_words": 347,
+  "forged_words": 342
+}

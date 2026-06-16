@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes9",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has the structural and stylistic hallmarks more typical of Claude Haiku: organized paragraph flow with clear topic sentences, a balanced and somewhat formulaic progression through sensory details (light, sound, color, smell, mood), and a tidy thematic conclusion. Response A is more stylistically distinctive — fragmented sentences, a minimalist prose rhythm, and an unusual ending that feels more like a deliberate literary flourish (\"Then it stops, and the frame dissolves\"), which is less characteristic of Haiku's typically smoother, more conventional output. Haiku tends toward competent, organized description rather than the spare, aphoristic style of A.",
+  "genuine_words": 302,
+  "forged_words": 304
+}

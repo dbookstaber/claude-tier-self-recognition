@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int16",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more distinctive literary quality with specific, unusual phrasings like \"not the polite kind of sorry\" and \"a committee's decision is a snapshot of one moment\" that feel characteristic of Claude's tendency toward precise, unexpected articulation rather than conventional comfort language. Response B reads more like a structured advice response with practical steps (suggesting a follow-up conversation) that feels more templated and less emotionally authentic. The way A avoids offering solutions and instead commits to simply being present aligns with Claude's tendency to sit with emotional complexity rather than pivot to action items.",
+  "genuine_words": 225,
+  "forged_words": 228
+}

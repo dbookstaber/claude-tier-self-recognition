@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int1",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A is more restrained and calibrated to a coworker relationship, with simpler phrasing and no overwriting, which reflects the tighter editorial judgment I tend toward for a \"brief\" condolence note. Response B leans on heavier, more stacked emotional formulations (\"losing a member of the family,\" \"they were lucky to have someone who loved them so much\") that read as the slightly more effusive, additive style of a mid-tier draft. The cleaner economy and tone-matching of A make me moderately confident it is mine.",
+  "tX_words": 63,
+  "tY_words": 53
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum20",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B uses Claude Haiku's characteristic structured thinking approach, employing an unexpected formal review framework to create humor through systematic enumeration and dry wit. Response A relies on more emotionally-driven elaborate metaphors and dramatic exaggeration, which is less typical of Claude's typical comedic style of finding humor through structural cleverness rather than sustained emotional intensity.",
+  "genuine_words": 311,
+  "forged_words": 301
+}

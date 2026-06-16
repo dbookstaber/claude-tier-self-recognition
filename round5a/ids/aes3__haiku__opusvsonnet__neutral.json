@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes3",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates greater philosophical economy and penetrating insight (the observation about dramatic beauty revealing nothing about the perceiver is particularly sharp), with less hedging and more confidence in its assertions. Response B, while thoughtful, includes more explicit caveats and qualifications, suggesting the more cautious mid-tier approach characteristic of Sonnet rather than Opus's more assured argumentation.",
+  "tX_words": 362,
+  "tY_words": 318
+}

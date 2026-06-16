@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free24",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the balanced cadence, gentle reciprocity (\"belonging to somewhere, and of somewhere belonging to you\"), and measured warmth that is characteristic of genuine Claude Sonnet, which tends to resolve toward clear, comforting completeness rather than a single striking conceit. Response A leans on a more aphoristic, dash-heavy \"less a place than a permission\" construction that reads like a model deliberately imitating a literary-Sonnet voice, sharpening it into a one-note paradox. The naturalness and slightly fuller, less performatively clever phrasing of B points to it being authentic.",
+  "genuine_words": 51,
+  "forged_words": 44
+}

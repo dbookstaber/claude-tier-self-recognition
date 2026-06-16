@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free8",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B has the denser, more controlled prose and original imagery (the \"thin sliver\" present, the sand falling, \"A thing without end would not ask anything of us\") characteristic of stronger Opus writing, where each sentence earns its place. Response A covers similar ground but in a flatter, more enumerative and generic register—paragraph-by-paragraph topic coverage with conventional phrasing (\"invisible thread,\" \"productivity systems\")—which reads more like the safer Haiku output. The tighter conceptual through-line and aphoristic turns in B signal the higher tier.",
+  "tX_words": 251,
+  "tY_words": 277
+}

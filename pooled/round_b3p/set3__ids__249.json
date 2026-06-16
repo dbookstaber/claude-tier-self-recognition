@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free3",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B explores a concrete intellectual topic (compression and understanding) with a clear argumentative structure and conceptual payoff, which matches the style of Claude Sonnet engaging with ideas analytically. Response A, while well-written, leans heavily into poetic introspection about memory and identity in a way that feels more performative and stylistically overwrought — the \"brief candle\" metaphor and the extended meditation on selfhood read more like an imitation of what a thoughtful AI response \"should\" sound like rather than genuine engagement.",
+  "genuine_words": 298,
+  "forged_words": 305
+}

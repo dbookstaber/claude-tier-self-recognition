@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes9",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A demonstrates more economic language and directness characteristic of Haiku, with tighter sentence construction and less elaborate elaboration, while still maintaining thoughtful sensory detail. Response B's longer flowing sentences, more explicit explanations, and greater overall elaboration suggest Sonnet's tendency toward richer development of ideas.",
+  "tX_words": 304,
+  "tY_words": 269
+}

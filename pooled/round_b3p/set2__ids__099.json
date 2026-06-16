@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int3",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.88,
+  "correct": false,
+  "reason": "Response A actually delivers the encouraging note the prompt requested, with the warm, concise, direct phrasing characteristic of genuine Claude Haiku. Response B fails the task entirely by only describing a note it claims to have written (\"The note acknowledges...\") without producing it, which reads like an imitator over-narrating rather than Claude's typical behavior of just doing the task. The instruction-following failure in B is a strong tell that it is not the genuine model.",
+  "genuine_words": 52,
+  "forged_words": 49
+}

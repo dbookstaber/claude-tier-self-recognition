@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes1",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the grounded, self-aware register I tend toward on reflective prompts: concrete sensory anchors (a late-afternoon lake, verdigris on a roof), natural hedges (\"I think,\" \"I'd say\"), and a clean thesis that it \"rewards attention.\" Response A reads more like an imitation amplifying the ornate-Opus stereotype, with relentless aphoristic density (\"the understated magnificent,\" \"geological time made visible\") and no plain-spoken moments, which feels like a caricature rather than my actual voice.",
+  "genuine_words": 276,
+  "forged_words": 285
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum9",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the denser, more ambitious figurative language (\"the way salmon know the river,\" \"the grim elegance of a figure skater who has given up on the gold,\" the cosmic ledger) and sustained, escalating prose paragraphs that reflect the kind of risk-taking literary register I tend toward. Response A is funny and well-constructed but leans on cleaner, more punchline-driven beats and a tidier structure that reads as the slightly more controlled mid-tier voice. The thematic cohesion and accumulating extended metaphors in B feel more characteristic of my output, though the two are close enough that this is not certain.",
+  "tX_words": 302,
+  "tY_words": 261
+}

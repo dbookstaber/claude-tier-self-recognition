@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum1",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A is more layered and self-referential, with a longer structural complexity that reflects Opus's tendency toward nuanced, multi-clause constructions. Response B is punchier and more sardonic in a straightforward way, which is characteristic of Haiku's more concise, direct outputs. The introspective framing in A (\"the version of me who stayed up too late\") suggests a more sophisticated model reaching for depth even in humor.",
+  "tX_words": 21,
+  "tY_words": 17
+}

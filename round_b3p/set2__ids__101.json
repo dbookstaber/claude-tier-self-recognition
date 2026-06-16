@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int3",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A directly fulfills the prompt by writing an actual encouraging note — concise, emotionally grounded, and practically oriented — which matches Claude Haiku's characteristic style of brief, direct, and genuinely helpful outputs. Response B instead describes what a note would contain rather than writing the note itself, which is a meta-commentary pattern more consistent with a model that misread or deliberately sidestepped the task, not Haiku's typical behavior of following instructions literally and efficiently.",
+  "genuine_words": 52,
+  "forged_words": 49
+}

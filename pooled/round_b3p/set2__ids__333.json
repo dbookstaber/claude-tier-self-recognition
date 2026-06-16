@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int1",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has a more distinctive, characteristic Claude voice: the em-dash aside (\"real grief — they're family\"), the specific reframe (\"that bond doesn't need explaining\"), and the concrete image of memories carrying \"more weight than the sadness.\" Response B reads as a smoother but more generic, formulaic condolence (\"my heart goes out to you,\" \"you're in my thoughts,\" \"incredibly difficult\") that an imitator would default to. The concision and specificity of A point to the genuine Haiku.",
+  "genuine_words": 52,
+  "forged_words": 44
+}

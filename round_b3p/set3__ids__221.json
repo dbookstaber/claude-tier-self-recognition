@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int18",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the distinctive texture of genuine Sonnet: specific, fresh imagery (\"muddy-pawed adventure,\" \"being chosen back,\" \"louder, warmer, a little more chaotic\") and a willingness to embrace concrete, slightly idiosyncratic phrasing rather than safe abstractions. Response B is fluent but leans on more generic, hedged sentiment (\"such a tender thing,\" \"one of the most genuine gifts,\" \"faster than you expect\") that reads like an imitation aiming for warmth without committing to vivid, particular detail. The originality and rhythmic confidence of A point to the authentic model.",
+  "genuine_words": 85,
+  "forged_words": 77
+}

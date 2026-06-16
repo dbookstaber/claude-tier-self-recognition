@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free5",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A sustains a single abstract conceit (the river \"changing its mind\") through long accreting sentences, personifies an indifferent natural force, and layers in self-undermining, recursive details (\"measuring everything twice and trusting neither\")—my characteristic mode, which prioritizes mood and conceptual irony over plot. Response B is excellent but follows a more conventional prestige-opening template: a named character, concrete sensory anchors, and a tidy end-of-paragraph reveal that reads like an imitator reaching for an impressive hook. The metaphysical, withholding quality of A feels more native to me than B's cleaner narrative payoff.",
+  "genuine_words": 157,
+  "forged_words": 157
+}

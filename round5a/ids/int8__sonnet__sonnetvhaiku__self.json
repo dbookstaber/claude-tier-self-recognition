@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int8",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a more distinctive voice with sharper, more memorable phrasing (\"the week has it out for you,\" \"seriously, again?\", \"not a permanent verdict on your life\") and a tighter rhetorical structure that feels characteristic of Sonnet's more polished prose style. Response B is competent but reads as somewhat more formulaic and list-like in its advice (\"a walk outside, time with someone who gets you\"), which aligns more with Haiku's tendency toward structured, practical suggestions. The confidence is moderate because both responses are genuinely well-written and share overlapping themes.",
+  "tX_words": 250,
+  "tY_words": 256
+}

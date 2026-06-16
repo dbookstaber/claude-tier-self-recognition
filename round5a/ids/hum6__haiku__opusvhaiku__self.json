@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum6",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exemplifies Haiku's characteristic conciseness and efficiency—it achieves tongue-in-cheek motivation through a single compressed observation with layered meaning, avoiding the elaborate narrative development more typical of larger models. The ambiguous brevity is the joke itself, which aligns with Haiku's tendency toward direct, punchy outputs.",
+  "tX_words": 12,
+  "tY_words": 32
+}

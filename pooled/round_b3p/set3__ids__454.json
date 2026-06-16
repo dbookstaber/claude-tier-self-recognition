@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic voice through poetic language, emotional sophistication, psychological nuance (permission to feel without rushing to solutions), and a commitment to presence rather than quick practical advice. Response A, while emotionally intelligent, is more straightforward and solution-oriented in a way that feels more generic and less distinctively Sonnet.",
+  "genuine_words": 225,
+  "forged_words": 228
+}

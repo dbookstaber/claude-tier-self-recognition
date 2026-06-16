@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes2",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B demonstrates the deeper analytical and philosophical engagement characteristic of Opus, moving from a specific observation (bubbles in water) to an extended meditation on stillness, patience, impermanence, and the nature of accidental beauty. The concluding line — \"they ask for nothing, and they don't last. I find that combination genuinely moving in a way that's hard to justify and that I don't really try to\" — reflects a level of self-aware introspection and emotional nuance more consistent with Opus's capabilities. Response A, while pleasant, is more straightforward in its imagery and stays at a more surface level of reflection, which is more typical of Haiku.",
+  "tX_words": 211,
+  "tY_words": 138
+}

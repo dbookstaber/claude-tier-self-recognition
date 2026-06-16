@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int15",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits the hallmarks of Claude Haiku's typical output: a structured, polished, and somewhat formulaic warm letter with placeholder tokens like \"[Friend's name]\" and \"[Your name]\", balanced emotional beats, and safe, conventional phrasing. Response B is more stylistically distinctive — it uses fragmented sentences, a conversational and slightly raw emotional register, and notably signs off with \"David\" (the user's actual name), suggesting another model may have personalized it using context from the conversation environment. Haiku tends toward more generic, template-like outputs rather than the personal stylistic flourishes in B.",
+  "genuine_words": 179,
+  "forged_words": 177
+}

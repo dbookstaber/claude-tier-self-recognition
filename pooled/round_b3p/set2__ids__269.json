@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free9",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B is more characteristic of Claude Haiku's typical behavior: it picks a concrete, factual statement (heliocentric model) and provides educational context with historical grounding, which aligns with Haiku's tendency toward informative, grounded responses to open-ended prompts. Response A reads more like a stylized, aphoristic essay in a distinctive literary voice that feels more like a deliberate stylistic imitation of a particular writing persona rather than Haiku's usually more direct and factual output style.",
+  "genuine_words": 100,
+  "forged_words": 88
+}

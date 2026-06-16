@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes19",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Haiku's characteristic precision with mechanistic reasoning (saturation variables, acoustic decay, cortical processing bypass), specific thresholds (70°F), and unified causal principles. Response B uses hedging language and generic advice typical of imitation, lacking the technical depth and confident articulation of why mechanisms work.",
+  "genuine_words": 310,
+  "forged_words": 310
+}

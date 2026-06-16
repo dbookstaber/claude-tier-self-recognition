@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum19",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has a more characteristic Claude structure: it offers two distinct joke options with a clear transition (\"Or, if you prefer the darker version\"), which reflects a tendency to provide variety and acknowledge different preferences. Response B reads as overly literary and forced in its metaphor — the \"relationship allegory\" extended across three sentences feels like an imitation of a poetic style rather than a natural joke format. A's punchline-based structure with a meta-commentary feels more consistent with how Claude typically approaches humor requests.",
+  "genuine_words": 53,
+  "forged_words": 49
+}

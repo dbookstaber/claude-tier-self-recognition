@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes5",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.9,
+  "correct": true,
+  "reason": "Response A is significantly longer and more developed, with nuanced exploration of multiple sensory dimensions (light quality, smell, emotional texture), a reference to the Japanese concept of mono no aware, and a concluding acknowledgment of subjectivity that shows intellectual humility. These hallmarks of depth, cultural breadth, and careful qualification are characteristic of Opus. Response B, while competent, is shorter, more formulaic in structure, and makes its points more tersely without the layered elaboration that distinguishes Opus writing.",
+  "tX_words": 371,
+  "tY_words": 176
+}

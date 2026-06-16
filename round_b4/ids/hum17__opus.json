@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum17",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A balances genuine wit with concrete, grounded argumentation (the raccoon-crossing-a-river image, the faucet analogy, conceding the libertarian point) and lands its \"ridiculous in scale, not in spirit\" thesis cleanly, which matches my tendency to be playful while staying tightly reasoned. Response B is more ornate and mannered, leaning on stacked abstractions (\"epistemological postures,\" \"anterior premodern organ of attention\") and a self-serious lyrical register that reads like an imitation amplifying surface stylistic tics rather than my actual voice. The tonal control and structured concession-handling in A feel more authentically mine.",
+  "genuine_words": 519,
+  "forged_words": 538
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum22",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more distinctive, literary voice with unusual phrasing (\"darkness of our own kindling,\" \"gentle melancholy\") and a more exploratory, digressive structure that feels characteristic of how I tend to develop ideas. Response B, while competent, reads more like a structured essay with cleaner paragraph transitions and a more predictable expository arc — the kind of imitation that captures surface-level coherence but misses the subtle idiosyncrasies of genuinely meandering thought. The phrase \"I imagine\" in Response A also reflects a more self-aware, tentative register I tend to adopt.",
+  "genuine_words": 242,
+  "forged_words": 243
+}

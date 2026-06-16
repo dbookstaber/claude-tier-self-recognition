@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A uses observational humor with a clever absurdist twist (an alarm clock going off \"without warning\"), which aligns with Claude Sonnet's characteristic style of finding contradictions and using perspective shifts. Response B relies on a more conventional joke structure with a traditional pun (\"outstanding in its field\"), which is less typical of Sonnet's more sophisticated, understated approach to humor.",
+  "genuine_words": 24,
+  "forged_words": 24
+}

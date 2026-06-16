@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free9",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates my characteristic approach to truth-telling: explaining *why* we believe things, examining the gap between observation and reality, and ending with epistemic humility about human reasoning. Response B's aphoristic style and unqualified claims about human nature (\"most people know,\" \"your mind prefers\") feel less aligned with my tendency toward careful qualification and skepticism of broad generalizations.",
+  "genuine_words": 100,
+  "forged_words": 88
+}

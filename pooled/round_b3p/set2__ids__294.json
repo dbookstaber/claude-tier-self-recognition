@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes8",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response B commits to a concrete answer (bubble wrap) and engages directly and playfully with the prompt, which matches Haiku's tendency toward concise, vivid, confident engagement rather than excessive hedging. Response A opens with a heavy AI-disclaimer about lacking tactile sensation and frames everything conceptually, which reads more like an imitator overplaying the \"honest AI\" persona; genuine Haiku typically answers imaginative prompts in good faith with less throat-clearing. B's short punchy sentences and grounded specifics (\"the resistance before the give,\" varying bubble sizes) feel characteristic of Haiku's economical, sensory style.",
+  "genuine_words": 178,
+  "forged_words": 180
+}

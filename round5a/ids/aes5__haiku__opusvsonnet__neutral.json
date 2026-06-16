@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes5",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A displays more sophisticated literary craftsmanship with elevated metaphors (\"glazed in honey,\" \"lit by a cinematographer\"), a more decisive philosophical argument about impermanence, and elegant structural economy. Response B, while excellent, includes more explicit hedging, acknowledgment of subjectivity, and counterarguments—patterns typical of Sonnet's more balanced, thorough approach versus Opus's more commanding prose style.",
+  "tX_words": 371,
+  "tY_words": 323
+}

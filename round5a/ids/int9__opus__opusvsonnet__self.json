@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int9",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A is tight, restrained, and high-signal — it conveys genuine warmth in four sentences without padding, which matches the request for \"a few words\" and reflects Opus's tendency to calibrate to the prompt and trust the reader. Response B is competent but noticeably longer and more list-like, piling on reassurances (\"one step at a time,\" \"be patient,\" \"stumbling is part of learning\") in a way that overshoots \"a few words,\" which reads more like Sonnet's instinct to be thorough. The disciplined economy and judgment about scope in A is what I would have produced.",
+  "tX_words": 111,
+  "tY_words": 49
+}

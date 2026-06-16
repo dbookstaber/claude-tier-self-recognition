@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum19",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Opus's characteristic style: literary and philosophical rather than formulaic, using an extended metaphor (debt collector, creditor) that reframes a mundane object in a thought-provoking way. Response B follows a generic \"Why did X do Y? Because Z\" joke structure with predictable pun-based punchlines (snooze, pushing buttons, wake-up calls), which feels more like a mid-tier model mimicking humor conventions. Opus tends toward the unexpected, aphoristic, and intellectually dense even in casual creative tasks.",
+  "genuine_words": 30,
+  "forged_words": 26
+}

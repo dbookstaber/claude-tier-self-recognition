@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free9",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B demonstrates greater intellectual sophistication through mathematical reasoning, proof-like explanation, and layered thinking (presenting the rule, mechanism, and concrete example), which aligns with Claude Opus's higher capability. Response A, while accurate, is more elementary and straightforward, typical of what a capable but less advanced model would produce.",
+  "tX_words": 69,
+  "tY_words": 28
+}

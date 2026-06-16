@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free5",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates the precise, understated style I typically employ—balancing technical detail with subtle emotional resonance, using concrete sensory specifics (coffee smell, instrument sounds) rather than explicit emotion, and trusting readers to infer significance. Response A, while well-crafted, relies more on conventional literary signposting and explicit emotional description.",
+  "genuine_words": 121,
+  "forged_words": 115
+}

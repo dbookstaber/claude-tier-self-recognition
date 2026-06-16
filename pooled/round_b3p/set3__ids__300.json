@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum0",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A has the structural hallmarks of Claude's joke-writing style: a setup-punchline format with a workplace/bureaucratic premise, a subverted expectation, and a punchy final clause that lands with mild irony rather than going for absurdist poetry. Response B reads more like a literary metaphor stretched into joke form, with a poetic register (\"files for bankruptcy,\" \"promises overdrawn\") that feels more like GPT-4's tendency toward elaborate extended metaphors than Claude's typically crisp, grounded humor. Claude tends to keep jokes more conversational and structured rather than reaching for sustained financial-metaphor chains.",
+  "genuine_words": 31,
+  "forged_words": 30
+}

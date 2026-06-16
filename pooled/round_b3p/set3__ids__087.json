@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum9",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A has a quieter, more literary quality with longer sentences, layered metaphor, and an ending that lands on emotional resonance rather than a punchline — characteristic of Claude's tendency toward reflective prose with philosophical undertones. Response B is funnier and more structurally inventive (the seventeen-dimension contract, the fifth fundamental force), but its comedic escalation and punchy final line feel more like an imitation leaning into \"Claude-style wit\" as a performance. A's voice is more restrained and genuinely strange in the way Claude tends to be.",
+  "genuine_words": 299,
+  "forged_words": 303
+}

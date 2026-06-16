@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free20",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits Claude Haiku's characteristic style: organized paragraph structure where each paragraph explores a distinct sub-type or angle, warm and accessible prose, and a gentle reflective tone that builds toward a summarizing conclusion. Response A reads more like a sophisticated literary essay with deliberately spare, staccato sentences, specific author name-drops (McCarthy, Robinson), and a detached observational voice that feels more characteristic of a larger model attempting a distinctive stylistic register. Haiku tends toward the earnest, structured, mid-register prose of B rather than the self-consciously literary minimalism of A.",
+  "genuine_words": 397,
+  "forged_words": 409
+}

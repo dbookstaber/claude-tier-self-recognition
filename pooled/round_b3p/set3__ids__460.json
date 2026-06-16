@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic sophisticated emotional architecture with layered metaphors (\"act of faith on both sides,\" \"trust that arrives slowly, then all at once\"), careful parallel construction, and elevated but accessible language. Response A, while warm, reads more straightforward and lacks the intricate emotional and linguistic depth typical of Sonnet's writing.",
+  "genuine_words": 75,
+  "forged_words": 69
+}

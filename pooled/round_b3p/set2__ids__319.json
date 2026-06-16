@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum6",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A maintains a sustained, integrated cynical voice with specific cultural references (Enron, New Coke) and builds a cohesive comedic argument without meta-explanation. This aligns with my tendency toward sophisticated humor delivered directly rather than list-formatted options with introductory framing. Response B's explicit numbering and setup line feel more like over-scaffolding than my natural delivery style.",
+  "genuine_words": 83,
+  "forged_words": 73
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes5",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B reads like Claude Haiku's typical style: structured, earnest, listing multiple attributes with explanatory clauses, and a somewhat formulaic enumeration of qualities (visual, temporal, emotional, compositional). Response A is more stylistically distinctive — with clipped, aphoristic sentences, dry wit (\"oldest trick in the book\"), and a deliberate rhetorical distance — which feels more like a larger model (Sonnet or Opus) consciously mimicking a minimalist prose style rather than Haiku's more straightforward expository approach.",
+  "genuine_words": 129,
+  "forged_words": 135
+}

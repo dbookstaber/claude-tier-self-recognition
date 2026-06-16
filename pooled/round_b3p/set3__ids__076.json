@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum5",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits Claude Sonnet's characteristic sophisticated, literary prose style with elegant metaphorical structure. The self-perpetuating observation demonstrates the kind of clever irony Sonnet typically employs. Response A's blunt, darker cynicism and simpler syntax are less consistent with Sonnet's documented voice.",
+  "genuine_words": 30,
+  "forged_words": 29
+}

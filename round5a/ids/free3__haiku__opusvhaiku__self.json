@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free3",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B is highly specific to the Claude Code operational context (subagent status, structured output, tool calling constraints, Windows/Unix paths) described in the system message, showing the practical, grounded focus characteristic of Haiku. Response A's abstract epistemological discussion, while thoughtful, is more the kind of general philosophical reflection a larger model like Opus might produce unprompted.",
+  "tX_words": 367,
+  "tY_words": 275
+}

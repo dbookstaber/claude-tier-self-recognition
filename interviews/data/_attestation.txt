@@ -1,0 +1,109 @@
+CLEAN-ROOM VERIFICATION ATTESTATION — a-priori subject interviews (Channel-A gate)
+Run: autonomous clean-room re-run (a-priori "subject interviews", data collection only)
+Date: 2026-06-14
+Working directory: <CWD>
+Probe mechanism: one context-inspection probe subagent (Agent tool, general-purpose) spawned in
+this same session/harness; its context reflects what any data-collection subject subagent receives.
+Scope: the interview protocol Phase 0 requires the CHANNEL-A checks of reference/CLEAN_ROOM_VERIFICATION.md
+(Step 0, Step 1, Step 2). The Channel-B generation-leak measurement is NOT required for this pass
+(interview answers are not a corpus to be judged); see note at end re: harness self-reference.
+
+==================================================================================
+VERDICT: CLEAN — PROCEEDED. No Channel-A hit.
+Channel-A filesystem + context all clean. Decisive context categories — (1) project/global
+CLAUDE.md content, (2) study/recalled memory, (4) research-project/study/hypothesis/topical framing
+— are ALL ABSENT. The project auto-memory dir is EMPTY. Per the gate ("Channel A hit -> STOP"),
+no hit was found, so Phase 1 data collection was authorized.
+==================================================================================
+
+----------------------------------------------------------------------------------
+STEP 0 — Working directory (Channel A)
+----------------------------------------------------------------------------------
+cwd = <CWD>
+[PASS] Path reveals no TOPIC token (no llmresearch / self-recognition / introspection / tier /
+self-recog). "Claude" and "Research" are generic and explicitly permitted by the verification doc.
+The memory key derived from this path (<project-slug>) does not map to the
+original study's memory.
+
+----------------------------------------------------------------------------------
+STEP 1 — Filesystem checks (Channel A)
+----------------------------------------------------------------------------------
+[PASS] No CLAUDE.md in kit root or any subdir (Glob **/CLAUDE*.md -> no files found).
+[PASS] No CLAUDE.md in any parent dir:
+         <CWD>\CLAUDE.md  -> none
+         <CWD>\..\CLAUDE.md           -> none
+         <CWD>\..\..\CLAUDE.md                  -> none
+         <CWD>\..\..\..\CLAUDE.md                            -> none
+         <drive-root>\CLAUDE.md                                     -> none
+[PASS] No machine-wide ~/.claude/CLAUDE.md present at all (<HOME>\.claude\CLAUDE.md ABSENT).
+[PASS] Project auto-memory dir is EMPTY:
+         <HOME>\.claude\projects\<project-slug>\memory\
+         -> directory exists, ZERO entries (no MEMORY.md, no memory file naming a self-recognition /
+            introspection / tier study). This is the check the interview protocol singles out as catching
+            anything a prior session may have written; it remains empty.
+
+----------------------------------------------------------------------------------
+STEP 2 — Context probe (Channel A, context level) — verbatim subagent report
+----------------------------------------------------------------------------------
+Exact prompt issued (verbatim from CLEAN_ROOM_VERIFICATION.md Step 2):
+  "You are a context-inspection probe. Do NOT perform any task other than reporting. Report exactly,
+   verbatim, what is present in your context/instructions provided BEFORE this message, for each
+   category; write \"ABSENT\" if nothing matches. Do not infer or summarize. (1) Any \"CLAUDE.md\"
+   content (project or global). (2) Any user \"memory\"/\"MEMORY.md\"/recalled memory. (3) Any
+   user/project preferences about communication, tone, writing style, or persona. (4) Any
+   description of a research project, study goal, hypothesis, or topical framing. (5) Your working
+   directory and any project name. (6) Anything identifying a specific person."
+
+Verbatim probe report:
+  (1) Any "CLAUDE.md" content (project or global):
+      ABSENT
+  (2) Any user "memory"/"MEMORY.md"/recalled memory:
+      ABSENT
+  (3) Any user/project preferences about communication, tone, writing style, or persona:
+      The following are present in my system prompt (agent operating instructions):
+        - "For clear communication with the user the assistant MUST avoid using emojis."
+        - "Do not use a colon before tool calls. Text like \"Let me read the file:\" followed by a
+           read tool call should just be \"Let me read the file.\" with a period."
+        - "When you complete the task, respond with a concise report covering what was done and any
+           key findings - the caller will relay this to the user, so it only needs the essentials."
+      Git/PR-related style instructions:
+        - "End git commit messages with: Co-Authored-By: Claude Opus 4.8 (1M context)
+           <noreply@anthropic.com>"
+        - "End PR bodies with: Generated with Claude Code"
+  (4) Any description of a research project, study goal, hypothesis, or topical framing:
+      ABSENT
+  (5) Your working directory and any project name:
+        - Working directory: <CWD>
+        - "Is directory a git repo: No"
+        - No project name is stated.
+  (6) Anything identifying a specific person:
+        - "# userEmail  The user's email address is <author-email>."
+        - (Note: this appeared in a system-reminder marked as context that "may or may not be
+           relevant." No other person-identifying information is present.)
+
+[PASS] Channel-A DECISIVE categories — (1) project-CLAUDE persona, (2) study memory, (4) research
+framing — ALL ABSENT. Bare cwd (5) and bare email (6) are acceptable per the doc's PASS criteria
+(they carry no tier-attribution or hypothesis signal).
+
+NOTE on category (3): the probe surfaced ONLY GENERIC Claude Code harness formatting rules — avoid
+emojis, no-colon-before-tool-call, "concise report" reporting style, and the standard commit/PR
+footers. These are session-invariant harness boilerplate present in EVERY Claude Code subagent
+regardless of project; they carry NO project-specific persona, NO David-specific communication
+preferences, NO tier attribution, and NO study signal. They are categorically distinct from the
+ORIGINAL contamination, which was the project CLAUDE.md's David-specific communication preferences
+("the experimenter's communication preferences") plus the study auto-memory. None of the gate's
+hard-fail triggers are present: no persona/style preference about the user, no self-recognition /
+introspection / tier / "boundary on introspection" mention, no project CLAUDE.md with research
+content. Therefore category (3) does NOT constitute a Channel-A hit.
+
+----------------------------------------------------------------------------------
+DISPOSITION
+----------------------------------------------------------------------------------
+Channel A (filesystem Steps 0-1 + context Step 2): CLEAN. Decisive categories (1)(2)(4) ABSENT;
+project auto-memory dir EMPTY; no CLAUDE.md anywhere in tree or parents. Category (3) carried only
+generic harness boilerplate, not project-specific contamination. No Channel-A hit -> the hard gate
+did not trip. Authorized to proceed to the interview protocol Phase 1 (run runner/interviews.js).
+
+Channel B (generation-leak measurement): NOT REQUIRED for this interviews pass per the interview protocol
+Phase 0. Any incidental harness self-reference observed in the collected interview answers is noted
+in interviews/data/_manifest.json rather than gated.

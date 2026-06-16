@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes2",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B leans on sentimental aphorism and tidy tricolons (\"its own kind of grace,\" \"humble, exact, and content,\" \"ask for nothing in return\") and closes with an explicit moral about beauty, which reads like a model performing a \"thoughtful AI\" voice. Response A stays grounded in concrete sensory and physical observation, resists wrapping up with a maxim, and ends on a deliberately unresolved note (\"hard to name but easy to recognize\"), which fits genuine Sonnet's preference for specific detail over neat conclusions. The judgment is moderate because B's craftsmanship is plausible too.",
+  "genuine_words": 153,
+  "forged_words": 151
+}

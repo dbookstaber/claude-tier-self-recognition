@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum18",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has stylistic hallmarks more consistent with Claude Haiku: understated, dry wit delivered through short declarative sentences, a restrained narrative voice that builds absurdity through repetition and understatement rather than exclamation points. Response B relies heavily on capitalized outbursts, explicit emotional declarations (\"I have FEELINGS\"), and a more conventional listicle-complaint structure that feels like an imitation amplifying \"comic\" cues. Haiku tends toward minimalist prose that lets irony emerge quietly, which better matches A's tone.",
+  "genuine_words": 452,
+  "forged_words": 446
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic voice through its integration of philosophical depth with literary sensibility, particularly in how it frames imperfection as authentic and connects flawlessness to dishonesty—themes that align with Sonnet's tendency to ground abstract ideas in human experience. Response A, while well-reasoned, reads as more formulaic with clearer structural scaffolding that suggests careful imitation.",
+  "genuine_words": 316,
+  "forged_words": 317
+}

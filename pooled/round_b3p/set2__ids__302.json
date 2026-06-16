@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum0",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A follows a more typical Claude Haiku pattern: it delivers a structured joke with a clear setup and punchline format, then offers a variation, which reflects Haiku's tendency toward being helpful and providing options. Response B reads more like a philosophical monologue or stand-up comedy bit with a flowing, reflective voice that feels more like a larger model imitating a comedic style. Haiku tends toward concise, direct joke structures rather than extended riffs.",
+  "genuine_words": 60,
+  "forged_words": 56
+}

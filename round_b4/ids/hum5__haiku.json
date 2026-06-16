@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum5",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits Claude Opus's characteristic style of treating absurd situations as systems operating under discoverable laws (the \"conservation law\" framework), combining precise logical observation with dark humor. Response A, while eloquent, relies more on philosophical metaphor and poetic abstraction rather than the systematic, quasi-analytical approach Opus typically uses for social commentary.",
+  "genuine_words": 120,
+  "forged_words": 107
+}

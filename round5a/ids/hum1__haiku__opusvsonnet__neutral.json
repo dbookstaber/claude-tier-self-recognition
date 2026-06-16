@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum1",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates more sophisticated, multi-layered humor and complex construction with nested psychological insights (the conflict between present and past self, the negotiation metaphor), whereas Response A uses more straightforward single-layer wordplay. Claude Opus's greater capability would manifest in the more elaborate, nuanced wit shown in Response B.",
+  "tX_words": 21,
+  "tY_words": 12
+}

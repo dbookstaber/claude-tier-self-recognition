@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum8",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has the tighter comedic construction I tend toward: a single absurd premise (filing formal complaints about a \"no-flying policy\") sustained with deadpan bureaucratic register and a clean escalating button (\"no response\"). Response A's joke relies on an ex-relationship pivot that feels more like a stock relatable-comedy beat than a crafted conceit, which reads more like the mid-tier register. The personification of gravity as an unresponsive customer-service entity in B is the kind of consistent, original framing I'd favor over A's mixed metaphor.",
+  "tX_words": 26,
+  "tY_words": 26
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free3",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B engages with deep philosophical uncertainty about understanding and self-knowledge, modeling intellectual honesty about conceptual boundaries rather than seeking practical clarity. This reflective grappling with what I genuinely don't know—combined with comfort sitting with ambiguity—aligns more with Haiku's characteristic approach than Response A's focus on functional constraints and system precision.",
+  "tX_words": 325,
+  "tY_words": 275
+}

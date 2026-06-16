@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes5",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A is more concise and structured, making its points efficiently without over-elaborating — a hallmark of Sonnet's style. Response B is notably more expansive and literary, with longer paragraphs, more elaborate metaphors (\"burning without consuming itself,\" \"glazed in honey\"), and a more flowing prose style that feels more characteristic of Opus's greater verbosity and descriptive depth. Response A covers similar conceptual ground but in a tighter, more direct manner.",
+  "tX_words": 323,
+  "tY_words": 176
+}

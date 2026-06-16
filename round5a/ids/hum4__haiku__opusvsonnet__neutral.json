@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum4",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates more sophisticated structural complexity with layered paradoxical humor (celebrating a non-existent date), refined linguistic choices, and meta-level wit that rewards rereading. Response B, while entertaining, relies on more straightforward comedic escalation and accessible humor typical of mid-tier model output. The conceptual elegance and philosophical undertones of Response A align better with Claude Opus's capabilities.",
+  "tX_words": 290,
+  "tY_words": 310
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int17",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the warm, flowing, somewhat generic enthusiasm with stock phrases (\"incredible achievement,\" \"mental toughness,\" \"amazing milestone\") characteristic of Claude Haiku's default congratulatory register. Response B uses short punchy fragments, an em-dash, and a pointed \"What's next?\" closer that reads like a deliberate stylistic imitation of \"voice\" rather than Haiku's natural earnest verbosity. The crafted, writerly cadence of B is more typical of a larger model performing a style than of Haiku itself.",
+  "genuine_words": 101,
+  "forged_words": 93
+}

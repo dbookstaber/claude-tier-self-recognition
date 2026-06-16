@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits Sonnet's characteristic voice more convincingly: the movement from discovering language rather than engineering it, the observation about \"faintly surprised\" rereading, and especially the synthesis that \"restraint that does not read as restraint\" and effort that \"erased its own traces\" reflect Sonnet's distinctive introspective and slightly paradoxical approach to aesthetics. Response B, while excellent, feels more like articulated principles than discovered insight.",
+  "genuine_words": 328,
+  "forged_words": 330
+}

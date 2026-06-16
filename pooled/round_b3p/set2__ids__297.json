@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes9",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B matches Haiku's characteristic earnest, conventionally \"writerly\" register: it reaches for expected literary vocabulary (petrichor, soundscape, contemplative, melancholic undertone) and organizes sensory paragraphs in a straightforward, agreeable way without metacommentary. Response A is more self-aware and stylistically controlled—using structural moves like a \"What rainy afternoons are not\" section, hedged abstractions (\"permission — implied, not stated\"), and a deliberately understated closing, which reads like a larger model imitating restraint rather than Haiku's more direct, accumulative descriptiveness.",
+  "genuine_words": 291,
+  "forged_words": 300
+}

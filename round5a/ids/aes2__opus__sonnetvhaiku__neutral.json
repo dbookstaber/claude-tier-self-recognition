@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes2",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A shows richer, more concrete sensory detail (the scratched glass, light trembling as a truck rumbles past, \"an ordinary Tuesday morning kitchen\") and trusts the image to carry the feeling, which fits the more capable Sonnet tier. Response B is more abstract and explanatory, relying on interpretive summaries like \"quiet perfection\" and \"a small gift the world gave you without trying,\" which reads as the more generic Haiku register. The difference in specificity versus told-emotion drives the choice, though both pieces are competent and close in quality.",
+  "tX_words": 135,
+  "tY_words": 138
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Opus's characteristic philosophical ambition and meta-analytical voice, making explicit connections between music, consciousness, and language while building toward increasingly abstract insights. Response B, though beautifully written, maintains more consistent grounding in sensory experience and emotional immediacy without Opus's typical intellectual synthesis moves.",
+  "genuine_words": 309,
+  "forged_words": 322
+}

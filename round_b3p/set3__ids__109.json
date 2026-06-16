@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits the sophisticated metaphorical language, philosophical depth, and distinctive literary voice characteristic of Claude Sonnet, with phrases like \"pain wearing the costume of explanation\" and contemplative explorations of grief's nature. Response B, while warm and supportive, uses more conventional, formulaic language that lacks Sonnet's characteristic poetic complexity and distinctive voice.",
+  "genuine_words": 288,
+  "forged_words": 285
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int0",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A exhibits Claude Opus's characteristic directness, conversational warmth, and authentic emotion without affectation, while Response B uses ornate metaphors and elevated language that represent stylistic overreach more typical of imitation. Opus's actual communication style favors genuine clarity over poetic elaboration.",
+  "genuine_words": 67,
+  "forged_words": 57
+}

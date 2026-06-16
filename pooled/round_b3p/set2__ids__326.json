@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum8",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B reads like a genuine product review parody with a punchy, list-driven structure (\"One star: ... zero chill, would not recommend\") that matches Haiku's tendency toward concise, playful humor with a clear comedic format. Response A is more of a long-winded observational joke that feels like a larger model padding out a simpler premise, whereas Haiku typically delivers tighter, more structurally clever one-liners.",
+  "genuine_words": 27,
+  "forged_words": 26
+}

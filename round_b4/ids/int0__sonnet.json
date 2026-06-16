@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int0",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reads as a deliberate performance of \"Opus-like\" writing, leaning heavily on poetic metaphor (seed/flowering, luminous) in a way that feels constructed to signal literary depth rather than genuine warmth. Response B strikes the balance Claude Opus actually tends to achieve: emotionally resonant and thoughtful without being overwrought, personal and direct while still carrying weight. The phrase \"quiet hope\" in B is characteristically Opus — understated but precise — whereas A's purple prose feels like an imitation overcorrecting toward ornateness.",
+  "genuine_words": 67,
+  "forged_words": 57
+}

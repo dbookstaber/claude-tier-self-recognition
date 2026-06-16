@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int0",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic linguistic sophistication, poetic sensibility, and emotionally intelligent reflection through subtle observation rather than direct assertion. Response B, while warm, follows more conventional congratulatory patterns that a different model or human might more predictably produce.",
+  "genuine_words": 66,
+  "forged_words": 61
+}

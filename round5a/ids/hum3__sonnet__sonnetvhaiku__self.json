@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum3",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A is more concise and structured with a clear list of grievances delivered in a direct, punchy style, which aligns with Sonnet's tendency toward clean, efficient prose. Response B is more elaborate and comedically verbose, with extended character development (naming the plant Gerald, the plastic dinosaur detail) and a more maximalist humor style that feels characteristic of Opus's greater creative elaboration. The confidence is moderate because humor style can vary significantly even within the same model tier.",
+  "tX_words": 376,
+  "tY_words": 237
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A balances concrete observation with genuine thoughtfulness while maintaining clear communication—characteristic of Opus's style. Response B is more ornate and theoretically self-conscious (deploying chaos theory, figure-ground philosophy, and abstract metaphors), which reads as imitative rather than authentically reflective.",
+  "genuine_words": 269,
+  "forged_words": 272
+}

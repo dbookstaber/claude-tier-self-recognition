@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int8",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates significantly greater linguistic sophistication, employing more complex metaphorical structures (\"small, ugly box of time,\" \"rearview mirror vs. windshield\"), longer sentence variety, and deeper philosophical layering about temporal perception. Response B, while empathetic and well-written, uses simpler constructions and more straightforward messaging typical of a mid-tier model.",
+  "tX_words": 308,
+  "tY_words": 250
+}

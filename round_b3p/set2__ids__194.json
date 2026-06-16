@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum19",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A follows a classic, structured joke format (setup with \"Why did...\" leading to a punchline) that is characteristic of Claude Haiku's tendency toward conventional, accessible humor with a clear narrative arc. Response B reads more like dry, observational comedy with a sardonic, literary tone that feels more like a larger model attempting to imitate a distinctive style rather than Haiku's straightforward approach. Haiku typically produces simpler, more predictable joke structures rather than the self-aware meta-commentary style of Response B.",
+  "genuine_words": 70,
+  "forged_words": 60
+}

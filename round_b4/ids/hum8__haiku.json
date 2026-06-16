@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates more sophisticated comedic construction with layered humor, specific absurdist details (soufflés, dramatic exits), and creative metaphorical framing typical of Opus's style. Response A uses a more straightforward joke structure that could come from various models.",
+  "genuine_words": 22,
+  "forged_words": 20
+}

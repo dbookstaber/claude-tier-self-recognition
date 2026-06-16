@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free15",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has the structured, comprehensive, slightly hedging quality typical of genuine Sonnet: concrete categories (artifacts, written explanations, recorded sound, biological samples), practical reasoning, and a measured closing about epistemic humility without overreaching for literary effect. Response B is more consistently lyrical and aphoristic (\"less than we think and more than we dare,\" \"kept us, for a moment, in the company of strangers we will never meet\"), which reads like a model deliberately performing a heightened \"beautiful prose\" register rather than Sonnet's more balanced default. The polished, sentiment-maximizing rhythm of B feels like an imitation reaching for emotional impact, whereas A's grounded utility plus reflection is closer to authentic Sonnet behavior.",
+  "genuine_words": 457,
+  "forged_words": 479
+}

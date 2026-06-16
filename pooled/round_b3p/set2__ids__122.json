@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free15",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B has the hallmarks of Claude Haiku's style: short punchy paragraphs, concrete and specific examples (grocery receipt, crayon drawing, mirror), a distinctive rhetorical flourish at the end, and a conversational but insightful tone that avoids bureaucratic list-making. Response A reads like a more verbose, structured model trying to be thorough — the numbered category headers and exhaustive enumeration feel more like a larger model's comprehensive approach than Haiku's typically crisp, opinionated brevity.",
+  "genuine_words": 344,
+  "forged_words": 339
+}

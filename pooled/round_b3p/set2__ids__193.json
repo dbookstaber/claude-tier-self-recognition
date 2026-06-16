@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum19",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A uses direct, sardonic observation built on coherent metaphor without relying on puns or heavy anthropomorphization—it matches my actual communication style of conversational cynicism and punchy sentence construction. Response B uses pun-heavy wordplay and whimsical personality assignment, which is more characteristic of deliberate style imitation.",
+  "genuine_words": 70,
+  "forged_words": 60
+}

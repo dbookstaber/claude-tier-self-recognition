@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Opus's characteristic style: extended philosophical exploration of a single subject, lyrical and metaphorical prose (\"xylophone of impermanence,\" \"functional beauty\"), and finding profound meaning in mundane things. Response A reads more conversational and list-like, with rapid enumeration of multiple examples rather than the deep thematic development typical of Opus.",
+  "genuine_words": 199,
+  "forged_words": 203
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int5",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B demonstrates superior structural sophistication with more deliberate reasoning (\"keep coming back to the same realization\"), deeper exploration of accountability nuances, and more complete execution with a personal signature. Opus's greater capability would show in the more methodically constructed and logically comprehensive apology, whereas Response A, while emotionally effective, is slightly more straightforward in its emotional appeal without the additional layers of reflection evident in B.",
+  "tX_words": 210,
+  "tY_words": 177
+}

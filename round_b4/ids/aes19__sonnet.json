@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes19",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A exhibits hallmark Claude Opus stylistic features: sustained philosophical inquiry embedded in the prose (\"the eye, which is essentially a restless organ, a hunter evolved to track movement\"), unexpected but precise analogies (\"the way a thoughtful person absorbs what you say\"), and a culminating abstract insight that reframes the entire preceding analysis (\"Calm is in some way the residue of intentionality\"). Response B is competent and well-organized but reads as a structured listicle with transitional markers (\"Then there is,\" \"Finally\"), which is more characteristic of a model optimizing for clarity and coverage than Opus's tendency toward essayistic depth and conceptual surprise.",
+  "genuine_words": 473,
+  "forged_words": 498
+}

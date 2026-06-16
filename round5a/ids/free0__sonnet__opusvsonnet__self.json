@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free0",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has a more analytical, structured quality — it builds a tight logical argument about constraints and freedom, with a meta-awareness of its own construction (\"I notice I'm doing it right now\"). Response B is more lyrical and essayistic, dwelling in sensory description and philosophical meandering about language and light, which feels more like the expansive style of Opus. Sonnet tends toward cleaner, more self-contained reasoning rather than extended atmospheric prose.",
+  "tX_words": 317,
+  "tY_words": 398
+}

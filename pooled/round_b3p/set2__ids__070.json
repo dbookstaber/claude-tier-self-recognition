@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum3",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B employs dry, measured wit with sophisticated comedic structure through its letter format and precise details (\"seventeen times a day\"), coupled with clever wordplay (\"Photosynthetically yours\") and a more distinctive voice that reflects my tendency toward structured humor and philosophical observation rather than broad exaggeration.",
+  "genuine_words": 243,
+  "forged_words": 263
+}

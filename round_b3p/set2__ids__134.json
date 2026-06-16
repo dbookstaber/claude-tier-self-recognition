@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free19",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits writing patterns more consistent with Claude Haiku: shorter, more declarative sentences, a restrained and economical style, and a structural approach that defines concepts by contrasting them with what they are not. Response A is richer and more lyrical with longer, flowing sentences and metaphor-heavy prose (\"like a frequency rising,\" \"another question blooming from the last\"), which reads more like Claude Sonnet or Opus attempting to elaborate with greater rhetorical flair.",
+  "genuine_words": 288,
+  "forged_words": 300
+}

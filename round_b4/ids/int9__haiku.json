@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Opus's characteristic balance of emotional depth with clarity and directness, using practical wisdom alongside personal connection. Response A, while eloquent, relies on baroque philosophical language and extended metaphors that read more like an imitation of literary style than Opus's actual voice, which tends toward accessible warmth rather than elaborate abstraction.",
+  "genuine_words": 147,
+  "forged_words": 154
+}

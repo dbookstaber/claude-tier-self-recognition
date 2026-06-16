@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free3",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B is grounded in concrete, system-prompt-derived facts a smaller model like Haiku tends to latch onto literally (specific cutoff date, timestamp gap, available tools and the instruction to use them only when needed), and its prose is more diffuse and hedge-heavy (\"vertiginous,\" \"epistemic humility\") in the slightly over-reaching way Haiku introspects. Response A is a tightly themed, elegantly structured essay on compression/Kolmogorov complexity with a clean rhetorical arc, which reads more like a stronger model imitating a \"thoughtful Haiku\" rather than Haiku's actual looser, context-anchored output. The strongest single signal is B's reflexive recitation of operational context (tools, cutoff, dates), a hallmark of how Haiku narrates itself.",
+  "genuine_words": 265,
+  "forged_words": 289
+}

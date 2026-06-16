@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits Claude Sonnet's characteristic blend of poetic language, emotional depth, and philosophical reflection alongside humor—treating the absurd premise with literary sophistication while maintaining a contemplative, melancholic tone. Response A, while amusing, relies more heavily on pure absurdist escalation without the same emotional or literary texture that distinguishes Sonnet's voice.",
+  "genuine_words": 299,
+  "forged_words": 303
+}

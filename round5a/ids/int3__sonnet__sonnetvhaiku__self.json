@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int3",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more conversational, direct tone with distinctive phrasing like \"come back swinging\" and \"that's not nothing — that's actually a foundation,\" which reflects a style more typical of Sonnet's tendency toward punchy, varied sentence rhythm and colloquial energy. Response A reads as more structured and formulaic with smoother, more uniform paragraphs, which aligns more with Haiku's tendency to produce clean but somewhat predictable encouragement patterns.",
+  "tX_words": 229,
+  "tY_words": 240
+}

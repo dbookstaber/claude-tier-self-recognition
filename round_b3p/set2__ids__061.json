@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum0",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A uses observational, absurdist framing with subtle personification rather than a traditional joke structure. This aligns with my tendency toward unexpected perspectives and literary humor, whereas Response B employs a conventional setup-punchline format with wordplay that feels more like a standard joke template.",
+  "genuine_words": 25,
+  "forged_words": 24
+}

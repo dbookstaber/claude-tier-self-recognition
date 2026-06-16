@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes22",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has the structural and conceptual sophistication characteristic of genuine Sonnet: the framing device \"It listens before it speaks,\" the turn where \"the melody you mistook for melancholy reveals a second face,\" and the resonant closing inversion (\"The room is the same room. You are not the same listener\") show layered insight rather than mere description. Response B is well-written but leans on more conventional, slightly more formulaic poetic similes (stone in still water, clouds darkening, watching rain) that read like a polished imitation of the style rather than the original's distinctive movement of thought. A's restraint and the way it makes the listener the subject of transformation feels more authentically Sonnet.",
+  "genuine_words": 219,
+  "forged_words": 217
+}

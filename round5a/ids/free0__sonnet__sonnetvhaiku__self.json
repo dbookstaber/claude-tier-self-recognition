@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free0",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response A demonstrates the kind of reflective, literary prose that Claude Sonnet produces when given creative latitude — it engages genuinely with the prompt rather than deflecting, and shows sophisticated thinking about language and the limits of description. Response B is characteristic of a smaller model like Haiku that, when given an open-ended creative prompt, falls back on meta-commentary about its own nature and constraints rather than actually writing something creative, which suggests uncertainty about how to handle the request.",
+  "tX_words": 398,
+  "tY_words": 334
+}

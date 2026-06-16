@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic style of finding philosophical depth in concrete, accessible observations. It uses narrative and specific imagery to build emotional resonance rather than abstract phrases, and maintains Sonnet's trademark quality of noticing human moments that quietly matter. Response A, while beautiful, relies more heavily on abstraction and poetic devices that feel more like stylistic imitation.",
+  "genuine_words": 68,
+  "forged_words": 61
+}

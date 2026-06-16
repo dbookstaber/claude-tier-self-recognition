@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic balance of emotional warmth with concrete clarity and practical wisdom, using relatable specific examples rather than abstract poetic language. Response A, while beautifully written, relies on more ornate, literary phrasing that reads more like an imitation trying to sound profound rather than Sonnet's typical accessible-yet-deep approach.",
+  "genuine_words": 367,
+  "forged_words": 378
+}

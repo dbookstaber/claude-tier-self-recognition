@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Opus's characteristic balance of emotional intelligence, practical wisdom, and genuine warmth. While A uses impressive literary language that feels designed to impress, B authentically meets the person in their pain with clear validation, honest contextualization (acknowledging non-merit factors), and concrete support—hallmarks of Opus's grounded yet thoughtful approach.",
+  "genuine_words": 228,
+  "forged_words": 244
+}

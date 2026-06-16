@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free21",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has the balanced, expository, multi-example structure with measured transitional phrasing (\"What makes these...\", \"Small kindnesses are also...\", \"There's also something underrated...\") that is characteristic of Claude Haiku's earnest, helpful default register. Response B's punchy fragments, deliberate anti-sentimentality, and stylized literary cadence (\"That's it. That's the whole thing.\", \"productive blindness\") read as a model performing a distinctive voice rather than Haiku's more straightforward, comprehensive tone. The genuine Haiku tends toward enumerated, well-rounded coverage over the crafted minimalism seen in B.",
+  "genuine_words": 221,
+  "forged_words": 229
+}

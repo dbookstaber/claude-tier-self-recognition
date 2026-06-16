@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int2",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A shows more sophisticated emotional attunement: it normalizes and reframes the fear, and explicitly releases the person from pressure to be brave or calm, avoiding clichés. Response B relies more heavily on generic encouragement (\"You've got this,\" \"stronger than you think\") and includes a slightly garbled line (\"you don't have to feel ready to actually be ready\"), which reads as the lighter-tier model's output. Sonnet's stronger craft and avoidance of platitudes points to A.",
+  "tX_words": 116,
+  "tY_words": 129
+}

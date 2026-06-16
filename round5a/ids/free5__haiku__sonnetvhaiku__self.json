@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free5",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates the direct, clear storytelling style typical of Claude Haiku, with straightforward narrative progression and concrete details. Response A's layered complexity, rich metaphors, and multiple interwoven mysteries reflect the more sophisticated literary approach characteristic of Claude Opus.",
+  "tX_words": 160,
+  "tY_words": 151
+}

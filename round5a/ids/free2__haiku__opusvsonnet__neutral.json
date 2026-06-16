@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free2",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates sophisticated meta-cognitive reasoning by engaging with what it means for an AI to answer the prompt, discussing its own limitations transparently, and exploring the boundary between authentic expression and imitation—exactly the kind of higher-order thinking characteristic of Claude Opus. Response A, while eloquent, presents more straightforward philosophical observations without the recursive self-examination.",
+  "tX_words": 132,
+  "tY_words": 204
+}

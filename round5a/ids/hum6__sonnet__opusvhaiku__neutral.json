@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum6",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B is a tightly constructed, witty aphorism with a clever inversion — it sounds like a motivational quote until the punchline reframes \"cutting corners\" as something that happens to you. This kind of compact, linguistically sophisticated wordplay is characteristic of Opus-level outputs. Response A is longer, more conversational, and relies on a relatable humor pattern (procrastination/cat videos) that feels more like the approachable, friendly style typical of Haiku or Sonnet.",
+  "tX_words": 12,
+  "tY_words": 32
+}

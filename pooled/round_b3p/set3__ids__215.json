@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int16",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A has the distinctive interiority and original imagery genuine Sonnet tends toward (\"the particular weather inside someone else's head,\" \"Hindsight always speaks with a confidence it didn't have at the time\"), and it resists jumping to advice, instead validating the loss and offering presence. Response B is competent and warm but more formulaic comfort-plus-actionable-advice (have a candid conversation with your manager, what a path forward looks like), reading like a careful imitation that hedges toward practical coaching rather than Sonnet's emotionally attuned restraint.",
+  "genuine_words": 284,
+  "forged_words": 294
+}

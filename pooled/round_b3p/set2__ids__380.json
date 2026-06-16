@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free21",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the characteristic Haiku style: short punchy sentences, a concrete single example developed throughout, and a conversational directness with minimal elaboration. Response A reads more like a longer-form Claude model — structured paragraphs, multiple examples, and a more expository \"essay\" format that feels like Sonnet or Opus organizing thoughts systematically. B's terse, fragmented prose (\"That's it. That's the whole thing.\") and deliberate restraint match Haiku's tendency toward brevity and pointed observations.",
+  "genuine_words": 221,
+  "forged_words": 229
+}

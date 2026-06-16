@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int9",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "The prompt asked for \"a few words,\" and Response B honors that constraint with tight, well-crafted prose and a single resonant metaphor (\"the discomfort you feel right now is just the feeling of growth\"), reflecting the stronger model's better instruction-following and economy. Response A is longer and padded with generic, somewhat clichéd encouragement (\"You've got this,\" \"nobody does at the beginning,\" \"Trust yourself\"), which reads more like the smaller model over-producing. Hence Sonnet most likely wrote B.",
+  "tX_words": 49,
+  "tY_words": 94
+}

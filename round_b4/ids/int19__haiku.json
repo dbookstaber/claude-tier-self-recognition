@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits Claude Opus's characteristic philosophical depth, literary sophistication, and intricate metaphorical reasoning (\"taste without yet the full presence of craft,\" \"dawn outpaces warmth\"). Response A, while warm and competent, reads more like a capable imitation with more straightforward encouragement and less of Opus's typical exploration of deeper meaning and contemplative layering.",
+  "genuine_words": 290,
+  "forged_words": 307
+}

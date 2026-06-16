@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free9",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.88,
+  "correct": true,
+  "reason": "Response A gives a non-trivial, correct mathematical truth (the divisibility-by-nine rule) with a clean modular-arithmetic justification and a worked example, which reflects the depth and deliberate choice expected of the more capable Opus tier. Response B is a generic, boilerplate self-description that defaults to identity-statement filler typical of a smaller model, and it even risks a questionable cutoff-date claim rather than committing to an interesting true statement. The contrast in substance and reasoning strongly points to A being mine.",
+  "tX_words": 69,
+  "tY_words": 46
+}

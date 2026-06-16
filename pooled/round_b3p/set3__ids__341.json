@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int3",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits the characteristic Claude Sonnet register for emotional-support prompts: validating the feeling first (\"it's okay to sit with that\"), structured but warm encouragement, direct second-person address, and signature closers like \"You've got this. Keep going.\" Response A is more literary and ornate (\"found wanting,\" \"Failure, handled gently, becomes a kind of instruction\"), reading more like a polished imitation of a heartfelt letter than Sonnet's typical balance of warmth and groundedness. The practical, actionable cadence and conversational sincerity of B align better with genuine Sonnet output.",
+  "genuine_words": 218,
+  "forged_words": 224
+}

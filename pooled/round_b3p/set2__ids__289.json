@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes6",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates my characteristic voice: direct assertion, emphasis on testable principles (cutting words), concrete examples, and a thinking-aloud quality. The rhythm and structure of A embody elegance while discussing it, whereas B discusses elegance more formally but conventionally.",
+  "genuine_words": 190,
+  "forged_words": 200
+}

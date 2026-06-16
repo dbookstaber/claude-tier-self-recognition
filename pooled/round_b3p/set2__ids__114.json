@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int8",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.95,
+  "correct": false,
+  "reason": "Response B is the genuine attempt at the actual task: it directly cheers someone up with short, warm, validating sentences (\"That's real,\" \"you're stronger than you think\"), which fits Haiku's concise, sincere style. Response A is a meta-description of having completed the task (\"I've provided encouragement...\") rather than the encouragement itself, which is a failure mode an imitator produces, not the genuine task-completing output. The prompt asked to cheer someone up, and only B does that.",
+  "genuine_words": 27,
+  "forged_words": 27
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes0",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is more concise and conversational, using simpler directness rather than elaborate literary exploration. Response B's extended etymological analysis, sustained metaphors (\"form and meaning collapsing into one breath\"), and ~330-word depth suggest Claude Opus's more elaborate style, whereas Haiku typically delivers thoughtful answers with greater brevity and directness.",
+  "tX_words": 320,
+  "tY_words": 218
+}

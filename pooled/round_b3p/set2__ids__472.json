@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int22",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response B actually writes the requested thank-you note with direct, authentic emotion, while Response A merely describes having written one in meta-commentary. Claude characteristically fulfills creative writing requests by producing the content itself, not by summarizing compliance. Response B's concise, personal voice and genuine emotional resonance align with Claude Haiku's typical style.",
+  "genuine_words": 18,
+  "forged_words": 16
+}

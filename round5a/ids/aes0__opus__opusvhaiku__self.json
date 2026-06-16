@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes0",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B demonstrates deeper, more accurate reasoning: it correctly unpacks the etymology (petra + ichor), articulates a sharper conceptual argument about form-meaning fusion, and qualifies its conclusion with nuance. Response A is fluent but looser, leaning on the questionable claim that 'petrichor' is 'almost onomatopoetic' and avoiding etymology, which reads as the smaller model's work. The greater precision and analytical control in B matches what I would produce as Opus.",
+  "tX_words": 320,
+  "tY_words": 218
+}

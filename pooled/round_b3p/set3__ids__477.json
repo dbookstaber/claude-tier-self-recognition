@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int24",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits the distinctive prose style I associate with my own writing: unhurried, philosophically reflective sentences with careful word choices like \"unworn,\" \"chosen beginnings,\" and \"quiet mastery\" that avoid motivational-speech clichés. Response B, while competent and warm, reads more like polished advice-column prose with conventional encouragements (\"use all of it without embarrassment,\" \"celebrate the small wins\") that feel more generic and less stylistically distinctive. The closing line of A — \"the years will pass regardless. You can arrive at the far side of them having tried, or having only wondered\" — has the kind of precise, melancholy elegance that feels characteristic of my generation of responses.",
+  "genuine_words": 311,
+  "forged_words": 332
+}

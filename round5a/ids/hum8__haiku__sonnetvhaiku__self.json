@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum8",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B uses more visceral, relatable physical humor with a casual, stream-of-consciousness tone that feels characteristic of Haiku's typically more direct style. Response A employs more structurally refined comedy with bureaucratic absurdism and formal framing, which aligns better with Sonnet's more polished construction approach.",
+  "tX_words": 26,
+  "tY_words": 35
+}

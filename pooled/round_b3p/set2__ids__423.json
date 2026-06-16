@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum16",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A has the tighter, more controlled comedic structure typical of Haiku—short declarative punchlines (\"The dog gets it. You got nothing.\"), a clean callback ending (\"the dog is always watching\"), and restrained, aphoristic jokes rather than escalating absurdist riffs. Response B leans on the longer, more self-referential, increasingly elaborate bit-building (\"intermittent fasting, but make it dessert,\" \"my doctor doesn't understand this yet\") that reads more like a larger model imitating a casual comedic register. The disciplined economy and crisp callback in A fit Haiku's characteristic style better.",
+  "genuine_words": 306,
+  "forged_words": 300
+}

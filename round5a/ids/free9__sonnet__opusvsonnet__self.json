@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free9",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A gives a straightforward, accessible factual statement about the sun that a mid-tier model like Sonnet would produce when asked for something true - clear, direct, and informative without overcomplicating the task. Response B dives into a mathematical proof with modular arithmetic reasoning, which feels more characteristic of Opus's tendency to demonstrate depth and intellectual rigor even for simple prompts. The structured, proof-oriented approach in B suggests the higher-capability model.",
+  "tX_words": 69,
+  "tY_words": 28
+}

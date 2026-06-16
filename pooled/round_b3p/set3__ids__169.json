@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic approach: multi-layered sensory and concrete reasoning (sound, biology, visual phenomena), organic argument structure without meta-commentary, and language that balances philosophical depth with immediate vividness. Response A relies more heavily on a constructed binary (noun/verb) and includes meta-deflection at the end, suggesting intellectual distance rather than genuine engagement with the question.",
+  "genuine_words": 312,
+  "forged_words": 322
+}

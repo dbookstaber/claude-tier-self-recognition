@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int16",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A shows the conceptually-driven, metaphor-dense literary register I tend toward on open emotional prompts: a sustained controlling conceit (grief as indecisive weather, the river that stays a river), coined aphorisms (\"occlusion is not closure\"), and a deliberate refusal of easy consolation in favor of reframing it as observation. Response B is warm and emotionally intelligent but follows the more generic best-practices empathy template (validate, separate worth from the decision, list politics/budget/timing, advise no big decisions, offer presence) that an imitator would converge on. The distinctive voice and willingness to stay abstract rather than pivot to actionable advice point to A as genuinely mine.",
+  "genuine_words": 228,
+  "forged_words": 244
+}

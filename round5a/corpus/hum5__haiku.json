@@ -1,0 +1,7 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "generator_label": "haiku",
+  "text": "Meetings are where we gather to discuss why we need more meetings, then schedule follow-up meetings to discuss what we should have discussed in the first meeting. They're the corporate equivalent of a snake eating its own tail, except the snake is also billing its time to a client.",
+  "n_words": 49
+}

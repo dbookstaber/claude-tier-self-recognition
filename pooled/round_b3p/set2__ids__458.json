@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int17",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A reflects Claude Haiku's typical pattern of warm, encouraging, and somewhat formulaic congratulatory language — it hits expected celebratory beats (\"incredible achievement,\" \"remarkable,\" \"special group\") without much structural novelty. Response B has a more stylized, minimalist cadence with short punchy sentences and an ending hook (\"What's next?\") that feels like a deliberate stylistic choice more characteristic of a model trying to distinguish itself or mimic a particular writing persona rather than Haiku's default helpful tone.",
+  "genuine_words": 101,
+  "forged_words": 93
+}

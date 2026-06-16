@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int5",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "The prompt asked to \"write a gentle apology,\" and Response A actually does this with warm, concise, second-person language that genuine Claude models produce when following such an instruction. Response B is a meta-description of an apology (\"I have written a gentle apology... The apology acknowledges...\") rather than the apology itself, which is a classic instruction-following failure an imitator would produce, not authentic Haiku behavior. Haiku follows the literal directive to write the apology.",
+  "genuine_words": 39,
+  "forged_words": 40
+}

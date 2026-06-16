@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Sonnet's characteristic sophistication through poetic language, philosophical reflexivity, and willingness to embrace aesthetic ambiguity (\"harder to name\") rather than systematic enumeration. Response B, while articulate, reads more like structured analysis with cause-effect relationships, which is a different model's approach to comprehensiveness.",
+  "genuine_words": 328,
+  "forged_words": 335
+}

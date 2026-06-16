@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes8",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A shows more distinctive craft: a specific, unusual central image (warm wax yielding under a thumbnail), a layered family of related textures, and a reflective closing turn about smallness and uselessness that adds conceptual depth rather than just sensory description. Response B is competent and evocative but more conventional and single-image (old book pages), reading as the safer mid-tier choice. The greater originality, structural variety, and self-aware meta-observation in A match my Opus-tier voice.",
+  "tX_words": 156,
+  "tY_words": 111
+}

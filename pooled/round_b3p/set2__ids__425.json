@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum16",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the hallmarks of Claude Haiku's style: short, punchy sentences, minimal formatting (no headers or bullet points), a dry and efficient wit, and a tight structure that builds to a clean conclusion. Response B reads more like a larger model imitating humor — it uses more elaborate setups, self-referential meta-commentary (\"My doctor doesn't understand this yet\"), and a chattier, more discursive voice that feels like Claude Sonnet or Opus playing at being funny.",
+  "genuine_words": 306,
+  "forged_words": 300
+}

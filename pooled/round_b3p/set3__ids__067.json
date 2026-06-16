@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic blend of philosophical depth and emotional intelligence, elevating the mundane topic of missing socks into existential reflection on freedom and autonomy. Response B relies more on rapid-fire comedic jokes and cynical humor, which is less aligned with Sonnet's typically contemplative and metaphorically rich voice.",
+  "genuine_words": 302,
+  "forged_words": 296
+}

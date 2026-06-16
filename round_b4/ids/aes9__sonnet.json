@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes9",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B displays hallmarks of Claude Opus's distinctive prose style: highly literary and conceptually ambitious vocabulary (\"philosophical proposition,\" \"tyranny of the possible,\" \"moral permission\"), use of unusual structural metaphors (\"time thickens like cream\"), and a closing reference to a Japanese aesthetic concept (mono no aware) that reflects Opus's tendency toward cross-cultural intellectual flourish. Response A, while well-written, is more methodical and journalistic in structure — cataloguing sensory details in a clear, organized way that feels more like a capable but less idiosyncratic model mimicking Opus's themes without matching its characteristic voice and density of thought.",
+  "genuine_words": 282,
+  "forged_words": 303
+}

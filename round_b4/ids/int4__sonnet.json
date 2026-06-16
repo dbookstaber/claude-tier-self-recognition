@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int4",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A displays hallmarks of Claude Opus's distinctive prose style: elevated, literary diction (\"annunciation,\" \"oceanic origin\"), unexpected philosophical reframings (\"love...has been holding back this whole time\"), and a compression of profound ideas into a single sustained voice that avoids cliche. Response B reads as warm but generic congratulatory text that any capable model could produce, following a predictable template of enthusiasm, practical acknowledgment of sleep deprivation, and well-wishing — the kind of imitation that captures surface warmth without Opus's characteristic intellectual depth.",
+  "genuine_words": 106,
+  "forged_words": 101
+}

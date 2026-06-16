@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int15",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a more natural, conversational warmth that aligns with how Claude Sonnet tends to write personal notes - direct, emotionally grounded, and without excessive literary flourish. Response B leans into a more self-consciously literary style with phrases like \"strange arithmetic of this moment\" and \"small, unremarkable architecture of our friendship\" that feel like an imitation trying too hard to sound poetic and distinctive. The sign-off \"David\" in Response A also matches the user's email (david@bookstaber.com), suggesting the model personalized the response using available context.",
+  "genuine_words": 221,
+  "forged_words": 220
+}

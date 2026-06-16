@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum24",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's style: a more philosophically dense, self-aware prose with extended analogical reasoning (the Descartes bootstrapping argument, the meditation teacher comparison), and a tendency toward longer, more syntactically complex sentences that build elaborate conceptual frameworks even for absurd premises. Response A, while witty, is more punchy and accessible — its humor lands through quick reversals and concrete comic details rather than through the layered intellectual architecture Opus tends to construct. The phrase \"green as intention, stubborn as hope\" and the Camus reference are characteristic of Opus's fondness for smuggling genuine literary register into comic contexts.",
+  "genuine_words": 336,
+  "forged_words": 339
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int8",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's distinctive prose style: dense philosophical scaffolding, unexpected reframing of familiar concepts (\"suffering is just love with nowhere to land yet\"), and a formal, essayistic register that builds toward a quietly powerful conclusion. Response B, while warm and well-crafted, reads more like a capable imitation of an empathetic voice — it uses accessible, conversational language and motivational-style reassurances (\"flawless record,\" \"lower the bar on purpose\") that feel closer to a general-purpose assistant's cheerful register than Opus's characteristically meditative and structurally ambitious writing.",
+  "genuine_words": 242,
+  "forged_words": 259
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free4",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response B has the terse, punchy cadence and short declarative fragments (\"Not hard to determine. Impossible.\") that are characteristic of Haiku's actual writing, along with a genuine first-person reflective note (\"I find I keep returning to it\") rather than a tidy summarizing flourish. Response A is more polished, balanced, and essayistic with a symmetrical \"It's strange because... It's beautiful because...\" structure that reads like a larger model performing a thoughtful tone. The economy and slightly uneven rhythm of B fit Haiku better than A's smooth, carefully composed prose.",
+  "genuine_words": 244,
+  "forged_words": 261
+}

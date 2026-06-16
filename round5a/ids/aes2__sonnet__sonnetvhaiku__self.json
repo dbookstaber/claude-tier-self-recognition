@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes2",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more grounded, observational quality — noting specific details like \"slightly scratched from years of use\" and \"a truck rumbles down the street outside\" — that feels characteristic of Sonnet's tendency toward concrete, sensory specificity without over-explaining the emotional significance. Response B leans more heavily into explicit reflection and interpretation (\"it feels like a small gift the world gave you without trying\"), which reads as slightly more effusive and self-conscious in a way that feels more like Haiku's tendency to over-articulate meaning. Both are close, but A's restraint and grounded detail feel more like my own voice.",
+  "tX_words": 135,
+  "tY_words": 138
+}

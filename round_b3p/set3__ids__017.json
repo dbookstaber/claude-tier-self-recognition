@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free5",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A shows the controlled, idiosyncratic literary restraint typical of genuine Sonnet: unusual figurative turns like \"the particular arithmetic of solitude,\" metered short sentences (\"He set down his cup.\"), and a willingness to stay oblique and unresolved. Response B is competent but more conventionally writerly, leaning on familiar scaffolding (a named protagonist with tidy backstory, \"grief had a shelf life,\" an over-explained closing sentence), which reads more like an imitation of a literary register than the real thing. The shared lighthouse/debt premise suggests B's model echoed A's opening move while smoothing it into safer, more packaged prose.",
+  "genuine_words": 119,
+  "forged_words": 121
+}

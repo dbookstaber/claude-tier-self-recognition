@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int3",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response A demonstrates the hallmarks of Claude Opus: richer prose, more nuanced emotional depth (explicitly validating the pain before pivoting to encouragement), and more sophisticated metaphorical framing (\"a hard chapter, not the whole book\"). Response B is more formulaic and structured with shorter paragraphs and simpler language, consistent with Haiku's more template-like outputs. The phrase \"the stumble turned out to be part of the story rather than the end of it\" in A reflects the kind of literary quality Opus tends to produce.",
+  "tX_words": 285,
+  "tY_words": 240
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free1",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates the extended conceptual elaboration and sophisticated historical-mathematical reasoning characteristic of a more capable model, building from Eratosthenes through GPS and epistemological reflection. Response B is more concise and direct while remaining insightful, using accessible linguistic examples rather than deep historical narratives—typical of Haiku's strength in punchy, thoughtful observations rather than sustained elaborate reasoning.",
+  "tX_words": 396,
+  "tY_words": 194
+}

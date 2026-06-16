@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free5",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response B demonstrates significantly greater linguistic sophistication, metaphorical complexity, and thematic depth with its magical realism premise and richly layered prose. The inventive worldbuilding, original imagery (river running backward, the symbolic \"bill\" metaphor), and ambitious narrative voice align with Opus's characteristic capability for creative risk-taking and literary sophistication, while Response A, though skillfully written, follows a more conventional contemporary narrative structure typical of Sonnet's balanced competence.",
+  "tX_words": 153,
+  "tY_words": 160
+}

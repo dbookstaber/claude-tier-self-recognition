@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic direct, grounded communication style with practical empathy and conversational warmth. Response B's highly poetic structure, philosophical abstraction, and literary flourishes (sensory imagery, repeated \"Let...\" constructions) feel more like an imitation attempting to sound profoundly distinguished rather than Sonnet's typical clear, actionable compassion.",
+  "genuine_words": 110,
+  "forged_words": 102
+}

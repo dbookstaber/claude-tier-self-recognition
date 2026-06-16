@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int15",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits the structured, formal warmth and template-like quality characteristic of Claude Haiku — organized paragraphs, balanced sentiment, and generic placeholder (\"[Your name]\") that reflect a model producing a reusable note format. Response B reads as more personalized and conversational, with specific details like \"the right coffee shop,\" \"the trail nobody else knows about,\" and signing off as \"David\" (the user's actual name), suggesting it was either written by a human or a model with access to user context trying to appear more authentic. Haiku tends toward polished, predictable structure rather than the casual, idiosyncratic voice in B.",
+  "genuine_words": 225,
+  "forged_words": 232
+}

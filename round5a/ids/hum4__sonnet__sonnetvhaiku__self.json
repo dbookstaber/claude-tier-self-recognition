@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum4",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has a more measured, observational comedic voice with precise absurdist details and a dry, understated tone that feels characteristic of Sonnet-level writing. The humor in A builds through careful word choice and structural rhythm (\"regarded as elegant,\" \"treated with the kind of reverence normally reserved for Olympic athletes\"), while Response B relies more on escalating whimsy and a folklore framing that feels slightly more formulaic. The ending of A — the \"inexplicable, slight disappointment\" — is a subtler, more refined comedic beat than B's louder punchline.",
+  "tX_words": 310,
+  "tY_words": 286
+}

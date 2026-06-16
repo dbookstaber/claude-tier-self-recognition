@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int4",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more structured, somewhat formulaic quality with broader generalizations (\"one of the most profound and life-changing things\"), which is characteristic of Sonnet's mid-tier style. Response A feels more literary and personal with specific, vivid details like \"tiny socks that go missing\" and \"quiet, ordinary moments,\" suggesting the more sophisticated creative touch of Opus. The warm but slightly more generic phrasing in B aligns better with Sonnet's output.",
+  "tX_words": 96,
+  "tY_words": 97
+}

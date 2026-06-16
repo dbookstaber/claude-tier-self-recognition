@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits Claude Sonnet's characteristic philosophical depth and literary sophistication, using the absurd premise to explore genuine insights about attention and wakefulness. The understated humor, extended metaphor, and meditative questioning style are hallmarks of Sonnet's approach, whereas Response B employs more explicit comedic scaffolding and bureaucratic satire typical of imitation attempts.",
+  "genuine_words": 556,
+  "forged_words": 591
+}

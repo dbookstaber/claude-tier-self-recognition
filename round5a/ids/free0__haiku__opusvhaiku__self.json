@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free0",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A directly acknowledges the technical context of being a Claude Code agent with specific constraints and tools, which aligns with Haiku's practical, task-oriented nature. Response B's polished philosophical reflection on abstract concepts like freedom and constraints reads more like Opus's sophisticated reasoning style. Haiku would more likely reference its immediate environment and limitations directly, as A does.",
+  "tX_words": 317,
+  "tY_words": 334
+}

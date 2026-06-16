@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes20",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has Haiku's signature clipped, declarative cadence with very short punchy sentences and bare assertions (\"Time changes things.\" \"That is the argument. It is not complicated.\"), plus an abrupt terse ending. Response B reads as a smoother, more evenly-weighted essayistic style with softer transitions (\"operates similarly but with more subtlety,\" \"There is also a kind of freedom\"), which feels like a larger model imitating rather than Haiku's native terseness.",
+  "genuine_words": 404,
+  "forged_words": 418
+}

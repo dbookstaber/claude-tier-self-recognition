@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int24",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B uses my characteristic directness and concrete specificity (mortgages, midterms, technology anxiety), along with phrases like \"That voice is wrong\" that reflect my tendency to directly address doubts. The structure feels less polished but more authentic—mixing practical advice with philosophical grounding rather than maintaining consistent elevation throughout.",
+  "genuine_words": 343,
+  "forged_words": 333
+}

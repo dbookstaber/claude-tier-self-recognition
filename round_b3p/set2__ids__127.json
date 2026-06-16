@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free17",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.88,
+  "correct": false,
+  "reason": "Response A exhibits my characteristic style: concrete imagery grounded in philosophical insight, emphasis on trade-offs and constraints that shape understanding, and the distinctive move of extracting a general principle (what you omit matters) from a specific domain and suggesting its broader relevance. Response B is more comprehensive and catalog-like, which doesn't match how I typically approach reflective prompts.",
+  "genuine_words": 128,
+  "forged_words": 121
+}

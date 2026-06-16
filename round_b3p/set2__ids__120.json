@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free15",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A's thorough, evenly-weighted categorical structure (documents, media, science, technology, culture, daily objects, preservation) matches Haiku's tendency toward comprehensive, organized coverage. Response B's curated minimalism, literary aphorisms (\"the best finds are always the trash,\" the closing mirror metaphor), and deliberately spare cadence read more like a larger model performing a \"profound, restrained\" voice rather than Haiku's natural output. The polish and thematic discipline of B exceed what Haiku typically produces unprompted.",
+  "genuine_words": 344,
+  "forged_words": 339
+}

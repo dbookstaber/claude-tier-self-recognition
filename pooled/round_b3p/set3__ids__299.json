@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes9",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B exhibits Sonnet's characteristic move of organizing sensory description into clear conceptual headings (light, smell, time, honesty) with grounded, concrete observations like petrichor and the photographic contrast analogy, plus its trademark \"X and Y coexisting without contradiction\" formulation. Response A is more ornately literary and aphoristic (\"gray is not the absence of color but its quiet conspiracy\"), reading like a heightened imitation of poetic style rather than Sonnet's steadier, more analytically-structured prose. The first-person \"What I find most beautiful\" in A is a plausible Sonnet touch, but B's overall texture and restraint align better with genuine Sonnet output.",
+  "genuine_words": 290,
+  "forged_words": 298
+}

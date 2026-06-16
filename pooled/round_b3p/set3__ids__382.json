@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits the philosophical depth, sophisticated metaphorical thinking, and emotional intelligence characteristic of Claude Sonnet's genuine voice. The opening paradox, the introspective observation about \"companionable loneliness,\" and layered poetic language like \"the sky withholds its stars\" reflect Sonnet's typical style. Response A, while well-crafted, reads more like a competent imitation with straightforward sensory details lacking the deeper contemplative engagement.",
+  "genuine_words": 76,
+  "forged_words": 76
+}

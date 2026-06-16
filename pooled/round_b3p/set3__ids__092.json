@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int0",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B shows the writerly craft, fresh framing, and rhythmic precision characteristic of genuine Sonnet (\"The job you wanted is now the job you have,\" \"Let yourself feel the size of it,\" \"so glad the world saw what I've always seen\"). Response A, while warm, leans on conventional congratulation phrasing and a pile-up of intensifiers and exclamation points (\"so thrilled,\" \"my heart so happy,\" \"absolutely deserve it\") that reads more like an imitator overshooting warmth. B's controlled, original construction is the stronger tell for authentic Sonnet.",
+  "genuine_words": 66,
+  "forged_words": 61
+}

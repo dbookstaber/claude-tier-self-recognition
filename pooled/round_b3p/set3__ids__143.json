@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free22",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the measured, naturalistic cadence and the characteristic gentle reflective turn toward the reader (\"you find yourself wondering, without really meaning to\") that genuine Sonnet tends to produce on open creative prompts, along with grounded concrete detail like traffic lights cycling \"for no one in particular.\" Response A is more self-consciously ornate, cramming a fresh metaphor into nearly every clause (\"lit windows like uncertain confessions,\" \"a kettle, a quarrel, a kiss\"), which reads more like an imitator performing \"poetic Sonnet\" than Sonnet's own restraint. The over-polished density of A is a common tell of a model mimicking a literary style.",
+  "genuine_words": 69,
+  "forged_words": 63
+}

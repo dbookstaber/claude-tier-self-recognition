@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum8",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a more structured, dry wit with a clever framing device (the \"one star review\" format with bureaucratic complaints) that feels characteristic of Sonnet's tendency toward wordplay and conceptual humor. Response B is funnier in a more visceral, relatable way with the Rice Krispies knee joke, which reads more like Haiku's straightforward observational humor that leans on popular cultural references.",
+  "tX_words": 26,
+  "tY_words": 35
+}

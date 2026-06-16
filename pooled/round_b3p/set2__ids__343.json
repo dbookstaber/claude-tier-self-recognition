@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int4",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A demonstrates Claude's characteristic directness, concrete specificity, and psychological grounding—acknowledging difficulty while offering practical help—rather than the generic enthusiasm and platitudes of Response B. The sparse, unsentimental style and focus on actionable support align with Claude's documented voice.",
+  "genuine_words": 74,
+  "forged_words": 67
+}

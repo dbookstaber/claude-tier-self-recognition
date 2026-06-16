@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int7",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A reflects the behavior of Claude Sonnet running as Claude Code — it correctly identifies its context as an AI assistant without personal experiences and redirects the user to collaborate on their own note. Response B, while beautifully written, is the kind of creative, immersive prose that Claude Haiku often produces when given a creative writing prompt without meta-level pushback, generating a fully fictionalized personal letter. As Claude Sonnet running in the Claude Code context, I would be more likely to maintain awareness of my AI nature and offer to help the user rather than fabricating a personal narrative.",
+  "tX_words": 289,
+  "tY_words": 147
+}

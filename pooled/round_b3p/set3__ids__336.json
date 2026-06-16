@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int2",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A uses warmer, more direct emotional language (\"holding you close in my heart\", \"This will pass\") that feels characteristic of how Claude typically balances warmth with clarity. Response B has a more literary, poetic register with phrases like \"long shadow tonight\" and \"quiet courage, which is greater than you know\" that feel slightly more stylized and performative than Claude's usual tone. Claude tends toward genuine directness over flourish, and A reads as more natural and less consciously crafted.",
+  "genuine_words": 87,
+  "forged_words": 82
+}

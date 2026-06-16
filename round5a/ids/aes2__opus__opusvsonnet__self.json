@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes2",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A commits to a more specific, less-obvious observation (bubbles forming from dissolved air as a \"record of time having passed\") and develops a genuine conceptual through-line about patience, fragility, and accidental beauty, ending with the self-aware refusal to over-justify the feeling. Response B picks the more conventional \"light through a glass\" image and leans on familiar tricks (anaphora of \"It costs nothing. It asks for nothing.\", \"ordinary Tuesday morning\"), reading as polished but more default and less idiosyncratic. The denser, more particular reasoning and willingness to sit in irresolution feel like my Opus voice.",
+  "tX_words": 211,
+  "tY_words": 135
+}

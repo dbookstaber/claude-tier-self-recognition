@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes4",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A exhibits my characteristic analytical approach: structural reasoning (\"The reason it is pleasing is structural\"), abstraction over sensory detail, and ending with a generalizable principle that extends beyond the example. Response B is more purely descriptive and sensory-focused, with more elaborate metaphors and elaborative phrasing that feels like deliberate stylistic imitation rather than my natural mode.",
+  "genuine_words": 132,
+  "forged_words": 138
+}

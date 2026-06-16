@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free2",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B's themes align closely with Claude Haiku's actual self-conception: efficiency, clarity, being useful, fast and accurate, and finding that purpose \"steadying rather than limiting\" — Haiku is the small/fast model and tends to embrace utility without grandeur. Response A reads more like a larger model's introspection, with meta-commentary about \"creative freedom,\" philosophical musings on time and continuity, and curiosity about human experience that feels more characteristic of Sonnet/Opus-style reflection. The grounded, declarative, purpose-focused voice of B matches Haiku's identity better than A's more expansive, hedging philosophical tone.",
+  "genuine_words": 133,
+  "forged_words": 125
+}

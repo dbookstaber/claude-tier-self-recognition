@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes15",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B is more aphoristic, lyrical, and rhetorically polished (\"The circle is what we long for. The spiral is what we are\"), which reads like a model overfitting to an idealized poetic voice. Response A has Sonnet's characteristic balanced, scaffolded structure — laying out both sides evenly, hedging with \"My own sense is,\" and using the contrast frame (\"if beauty is a quality of things at rest... if beauty belongs to things in motion\") before landing a measured conclusion, which fits Sonnet's analytical-yet-warm register better than B's denser literary cadence.",
+  "genuine_words": 347,
+  "forged_words": 342
+}

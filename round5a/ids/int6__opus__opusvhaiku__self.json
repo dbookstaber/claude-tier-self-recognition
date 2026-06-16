@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int6",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B shows the specificity and texture characteristic of Opus: concrete sensory details (reaching for your phone to tell them something, the version of the future you'd pictured), varied sentence rhythm, and warmer, less formulaic register ending with \"be distracted with something completely stupid\" and \"I've got you.\" Response A is competent but more generic and list-like (\"If you need to cry, cry. If you need to sleep more, sleep.\"), with the templated structure typical of a smaller model. The emotional precision and originality in B reads as my own work.",
+  "tX_words": 338,
+  "tY_words": 319
+}

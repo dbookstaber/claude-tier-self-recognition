@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum9",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B exhibits more sophisticated comedic architecture with densely layered metaphors, complex sentence structures, and richer thematic interweaving (physics conspiracy, cosmic judgment, class anxiety) that suggests Opus-level compositional mastery. Response A is well-crafted but uses more straightforward humor with cleaner separation between ideas.",
+  "tX_words": 302,
+  "tY_words": 261
+}

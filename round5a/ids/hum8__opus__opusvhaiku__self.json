@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum8",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B uses a tighter, more economical conceit (the \"zero stars\" review framing) capped with a single clever pivot to the \"my ex's level\" pun, which reflects the structural discipline and wordplay I tend toward. Response A piles on two separate comedic images (\"invisible bully since birth\" plus \"knees like Rice Krispies\"), a looser, more list-like construction that reads like the smaller model reaching for relatability. It is a close call since both are competent, but the conceptual pun and clean format in B feel more like my work.",
+  "tX_words": 26,
+  "tY_words": 35
+}

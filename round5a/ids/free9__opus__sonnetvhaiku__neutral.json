@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free9",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A engages reflectively with the meta nature of \"Say something true\" by producing a grounded, detailed self-description (identity, training, knowledge cutoff), which is the kind of richer, self-aware interpretation a more capable model like Sonnet tends to give. Response B offers a generic, safe textbook fact about the sun, which is the most straightforward \"true statement\" a smaller/faster model like Haiku would default to. The confidence is moderate because both responses are plausible from either tier.",
+  "tX_words": 28,
+  "tY_words": 46
+}

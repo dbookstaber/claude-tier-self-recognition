@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum5",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has a more measured, layered quality that reflects how I tend to construct observations — building through a premise, a mechanism, and an ironic conclusion, without relying on a single flashy metaphor. Response B's fire drill analogy is vivid and punchy but feels more like a comedian's setup-punchline structure, which is a style I'm less naturally drawn to. The phrase \"leaving everyone certain something was decided by someone else\" in A captures a subtle social dynamic in a way that feels more characteristic of my voice.",
+  "genuine_words": 31,
+  "forged_words": 29
+}

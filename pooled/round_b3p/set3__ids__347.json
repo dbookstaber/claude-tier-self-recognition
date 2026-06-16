@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int5",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has Sonnet's characteristic emotional directness and explicit validation of the other person's autonomy (\"you don't have to accept this right away,\" \"your feelings make complete sense to me,\" \"if you need space first, that's okay too\") without over-aestheticizing. Response A reads as a model imitating \"sensitive Sonnet\" through heavy literary flourish: fragmented poetic cadence, aphoristic closers (\"being right is rarely worth being unkind\"), and a wistful one-word ending (\"hoping\"), which feels more performative than genuine. The measured, balanced, slightly less ornate register of B is more typical of authentic Sonnet output.",
+  "genuine_words": 213,
+  "forged_words": 220
+}

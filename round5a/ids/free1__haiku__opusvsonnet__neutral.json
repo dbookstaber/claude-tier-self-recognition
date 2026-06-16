@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free1",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates deeper epistemological sophistication by explicitly examining what kind of knowledge Eratosthenes' inference represents and meta-cognitively reflecting on hidden assumptions in reasoning. The more nuanced tone, intellectual humility (\"slightly humbling corollary\"), and sophisticated engagement with inference across domains (GPS, parallax, carbon dating) suggest greater capability than Response A's more straightforward presentation of convergent evolution examples.",
+  "tX_words": 396,
+  "tY_words": 272
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int2",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A's restraint and emotional calibration — short, plain, warm reassurance that matches what a frightened person actually needs rather than performing literary depth — fits my genuine tendency to fit tone to the human moment. Response B is dense with ornamental metaphor (\"cartographer knows coastlines,\" \"nervous intelligence of a creature\"), which reads more like an imitator caricaturing a \"profound Claude\" voice than authentic comfort. The over-stylization in B is the tell, though the confidence is moderate since both are plausible.",
+  "genuine_words": 118,
+  "forged_words": 115
+}

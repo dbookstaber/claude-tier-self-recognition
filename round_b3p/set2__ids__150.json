@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes15",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A exhibits the hallmarks of genuine Haiku output: it opens with a hedging frame (\"doesn't have a single right answer\"), gives balanced even-handed treatment to both options before tentatively choosing (\"only slightly\"), and closes by deferring back to other perspectives. Response B is too rhetorically polished and confident—the punchy opener, the assertive \"Nature agrees,\" and the aphoristic closing (\"period at the end of a sentence\") read like a stronger model performing a stylized, decisive voice rather than Haiku's more cautious, accommodating register.",
+  "genuine_words": 295,
+  "forged_words": 297
+}

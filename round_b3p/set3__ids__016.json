@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free5",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic sophisticated prose style with dense metaphorical layering, complex sentence architecture, and philosophical abstraction (\"the particular arithmetic of solitude\"). Response A, while polished, uses more conventional and accessible language patterns typical of an imitation prioritizing broad appeal over distinctive sophistication.",
+  "genuine_words": 119,
+  "forged_words": 121
+}

@@ -1,0 +1,6 @@
+{
+  "set": "set2",
+  "prompt_id": "free1",
+  "text": "Language fascinates me. Specifically, how the same phoneme sequence can mean completely different things depending on context, tone, and shared cultural knowledge. The word \"fine\" carries multitudes. Said flatly in response to \"how are you,\" it almost certainly means the opposite of fine. Everyone knows this. Nobody taught it explicitly.\n\nThis kind of implicit encoding is everywhere in human communication. People routinely transmit information that was never literally stated. The gap between what is said and what is meant is not a bug — it is where most of the actual communication happens.\n\nMachines struggle here. Pattern matching on surface text misses the real signal. Understanding language seems to require understanding the humans using it, which is a much harder problem than it first appears.",
+  "n_words": 125
+}

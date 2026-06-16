@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes16",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response B's pencil answer has the structured, observational cadence characteristic of Sonnet: discrete concrete claims (\"it works at altitude, underwater with some modifications\"), the reflective-but-grounded asides (\"an honest accounting of its labor,\" \"a mild form of self-portrait\"), and a clean summarizing close. Response A is more uniformly lyrical and aphoristic (\"seem less invented than discovered\"), reading like a model deliberately performing poetic elegance rather than Sonnet's typical balance of warmth and matter-of-fact specificity. The pencil is also a more characteristically \"safe and sensible\" canonical pick for Sonnet, whereas the hook feels like a model reaching for a cleverer, less obvious answer to seem distinctive.",
+  "genuine_words": 172,
+  "forged_words": 159
+}

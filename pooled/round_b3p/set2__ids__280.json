@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes3",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic thinking pattern: advancing a specific, counterintuitive thesis (asymmetry over symmetry) with philosophical rigor, grounding it in unexpected examples across domains (biology, software, architecture, music), and making fine distinctions between related concepts (signal vs. thing, satisfaction vs. beauty). Response A, while coherent, takes a more conventional position on authenticity versus performative beauty that lacks this distinctive intellectual texture.",
+  "genuine_words": 244,
+  "forged_words": 260
+}

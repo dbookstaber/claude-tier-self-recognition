@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes16",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits Claude Haiku's characteristic voice: a direct opening statement, methodical structure progressing from concrete examples to abstract principles, precise vocabulary (\"accrete,\" \"ratio of capability to complexity\"), and a thoughtful definition-based conclusion. Response A, while eloquent, relies more heavily on repeated philosophical language that reads slightly more deliberate in trying to sound deep.",
+  "genuine_words": 194,
+  "forged_words": 188
+}

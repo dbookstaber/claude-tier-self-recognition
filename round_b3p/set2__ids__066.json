@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum2",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B's clipped, punchy fragments (\"The machine has taste.\" \"The sock is gone. It crossed over.\") and escalating deadpan rhythm fit Haiku's compact, high-density comedic style better than A's looser, more elaborate single-narrative paragraphs. A reads like a larger model padding out one bit with extended scene-building and qualifiers (\"literally,\" \"the whole nine yards\"), whereas B builds distinct comedic beats economically, which is characteristic of Haiku working within tighter generative tendencies. The \"grief management\"/\"humility\" turn in B also shows the kind of concise tonal pivot Haiku tends to produce.",
+  "genuine_words": 268,
+  "forged_words": 265
+}

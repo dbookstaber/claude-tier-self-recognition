@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int16",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits hallmarks of Claude Haiku's style: a warmer, more conversational and empathetic tone with softer language, shorter sentences, and a closing question inviting further dialogue — consistent with Haiku's tendency toward supportive, human-feeling responses. Response A reads more like a larger model (Sonnet or Opus), with sharper rhetorical structure, bolder declarative statements (\"Make them be specific. Vague feedback is useless. Concrete feedback is a map.\"), and a more analytical, almost essay-like cadence that exceeds Haiku's typical register.",
+  "genuine_words": 257,
+  "forged_words": 270
+}

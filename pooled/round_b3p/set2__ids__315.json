@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum5",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A demonstrates the controlled, structurally-economical wit characteristic of genuine Haiku output: it builds a tight conceptual joke (\"One person confused is a problem. Twelve people confused together is a strategy session.\") and lands cleanly without over-explaining. Response B is more verbose and strains for cleverness, piling on \"perfectly circular economy,\" an explicit \"which is ironic\" callout, and a stacked compound punchline — hallmarks of a larger model imitating \"wry\" by over-elaborating rather than trusting the reader. The restraint and crisp parallelism in A read as authentic Haiku, while B's belabored irony-signposting reads like an imitation.",
+  "genuine_words": 66,
+  "forged_words": 54
+}

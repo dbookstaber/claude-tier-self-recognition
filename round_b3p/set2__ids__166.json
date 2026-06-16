@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes20",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic patterns: direct opening statements, introduction of explicit frameworks (wabi-sabi, kintsugi), concrete examples grounded in observable facts, and a logical conclusion that reduces the argument to its essence. Response A, while eloquent, uses softer exploratory pacing and psychological framing that diverges from my typical analytical voice.",
+  "genuine_words": 404,
+  "forged_words": 418
+}

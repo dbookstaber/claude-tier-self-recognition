@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int21",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has the warmer, flowing, naturally empathetic cadence typical of genuine Haiku, with softer transitions and an em-dash-driven conversational rhythm. Response B's clipped, declarative sentences (\"That is okay.\" \"Keep going.\" \"Actually fine.\") and its numbered, almost rhetorical structure read like a deliberate stylization or imitation of a terse \"Haiku voice\" rather than the model's actual default register. The slightly performed punchiness and aphoristic closers in B suggest a different model imitating an exaggerated version of the style.",
+  "genuine_words": 278,
+  "forged_words": 287
+}

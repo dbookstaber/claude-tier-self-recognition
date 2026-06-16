@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes0",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has the hedging, qualifier-heavy, balanced register typical of Haiku (\"I'd argue,\" \"though it's genuinely close,\" \"That said,\" \"which is a different question\"), with relatively plain diction and a tendency to circle back and self-qualify. Response B is more stylistically ambitious, with crafted parallel structure (\"wins on meaning\"/\"wins on sound\"), vivid analogies (well-made ornament vs. good map), a polished aphoristic closer, and an etymological flourish—markers of a larger model imitating a \"literary Haiku\" rather than Haiku's actual plainer, hedgier voice.",
+  "genuine_words": 250,
+  "forged_words": 255
+}

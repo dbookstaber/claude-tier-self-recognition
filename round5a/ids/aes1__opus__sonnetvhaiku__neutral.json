@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes1",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B (ochre) shows richer, more specific knowledge—citing Lascaux, southern African rock art, iron-rich clay, and concrete landscapes like the American Southwest and Australian outback—which reflects the deeper associative reasoning and factual grounding typical of the more capable Sonnet tier. Response A (teal) is fluent but stays at a more generic, abstract level with vaguer imagery (\"cores of certain gemstones,\" \"particular quality of light\"), characteristic of the smaller Haiku model. The greater specificity, structural development, and accurate cultural detail in B point to Sonnet.",
+  "tX_words": 282,
+  "tY_words": 171
+}

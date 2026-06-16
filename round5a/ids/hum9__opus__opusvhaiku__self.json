@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum9",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A sustains a single elevated conceit (cowardly bread, an ambitious butter, a score-keeping universe) with denser, more controlled prose and literary similes (\"the way salmon know the river,\" \"like a long-lost relative\"), which fits Opus's tighter, more layered comic voice. Response B is funny but leans on rapid-fire gag stacking, internet-style punchlines (\"Toast calls it 'Tuesday'\"), and a fake-fact register (Library of Alexandria, 1.3 rotations) that reads more like the brisk, list-driven style of a smaller model. The qualitative coherence and rhythm of A make it the more likely Opus output.",
+  "tX_words": 302,
+  "tY_words": 264
+}

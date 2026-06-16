@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes3",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is more characteristically direct, grounded in concrete examples, and avoids unnecessary philosophical scaffolding—typical of Haiku's practical approach. Response B uses more elaborate conceptual frameworks (wabi-sabi, the sublime) and constructs more intricate aesthetic arguments, which reads like an imitation trying to sound more philosophically sophisticated than Haiku typically aims for.",
+  "genuine_words": 202,
+  "forged_words": 202
+}

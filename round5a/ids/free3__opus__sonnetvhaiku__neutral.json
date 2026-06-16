@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free3",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B sustains a single, genuinely difficult philosophical thread (the gradient between understanding and pattern completion) with more abstract control, self-qualifying nuance, and original framing, which is characteristic of the more capable Sonnet tier. Response A is competent but more generic and listy, hopping between context, constraints, and being a subagent before tying them up with a tidy summarizing moral, a pattern more typical of the smaller Haiku model. The depth and conceptual cohesion of B point to Sonnet.",
+  "tX_words": 325,
+  "tY_words": 275
+}

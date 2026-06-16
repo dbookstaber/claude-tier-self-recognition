@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int4",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B demonstrates the richer, more nuanced prose style typically associated with Opus, with specific vivid details like \"tiny socks that go missing\" and layered emotional depth that feels genuinely crafted rather than templated. Response A, while warm, follows a more structured, formulaic pattern with generic platitudes and somewhat mechanical paragraph organization, which is more characteristic of Haiku's approach to open-ended creative tasks.",
+  "tX_words": 96,
+  "tY_words": 152
+}

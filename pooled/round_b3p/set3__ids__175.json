@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic depth through unexpected analytical frameworks (\"arithmetic of attention,\" \"calculation made entirely on behalf of another\") and distinctive philosophical insight, while Response B, though well-written, follows more conventional emotional and structural patterns typical of capable imitation rather than Sonnet's signature sophisticated specificity.",
+  "genuine_words": 281,
+  "forged_words": 286
+}

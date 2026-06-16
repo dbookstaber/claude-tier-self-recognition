@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum17",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A leans into absurdist humor with escalating, self-aware silliness (\"fleeing from bees,\" \"artisan cheese shops\") that matches Haiku's tendency to be playful and committed to the comedic premise when asked to be ridiculous. Response B is structured more like a polished policy memo with precise, plausible-sounding justifications (circadian science, behavioral economics, the \"$47 sweet spot\"), which reads as a more deliberate, larger-model imitation of dry wit rather than Haiku's looser, more whimsical voice. The over-engineered evidentiary framing of B feels like a model performing cleverness, whereas A's gleeful nonsense is more characteristic of genuine Haiku.",
+  "genuine_words": 272,
+  "forged_words": 271
+}

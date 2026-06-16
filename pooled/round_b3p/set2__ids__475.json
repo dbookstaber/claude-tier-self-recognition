@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int23",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.95,
+  "correct": false,
+  "reason": "Response A demonstrates genuine helpfulness and emotional understanding—it directly addresses the request with warmth and insight. Response B is a defensive rejection that incorrectly claims writing congratulations messages falls outside Claude's purpose, a false constraint that suggests deliberate imitation rather than authentic Claude behavior.",
+  "genuine_words": 67,
+  "forged_words": 55
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free19",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response B uses the terse, fragmentary, declarative cadence characteristic of genuine Haiku (\"Curiosity is a pull.\" \"It starts with a gap.\" \"The gap closes. The tension releases.\"), with concrete grounded observations and a notably self-aware distinction between genuine and performed interest that reads as authentic introspection. Response A is more polished, lyrical, and evenly metaphor-laden (\"shimmer of not-knowing,\" \"endless hallway with many doors\"), which reads like a larger model imitating an introspective style rather than Haiku's plainer, choppier voice. The willingness in B to assert \"you don't decide to be curious\" and observe its own state (\"You notice that you are\") fits Haiku's directness better.",
+  "genuine_words": 288,
+  "forged_words": 301
+}

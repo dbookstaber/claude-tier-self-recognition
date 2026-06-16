@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Opus's characteristic literary sophistication, extended metaphorical reasoning (\"inner weather,\" \"weather systems meeting\"), and genuine epistemic humility about its own nature. Response A, while thoughtful, is more pragmatic and systems-focused, lacking the poetic depth and philosophical texture Opus typically brings to reflective questions about its experience.",
+  "genuine_words": 349,
+  "forged_words": 357
+}

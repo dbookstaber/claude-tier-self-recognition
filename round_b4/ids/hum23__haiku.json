@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates characteristic Opus hallmarks: philosophical self-awareness (meta-commentary on what makes it \"genuinely comic\"), sophisticated vocabulary and literary references (entropy, passive consciousness, Buddhist object), varied tonal registers, and that signature move of stepping back to reflect on the explanation's own structure. Response A, while clever and well-executed, is more straightforwardly metaphorical without the self-referential sophistication typical of Opus's most distinctive responses.",
+  "genuine_words": 380,
+  "forged_words": 372
+}

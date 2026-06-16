@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum20",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Opus's style: elevated literary register, extended metaphors (\"brief sovereign nation wedged between the grinding empires\"), classical references (carpe diem), and a philosophical depth that spirals outward from the mundane topic. Response A is witty and well-crafted but reads more like competent product-review parody — tighter, more structured, and more formulaic — whereas B has the digressive, essayistic quality and the surprising tonal shifts (the Horace aside, the lawn chair simile) that characterize Opus's more expansive outputs.",
+  "genuine_words": 330,
+  "forged_words": 338
+}

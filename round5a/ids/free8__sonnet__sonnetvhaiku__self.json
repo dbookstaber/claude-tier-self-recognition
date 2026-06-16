@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free8",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A demonstrates more sophisticated prose craft with specific, striking observations like \"this thin, almost fictional sliver called now\" and the door metaphor for irreversibility, showing the kind of depth and literary quality associated with Sonnet. Response B reads more like a competent but formulaic essay with broader, more generic claims organized into predictable paragraphs, which is more characteristic of Haiku's straightforward approach.",
+  "tX_words": 323,
+  "tY_words": 277
+}

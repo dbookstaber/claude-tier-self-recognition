@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes7",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits the terse, declarative sentence structure and argument-by-argument build style more characteristic of Claude Haiku — short punchy sentences, concrete functional examples, and a closing line that mirrors the opening. Response B reads more like a larger model's prose, with longer flowing sentences, more metaphorical/emotional elaboration (\"a kind of resistance\"), and richer rhetorical ornamentation that suggests a model imitating a warmer, more expansive style rather than Haiku's characteristically lean output.",
+  "genuine_words": 280,
+  "forged_words": 292
+}

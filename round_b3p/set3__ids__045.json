@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes5",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A has a more distinctive literary voice with unconventional phrasing (\"beauty that lingers becomes wallpaper,\" \"a red so deep it seems lit from within\") and a self-aware, tentative conclusion that acknowledges the subjectivity of the preference. Response B reads more like a structured essay with enumerated points, conventional observations (referencing \"golden hour,\" mono no aware as named concepts), and a confident declarative tone that feels more like an imitation of analytical writing rather than genuine reflective prose. The playful, slightly self-deprecating ending of A (\"ask me again in spring, and I suspect I will have quietly, happily changed my mind\") is more characteristic of Claude's conversational style.",
+  "genuine_words": 342,
+  "forged_words": 340
+}

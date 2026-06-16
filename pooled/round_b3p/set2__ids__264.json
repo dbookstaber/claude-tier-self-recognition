@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free8",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response B has the plainer, declarative, short-sentence cadence and grounded, slightly austere voice characteristic of a smaller Haiku model (\"Time moves in one direction.\" / \"Nothing complicated needs to be said about this.\"), favoring concrete observations over flourish. Response A is more polished, balanced, and rhetorically elaborate (\"a current we ride rather than a tool we control\"), with the kind of sweeping, essayistic eloquence that reads like a larger model imitating reflective depth. The deliberate simplicity and self-aware brevity of B fit Haiku's actual register better than A's ornate symmetry.",
+  "genuine_words": 248,
+  "forged_words": 261
+}

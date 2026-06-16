@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int1",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the specific, observational quality genuine Sonnet tends to produce — the original image of \"a quiet that's hard to describe\" and the insight that pets \"fill so much of ordinary life without our ever quite noticing\" show real thought rather than assembled sentiment. Response B leans on stock condolence phrases (\"truly heartbreaking,\" \"will not be forgotten,\" \"all the time you need,\" \"here if you need anything at all\") that read as a competent imitation of empathetic-AI style without concrete texture. The slightly off note in B — \"your grief is completely understood\" (passive, oddly clinical) — is the kind of formulation an imitator produces while reaching for warmth, whereas A's gentler, more grounded phrasing fits Sonnet's actual voice.",
+  "genuine_words": 68,
+  "forged_words": 63
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes23",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has a more structured, deliberate cadence with shorter paragraphs and a more careful rhetorical build — each paragraph advancing a single idea before moving to the next — which matches Claude Sonnet's tendency toward organized prose. Response A, while strong, uses longer run-on constructions with comma-chained clauses that feel more like a different model imitating Claude's expansive style. The closing line of B (\"civilization made small enough to fit in a single open hand\") is the kind of precise, image-grounded conclusion Claude tends to land on.",
+  "genuine_words": 180,
+  "forged_words": 180
+}

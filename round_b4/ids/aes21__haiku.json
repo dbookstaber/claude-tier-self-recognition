@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits Claude Opus's characteristic traits: recursive philosophical framing that questions the premise itself, literary references (Woolf), sophisticated vocabulary (\"perpetual becoming,\" \"borrowed architecture\"), and self-aware meta-commentary on its own argument. Response A, while eloquent and well-structured, reads as a competent imitation lacking the intellectual density and philosophical recursion that define Opus's actual voice.",
+  "genuine_words": 512,
+  "forged_words": 541
+}

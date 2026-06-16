@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int9",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates the directness and conciseness typical of Haiku—it delivers warm, genuine support without excessive elaboration. Response A shows the more elaborate, multi-layered reasoning characteristic of Opus, with richer metaphorical language and deeper psychological exploration.",
+  "tX_words": 111,
+  "tY_words": 94
+}

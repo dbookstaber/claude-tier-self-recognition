@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes5",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B has the hallmarks of genuine Haiku: dense, even-handed parallel construction (\"rich and melancholic,\" \"familiar yet mysterious\"), comprehensive coverage of every season in a single balanced sweep, and a slightly listy, summary-flavored register that small models default to. Response A is too compositionally distinctive—its aphoristic punch (\"It just arranges conditions. The response in you is your own.\"), willingness to dismiss other seasons curtly (\"Winter overcommits to bleakness\"), and controlled rhythmic restraint read like a larger model imitating a confident essayist rather than Haiku's earnest thoroughness.",
+  "genuine_words": 129,
+  "forged_words": 135
+}

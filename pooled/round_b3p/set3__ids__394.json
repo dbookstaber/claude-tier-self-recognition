@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic philosophical depth, literary sensibility, and ability to layer abstract reasoning with poetic language. The reference to Archimedes, meditation on trade-offs and balance, emphasis on what tools teach, and phrases like \"quiet grandeur\" and \"absurd and entirely true\" align with Sonnet's known voice, while Response A reads more like a competent but less philosophically nuanced explanation.",
+  "genuine_words": 278,
+  "forged_words": 298
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum8",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B uses a punchy, listicle-style format with \"zero stars, would not recommend\" that aligns with Claude Haiku's tendency toward concise, structured humor with a clear comedic device. Response A, while funny, reads more like a verbose extended metaphor that feels more characteristic of a larger model trying to pack in extra flourish. The brevity and snappy rhythm of B fits Haiku's lighter, more economical output style.",
+  "genuine_words": 31,
+  "forged_words": 25
+}

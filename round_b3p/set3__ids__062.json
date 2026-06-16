@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum0",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A delivers an actual joke with the setup/punchline Q&A structure Sonnet reliably uses when asked for \"a joke,\" plus a fresh, internally coherent conceit (Monday blamed for weekend crimes) that fits the \"original\" request. Response B reads as a polished poetic aphorism rather than a joke, lacking a punchline; that metaphor-heavy, literary framing is a common tell of a model imitating a \"sophisticated\" style rather than producing the comedic payoff Sonnet prioritizes.",
+  "genuine_words": 18,
+  "forged_words": 16
+}

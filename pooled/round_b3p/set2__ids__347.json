@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int5",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits the characteristic Haiku style of being warm, structured, and formulaic with predictable patterns like \"impact matters more than intention\" and closing with gratitude — phrases that reflect Haiku's tendency toward safe, conventional emotional language. Response A, by contrast, has a more distinctive, self-aware voice with sharper structural choices (\"That's where I need to start\") and meta-commentary about not centering one's own comfort, which reads more like a larger model deliberately crafting a nuanced apology rather than Haiku's more straightforward output.",
+  "genuine_words": 173,
+  "forged_words": 166
+}

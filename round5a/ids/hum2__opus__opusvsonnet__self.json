@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum2",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A shows more inventive, layered comic escalation with original conceits (the \"Lint Tax\" as a greedy government, the sock as a naive wormhole traveler, the avocado-sock folk hero, the witness sock \"remembering nothing\"), denser figurative language, and a sharper structural payoff per paragraph. Response B is funny and coherent but leans on more conventional, widely-circulated bits (black-market exchange, sock sentience, the sock reappearing only after you toss its partner), reading like the safer, mid-tier take. The richer metaphorical density and willingness to commit to absurd through-lines mark A as the Opus piece.",
+  "tX_words": 321,
+  "tY_words": 290
+}

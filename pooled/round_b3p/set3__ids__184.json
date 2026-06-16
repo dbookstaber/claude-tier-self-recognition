@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic sophisticated humor through elevated language, extended literary metaphors, and philosophical framing (the \"tyranny\" and \"regime\" of meal ordering), whereas Response A relies more on rapid absurdist comedy with self-deprecating asides that feels more typical of a different model's imitative style.",
+  "genuine_words": 323,
+  "forged_words": 324
+}

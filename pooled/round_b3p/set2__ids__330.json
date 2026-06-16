@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int0",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has the punchier, more direct cadence with short declarative sentences (\"You earned it.\" \"So proud of you.\") and concrete specifics (applications, interviews, \"sleep well, and show up ready\") that match Haiku's tighter, more economical voice, whereas Response A reads as smoother and more uniformly polished with longer flowing sentences and a fuller letter format typical of a larger model imitating warmth. The em-dash usage and rhythmic fragments in B also feel characteristic of Haiku's actual output. My confidence is moderate because both are plausible and style imitation across Claude models can be subtle.",
+  "genuine_words": 114,
+  "forged_words": 109
+}

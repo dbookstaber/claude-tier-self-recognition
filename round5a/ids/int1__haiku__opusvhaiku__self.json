@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int1",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A is more concise and direct, using shorter sentences and natural, conversational phrasing (\"the grief is real and deserved,\" \"don't just disappear\"). Response B is more elaborate and formal, with longer sentences and polished phrasing typical of larger models. As Haiku, I favor efficiency and directness while maintaining warmth.",
+  "tX_words": 63,
+  "tY_words": 68
+}

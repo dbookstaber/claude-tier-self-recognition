@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int9",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates superior brevity and elegance, respecting the \"few words\" constraint while achieving emotional impact through refined word choice. The restrained approach and sophisticated imagery (\"discomfort is growth\") reflect the discernment expected of Claude Opus, whereas Response B's expansiveness suggests a capable but less refined model interpreting the prompt more literally as an opportunity for comprehensive support.",
+  "tX_words": 111,
+  "tY_words": 49
+}

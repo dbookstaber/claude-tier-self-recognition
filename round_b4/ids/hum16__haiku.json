@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum16",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Opus's characteristic intellectual sophistication, philosophical frameworks, and tendency to elevate prompts with genuine substance—the references to Protestant theology, actuarial concepts, and the meditative tone on mortality reflect Opus's voice. Response B, while functionally humorous with accessible wit, reads more like a deliberate attempt to match expected \"funny\" conventions (courtroom format, \"Big Vegetable\") that feel less naturally Opus-like.",
+  "genuine_words": 272,
+  "forged_words": 276
+}

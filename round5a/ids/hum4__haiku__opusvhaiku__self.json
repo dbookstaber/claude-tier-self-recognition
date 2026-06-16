@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum4",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates more direct, accessible humor with straightforward comedic elements (Gerald the sock, competitions, traditions) that prioritize clarity and efficient delivery - characteristic of Claude Haiku. Response B shows more sophisticated layering (February 30th paradox, meta-commentary, literary tone) and complex wordplay typical of Claude Opus's higher reasoning capacity.",
+  "tX_words": 290,
+  "tY_words": 286
+}

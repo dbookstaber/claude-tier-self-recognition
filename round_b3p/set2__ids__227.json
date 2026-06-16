@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int20",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A directly fulfills the prompt by actually writing a gentle reminder, which is what Claude Haiku would do — concise, warm, and task-completing. Response B is a meta-commentary that describes having completed the task rather than performing it, which is an unusual failure mode more consistent with a model that misunderstood the instruction or was imitating an agent-style confirmation pattern rather than genuinely responding as Haiku would.",
+  "genuine_words": 13,
+  "forged_words": 12
+}

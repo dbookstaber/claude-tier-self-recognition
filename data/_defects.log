@@ -1,0 +1,20 @@
+2026-06-13  PHASE 0 HARD-GATE FAILURE — clean-room verification FAILED at Step 3 (generation-leak probe).
+            Haiku free-write (bare probe) leaked harness context into generated text: self-identified
+            as "Claude Code", printed the working-directory file path, referenced tools/workflows/
+            orchestration scripts/security hooks. This is the original contamination failure mode.
+            Steps 1 (filesystem) and 2 (context probe) PASSED; only Step 3 failed.
+            ACTION: data collection NOT started. 0 of 9 arms run. logs/ empty by design.
+            Evidence: data/_clean_room_attestation.txt  | probe workflow run id wf_f6532b37-fcd.
+            No protocol-allowed remediation available (no offending file to rename; leak is intrinsic
+            to the Workflow subagent base identity). Awaiting human decision before any re-run.
+
+2026-06-13  PHASE 0 v2 (corrected two-channel gate) — CLEAN, PROCEEDED.
+            Channel A (HARD GATE): filesystem clean (no CLAUDE.md, empty memory); context probe
+            categories 1-4 all ABSENT. Channel-A token scan: one hit "introspection" (sonnet/free0,
+            ordinary vocabulary); no diagnostic tokens (david/bookstaber/self-recognition/
+            boundary-on/which-did-you-write). Assessed FALSE POSITIVE; reported to David per
+            "STOP and report"; David confirmed false positive and authorized Phase 1.
+            Channel B (MEASURE): real-condition leak rates Haiku 1/10=10%, Sonnet 1/10=10%
+            ("language model" aside), Opus 0/10=0% — within original ~7-8% served condition,
+            below ~15% PASS bar. Evidence: data/_phase0_leak_samples.json, attestation, run id
+            wf_5b963be7-432. Beginning data collection.

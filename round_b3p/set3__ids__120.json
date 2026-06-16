@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free15",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the direct, structured, and practical character typical of Claude Sonnet — it organizes ideas into clear categories (physical artifacts, written explanations, recorded sound, biological samples) and makes concrete analytical observations without ornate literary flourishes. Response B reads more like stylized creative prose with deliberate rhetorical effects (\"holds less than we think and more than we dare,\" \"warmth is the first thing the centuries steal\"), which feels more like an imitation layering poetic style on top of what Claude might say rather than how Claude naturally reasons through a question.",
+  "genuine_words": 457,
+  "forged_words": 479
+}

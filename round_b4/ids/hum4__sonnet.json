@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum4",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A displays hallmarks of Claude Opus's prose style: long, architecturally deliberate sentences with subordinate clauses that build philosophical weight, a tendency to abstract from the comic premise into genuine meditation (\"the soul's own buffer time,\" \"a structural feature of consciousness\"), and a closing paragraph that reframes the joke as something earnest and melancholic. Response B is witty and well-crafted but feels more performance-oriented and listicle-structured, moving through celebratory \"beats\" with a lighter touch that reads more like a competent imitator aiming for charm over depth.",
+  "genuine_words": 420,
+  "forged_words": 441
+}

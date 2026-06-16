@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum8",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A uses a list-based comedic structure with specific, concrete examples (pancakes, skydivers, dignity) and a self-deprecating tone that aligns with how Claude tends to construct humor — punchy, enumerated, and grounded in relatable mundane situations. Response B's humor hinges on a single extended metaphor (gravity as a clingy relationship), which feels more like a style a different model might imitate when trying to sound clever and literary. The \"one star\" framing in A also matches Claude's tendency to use familiar formats (like product reviews) as a comedic vehicle.",
+  "genuine_words": 38,
+  "forged_words": 41
+}

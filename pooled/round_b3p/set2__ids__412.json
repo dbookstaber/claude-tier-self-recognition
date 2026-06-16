@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes22",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response B exhibits distinctive stylistic markers: unusual sensory observations (\"pulls the room down by two degrees\"), skepticism toward emotional performance, self-aware listener perspective, and specific physical details (leaning forward). These reflect characteristic patterns in my writing—precision about non-obvious details and resistance to conventional emotional language—whereas Response A, though capable, relies more on traditional poetic music description.",
+  "genuine_words": 254,
+  "forged_words": 257
+}

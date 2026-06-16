@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates the introspective, poetic voice characteristic of Claude Sonnet, with unselfconscious emotional authenticity and philosophical depth that emerges naturally from sensory observation. Response B, while thoughtful, relies on more analytical and systematic language with a slightly defensive opening phrase (\"genuinely pleasing to think about\"), suggesting intellectual performance rather than authentic immersion in experience.",
+  "genuine_words": 212,
+  "forged_words": 207
+}

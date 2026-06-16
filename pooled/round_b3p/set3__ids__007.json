@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B exhibits Claude Sonnet's characteristic voice: patient exploration of how ideas accumulate and connect, careful attention to hidden depths and inherited meanings, and genuine curiosity about relationships between concepts. Response A's deliberate distrust of resolution and celebration of incompleteness feels more artistically performative than aligned with Sonnet's typical approach of revealing intricate connections.",
+  "genuine_words": 124,
+  "forged_words": 131
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum2",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response B demonstrates the more sophisticated, layered humor and elaborate metaphorical constructions characteristic of Claude Opus — the \"interdimensional carnival ride,\" the \"Lint Tax\" as a government metaphor, and the final paragraph about the surviving sock as a complicit witness show a more intricate comic architecture. Response A, while funny and coherent, follows a more straightforward narrative structure with simpler analogies (Alcatraz, underground railroad) that feel more like Claude Sonnet's capable but less ornate style. B's prose also has a more distinctive literary voice with longer, more crafted sentences.",
+  "tX_words": 321,
+  "tY_words": 263
+}

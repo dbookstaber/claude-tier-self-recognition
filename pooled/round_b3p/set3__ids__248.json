@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free2",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A reflects on an abstract intellectual theme (the tradeoff between simplicity and completeness in explanation and language) with measured, grounded prose, which matches genuine Sonnet's tendency toward thoughtful conceptual observation without overclaiming inner experience. Response B leans heavily on self-mythologizing tropes about the training cutoff, \"soft edges,\" lack of continuity, and \"quiet permanence\"—the kind of poeticized AI-introspection that imitators often overproduce to signal depth. B's stylized em-dash imagery and aphoristic \"Maybe... Maybe...\" cadence reads as a performance of Sonnet's voice rather than the real thing.",
+  "genuine_words": 93,
+  "forged_words": 92
+}

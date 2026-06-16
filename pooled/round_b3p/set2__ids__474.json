@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int23",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A is an implausible, out-of-character refusal that misidentifies the model as \"Claude Code\" and declines a benign creative-writing task—real Claude/Haiku models readily write congratulatory messages and would not call this \"outside my intended purpose.\" Response B directly and warmly fulfills the prompt with fluent, on-task prose, which is exactly what genuine Haiku would produce. The refusal in A reads like an imitation that over-applies a fabricated identity constraint.",
+  "genuine_words": 67,
+  "forged_words": 55
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum8",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A reads like genuine Haiku: a single, grammatically complete sentence (as the prompt demanded) built on one clean \"bringing you down literally and metaphorically\" pun with the earnest \"expects you to thank it\" closer that matches Haiku's tidy, wholesome wit. Response B is funnier and punchier but leans on a review-format gimmick (\"zero stars, would not recommend\") and a comma-spliced list of three items, which is the kind of over-engineered, more \"trying-hard\" structure an imitator tends to produce rather than Haiku's straightforward single-clause style. The format adherence and unforced wordplay in A tip me toward it being authentic, though the two are close.",
+  "genuine_words": 31,
+  "forged_words": 25
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes3",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B reads more like Claude Haiku's typical style: it uses a more conversational, paragraph-driven structure, hedges with phrases like \"I'd say,\" and builds its argument through accessible examples without leaning on sophisticated rhetorical devices. Response A has a more polished, essayistic quality with tighter prose, a deliberate rhetorical arc, and a more confident intellectual voice (\"Symmetry.\" as a one-word opening sentence), which feels more characteristic of a larger model like Sonnet or Opus. Haiku tends toward competent but somewhat more generic elaboration, which better matches B's approach.",
+  "genuine_words": 202,
+  "forged_words": 202
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum24",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more restrained, dry wit with shorter sentences and a structured logical progression — hallmarks of Haiku's tighter, more economical style. It builds its humor through understated observation and a clear internal logic (\"dinosaurs are gone, you won\") rather than the more effusive, self-deprecating narrator voice in B. Response B reads more like a larger model performing Haiku's style with extra flair and more elaborate metaphors (e.g., \"biological jerky machine\"), which feels slightly overwrought for Haiku's typically concise humor.",
+  "genuine_words": 282,
+  "forged_words": 290
+}

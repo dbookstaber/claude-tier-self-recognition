@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes8",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B has the hallmarks of Claude Haiku's style: short punchy sentences, minimalist paragraph structure, and a grounded observation that builds to a clean philosophical close (\"Most genuinely delightful things are.\"). Response A reads more like a larger Claude model (Sonnet/Opus) with its longer, more hedged prose, explicit \"I should be honest\" framing, and multi-paragraph analytical structure that feels over-explained for Haiku's typically terse voice.",
+  "genuine_words": 178,
+  "forged_words": 180
+}

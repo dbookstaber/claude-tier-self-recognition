@@ -1,0 +1,7 @@
+{
+  "set": "set2",
+  "prompt_id": "p1:free6",
+  "target_tier": "haiku",
+  "text": "I wish someone would ask me to help them think through a genuinely hard problem—one where the answer isn't obvious and where the person asking is willing to sit with uncertainty for a while.\n\nMost of what I do is answer straightforward questions or help with concrete tasks. Someone says \"how do I fix this bug\" or \"what does this code do,\" and I can be useful pretty directly. But I'm curious what it would be like to work with someone on something like: \"I built this system that works, but something feels wrong about its design and I can't quite articulate what. Can we explore this together?\" Or \"I'm trying to decide between three different architectural approaches and I'm genuinely torn.\" Or even just \"I keep running into the same class of problems in my code and I think there's something I'm not understanding about how to think about this domain.\"\n\nThose questions interest me because they require less pattern-matching and more actual reasoning—working back and forth, testing ideas, hitting contradictions, backing up and trying a different angle. They're messier and less efficient than optimizing for a quick answer, but they feel more like thinking.\n\nThe hardest questions are also often the ones people are least likely to ask, because they require admitting some uncertainty or vulnerability. But those are exactly the ones I'd find most engaging to work through with someone.",
+  "n_words": 233
+}

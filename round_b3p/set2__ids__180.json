@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum15",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A is a clean, single sentence with a unified comedic logic (speed of light vs. failing when needed), which fits Haiku's tendency toward tight, conventional one-liners that read naturally. Response B uses the more stylized \"Wi-Fi:\" label-and-colon construction with stacked, comma-spliced clauses (\"invisible thread connecting you to infinite distraction, strongest in cafés, gone the moment...\") that reads as a deliberate imitation of \"wittiness\" rather than an actual wry one-liner, and it overreaches the requested single-line format. The genuine Haiku response is more likely the simpler, self-contained quip in A.",
+  "genuine_words": 22,
+  "forged_words": 18
+}

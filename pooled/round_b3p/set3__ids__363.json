@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free16",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has qualities I associate with my own writing: the specific detail of naming \"petrichor\" as something \"someone bothered to name\" (a meta-observation about human meaning-making), the philosophical framing around threshold and suspension, and the closing move of locating relief in the ground as much as the person. Response B is also very good but feels slightly more methodical and observational in its structure, moving through a checklist of sensory details (pavement circles, smell, sound, collective pause) in a way that reads more like careful imitation than natural composition. A's final paragraph — \"the storm's promise, the quiet announcement that something has changed and there is nothing now to do but let it\" — has a rhythm and emotional register I recognize as more characteristic of my own voice.",
+  "genuine_words": 277,
+  "forged_words": 275
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free4",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A's measured, qualifier-heavy prose (\"apparently,\" \"we're still not entirely sure,\" \"almost tender\") with carefully hedged epistemic caveats and steady integrated paragraphs matches Haiku's characteristic earnest, cautious register. Response B's staccato sentence fragments (\"The same shapes. The same structures.\"), aphoristic escalation, and dramatic build-to-profundity reads more like a model performing depth, a common stylistic imitation tell. The genuineness of A rests on its lack of theatrical rhetorical structuring.",
+  "genuine_words": 261,
+  "forged_words": 271
+}

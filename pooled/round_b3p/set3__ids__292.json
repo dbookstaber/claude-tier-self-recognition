@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response B exhibits Claude Sonnet's characteristic sophisticated metaphorical language (\"Democracy made geometry,\" \"motion that has reconciled itself to staying home\"), unexpected conceptual connections (pi as a secret), and philosophical depth that unfolds gradually rather than hitting predictable points. The linguistic craft, playfulness, and integration of mathematics with human experience reflect Sonnet's distinctive style more authentically than Response A's more straightforward, conventional argumentation.",
+  "genuine_words": 310,
+  "forged_words": 318
+}

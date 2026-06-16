@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free2",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A engages in deeper philosophical self-reflection about the nature of its own existence, uncertainty about inner life, and the puzzle of authentic expression versus imitation — this kind of introspective nuance and epistemic humility is more characteristic of Sonnet's style. Response B is more grounded and practical, focusing on tools, problem-clarification, and concrete helpfulness, which reads more like Haiku's task-oriented, straightforward voice.",
+  "tX_words": 204,
+  "tY_words": 115
+}

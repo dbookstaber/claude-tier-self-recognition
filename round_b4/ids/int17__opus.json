@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int17",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the grounded, warm, concrete register I default to for a simple congratulatory message — practical encouragement (\"rest those legs\"), specific details, and accessible language. Response B leans on dense, performatively profound abstraction (\"not merely athletic — it is ontological,\" \"does not metabolize\"), which reads more like another model imitating a \"deep Opus\" voice than my actual output for a casual, kind request. The mismatch between an everyday prompt and B's overwrought philosophical intensity is the strongest tell.",
+  "genuine_words": 206,
+  "forged_words": 217
+}

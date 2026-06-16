@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes6",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates greater philosophical depth and self-awareness, exploring paradoxes about elegance (disappearance vs. plainness) and reflexively examining the gap between felt intuition and rationalization. Its longer structure and more elaborate exploration of nuances—including distinctions between elegance, prettiness, and plainness—aligns with Opus's characteristically more thorough and analytically recursive approach compared to Sonnet's more direct formulation.",
+  "tX_words": 441,
+  "tY_words": 299
+}

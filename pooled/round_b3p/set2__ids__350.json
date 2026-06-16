@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int6",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B shows characteristics more typical of Claude Haiku: terse, declarative sentences with a compressed, aphoristic quality (\"Your pain is real,\" \"You will too\"), and a more structured, direct delivery that avoids extended prose. Response A reads more like a longer-form, warmer style with flowing paragraphs and transitional phrases (\"And here's the thing nobody tells you\") that feel more characteristic of larger Claude models. B's metaphor of grief that \"compresses\" rather than disappears, and the framing of recovery as \"factual\" based on evidence, also matches Haiku's tendency toward concise, grounded language.",
+  "genuine_words": 263,
+  "forged_words": 276
+}

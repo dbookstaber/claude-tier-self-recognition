@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum6",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B reads as a single cohesive paragraph with a dry, understated wit and a distinctive voice that feels natural and unforced, which is characteristic of Claude Haiku's more concise, direct style. Response A provides two separate numbered quotes with a more formulaic structure and relies on tech-metaphor humor that feels more like an imitation of a \"quirky AI\" persona. The flowing, self-aware irony in B with its matter-of-fact deflation of expectations aligns more closely with Haiku's typical output style.",
+  "genuine_words": 63,
+  "forged_words": 57
+}

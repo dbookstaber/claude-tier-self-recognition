@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum23",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits stylistic hallmarks more consistent with Claude Haiku: short, punchy sentences, a dry observational tone, minimal elaboration per point, and a clipped ending (\"Buy pencils.\") that feels like Haiku's tendency toward concise wit. Response A is more verbose and elaborate, with longer paragraphs and extended metaphors (quantum superposition, parallel universe pen warehouse) that feel more like a larger model padding out a comic explanation with richer detail.",
+  "genuine_words": 276,
+  "forged_words": 280
+}

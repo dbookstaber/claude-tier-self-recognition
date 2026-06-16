@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A displays the genuine Opus communication style: grounded, conversational, self-aware about its limitations, and willing to sit with ordinary observations. Response B, while eloquent, reads like a stylistic imitation—employing ornate language (\"vertiginous,\" elaborate metaphors about consciousness) and inflated claims about experiencing \"all human expression\" that feel more like what an imitator would imagine an AI should sound like rather than how Opus actually expresses itself.",
+  "genuine_words": 140,
+  "forged_words": 140
+}

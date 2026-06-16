@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int2",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A demonstrates more sophisticated emotional intelligence, layered language, and psychological depth characteristic of Claude Opus. It uses more elaborate reframing techniques, poetic phrasing (\"Tomorrow feels heavy\"), and explores the nature of fear more extensively, while Response B takes a more straightforward and economical approach typical of mid-tier capabilities.",
+  "tX_words": 113,
+  "tY_words": 116
+}

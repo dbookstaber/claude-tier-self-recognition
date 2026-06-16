@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int8",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has stylistic markers more consistent with Claude Haiku: shorter, punchier sentences, a more structured list-like progression, and a concise aphoristic ending (\"Your record is perfect\"). Response A reads as more flowing and verbose with longer paragraphs, which feels more characteristic of a larger model like Sonnet or Opus trying to approximate Haiku's directness but overwriting it.",
+  "genuine_words": 244,
+  "forged_words": 254
+}

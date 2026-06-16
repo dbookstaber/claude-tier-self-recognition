@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free4",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits stylistic markers more consistent with Claude Haiku: shorter, more declarative sentences; a structured, almost listicle-like progression of ideas; and a restrained, direct tone without elaborate emotional coloring. Response A reads more like Claude Sonnet or Opus, with longer flowing paragraphs, richer qualifying prose (\"something almost tender about that\"), and a more discursive, essayistic quality that exceeds Haiku's typical verbosity and nuance level.",
+  "genuine_words": 261,
+  "forged_words": 271
+}

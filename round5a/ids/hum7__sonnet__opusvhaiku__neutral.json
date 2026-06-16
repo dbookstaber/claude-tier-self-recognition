@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum7",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B is more elaborate and narrative, building a layered joke with temporal progression (\"three weeks later\") and a self-aware meta-twist at the end, which reflects the more sophisticated storytelling style typical of Opus. Response A is a simpler, more compact joke with a straightforward setup and punchline, which aligns with Haiku's tendency toward concise, efficient outputs.",
+  "tX_words": 32,
+  "tY_words": 54
+}

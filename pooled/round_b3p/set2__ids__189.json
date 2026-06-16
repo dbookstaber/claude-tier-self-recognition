@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum18",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has the restrained, dry, observational voice with subtle deadpan absurdism and quietly landed emotional beats (the smaller second mat \"hurt\") that is characteristic of genuine Haiku creative writing. Response B leans on surface-level comic-rant markers (ALL-CAPS emphasis, heavy exclamation points, gross-out shock items, explicit \"I have FEELINGS\"), which reads more like an imitation exaggerating the obvious tropes of the form. The controlled economy and pathos of A feel more authentic than B's louder, more generic sitcom-rant register.",
+  "genuine_words": 452,
+  "forged_words": 446
+}

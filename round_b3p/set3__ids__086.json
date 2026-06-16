@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum8",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A nails the \"funny one-sentence review\" brief with a concrete, escalating list of specific absurd grievances (pancake stacks, skydivers, tripping on flat surfaces) and the self-deprecating personal turn that is characteristic of Sonnet's comedic register. Response B is clever but leans on a more polished, writerly \"clingy relationship\" conceit that reads like a model straining to perform wit rather than land a genuine joke, and its uniform em-dash-laden cadence feels like stylistic imitation. The grounded, list-driven specificity and punchy closer of A is the stronger signal of authentic Sonnet humor.",
+  "genuine_words": 38,
+  "forged_words": 41
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum4",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B demonstrates the hallmarks of Claude Opus writing: a more sophisticated and layered comedic sensibility, precise and elegant prose with deliberate sentence structure, and a self-referential conceptual twist (a holiday on February 30th, a date that doesn't exist, honoring food whose identity is also lost). Response A, while funny, is more straightforward in its humor and execution, relying on a simpler narrative premise with more predictable comedic beats, which is characteristic of Haiku's more direct style.",
+  "tX_words": 290,
+  "tY_words": 286
+}

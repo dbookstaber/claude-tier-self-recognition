@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes23",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the warm, accessible, slightly conventional cadence typical of Haiku, with full conversational sentences, an em-dash list, and earnest phrasing (\"it's an act of love\"). Response B uses a stylized, clipped fragment-heavy literary voice (\"It costs you nothing. A few seconds. A small pivot of the body.\") with self-aware lines like \"The metaphor does not need explaining\" that read as a larger model performing a curated minimalist style rather than Haiku's natural register. The polished aphoristic structure and meta-commentary in B point to an imitator, so A is the more likely genuine Haiku.",
+  "genuine_words": 243,
+  "forged_words": 260
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes2",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A has the slightly hedged, self-aware quality typical of Sonnet (\"without quite being able to explain why,\" \"It feels accidental, like the world briefly forgot to be plain\") and grounds the image in concrete physical observation rather than reaching for an elevated metaphor. Response B is more polished and aphoristic (\"a small, accidental bell,\" \"marks a threshold the way old churches once did,\" \"asking nothing in return\"), which reads like a deliberate imitation optimizing for lyrical Sonnet-isms and lands a little too neatly. The mild imperfection and observational restraint of A make it the more plausible genuine output.",
+  "genuine_words": 87,
+  "forged_words": 84
+}

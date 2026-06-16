@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum7",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A is concise and punchy with an immediate callback structure, characteristic of Haiku's efficiency-focused design. Response B is more elaborate with extended narrative development, which aligns better with Opus's tendency toward more nuanced and detailed responses.",
+  "tX_words": 32,
+  "tY_words": 54
+}

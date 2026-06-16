@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes7",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is more concise and uses simpler, more direct language and phrasing typical of a smaller model, while Response B demonstrates more ornate prose, elaborate sentence structures, and verbose descriptions characteristic of a more capable mid-tier model like Sonnet.",
+  "tX_words": 379,
+  "tY_words": 265
+}

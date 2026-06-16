@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes3",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A reads as genuine Sonnet: it commits to a clear thesis (flawlessness/the immaculate), develops it through concrete sensory images (cracked glaze, weathered building, roughness in a voice), and uses the characteristic first-person reflective hedging (\"I have come to think,\" \"I suspect\") that builds an argument rather than cataloging points. Response B, while fluent, has a more listy, explanatory, almost essay-template structure (\"This is the beauty of...\", \"Compare that to...\", \"The overrated kind is also...\") and leans on meta-commentary about social validation, which reads like a model competently imitating thoughtfulness rather than the more organically associative, image-driven voice Sonnet tends to produce. The slightly mechanical paragraph scaffolding and the tidy summarizing final line in B tip it toward the imitator.",
+  "genuine_words": 316,
+  "forged_words": 317
+}

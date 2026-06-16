@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum20",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A shows the controlled literary craft genuine Sonnet tends toward: a sustained metaphor (the weekend as defective product / a trick of perspective), genuinely fresh images (\"time were a bird and not a thief\"), and a restrained, earned ending rather than a punchline. Response B leans on the more imitable \"AI humor\" tics—staccato fragments (\"Two days. Two.\"), sarcastic one-word sentences (\"Magnificent.\" \"Remarkable efficiency.\"), and a generic mock-review sign-off—which reads like a model performing Sonnet's wit rather than producing it. The tighter prose discipline and lack of formulaic snark point to A as the authentic Sonnet.",
+  "genuine_words": 288,
+  "forged_words": 283
+}

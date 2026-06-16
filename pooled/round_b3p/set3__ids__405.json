@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes20",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B feels more characteristic of my typical prose style: analytically grounded, building arguments through concrete examples with clear logical scaffolding, and ending with a crisp culminating insight (\"The first day is just the beginning\"). Response A reads as more florid and literary — particularly the closing extended metaphor about human aging as patina — which feels like an imitation leaning into poetic register. B's prose is cleaner and more direct in its argumentative moves, which aligns better with how I tend to construct essayistic responses.",
+  "genuine_words": 575,
+  "forged_words": 606
+}

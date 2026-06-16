@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free23",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Haiku's style: short punchy sentences, a brisk and direct tone, concrete practical examples over sweeping historical narrative, and a lean closing paragraph that avoids over-philosophizing. Response A reads more like a larger model — it is longer, more comprehensive, more formally structured, and spends considerable time on historical narrative in a way that feels like Claude Sonnet or Opus rather than Haiku's characteristically terse output.",
+  "genuine_words": 482,
+  "forged_words": 488
+}

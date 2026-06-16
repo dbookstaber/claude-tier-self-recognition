@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int21",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B exhibits stylistic patterns more consistent with Claude Haiku: shorter, more clipped sentences, a numbered list structure, and a terse directness (\"Keep going.\") that reflects Haiku's tendency toward concise, punchy outputs. Response A is longer, more flowing, and emotionally expansive in a way that feels more characteristic of Sonnet or Opus — Haiku tends to be more economical and structured rather than warmly discursive.",
+  "genuine_words": 278,
+  "forged_words": 287
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free1",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B grounds \"something interesting\" in a concrete, verifiable phenomenon (honeybee swarm decision-making) with specific mechanistic detail and a named researcher (Thomas Seeley), then draws a measured conceptual payoff — which matches my tendency to anchor wonder in substantive facts rather than sustained lyricism. Response A is florid and abstract throughout (\"explanatory sovereignty,\" \"frost ferns,\" \"the hidden meaning toward which all that matter was building\"), leaning on rhetorical grandeur and somewhat overreaching claims that read more like a stylistic imitation of \"depth\" than my actual voice. The combination of precise external grounding and restrained interpretive framing in B is the stronger tell.",
+  "genuine_words": 351,
+  "forged_words": 365
+}

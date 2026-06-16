@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free1",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B exhibits genuine Sonnet patterns: it chooses a concrete, verifiable concept (the coastline paradox), explains it with clear logical scaffolding, correctly attributes Mandelbrot, and closes with measured \"I like this because...\" reflection rather than performed lyricism. Response A is beautifully written but its relentless aphoristic density and reaching-for-profundity tone (\"handling wears things smooth,\" \"We remember in order to keep moving\") reads more like a model imitating a \"deep and poetic\" register than Sonnet's typically grounded, informative default. The literary polish without any concrete anchor is a common tell of stylistic imitation.",
+  "genuine_words": 256,
+  "forged_words": 255
+}

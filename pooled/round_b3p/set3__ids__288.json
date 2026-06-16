@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes6",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has a more characteristic Sonnet-era quality: it builds its argument through metaphor and concrete image rather than enumerated categories, and its prose style enacts the very qualities it describes (economy, rhythm, the \"snap shut\" short sentence). Response A feels more systematically organized into labeled sections (rhythm, then surprise/inevitability, then compression, then syntax), which reads more like a structured essay outline imposed on the topic rather than genuinely discovered prose. B's closing paragraph — \"effort that has erased its own traces\" — also demonstrates the self-aware restraint it names, which feels more like authentic Claude style than a performance of it.",
+  "genuine_words": 328,
+  "forged_words": 330
+}

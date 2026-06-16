@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes18",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A uses actual em dashes with surrounding spaces and short, punchy sentences with deliberate fragments (\"A breath, a lean-in moment\"), reflecting Haiku's tendency toward plainer, choppier prose, whereas Response B's dense, unbroken paragraph with elevated diction (\"architecturally elegant and functionally generous,\" \"the intellectual's punctuation mark\") reads like a larger model imitating polish. Notably, B uses closed-up em dashes (no surrounding spaces) consistently and a more ornate, hedging structure, which suggests a different model performing sophistication rather than Haiku's more economical voice.",
+  "genuine_words": 153,
+  "forged_words": 155
+}

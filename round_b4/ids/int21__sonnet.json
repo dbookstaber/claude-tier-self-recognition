@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int21",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's distinctive style: the use of a specific named philosopher (Gaston Bachelard) as an intellectual anchor, the construction of a central extended metaphor (\"roots being extended, not severed\"), and the characteristic move of reframing the emotional experience through precise, somewhat unusual language (\"the interval conceals from you\"). Response B, while warm and competent, reads more like a polished but generic comforting response — its advice is practical and well-organized but lacks the conceptual density and rhetorical risk-taking (calling homesickness \"almost sacred,\" the plant-light metaphor, the \"psychic architecture\" framing) that Opus tends toward.",
+  "genuine_words": 340,
+  "forged_words": 352
+}

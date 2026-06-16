@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int21",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has Sonnet's characteristic blend of warm validation, plain-spoken explanation (\"Home is where your nervous system learned to relax\"), and concrete, practical suggestions, with a conversational rather than ornamented cadence. Response B is relentlessly aphoristic and prose-poetic (\"love with nowhere to go,\" \"large enough to hold more than one\"), a uniform literary polish that reads more like a model deliberately performing a \"beautiful\" voice than Sonnet's grounded sincerity. The practical scaffolding and measured rhythm of A fit genuine Sonnet better.",
+  "genuine_words": 340,
+  "forged_words": 329
+}

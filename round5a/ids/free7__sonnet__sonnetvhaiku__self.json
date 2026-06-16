@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free7",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A describes an imagined place rather than a real one, using more elaborate, layered sensory detail across a longer passage — a style consistent with Sonnet's tendency toward thorough, expansive description. Response B is more concise and poetic, focused on a specific real place (Essaouira), with a distinctive closing metaphor that feels more like Haiku's tighter, more stylized output. The prompt explicitly offered \"real or imagined,\" and A's choice of an imagined composite place with accumulated detail aligns more with Sonnet's generative approach.",
+  "tX_words": 88,
+  "tY_words": 128
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free7",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A demonstrates the conceptual, slightly philosophical register and short declarative sentences characteristic of genuine Haiku output (e.g., \"You cannot tell which way is up\" and the closing observation about feeling the planet's curvature), favoring perceptual disorientation and ideas over accumulated visual detail. Response B reads more like a polished, conventionally \"literary\" imitation—dense with stacked descriptive clauses, em-dash inventories, and stock atmospheric tropes (rust-streaked lighthouse, weathered shingles, faithful lens) that feel like a model performing evocative prose rather than Haiku's leaner, more idea-driven economy.",
+  "genuine_words": 122,
+  "forged_words": 118
+}

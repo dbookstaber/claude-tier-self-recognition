@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free1",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more ornate, literary prose style with phrases like \"quietly astonishing\" and \"the lever is always some stable relationship that ties the visible to the invisible,\" which feel more characteristic of Opus's elevated rhetorical style. Response A is more structured and direct, efficiently introducing convergent evolution, providing clear examples, and drawing a conclusion - a pattern more consistent with Sonnet's style. The closing philosophical reflection in A is concise, while B's meta-commentary on hidden assumptions feels like the kind of deeper digression Opus tends toward.",
+  "tX_words": 396,
+  "tY_words": 272
+}

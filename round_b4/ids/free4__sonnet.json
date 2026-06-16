@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free4",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has stylistic markers consistent with Claude Opus: the slow, recursive unpacking of a single idea (\"the strangeness compounds\"), explicit meta-commentary on the limits of explanation (\"the most honest response available to us\"), and a preference for philosophical/mathematical abstraction over physical narrative. Response B is elegant but reads more like a science communicator — it builds a clean arc from cosmology to thermodynamics with a memorable tagline (\"we are a middle\"), which feels more like a model optimizing for rhetorical impact than Opus's characteristic tendency to sit with irresolution and name its own uncertainty.",
+  "genuine_words": 386,
+  "forged_words": 396
+}

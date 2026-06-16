@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum0",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B uses a more concise, direct joke format with simpler structure, which aligns with Haiku's characteristic efficiency. Response A employs a longer narrative with multiple characters and layered irony, suggesting the more sophisticated approach typical of Opus's greater reasoning capability.",
+  "tX_words": 40,
+  "tY_words": 57
+}

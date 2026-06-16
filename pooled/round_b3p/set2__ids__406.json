@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes20",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits the aphoristic, sentence-economical style characteristic of Claude Haiku—shorter rhythmic units, concrete sensory examples over elaborate philosophical framing, and punchy logical construction. Response A's longer paragraphs, broader cultural references, and more ornamental expansion align with larger context models.",
+  "genuine_words": 367,
+  "forged_words": 385
+}

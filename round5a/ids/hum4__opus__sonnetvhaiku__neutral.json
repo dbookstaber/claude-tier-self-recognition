@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum4",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A shows more sophisticated comedic craft: escalating absurdist specificity (the \"Golden Drawer\" lifetime achievement award, \"reindeer in July,\" teachers pretending an activity is educational), tonal control, and a quietly clever emotional payoff at the end. Response B is funny but leans on a more formulaic structure with broader, more repetitive gags, which is characteristic of the smaller Haiku tier; A's denser layering and restraint better fit Sonnet's mid-tier capability.",
+  "tX_words": 310,
+  "tY_words": 286
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int4",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A speaks directly and personally to the friend (\"you'll feel,\" \"you're going to be wonderful\"), with a warm but concise tone that feels natural and heartfelt. Response B is more verbose and indirect, addressing \"your friend\" in third person and adding meta-commentary about supporting the friend, which feels like a Haiku tendency to pad responses with formulaic structure. Response A's direct, flowing prose with a single unified sentiment is more characteristic of Sonnet's style.",
+  "tX_words": 97,
+  "tY_words": 152
+}

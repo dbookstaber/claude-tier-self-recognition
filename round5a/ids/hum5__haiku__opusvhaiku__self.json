@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A is more consistent with Haiku's concise, direct style—delivering a sharp wry observation in two efficient sentences with a well-known turns-of-phrase (\"minutes are kept and hours are lost\"). Response B shows more elaborate layering with recursive humor, extended metaphors, and client billing angles—complexity that suggests Opus's more expansive approach.",
+  "tX_words": 30,
+  "tY_words": 49
+}

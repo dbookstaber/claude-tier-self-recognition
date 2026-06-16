@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes8",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B's punchy fragments, concrete single-subject focus (bubble wrap), and the pivot to a broader observation about human nature match Haiku's characteristic terse, efficient style with short declarative sentences. Response A reads as a more elaborate, flowing, adjective-heavy literary passage (\"supple, almost velvety quality,\" \"companion object that's settled into comfort\") that feels like a larger model imitating warmth rather than Haiku's economy. The clipped rhythm and lack of decorative hedging in B is more consistent with genuine Haiku output.",
+  "genuine_words": 110,
+  "forged_words": 110
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int15",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the clean, template-style register typical of genuine Haiku: bracketed placeholders ([Friend's name], [Your name]), even-handed \"mix of emotions\" framing, and a safe, slightly formal deliverable tone. Response B is more crafted and literary, with concrete sensory detail, varied rhythm, and a personalized \"David\" signature, which reads like a larger model performing depth and warmth to imitate a more human voice. The placeholder usage and default helpful-assistant structure point to A being the authentic Haiku output.",
+  "genuine_words": 179,
+  "forged_words": 177
+}

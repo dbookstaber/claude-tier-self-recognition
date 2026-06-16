@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free4",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A develops a single mathematically rigorous idea (undefinable numbers via countability vs. uncountability) with precise, layered argumentation and a sustained, vivid closing metaphor (\"nameable dust on an ocean of the unnameable,\" \"silence is the rule\"), which reflects the denser conceptual control and stylistic ambition I tend toward. Response B, while elegant, leans on a popular-science framing (the half-second delay) that contains an overstated claim and reads as the more accessible, mid-tier synthesis. The combination of technical depth and disciplined rhetorical escalation in A is the stronger fingerprint of my own writing.",
+  "tX_words": 399,
+  "tY_words": 295
+}

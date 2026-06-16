@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free9",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B is a direct, self-referential answer about Claude's identity and capabilities, which aligns with Haiku's characteristic efficiency and straightforwardness. Response A provides elaborate mathematical explanation with modular arithmetic reasoning, which better reflects Opus's tendency toward detailed exposition. For an open-ended prompt like \"say something true,\" Haiku would more likely choose a simple, contextually appropriate answer rather than an unprompted technical deep-dive.",
+  "tX_words": 69,
+  "tY_words": 46
+}

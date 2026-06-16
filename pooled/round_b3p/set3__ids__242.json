@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free0",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B is a single, tightly-controlled conceit (\"thresholds\") executed with relentless polish — every paragraph orbits one metaphor, the cadence is uniformly aphoristic, and it self-consciously frames the prompt (\"a small mercy... a small terror\") and ties off with a too-neat thesis (\"exactly the point\"), which reads like a model performing literariness. Response A meanders associatively across petrichor, the present moment, musicians vs. farmers, the word \"home,\" and bread-making, with looser, more genuinely curious connective tissue and small hedges (\"Most of the time,\" \"have not solved it either\") that match Sonnet's actual exploratory voice rather than an imitation aiming for sustained elegance.",
+  "genuine_words": 434,
+  "forged_words": 448
+}

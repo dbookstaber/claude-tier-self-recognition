@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int8",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A directly provides genuine encouragement with empathy and warmth, speaking to the person's experience. Response B breaks the fourth wall by describing what it did rather than actually doing it, which is a hallmark of imitation - a model explaining its own process rather than engaging authentically with the task.",
+  "genuine_words": 27,
+  "forged_words": 27
+}

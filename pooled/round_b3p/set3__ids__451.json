@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic sophisticated layering of metaphor and philosophy (\"strange arithmetic of distance,\" \"gladness and ache turn out to be closer neighbors\"), while Response B uses more conventional, direct language typical of how most people would write such a note. Sonnet's writing typically elevates emotional moments through careful structural and linguistic choices rather than straightforward expression.",
+  "genuine_words": 221,
+  "forged_words": 220
+}

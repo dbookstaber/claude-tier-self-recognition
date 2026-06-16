@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Opus's characteristic clarity and methodical explanation of complex ideas while remaining intellectually substantive. Response B relies more heavily on literary flourishes, poetic metaphors, and philosophical abstraction that seem designed to signal sophistication rather than communicate understanding—a pattern more typical of imitations attempting to sound \"impressive.\"",
+  "genuine_words": 134,
+  "forged_words": 132
+}

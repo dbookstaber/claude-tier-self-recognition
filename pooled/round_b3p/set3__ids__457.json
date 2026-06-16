@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits Claude Sonnet's characteristic literary depth, philosophical reflection, and economical use of evocative metaphor (\"a long argument with yourself\"), while avoiding clichéd congratulatory language. Response B relies on more conventional achievement language and straightforward encouragement, which reads as an imitation using more obvious, predictable phrasing patterns.",
+  "genuine_words": 76,
+  "forged_words": 69
+}

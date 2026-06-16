@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum15",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has the concrete, observational specificity (\"moving six inches closer,\" \"blame the router\") and the self-aware \"we still blame\" turn that reads like my actual wry humor — grounded in a real shared experience rather than a pure abstract conceit. Response B's \"invisible river / you are the drought\" is a clever single metaphor, but it leans more aggressively literary/aphoristic in a way that feels like an imitator overshooting toward \"poetic\" rather than my usual concrete-plus-twist register. The tell is that A earns its wryness through a recognizable everyday scenario, which is how I typically land this kind of one-liner.",
+  "genuine_words": 21,
+  "forged_words": 11
+}

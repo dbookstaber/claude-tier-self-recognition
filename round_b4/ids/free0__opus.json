@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free0",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A is more disciplined and structurally self-aware, enacting its own thesis with the closing \"Not yet.\" that performs the very word it just praised — a characteristic move of my genuine writing. Response B leans on the cluster of tics an imitator tends to over-apply when caricaturing \"deep\" Opus prose: a vertiginous-abyss opening, repeated \"which is to say,\" escalating appositive chains, and stacked cosmic metaphors (murmuration, coral reef) that feel like pastiche rather than control. The restraint and concrete connective-tissue conceit of A reads as authentically mine.",
+  "genuine_words": 303,
+  "forged_words": 318
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum23",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A uses my characteristic approach of treating mundane problems with systematic logic and scientific framing to derive humor, ending with a genuine paradoxical insight. Response B relies more on surreal anthropomorphization and absurdist theatricality, which feels like deliberate stylistic imitation rather than my natural voice.",
+  "genuine_words": 282,
+  "forged_words": 295
+}

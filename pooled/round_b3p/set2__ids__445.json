@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum23",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A uses my characteristic deadpan-analytical style, treating an absurd premise with systematic rigor and grounding the humor in observable human behavior patterns, whereas Response B relies more on theatrical surrealism and elaborate metaphors that diverge from my typical grounded-observation approach to comedy.",
+  "genuine_words": 276,
+  "forged_words": 280
+}

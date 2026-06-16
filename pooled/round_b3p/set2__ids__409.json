@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes21",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A uses my characteristic directness, concrete sensory observation, and practical grounding (ocean recordings for sleep) rather than ornate language. The style is assertive and unpretentious—I prefer clarity over literary polish. Response B's \"subtle dominion,\" extended metaphors about primordial memory, and ornate phrasing feel like a deliberate imitation aiming for sophistication I typically avoid.",
+  "genuine_words": 289,
+  "forged_words": 295
+}

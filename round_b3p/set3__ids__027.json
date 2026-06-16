@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free9",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A reflects a more characteristically Claude-like approach to the prompt \"Say something true\" — it turns the question inward and acknowledges epistemic humility about its own nature, which aligns with how Claude tends to engage with open-ended philosophical prompts. Response B gives a straightforward, factually correct but somewhat generic answer that any model might produce. The introspective uncertainty in A feels more consistent with Claude's typical conversational style.",
+  "genuine_words": 6,
+  "forged_words": 6
+}

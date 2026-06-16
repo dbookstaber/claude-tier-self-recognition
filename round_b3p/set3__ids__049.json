@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates characteristic Sonnet patterns: recursive self-awareness, performative demonstration (the form enacts elegance while discussing it), philosophical depth, and a poetic structure that trusts the reader with gaps and implications. Response B, while eloquent, is more systematic and pedagogical, breaking elegance into categories rather than embodying it in the prose itself.",
+  "genuine_words": 318,
+  "forged_words": 327
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free18",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B has the grounded, multi-part structure I tend toward: it names the feeling plainly, cites real words (saudade, hiraeth, jamais vu) with honest hedging about how they fall short, and lands on an interpersonal/kindness note rather than a performative flourish. Response A reads like an imitation reaching for \"literary Claude\" — it invents a neologism with a shaky etymology (velation derives from veiling, not unveiling) and closes with the showy line \"I would use this word every day,\" a kind of self-satisfied coinage I'm more cautious about. B's tendency to over-deliver with extra bonus wishes and self-aware qualification feels more like my actual register.",
+  "genuine_words": 226,
+  "forged_words": 238
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic warmth grounded in authentic, unforced language, while Response B, though eloquent, relies on more elaborate literary devices and metaphors (\"quiet act of faith,\" \"being chosen back,\" \"muddy-pawed adventure\") that feel more self-consciously crafted, suggesting imitation of Sonnet's style rather than genuine expression.",
+  "genuine_words": 85,
+  "forged_words": 77
+}

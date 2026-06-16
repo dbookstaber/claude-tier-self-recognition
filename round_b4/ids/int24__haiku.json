@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Opus's signature philosophical depth, extended metaphorical architecture (river curving back, wood taking stain), and characteristic move of finding larger human truths beyond practical reassurance. Response B, while thoughtful, is more direct mentorship that lacks Opus's distinctive structural complexity and metaphorical precision.",
+  "genuine_words": 329,
+  "forged_words": 338
+}

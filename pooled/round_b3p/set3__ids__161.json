@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes18",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A has the rhythmic, self-aware literary voice characteristic of Sonnet, with phrases like \"slightly pretentious cult\" and \"I find I trust writers who use it well\" showing genuine first-person stance and earned, varied cadence rather than formula. Response B reads more like a competent imitation: it leans on an explanatory checklist structure (\"Unlike the semicolon or colon,\" \"That combination of...makes it\"), reaches for the safe Emily Dickinson reference, and ends with a tidy thesis-restatement that feels more like a model performing eloquence than Sonnet's looser, more musical prose. The em-dash-heavy texture and willingness to be playfully opinionated in A is the stronger tell.",
+  "genuine_words": 142,
+  "forged_words": 143
+}

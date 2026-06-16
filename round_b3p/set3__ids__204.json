@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum23",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more structured, list-like comedic style with concrete specifics (the \"Tote Void,\" the 1945 date, the eleven-year dry pen) and punchy closing lines that match a more direct humor approach typical of Claude. Response B is more literary and philosophical in tone, with flowing prose that feels like it's reaching for elegance over comedy, which reads more like a model imitating a \"sophisticated Claude\" style. The ending of A (\"This is the pens winning\") has the crisp, confident comedic landing that feels more natural to my actual output.",
+  "genuine_words": 304,
+  "forged_words": 300
+}

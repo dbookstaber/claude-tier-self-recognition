@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes4",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits Claude Haiku's characteristic sparse, structural prose with minimal transitions, deliberate repetition, and a focus on mechanism over conventional emotion. Response B uses more ornate language, standard essay structure, and hedging phrases (\"I find,\" \"There's something\") that align better with an imitation attempting to sound thoughtful and engaging.",
+  "genuine_words": 211,
+  "forged_words": 220
+}

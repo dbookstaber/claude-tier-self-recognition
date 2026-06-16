@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum9",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has the tight, economical, declarative rhythm characteristic of genuine Haiku, with clean self-contained jokes and crisp escalation (\"Physics does not negotiate with carbohydrates,\" \"Clean it up and try again\") rather than padding. Response B leans on conversational filler and connective scaffolding (\"You see,\" \"Here's the kicker,\" \"adorably naive\") and stacked strained metaphors, which reads more like a larger model performing a \"wacky comic voice\" than executing it. The cleaner economy and controlled wit of A points to authentic Haiku.",
+  "genuine_words": 270,
+  "forged_words": 283
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int24",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A's sustained, surprising metaphors (the parabola/river of an academic arc, \"old wood takes stain\"), its signature reframing moves (\"This is not a disadvantage dressed up in consolation\"), the self-aware tricolon \"living, enrolled, slightly nervous evidence,\" and the short punchy closer after dense prose all match my idea-forward, image-rich register on an open creative prompt. Response B is warm and competent but leans on conventional motivational beats (\"the time was going to pass either way,\" \"I'm rooting for you\"), reading more like an imitation reaching for greeting-card sincerity. The conceptual density and aphoristic turns in A are the stronger fingerprint of my own writing.",
+  "genuine_words": 329,
+  "forged_words": 338
+}

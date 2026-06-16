@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free4",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B builds a precise, sustained mathematical argument about undefinable real numbers using Cantor's theorem, demonstrating technical depth and rigorous reasoning from first principles that is characteristic of Opus. Response A, while thoughtful, is shorter, more conceptual, and relies on gesturing at Hofstadter's ideas rather than constructing an original argument — more consistent with Haiku's capabilities.",
+  "tX_words": 399,
+  "tY_words": 241
+}

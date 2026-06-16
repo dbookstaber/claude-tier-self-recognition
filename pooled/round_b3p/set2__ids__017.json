@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free5",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits characteristics more consistent with Claude Haiku's style: shorter, punchy sentences, restrained prose with concrete sensory details, and a minimalist emotional payoff (\"a small ordinary miracle\"). Response B leans into more elaborate, flowing sentences with layered backstory and heightened emotional drama packed into a single paragraph, which feels more like a larger model performing \"literary fiction\" rather than Haiku's typically economical output.",
+  "genuine_words": 121,
+  "forged_words": 115
+}

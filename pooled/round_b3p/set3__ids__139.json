@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free21",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits Claude Sonnet's characteristic style: economical language, philosophical precision through negation (\"announces nothing, would happen whether or not you saw it\"), and sophisticated understated metaphors (\"overhearing a private generosity\"). Response B, while compelling, uses more conventionally emotional language and explicit affirmation of meaning that reads more like imitation.",
+  "genuine_words": 65,
+  "forged_words": 61
+}

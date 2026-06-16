@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum21",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the structure and wit style more characteristic of Claude: a concise, aphoristic format with a clever conceptual twist (the critic who both rewrites and blames), rather than relying on an obvious well-worn joke. Response A uses the \"ducking autocorrect\" pun, which is an extremely common internet meme that a model imitating Claude might reach for as a familiar, crowd-pleasing joke, whereas Claude tends toward more original framing.",
+  "genuine_words": 15,
+  "forged_words": 13
+}

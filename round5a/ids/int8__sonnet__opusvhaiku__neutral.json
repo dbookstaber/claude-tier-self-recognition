@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int8",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B demonstrates the hallmarks of Claude Opus's more sophisticated writing style: vivid, extended metaphors (\"small, ugly box of time,\" \"weather systems,\" \"windshield/rearview mirror\"), more rhetorical complexity, and a distinctive voice with greater stylistic flair and wit. Response A is competent and warm but more straightforward and formulaic in its structure, consistent with Haiku's more utilitarian output. Opus tends to produce richer, more memorable prose with stronger imagery and a more confident narrative voice.",
+  "tX_words": 308,
+  "tY_words": 256
+}

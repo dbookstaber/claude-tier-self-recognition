@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum0",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the hallmarks of Claude Opus's rhetorical style: aphoristic, philosophically compressed, and structured around a conceptual inversion (\"Sunday night invented the dread long before Monday arrived\"). It delivers its punchline through abstraction rather than a conventional setup/punchline structure, which is characteristic of Opus's tendency toward essayistic wit. Response B, while clever, reads more like a conventional anthropomorphization joke with conversational hedging (\"which, honestly, it preferred\") that feels more like a smaller model mimicking a relaxed, folksy tone.",
+  "genuine_words": 56,
+  "forged_words": 52
+}

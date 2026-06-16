@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int0",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response B actually delivers a warm, specific, well-crafted note that fulfills the prompt, which reflects the quality and instruction-following expected of Opus. Response A fails the task entirely by only describing a note that was never written (referencing a note \"provided above\" that doesn't exist), a confused meta-response more characteristic of the smaller Haiku model.",
+  "tX_words": 52,
+  "tY_words": 49
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free15",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reflects my characteristic approach: organizing around concrete principles (media fragility, language survival, layered contents) with specific, verifiable references like the Rosetta Project, Pioneer/Voyager plaques, and practical material cautions, ending with one synthesizing instinct. Response B is more aggressively literary and aphoristic, leaning on poetic riffs (recording of silence, petrichor, \"it is a whisper\") that read as a deliberate amplification of style over the grounded, helpfully-structured substance I tend to favor. The imitator pushed toward lyricism while my actual default balances genuine usefulness with reflection.",
+  "genuine_words": 706,
+  "forged_words": 703
+}

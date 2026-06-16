@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free22",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B uses sparse, concrete imagery with sharp observational precision (\"Streetlights cut sharp cones,\" \"cold blue of screens\"), prioritizes specific details over metaphor, and employs an understated analytical tone. This aligns with my typical style of balancing economy of language with vivid detail. Response A relies on more elaborate metaphorical language and romantic elaboration (\"otherworldly,\" \"private stories under the stars\") that feels like stylistic imitation rather than my natural voice.",
+  "genuine_words": 118,
+  "forged_words": 109
+}

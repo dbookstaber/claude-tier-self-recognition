@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes3",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A is more concise and direct, making a clear argument about symmetry with straightforward prose — a style more consistent with Sonnet's mid-tier approach. Response B is notably more elaborate, stylistically ornate, and uses sophisticated rhetorical flourishes (\"the aesthetic equivalent of a loud noise making you jump,\" \"functional eyes and a pulse\") that suggest the higher-capability Opus model's more expressive writing style.",
+  "tX_words": 318,
+  "tY_words": 193
+}

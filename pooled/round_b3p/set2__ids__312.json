@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum4",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B uses the short, punchy, declarative sentence rhythm and deadpan absurdist looping (\"Nobody knows what the point is. That is also the point.\") that is characteristic of genuine Haiku's economical style, plus concrete grounded details (Cleveland statistician, 73%) delivered tersely. Response A is more verbose, with longer flowing sentences, fabricated statistics framed pseudo-academically (\"retail integrity by approximately twelve percent\"), and an over-elaborated structure that reads more like a larger model imitating quirkiness. Haiku tends toward brevity and clipped cadence rather than the sustained polished paragraphs of A.",
+  "genuine_words": 313,
+  "forged_words": 315
+}

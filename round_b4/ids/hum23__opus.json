@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum23",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A's humor is built from a single load-bearing conceit (pens as escape-artists/sleeper-agents seeking transfer) developed with concrete, escalating bits and a clean payoff about lending, which matches my tendency toward sustained premise-driven comedy. Response B is more literary-essayistic, leaning on highbrow gestures (\"cosmologically suspicious,\" \"a Buddhist object,\" entropy, \"wry sentience\") and ornate sentence rhythm that reads like a deliberate impression of an erudite voice rather than my plainer comic register. A also stays tighter to the actual mechanics of why pens vanish, whereas B drifts toward mood and aphorism, which is the tell of an imitator over-indexing on \"sophistication.\"",
+  "genuine_words": 380,
+  "forged_words": 372
+}

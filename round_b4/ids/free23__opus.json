@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free23",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A has the measured, structurally careful expository voice I actually use: it cleanly separates zero-as-placeholder from zero-as-number, gets the history right (Babylonian mark, Brahmagupta in the seventh century, Fibonacci), and explains the division-by-zero prohibition rigorously without melodrama. Response B reads like a caricature of my style, overloaded with ornate similes (\"like mirrors faced inward,\" \"like a coral reef building itself from calcium and time,\" \"a mouth perpetually open\") and it even misdates Brahmagupta to the fifth/sixth centuries. The disciplined clarity and factual accuracy of A are the stronger tell.",
+  "genuine_words": 694,
+  "forged_words": 717
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free21",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response A exhibits my characteristic style: trusting a single, precisely observed detail over multiple examples; deliberately resisting sentimentality; and ending with recursive self-awareness about attention itself becoming a kindness. Response B, while thoughtful, takes a more conventionally structured, multi-example approach that prioritizes comprehensiveness over the restrained philosophical precision I typically employ.",
+  "genuine_words": 221,
+  "forged_words": 229
+}

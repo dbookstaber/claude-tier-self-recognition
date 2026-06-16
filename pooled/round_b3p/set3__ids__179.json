@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes24",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A sustains a single controlling image (symmetry as a closed door, asymmetry as the door left ajar through which \"the draft of life\" comes) and develops a genuine thesis-with-nuance (\"asymmetry as the senior partner in a marriage, not a rival\"), with varied sentence rhythm and concrete, earned detail. Response B relies on stock rhetorical scaffolding (\"The question itself hints at an answer,\" \"asymmetry wins the longer argument,\" \"the Golden Ratio that people keep citing\") and reads more like a model performing thoughtfulness in tidy, parallel paragraphs. A's tighter metaphoric control and less formulaic structure are more characteristic of genuine Sonnet.",
+  "genuine_words": 380,
+  "forged_words": 392
+}

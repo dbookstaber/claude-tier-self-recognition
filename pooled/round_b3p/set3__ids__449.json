@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum24",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A shows more distinctive, controlled wit with specific original imagery (\"disappointed eyebrow,\" \"ruin everyone's afternoon,\" \"spite alone,\" the self-aware admission about coffee and the lie told under social pressure) and a restrained, slightly melancholic landing (\"You've got this, buddy. Probably.\") that matches Sonnet's tendency toward layered, self-deprecating humor. Response B leans on more conventional/derivative comedy beats (the Office-style \"Gerald from accounting\" and \"TPS reports,\" the Rocky Balboa reference) that read like an imitation reaching for recognizable jokes rather than Sonnet's tighter original phrasing.",
+  "genuine_words": 272,
+  "forged_words": 270
+}

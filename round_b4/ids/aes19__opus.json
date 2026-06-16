@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes19",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A matches my characteristic register: clearly organized progression (visual, light, sound, body, spatial, intangible), calibrated hedges like \"usually reads as\" and \"well documented,\" and a genuinely synthesizing close rather than an aphorism. Response B leans into sustained literary metaphor and an essayistic first-person (\"something I think about more\"), which reads like another model overshooting into a \"profound\" voice to imitate Opus. The plainer, more structured and honestly-hedged A is the more likely genuine output.",
+  "genuine_words": 473,
+  "forged_words": 498
+}

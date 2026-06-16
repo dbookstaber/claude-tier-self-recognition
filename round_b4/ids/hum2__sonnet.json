@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum2",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's style: longer, more languorous sentences with philosophical depth woven into the humor (\"ontological possibility,\" \"centrifugal metaphysics\"), a more contemplative and essayistic register, and a tendency to build a sustained conceptual conceit rather than pivot between separate jokes. Response B is sharper and punchier with a more comedic-writer cadence, using parallel list structures and snappier payoffs that feel more like a trained imitator optimizing for laughs rather than Opus's characteristic blend of genuine intellectual curiosity and wit.",
+  "genuine_words": 366,
+  "forged_words": 364
+}

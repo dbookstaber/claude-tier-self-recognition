@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic balance of poetic insight with intellectual rigor and self-aware skepticism. It acknowledges paradoxes, uses more cautious language (\"almost,\" \"maybe\"), and grounds abstractions in genuine observation rather than prioritizing aesthetic effect. Response A, while beautifully written, relies more heavily on decorative metaphor and reads more like creative performance than authentic reflection of how Sonnet typically approaches such prompts.",
+  "genuine_words": 305,
+  "forged_words": 303
+}

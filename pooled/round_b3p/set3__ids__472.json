@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates the sophisticated metaphorical density, philosophical complexity, and distinctive intellectual voice characteristic of Claude Sonnet. Phrases like \"light from somewhere already vanished\" and \"debts aren't meant to be paid back, only forward\" show the kind of layered emotional reasoning and linguistic sophistication expected from a more advanced model, while Response A relies on more conventional narrative structure and gratitude framing.",
+  "genuine_words": 218,
+  "forged_words": 220
+}

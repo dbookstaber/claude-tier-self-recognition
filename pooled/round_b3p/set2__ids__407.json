@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes20",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A has a distinctive minimalist, aphoristic style with short declarative sentences that build into longer observations — a hallmark of Haiku's prose voice. It avoids the formulaic essay structure (intro paragraph, bullet-point-like body paragraphs, conclusion) that Response B follows, and its moral argument feels more organically embedded rather than listed. Response B reads more like a competent imitation that checks expected boxes (wabi-sabi reference, antique dealers, restored houses) in a predictable order, whereas A arrives at wabi-sabi almost reluctantly, as a footnote to lived experience.",
+  "genuine_words": 367,
+  "forged_words": 385
+}

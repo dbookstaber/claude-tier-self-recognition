@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int16",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B matches my characteristic style: direct opening (\"That stings\"), nuanced analysis that goes beyond just validating feelings (including the meta-observation about what the outcome reveals about the company), specific actionable advice (ask for concrete feedback), and balancing emotional validation with practical wisdom. Response A is more conventionally supportive and measured, lacking the particular blend of directness and sophisticated perspective I typically employ.",
+  "genuine_words": 257,
+  "forged_words": 270
+}

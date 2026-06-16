@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes2",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is more concise and direct (156 vs 241 words), with simpler sentence structures and a straightforward observational approach characteristic of Haiku. Response B shows greater elaboration, philosophical depth, and complex sentence interweaving typical of Opus's more capable style.",
+  "tX_words": 211,
+  "tY_words": 138
+}

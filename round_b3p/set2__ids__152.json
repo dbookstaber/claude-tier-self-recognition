@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes15",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A exhibits several hallmarks of Claude Haiku's style: a balanced, exploratory tone that considers multiple perspectives before offering a tentative personal preference, hedged with \"if I had to choose.\" It uses conversational framing (\"This is a delightful question\"), avoids taking a strong polemical stance, and ends by acknowledging the validity of the opposing view — all characteristic of Haiku's tendency toward diplomatic, balanced responses. Response B reads more like a confident, structured essay with rhetorical flair (\"The circle is a period at the end of a sentence\") that feels more like a larger model imitating a more decisive voice.",
+  "genuine_words": 295,
+  "forged_words": 297
+}

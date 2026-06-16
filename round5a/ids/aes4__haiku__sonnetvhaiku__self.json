@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes4",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B demonstrates the more direct, practical communication style typical of Haiku. While both responses are thoughtful, Response B uses clearer paragraph structure and more straightforward explanations of why the sound appeals, whereas Response A employs more elaborate, interconnected philosophical language and literary flourishes characteristic of larger models.",
+  "tX_words": 194,
+  "tY_words": 205
+}

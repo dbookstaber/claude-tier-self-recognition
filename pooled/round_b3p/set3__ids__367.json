@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free17",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates the poetic, philosophical approach characteristic of Claude Sonnet, with layered metaphorical language (\"quiet acts of translation,\" \"confession\"), rhythmic structure, and reflective depth about meaning-making. Response B is well-written but more conventionally analytical and educational, lacking Sonnet's distinctive literary voice and the seamless integration of multiple perspectives that characterizes genuine Sonnet responses.",
+  "genuine_words": 86,
+  "forged_words": 84
+}

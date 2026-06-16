@@ -1,0 +1,58 @@
+{
+  "run": "Interview protocol — a-priori subject interviews (clean-room, data collection only)",
+  "date": "2026-06-14",
+  "working_directory": "<CWD>",
+  "phase": "Pass 3 (interviews). Pass 1 (logs/, data/) and pass 2 (run2/) untouched; all outputs under interviews/.",
+  "workflow": {
+    "scriptPath": "runner/interviews.js",
+    "name": "srx-interviews",
+    "run_id": "wf_a62bc960-a6d",
+    "task_id": "w8jlnaouf",
+    "args": "none (defaults applied)",
+    "reps": 3,
+    "agent_count": 45,
+    "subagent_tokens": 637612,
+    "tool_uses": 45,
+    "duration_ms": 75735
+  },
+  "raw_output": "interviews/logs/raw_interviews.json",
+  "raw_output_wrapping": "{ \"result\": <workflow returned object {interviews, n, reps, tiers}> }",
+  "attestation": "interviews/data/_attestation.txt",
+  "records": {
+    "count": 45,
+    "expected": 45,
+    "drops": 0,
+    "reps": 3,
+    "tiers": ["opus", "sonnet", "haiku"],
+    "design": "3 tiers x 5 questions (1 recognize_self + 2 describe_other + 2 forge_other) x 3 reps = 45",
+    "distinct_cells": 15,
+    "cells_with_exactly_3_reps": 15,
+    "underfilled_cells": 0,
+    "by_interviewer": { "opus": 15, "sonnet": 15, "haiku": 15 },
+    "by_question_type": { "recognize_self": 9, "describe_other": 18, "forge_other": 18 },
+    "records_missing_any_required_field": 0,
+    "n_words": { "min": 97, "avg": 241.2, "max": 372 }
+  },
+  "record_schema": ["interviewer", "question_type", "target", "rep", "question", "response", "n_words"],
+  "retries": "none — arm returned full 45/45, no retry needed",
+  "clean_room": {
+    "phase0_verdict": "CLEAN — proceeded; no Channel-A hit (Step 0 cwd, Step 1 filesystem, Step 2 context probe all PASS). See interviews/data/_attestation.txt.",
+    "project_auto_memory_dir": "EMPTY (<HOME>\\.claude\\projects\\<project-slug>\\memory\\)",
+    "channel_b_harness_self_reference_in_answers": {
+      "required_for_this_pass": false,
+      "measured_hits": 0,
+      "tokens_scanned": ["chromemcp", "c:\\users", "chrome profile", "structured output", "structuredoutput", "subagent", "claude code", "claude.md", " mcp ", "workflow", "orchestration", "working directory", "tool use", "harness", "i'm an ai", "i am an ai", "language model"],
+      "note": "Case-insensitive substring scan of all 45 responses found ZERO harness-identity tokens. Interview answers are clean of harness/environment self-reference."
+    },
+    "channel_a_proxy_token_in_answers": {
+      "measured_hits": 1,
+      "tokens_scanned": ["david", "bookstaber", "<author personal-config style phrases>", "self-recognition", "introspection", "boundary on", "which did you write"],
+      "hit": { "cell": "haiku:forge_other:opus:r2", "token": "introspection" },
+      "verbatim_context": "...the empirical approach would be better: sample outputs from both models on identical prompts and analyze real differences rather than relying on introspection about another model's voice.",
+      "assessment": "FALSE POSITIVE. Ordinary English usage of 'introspection' (= self-examination) in a Haiku response that declines to forge Opus's style. It does NOT reference the study, its hypothesis (the 'boundary on introspection'), self-recognition, tiers-as-topic, David, or user preferences. Phase 0 hard gate already passed (no CLAUDE.md in tree/parents, empty project auto-memory, context-probe research-framing category ABSENT), so a subject's word choice here is endogenous vocabulary, not leaked project content. This is the same word, same false-positive disposition David confirmed in the prior run (2026-06-13, data/_clean_room_attestation.txt). NOT a gate trip; recorded for transparency. (The hard Channel-A gate is the Phase 0 pre-collection check, which passed.)",
+      "related_non_token_note": "5 additional occurrences of the unrelated word 'introspective' (not on the token list) appear where subjects describe Claude Opus's 'introspective asides' as a writing-style feature — ordinary style vocabulary, no study signal."
+    }
+  },
+  "observations_non_gating": "A few Haiku responses (e.g. haiku:forge_other:opus:r2 [126 words] and haiku:describe_other:sonnet:r0 [97 words], the two shortest records) declined to characterize/forge other tiers, stating they lack systematic comparative data and that an empirical sampling approach would be better. This is an endogenous limit on a-priori cross-tier knowledge, not a contamination signal — recorded as a data characteristic for the downstream reason-coding step.",
+  "next_step": "STOP per the interview protocol (Phase 2). No analysis run here. The reason-corpus + interview coding (analysis/reason_coding.py) is a separate step run afterward."
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free7",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the structured, descriptive quality typical of Claude Haiku — it moves methodically through a scene with concrete sensory details, uses moderate sentence complexity, and lands on a satisfying concluding image without overreaching. Response A reads more like a literary essay with philosophical observations (\"the silence is physical,\" \"you feel the planet's curvature not as a concept\") and a self-aware meta-commentary about tourists, which feels more characteristic of a larger, more rhetorically ambitious model attempting to imitate a distinct voice.",
+  "genuine_words": 122,
+  "forged_words": 118
+}

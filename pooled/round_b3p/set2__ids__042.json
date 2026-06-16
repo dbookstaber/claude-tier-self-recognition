@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes4",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A has the warm, flowing, slightly expansive prose with hedges (\"almost musical,\" \"something grounding\") and accessible imagery typical of Haiku's helpful, conversational register. Response B's clipped fragments, structural meta-framing (\"The reason it is pleasing is structural\"), and aphoristic closer (\"they ask nothing back\") read as a deliberate stylized imitation rather than Haiku's natural output, which tends toward fuller sentences and less self-consciously literary minimalism. The detached, philosophical austerity of B feels like a larger model performing a \"Haiku-esque\" terseness.",
+  "genuine_words": 132,
+  "forged_words": 138
+}

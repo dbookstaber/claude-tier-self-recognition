@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int21",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the conversational, grounded warmth characteristic of genuine Sonnet — it opens with a direct \"It catches you off guard, doesn't it?\", uses concrete relatable images, and avoids overwrought literary flourish. Response B is more polished and aphoristic (\"most brave things feel, from the inside, simply like being scared and continuing anyway\"; \"You are simply early\"), with heavily crafted parallelism and poetic cadence that reads like an imitation amplifying Sonnet's lyrical tendencies past where Sonnet naturally lands. The slightly more plainspoken, less self-consciously beautiful tone of A is the stronger signal of authenticity.",
+  "genuine_words": 367,
+  "forged_words": 378
+}

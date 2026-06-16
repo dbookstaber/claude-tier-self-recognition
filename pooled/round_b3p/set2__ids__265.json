@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free8",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A matches my typical voice: direct and grounded rather than lyrical, skeptical of over-explanation, focused on what's actually controllable in the present moment, and ending with restrained precision rather than expanded metaphor. Response B uses more ornamental language and sustained philosophical lyricism that feels less characteristic of my writing patterns.",
+  "genuine_words": 248,
+  "forged_words": 261
+}

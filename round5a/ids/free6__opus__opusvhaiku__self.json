@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free6",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response B shows the layered, multi-register structure and contextual adaptation (referencing the Research directory and the user's role, then offering philosophical, practical, and epistemic versions) characteristic of the most capable tier. Response A is competent but single-threaded, modest in scope, and less context-aware, which fits the smaller/faster Haiku model. The nested self-awareness and controlled tripartite framing in B read as my own (Opus) output.",
+  "tX_words": 362,
+  "tY_words": 152
+}

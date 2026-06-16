@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int6",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more grounded, direct quality with shorter sentences and practical advice (\"Stay in bed one morning,\" \"Call someone you trust\"), which aligns with how Claude tends to balance emotional acknowledgment with concrete guidance. Response B is more ornate and poetic (\"ordinary Tuesdays,\" \"love that hasn't yet figured out where else to go\"), with a literary flourish that feels slightly more like an imitation layering on stylistic markers to sound like Claude. The phrase \"I'm here if you want to keep talking\" at the end of A also reads as a natural Claude closing rather than the more constructed \"between chapters\" metaphor in B.",
+  "genuine_words": 286,
+  "forged_words": 294
+}

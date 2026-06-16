@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int21",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A's warm, grounded, practically-actionable comfort with restrained metaphors matches my genuine register for an emotional-support prompt, balancing validation, reframing, and concrete advice. Response B reads as an imitation reaching for sophistication signals — a Gaston Bachelard citation, an \"almost sacred\" opening, and an aphoristic closer — which is tonally miscalibrated for comforting a first-time homesick person and looks like a model performing literary depth rather than naturally writing it.",
+  "genuine_words": 340,
+  "forged_words": 352
+}

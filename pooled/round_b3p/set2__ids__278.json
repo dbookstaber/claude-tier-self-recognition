@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes2",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmarks of Claude Haiku's style: short punchy sentences, structural use of white space and line breaks, a concrete mundane object used as a philosophical anchor, and a clean observational closing that lands without over-explaining. Response A reads more like a larger model performing restraint — it is more verbose, uses longer flowing sentences, and has the self-referential \"you've probably left half a dozen coffee cups\" digression that feels like a bigger model trying to sound casual rather than Haiku's characteristically spare, direct voice.",
+  "genuine_words": 167,
+  "forged_words": 163
+}

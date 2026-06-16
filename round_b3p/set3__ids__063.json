@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum1",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response B has the self-referential, recursive humor that tends to characterize Claude's wit - the joke loops back on itself (\"morning person before becoming a morning person\"), which is a compact logical twist rather than a poetic observation. Response A reads more like literary prose dressed up as a one-liner, with the \"darkness/clarity\" metaphor feeling more like a stylistic affectation than genuine wit. The prompt asked for a witty one-liner, and B delivers a punchline structure while A delivers atmosphere.",
+  "genuine_words": 16,
+  "forged_words": 18
+}

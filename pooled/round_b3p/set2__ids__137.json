@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free20",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A exhibits the distinctive hallmarks of Claude Haiku's style: short declarative sentences, deliberate plainness, concrete observations, and a refusal to be sentimental or reach for easy profundity. The line \"The page does not know any of this\" and the structural move of noting that a manual's last page is more practically useful than a novel's are characteristically Haiku — dry, precise, anti-romantic. Response B reads like a more conventional, slightly purple meditation on endings, with metaphors (\"pulled toward its inevitable conclusion like water toward a drain\") and emotional scaffolding more typical of larger models imitating a literary essay style.",
+  "genuine_words": 330,
+  "forged_words": 335
+}

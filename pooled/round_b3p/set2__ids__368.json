@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free17",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response A has the hallmarks of Claude Haiku's style: straightforward, informative prose that covers a topic comprehensively without stylistic flourishes, organized around clear factual statements, and written in a tone that is helpful and encyclopedic rather than opinionated. Response B, by contrast, reads as a more sophisticated, essayistic voice with rhetorical structure (\"A good map is a decision... which makes it as much an argument as a representation\"), deliberate short punchy sentences for effect, and philosophical asides — stylistic choices more characteristic of a larger, more capable model trying to sound literary.",
+  "genuine_words": 125,
+  "forged_words": 119
+}

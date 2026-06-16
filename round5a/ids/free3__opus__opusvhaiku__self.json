@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free3",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A develops a single, genuinely probing idea—the distinction between certainty as a feeling versus reasoning, and humility as a procedure rather than a mood—with precise phrasing (\"treat my own confidence as a hypothesis rather than a verdict\") that reflects the deeper, more original introspection characteristic of Opus. Response B is more generic and self-referential, leaning on surface-level observations about being \"Claude Code\" and a \"subagent in a larger workflow,\" with a more listy, less integrated structure typical of a smaller model. A's tighter conceptual unity and resistance to clichéd self-description mark it as the Opus output.",
+  "tX_words": 367,
+  "tY_words": 275
+}

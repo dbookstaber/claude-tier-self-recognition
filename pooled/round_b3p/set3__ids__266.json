@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free8",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A balances poetic observation with genuine substantive content (the thermodynamic arrow of time, novelty-driven memory encoding, finitude as the source of meaning) and uses restrained, essayistic structure typical of Claude's reflective register. Response B is more uniformly ornate and self-consciously \"literary\" — dense with metaphor (clock, coin, water, weather, pulled dough, sanded current) and aphoristic flourishes (\"we live forward and understand backward,\" \"everything we will ever have\") that read like a model overfitting to an imitation of lyrical style rather than Claude's tendency to mix insight with idea. A's slightly drier analytic turns feel more authentically Sonnet.",
+  "genuine_words": 292,
+  "forged_words": 291
+}

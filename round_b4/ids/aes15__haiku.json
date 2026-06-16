@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Opus's characteristic sophisticated philosophical voice with recursive, self-aware language construction (e.g., \"a spiral is a circle that has remembered it exists in time\"), layered aesthetic theory, and the particular cadence where the prose embodies the ideas. Response A, while excellent, is more straightforwardly structured and persuasive rather than contemplative and exploratory in the way Opus typically approaches abstract philosophical questions.",
+  "genuine_words": 432,
+  "forged_words": 451
+}

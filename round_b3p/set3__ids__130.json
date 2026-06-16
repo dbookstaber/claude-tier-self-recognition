@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic voice: poetic precision through concrete imagery, philosophical insight delivered with quiet confidence, and masterful compression of complex emotion into simple metaphors (\"lamp lit in an empty room\"). Response A, while intelligent, is more didactic and verbose in explaining philosophical concepts, lacking the distinctive voice and economical artistry typical of Claude's best outputs.",
+  "genuine_words": 111,
+  "forged_words": 109
+}

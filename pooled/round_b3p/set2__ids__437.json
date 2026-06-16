@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum20",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Haiku's style: dry, structured humor with a quasi-formal \"review\" format, precise language (\"structural defect,\" \"quality inconsistency,\" \"patch\"), and a restrained, deadpan tone that builds to a concise rating at the end. Response B is more verbose and emotionally expressive, using emphatic capitalization (THEN), exclamation points, and florid metaphors (\"Monday morning licking the back of your neck\") that feel more like GPT-style humor than Haiku's characteristic economy and composure.",
+  "genuine_words": 311,
+  "forged_words": 301
+}

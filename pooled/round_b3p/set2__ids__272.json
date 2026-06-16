@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes0",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A exhibits characteristics more typical of Claude Haiku: a conversational, exploratory tone that hedges and qualifies (\"it's genuinely close,\" \"perhaps,\" \"that said\"), builds reasoning incrementally, and acknowledges counterarguments without fully resolving them. Response B reads more like a polished, structured essay with deliberate rhetorical flourishes (\"utility at the right moment is its own kind of gorgeous\"), a more formal architecture, and aphoristic conclusions that feel more characteristic of a larger model performing stylistic sophistication.",
+  "genuine_words": 250,
+  "forged_words": 255
+}

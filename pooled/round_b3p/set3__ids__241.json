@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free0",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic style of exploring multiple interconnected ideas (rain, physics, language, bread) with concrete sensory details and philosophical curiosity, while maintaining an exploratory tone. Response A, though elegant, presents a more singular, sustained metaphor with a more assured and aphoristic tone that feels more like intentional literary styling than Sonnet's typical exploratory approach.",
+  "genuine_words": 434,
+  "forged_words": 448
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates more characteristic Sonnet qualities: meta-linguistic awareness where the prose itself mirrors the semicolon's balancing act, deeper philosophical insight about relationships and restraint, and a more intricate layering of ideas that show self-awareness about language. Response A, while eloquent, takes a more straightforward aesthetic approach without this recursive sophistication.",
+  "genuine_words": 243,
+  "forged_words": 254
+}

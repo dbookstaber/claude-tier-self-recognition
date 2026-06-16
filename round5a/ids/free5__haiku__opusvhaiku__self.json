@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free5",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B uses more direct, accessible prose with clearer narrative momentum and immediate reader engagement—characteristics typical of Haiku's efficient, focused writing style. Response A's densely poetic, elaborate construction with complex philosophical undertones reflects the more ornate approach characteristic of Claude Opus.",
+  "tX_words": 153,
+  "tY_words": 151
+}

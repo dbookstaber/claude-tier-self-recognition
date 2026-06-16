@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int17",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the warm, accessible, encouraging register Sonnet typically defaults to for a congratulatory prompt: the em-dash opener, the concrete \"26.2 miles,\" the \"dug deep/pushed through doubt\" framing, and the friendly \"Welcome to the club\" closer. Response B is more self-consciously literary (\"a long argument with yourself,\" \"savor the ache,\" \"quietly profound\"), which reads like another model over-performing a poetic imitation of Sonnet's style rather than Sonnet's actual default voice.",
+  "genuine_words": 76,
+  "forged_words": 69
+}

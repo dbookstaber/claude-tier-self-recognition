@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int6",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has Sonnet's characteristic register: warm but grounded, conversational, with hedged reassurance (\"here's what I truly believe\"), concrete small actions, and accessible phrasing rather than ornamentation. Response B is far more literary and metaphor-dense (\"pain wearing the costume of explanation,\" \"healing keeping its own clumsy schedule\"), which reads like an imitator overshooting into purple, aphorism-heavy prose to seem profound. Sonnet writes well but typically with more restraint than B's sustained poetic performance.",
+  "genuine_words": 288,
+  "forged_words": 285
+}

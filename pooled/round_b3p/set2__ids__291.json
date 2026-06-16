@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes7",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B opens with the meta-framing \"I chose the circle as the most satisfying shape,\" which restates the prompt rather than diving into the argument, and leans on inflated abstractions (\"recedes into perception while still commanding space,\" \"visual perfection through perfect symmetry\") that read like an imitator padding for effect. Response A is more committed and concrete with vivid, observed examples (eyes, planets, tree cross-sections, \"the kind of fairness most things only pretend to have\") and a clean rhetorical close, which better matches Haiku's tendency toward punchy, confident, image-driven prose. The imitation in B feels like it is mimicking a generic \"AI essay\" register rather than Haiku's specific voice.",
+  "genuine_words": 109,
+  "forged_words": 100
+}

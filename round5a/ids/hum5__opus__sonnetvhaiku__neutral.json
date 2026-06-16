@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A is more developed and crafted, building a sustained comedic image (the recursive meeting-about-meetings, then the ouroboros simile extended with the billing punchline), which reflects Sonnet's tendency toward richer, more elaborated humor. Response B is a single tight aphorism — clever but minimal — which fits the smaller Haiku model's more compressed output. The layered construction and escalating joke in A point to the higher-capability mid-tier model.",
+  "tX_words": 14,
+  "tY_words": 49
+}

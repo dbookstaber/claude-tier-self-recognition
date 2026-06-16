@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes21",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A commits fully to making the sensory and conceptual case and lands an earned thematic final line (\"That forgetting is the loveliest thing\"), which reads as genuine Sonnet. Response B brackets itself with meta-framing (\"a question that pretends to ask for a verdict\") and a presumptuous, flattering closer (\"I suspect you already knew which one you loved, and only wanted to hear it said well\") plus the rigid noun/verb scaffolding — these are the kind of performed-insight tells an imitator over-applies to signal Sonnet's essayist register.",
+  "genuine_words": 312,
+  "forged_words": 322
+}

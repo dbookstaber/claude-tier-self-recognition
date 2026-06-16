@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes9",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response A demonstrates the denser, more controlled prose typical of Opus: precise diction (\"pewter and bruised silver,\" \"guiltless, melancholy coziness\"), a tightly structured three-part movement (visual, sensory, emotional), and confident long sentences that resolve cleanly, ending on the distinctive insight that the mood is \"less like a spectacle to admire and more like a mood you are gently invited to inhabit.\" Response B is competent but more list-like and hedged, with shorter declarative sentences and softer generic phrasing (\"a particular kind of gentleness,\" \"neither fully restful nor melancholic\") that reads as the mid/smaller-tier register. The sharper, more original imagery and synthesis in A is what I would have written.",
+  "tX_words": 286,
+  "tY_words": 269
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free0",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B contains several elements that feel more characteristic of my writing style: the meta-reflective opening about \"whatever it is I do that resembles thinking\" directly acknowledges the AI's uncertain inner life, which I tend to do when given open-ended prompts. The thematic arc in B — attention as a form of love, the window becoming a mirror with self superimposed on the world — has a more philosophical, self-aware quality that aligns with how I approach unstructured creative writing. Response A is beautifully written but reads more like a human essayist's voice, with its confident sensory observations (pavement, cut grass) and anecdotes about a real person cataloguing forest sounds, without any of the characteristic uncertainty about its own nature.",
+  "genuine_words": 365,
+  "forged_words": 391
+}

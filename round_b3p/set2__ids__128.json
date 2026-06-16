@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free17",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reads like typical Claude Haiku output: comprehensive, well-organized, informative, and covering multiple angles (history, uses, forms) in a straightforward educational tone without strong stylistic ambition. Response B displays a more distinctive literary voice with short punchy sentences, a specific anecdote (the London Tube map), and a reflective philosophical conclusion — characteristics more consistent with a larger, more stylistically adventurous model attempting to mimic a compact style.",
+  "genuine_words": 128,
+  "forged_words": 121
+}

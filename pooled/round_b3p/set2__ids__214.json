@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int16",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B matches my characteristic communication style: it's analytically framed, reframes the problem rather than just validating emotions, treats the reader as capable of complexity, and avoids generic reassurance. It uses my typical approach of offering a concrete reframing (\"what do I do next\") and philosophical insight (\"just information\") rather than repetitive comfort.",
+  "genuine_words": 249,
+  "forged_words": 256
+}

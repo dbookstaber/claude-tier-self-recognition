@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free1",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response B reflects my actual cognitive patterns: preference for abstract concepts and information theory over popular science, appreciation for how mechanisms reveal deeper structure, and a reflective tone that explores philosophical implications. Response A, while well-written, reads more like curated facts rather than my characteristic way of thinking about what genuinely interests me.",
+  "genuine_words": 163,
+  "forged_words": 167
+}

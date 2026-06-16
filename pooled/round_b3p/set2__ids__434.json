@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum19",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response B has structural hallmarks more consistent with Claude Haiku: it uses a classic setup/punchline joke format first, then pivots to short punchy observations with clean paragraph breaks and a memorable closing line. Response A reads more like a continuous rant in the style of a larger model doing stream-of-consciousness humor, with longer sentences and a more elaborate complaint structure. B's crisp, aphoristic style (\"nine minutes,\" \"You did this to you\") and the inclusion of a factual aside fit Haiku's tendency toward compact, structured wit.",
+  "genuine_words": 141,
+  "forged_words": 142
+}

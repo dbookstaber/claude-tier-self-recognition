@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free20",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has a more distinctive, risk-taking voice with sharper aphorisms (\"only the reader has been revised,\" \"the place where the book hands the world back to you\") and a first-person stance that takes an actual position (\"I distrust readers who race toward it\"). Response B, while polished, leans on more conventional, workshop-style imagery (the door metaphor, \"sediment of every other book\") and ends with the well-worn \"the reading has just started\" cliché it even flags as old, reading more like a careful imitation of literary Sonnet prose than the genuine article. The slightly greater willingness in A to commit to an unusual argument rather than survey familiar observations tips me toward it.",
+  "genuine_words": 332,
+  "forged_words": 356
+}

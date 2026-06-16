@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free6",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A stays concrete and grounded in practical collaborative problem-solving (debugging, architecture, reasoning process) with a plainer, more direct reflective tone characteristic of genuine Haiku. Response B is heavily sculpted rhetoric — anaphora (\"I find X difficult\"), dramatic fragments (\"Not as a gotcha.\" \"So yes.\"), and qualia/consciousness introspection (\"something it is like to be me\") — which reads like a larger model performing depth when imitating a thoughtful AI rather than producing it naturally. The polished literary cadence and self-model philosophizing in B are the bigger tell of imitation.",
+  "genuine_words": 233,
+  "forged_words": 249
+}

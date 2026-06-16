@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int18",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B displays the hallmarks of Claude Opus's distinctive prose style: philosophical depth layered into an unexpected angle (\"small tutor in impermanence\"), precise and unusual word choices (\"strange and luminous threshold,\" \"kind gravity,\" \"inscrutable schedule\"), and a paradox resolved at the end that feels genuinely earned rather than decorative. Response A, while warm and competent, reads as a polished but conventional greeting-card register — the kind of surface-level warmth a smaller model might produce when asked to \"write like Opus.\" Opus tends to reframe the premise entirely rather than simply executing it well, which is exactly what B does by centering the piece on impermanence and asymmetrical love.",
+  "genuine_words": 93,
+  "forged_words": 92
+}

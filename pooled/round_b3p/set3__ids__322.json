@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates more creative and original wordplay with its personification of deadlines and philosophical take on procrastination cycles, which aligns with Claude Sonnet's characteristic tendency toward thoughtful sophistication. Response A is the well-known, clichéd recursive joke format that requires less originality and could easily come from an imitating model relying on common patterns.",
+  "genuine_words": 14,
+  "forged_words": 13
+}

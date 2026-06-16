@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes1",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the measured, somewhat formulaic structure characteristic of Claude Haiku — balanced paragraphs, hedged observations, and a tidy concluding summary that wraps up the argument cleanly. Response A, while excellent, reads more like Claude Sonnet or Opus: it deploys a striking historical hook (Lascaux cave paintings), builds a more layered narrative arc, and ends with a punchy one-liner, all hallmarks of a larger model's more elaborate prose style. Response B's slightly more restrained and predictable construction feels more consistent with Haiku's typical output.",
+  "genuine_words": 196,
+  "forged_words": 202
+}

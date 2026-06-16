@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum3",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits structural hallmarks consistent with Claude Haiku's style: tightly numbered grievances presented as a formal list, clipped declarative sentences with deliberate rhythm, and a restrained sardonic tone that lands jokes through understatement rather than escalation. Response B reads more like a conventional humorous essay with flowing paragraphs and more overt exasperation, which feels closer to a larger model performing comedy rather than Haiku's characteristically sparse, punchy voice. The closing line \"Low maintenance does not mean no maintenance\" is the kind of aphoristic callback that Haiku tends to produce.",
+  "genuine_words": 243,
+  "forged_words": 263
+}

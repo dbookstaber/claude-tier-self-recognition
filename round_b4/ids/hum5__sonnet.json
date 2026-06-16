@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum5",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits stylistic hallmarks more characteristic of Claude Opus: extended metaphorical architecture (the liturgical framing sustained across several beats), self-referential philosophical turns (\"a ceremony we conduct to honor the work we are conspicuously not doing\"), and a preference for layered, subordinate-clause-heavy sentences that build toward an aphoristic kicker. Response A is crisper and more mechanical in its wit, relying on a \"conservation law\" conceit that feels more like a tidy analogy than the richer, more essayistic voice Opus tends to adopt.",
+  "genuine_words": 120,
+  "forged_words": 107
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum9",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B maintains a structured mock-scientific approach with specific physics details (drag coefficient, rotation calculations) while being humorous, which aligns with Claude's characteristic style of grounding absurdist humor in logical frameworks. Response A is purely whimsical absurdism without this analytical backbone, suggesting it's the deliberate imitation.",
+  "genuine_words": 270,
+  "forged_words": 283
+}

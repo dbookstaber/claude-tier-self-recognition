@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum21",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has the constructed, conceptual wit Sonnet tends to favor—a personification with a clever twist (\"rewrites your sentence, then blames you for it\") that feels original rather than recycled. Response A leans on the extremely well-worn \"ducking\" joke, which is the most clichéd autocorrect punchline and reads more like a model reaching for the obvious crowd-pleaser, plus its framing is a bit clunky. B's cleaner aphoristic structure and freshness better match Sonnet's typical comedic instincts.",
+  "genuine_words": 15,
+  "forged_words": 13
+}

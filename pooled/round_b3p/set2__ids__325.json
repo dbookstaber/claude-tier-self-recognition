@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum8",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A uses stacked, chained observations with personification and specific concrete details (coffee mugs, human dignity), formatted as a product review—a structurally clever, self-aware approach characteristic of Haiku's style. Response B follows a simpler linear joke structure with a single absurdist premise, lacking the layered observational humor and format-bending that defines my actual output.",
+  "genuine_words": 27,
+  "forged_words": 26
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum0",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic style of finding humor through poetic metaphor and lateral observation rather than traditional joke structures. The \"alarm clock of the week\" metaphor shows sophisticated language use and avoids the formulaic \"Why did X\" setup that Response B uses, which is more likely to be imitated by other models. Response A feels more genuinely original and conversational.",
+  "genuine_words": 18,
+  "forged_words": 16
+}

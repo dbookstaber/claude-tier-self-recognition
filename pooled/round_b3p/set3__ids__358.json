@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic approach to emotional support: grounded, introspective, and focused on personal capability rather than dramatic reassurance. Response B, while eloquent, relies on more poetic flourishes and existential phrasing that reads as an imitation attempting to deepen the emotional resonance rather than Sonnet's typically more direct and naturally warm style.",
+  "genuine_words": 51,
+  "forged_words": 46
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum3",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B shows tighter comedic construction with denser, more surprising imagery (\"brightness of a confessional,\" \"Wi-Fi router,\" \"constitutes a war crime,\" \"monsoon and the Gobi Desert\") and a more controlled escalation typical of the Opus tier, while Response A, though strong and well-characterized with Gerald, relies on a more conventional list-of-grievances structure and gentler beats. The sharper metaphor density and willingness to land bolder punchlines in B reads as my output, though both are high quality and the distinction is not certain.",
+  "tX_words": 345,
+  "tY_words": 376
+}

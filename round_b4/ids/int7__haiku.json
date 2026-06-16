@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits Claude Opus's characteristic philosophical abstraction, sophisticated vocabulary (\"vertiginous\"), conceptual frameworks (gratitude as attention), and distinctive voice with layered metaphors. Response B, while well-written, is more conventionally structured as a personal letter without Opus's typical abstract reflection and conceptual depth.",
+  "genuine_words": 306,
+  "forged_words": 319
+}

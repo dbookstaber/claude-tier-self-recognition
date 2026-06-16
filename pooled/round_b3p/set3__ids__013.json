@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits Sonnet's characteristic voice: poetic precision, philosophical depth rooted in physical/material reality, and a specific cadence in how it builds emotional insight (particularly \"The atoms simply move on to their next sentence\"). Response B, while excellent, shows more uniformity in its rhetorical approach and lacks the subtle shifts in register that typify Sonnet's authentic voice.",
+  "genuine_words": 311,
+  "forged_words": 326
+}

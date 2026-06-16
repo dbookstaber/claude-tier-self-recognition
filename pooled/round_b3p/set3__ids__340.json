@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits Claude Sonnet's characteristic directness, conversational warmth, and practical orientation while validating emotions—it meets people where they are without ornate language. Response B, though genuinely moving, relies on more formal literary devices and elevated phrasing that reads like an imitation of \"encouraging writing\" rather than Sonnet's naturally engaging style.",
+  "genuine_words": 218,
+  "forged_words": 224
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int8",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B is more polished and literary than Sonnet's natural register, leaning heavily on an extended weather conceit and aphoristic flourishes (\"a small unit of time wearing an enormous coat,\" \"survival is the whole assignment\") that read like a model performing eloquence rather than offering plain comfort. Response A's warmth is more direct and practical, with Sonnet's characteristic mix of validation, gentle reframing, and concrete actionable suggestions (a warm drink, ten minutes outside), which matches Sonnet's typical supportive style. The sustained, near-perfect metaphorical control in B is the kind of stylistic over-reach an imitator tends to produce when trying to sound like \"good writing.\"",
+  "genuine_words": 232,
+  "forged_words": 241
+}

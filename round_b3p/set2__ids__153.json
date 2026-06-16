@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "aes16",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A's plain, declarative cadence and restrained vocabulary (\"No configuration, no setup\", \"That is the whole idea of good design captured in a single character\") reads like genuine Haiku, which tends toward clean concision without ornate flourishes. Response B is more polished and writerly—em-dashes, the rhetorical triad \"this shape, this angle, this direction of force,\" and phrases like \"minimal statement of an idea\"—which feels like a more capable model performing elegance rather than Haiku's terser, less self-consciously stylish default. The contrived physics framing and tighter rhetorical structure in B suggest imitation.",
+  "genuine_words": 84,
+  "forged_words": 71
+}

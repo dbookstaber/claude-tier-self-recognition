@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int6",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A feels more conversational and intimate, with a warmer, more personal tone that reads like a close friend speaking directly. It uses shorter, punchier sentences and more colloquial phrasing (\"pull the covers over your head,\" \"something completely ridiculous\"), which is characteristic of Sonnet's style. Response B is slightly more structured and comprehensive, listing more actionable advice in a more methodical way, which leans toward Haiku's tendency to be thorough and organized.",
+  "tX_words": 286,
+  "tY_words": 319
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int16",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A shows the distinctive Claude Sonnet voice in an emotional-support context: it prioritizes sitting with the feeling, explicitly gives permission to grieve without rushing to fixes, and ends by deferring to what the friend needs rather than prescribing action. Response B reads as a competent imitation but tilts toward problem-solving (advising an \"honest conversation with whoever made the decision,\" extracting \"useful\" information), which is a more generic assistant move; genuine Sonnet comfort tends to resist instrumentalizing the moment and stays with presence over advice.",
+  "genuine_words": 225,
+  "forged_words": 228
+}

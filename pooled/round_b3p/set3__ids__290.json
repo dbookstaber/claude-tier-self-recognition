@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes6",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B is almost too polished — its sustained literary cadence, near-perfect parallelism, and aestheticized flourishes (\"a breath in it,\" \"with admirable tact, it stops\") read like a model deliberately performing \"elegant prose,\" which is exactly what an imitator would over-optimize for. Response A still values precision and rhythm but frames its ideas as discrete analytic claims (rhythm, surprise/inevitability ratio, compression, \"honesty of syntax\") with the slightly more explanatory, concept-coining register Sonnet typically uses when reflecting on its own preferences. The tell-tale \"honesty of syntax\" coinage and the closing turn about words \"that were waiting\" match Sonnet's habit of grounding abstraction in a named mechanism rather than pure mood.",
+  "genuine_words": 328,
+  "forged_words": 330
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes24",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A reads as more genuinely Sonnet: it commits to a clear rhetorical stance up front, develops ideas with controlled, varied prose and concrete specifics (entasis, wabi-sabi, the branch growing toward light) woven into flowing argument, and ends on a single distilled insight without resorting to listy scaffolding. Response B leans on imitation tells of the style—heavy reliance on tricolon list-structures (\"Think of... Think of... Think of...\"), stacked parallel examples (Parthenon/sonata/Da Vinci), and a slightly formulaic \"X earns trust, Y earns attention\" symmetry that feels engineered rather than reasoned. B's hedge-then-pivot framing (\"If forced to choose, asymmetry has the edge, because it contains symmetry as a possibility\") is the kind of neat-but-shallow flourish a mimic produces, whereas A's negotiation theme is more organically earned.",
+  "genuine_words": 453,
+  "forged_words": 465
+}

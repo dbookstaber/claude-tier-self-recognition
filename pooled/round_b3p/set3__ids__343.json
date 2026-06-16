@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic literary sophistication and reflective depth through poetic metaphors (\"the warmth they will learn to call home\"), introspective phrasing (\"something older and simpler, an instinct you did not know you carried\"), and measured philosophical wisdom. Response B is warmly written but uses more conventional language and direct advice patterns typical of a generic model.",
+  "genuine_words": 174,
+  "forged_words": 176
+}

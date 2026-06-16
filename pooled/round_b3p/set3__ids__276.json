@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes2",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more structured, layered quality with its extended metaphor building toward an explicit philosophical observation (\"I love that the most ordinary objects keep a little music in them\"), which reflects Claude's tendency to arrive at a stated insight rather than leaving things open-ended. Response A ends on a poetic, unresolved note (\"the world briefly forgot to be plain\") that feels more like deliberate literary restraint from a model imitating a certain style. Both are well-crafted, but B's combination of concrete sensory detail with an explicit reflection on meaning feels more characteristic of Claude's expressive voice.",
+  "genuine_words": 87,
+  "forged_words": 84
+}

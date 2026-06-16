@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes7",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has a more distinctively literary quality with unusual phrasings like \"a circle that has suffered something\" and \"the geometry of efficiency that somehow never looks austere,\" suggesting a voice that reaches for unexpected metaphors rather than clean argumentation. Response B is structured more like a well-organized essay with clear topic sentences and logical progression, which feels more like an imitation of Claude's analytical style than the genuine article. A's closing — \"call that enough\" — has the kind of restrained, earned emotional landing that feels characteristic of authentic Claude prose.",
+  "genuine_words": 353,
+  "forged_words": 372
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum17",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B's lyrical, philosophically-framed argument with controlled whimsy, a clear thematic through-line, and an elegant full-circle closing line matches genuine Sonnet's tendency toward a graceful rhetorical register when asked to \"argue for\" something. Response A leans on relentless standup-style gag density and quirky absurdist specifics (\"warm ham running on caffeine and spite,\" Bureau of Rest Compliance), which reads more like an imitator reaching hard for comedy. The restrained, essayistic persuasion of B is more characteristic of authentic Sonnet.",
+  "genuine_words": 394,
+  "forged_words": 388
+}

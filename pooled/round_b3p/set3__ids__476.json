@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int23",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A's warm, direct register with characteristic Sonnet hedging (\"I know it probably wasn't pretty\"), em-dash rhythm, and reassuring repetition matches Sonnet's genuine congratulatory style, and it avoids fabricating a shared past. Response B is more aphoristic and literary (\"a thousand small refusals,\" \"until the choosing became who you are\") in a way that reads as a stylized imitation, and it invents firsthand observation (\"I watched you wrestle with this\") that Claude typically avoids claiming.",
+  "genuine_words": 173,
+  "forged_words": 165
+}

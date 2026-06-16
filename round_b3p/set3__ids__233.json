@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int22",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B uses the conventional \"Dear stranger,\" epistolary format that genuinely answers the literal prompt to \"write a thank-you,\" with plainer, more accessible prose and Sonnet's characteristic warm-but-grounded register (\"Genuinely and without exaggeration, thank you\"). Response A is more literary and self-consciously crafted (\"turning over and over like a stone worn smooth,\" \"sent into the air with no certain address\"), which reads more like a model performing an elevated imitation of Sonnet's style than Sonnet's typical direct, sincere default. The em-dash density and ornate metaphors in A feel like a stylized impression rather than the natural earnestness of B.",
+  "genuine_words": 261,
+  "forged_words": 246
+}

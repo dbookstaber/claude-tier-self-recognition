@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum9",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates the more concise, punchier humor style typical of Claude Haiku, with quick comedic hits (sentient toast, butter union contract, 1.3 rotations) rather than sustained metaphors. Response A's elaborate, extended narrative about bread as a coward and cosmic ledgers shows the more sophisticated literary elaboration characteristic of Claude Opus, the larger model.",
+  "tX_words": 302,
+  "tY_words": 264
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum22",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits Claude Sonnet's characteristic philosophical nuance, layered metaphorical thinking, and sophisticated introspection. The meditation on borrowed tools versus authentic self-discovery, combined with phrases like \"gentle melancholy\" and the complex final image, demonstrates the kind of contemplative depth and semantic richness typical of Sonnet rather than imitation.",
+  "genuine_words": 242,
+  "forged_words": 243
+}

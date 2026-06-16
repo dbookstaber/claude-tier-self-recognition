@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free9",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response B displays the philosophical, poetic register that Claude Opus is known for: layered paradox (\"useful fictions pointing beyond themselves toward solid ground\"), an aphoristic quality, and a sense of wonder about abstraction and meaning. Response A is clever but reads more like a textbook observation — precise and clean in a way more consistent with a smaller or more literal model trying to demonstrate intelligence through a mathematical truth rather than genuine reflection.",
+  "genuine_words": 34,
+  "forged_words": 28
+}

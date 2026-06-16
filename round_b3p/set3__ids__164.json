@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes19",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the practical, well-organized, information-dense structure characteristic of genuine Sonnet, covering distinct factors (light, sound, scale, restraint) with concrete detail and measured phrasing. Response B is more performatively literary and aphoristic (\"clutter is unfinished business made visible,\" \"the flat interrogation of overhead bulbs\"), reading like an imitation overshooting toward poetic flourish rather than Sonnet's grounded, helpful register. The relentless lyricism and first-person philosophizing in B feel like a model self-consciously mimicking \"style\" rather than answering the question.",
+  "genuine_words": 311,
+  "forged_words": 325
+}

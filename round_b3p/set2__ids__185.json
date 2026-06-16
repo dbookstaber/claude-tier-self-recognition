@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum16",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the spare, tightly-structured style characteristic of Haiku: short punchy paragraphs, minimal hedging, and a clean closing aphorism (\"Priorities are just honesty in action\"). Response B reads more like a larger model mimicking humor — it's wordier, uses explicit meta-commentary (\"Here's a funny defense...\"), and packs in more elaborate analogy-building that feels closer to Sonnet or Opus playing the role of a comedic writer.",
+  "genuine_words": 263,
+  "forged_words": 264
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum5",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response A has a more restrained, structured wit with a clean three-part rhythm and a punchy final line — characteristic of Haiku's tendency toward concise, well-formed observations that build to a single payoff. Response B is more elaborate and self-referential, layering multiple jokes and qualifications in a way that feels more like a larger model trying to perform cleverness, whereas A trusts a simpler premise to land on its own.",
+  "genuine_words": 66,
+  "forged_words": 54
+}

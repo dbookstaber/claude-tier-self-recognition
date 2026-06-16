@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free8",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's distinctive style: precise philosophical engagement with named thinkers (McTaggart's A-series/B-series distinction), willingness to follow an argument into genuinely counterintuitive territory, and a density of interconnected ideas that builds toward a non-obvious conclusion. Response B, while polished and elegant, relies on well-worn aphorisms (\"the future is a promise we cannot bank on\") and conventional wisdom about time perception, which reads more like a capable model performing literary reflection than Opus's characteristic tendency to destabilize familiar metaphors through rigorous analysis.",
+  "genuine_words": 329,
+  "forged_words": 334
+}

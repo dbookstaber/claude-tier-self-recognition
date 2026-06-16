@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free20",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A has the concrete, observational specificity and confident declarative rhythm (\"That is the last page. It ends. Then it waits.\") characteristic of Claude's genuine voice, including physical details (paper thickness, dog-earing, typeface notes) and named references that feel grounded rather than generic. Response B is fluent but relies on softer, more formulaic essay scaffolding (\"There's something bittersweet,\" \"Some last pages... Other last pages...\") and abstract sentiment that reads like a competent imitation of the style rather than the real thing. The lived-in specificity and the willingness to undercut sentimentality (\"This is not nostalgia. It is calibration.\") point to A as authentic Haiku.",
+  "genuine_words": 397,
+  "forged_words": 409
+}

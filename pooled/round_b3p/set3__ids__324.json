@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum8",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more nuanced, layered humor that balances warmth with wry observation — \"deeply reassuring and faintly exhausting\" is the kind of tonal complexity that tends to characterize Claude's writing style. Response A uses a more formulaic \"X: one star\" review format with a punchline list structure (bringing me down, can't fly, soufflé) that feels like a common imitation of Claude's humor rather than the genuine article.",
+  "genuine_words": 25,
+  "forged_words": 25
+}

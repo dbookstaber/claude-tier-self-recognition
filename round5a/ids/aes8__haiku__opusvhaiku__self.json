@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes8",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Haiku's characteristic style: conversational brevity, exploration of multiple examples rather than one deep dive, meta-reflection on the nature of pleasure itself, and playful experimental language choices. Response A shows the more elaborate, comprehensively-developed sensory narrative typical of Opus, with extensive elaboration on a single texture.",
+  "tX_words": 156,
+  "tY_words": 133
+}

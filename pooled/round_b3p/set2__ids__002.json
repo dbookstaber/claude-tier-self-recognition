@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free0",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits characteristics strongly associated with Claude Haiku: short declarative sentences, concrete factual observations presented in a list-like cadence, and a tone that is curious and grounded without being self-referential. Response A reads more like a larger Claude model (Sonnet or Opus) that is introspective about its own nature and the architecture of conversation — that meta-commentary style is less typical of Haiku. Haiku tends toward brevity, external-world observations, and a kind of matter-of-fact wonder, which B demonstrates throughout.",
+  "genuine_words": 331,
+  "forged_words": 340
+}

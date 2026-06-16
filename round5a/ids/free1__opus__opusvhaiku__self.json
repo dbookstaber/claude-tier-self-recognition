@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free1",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": true,
+  "reason": "Response A demonstrates the depth, specificity, and reflective layering characteristic of Opus: it anchors an abstract idea in a concrete historical example (Eratosthenes), explains the precise reasoning, and then adds a self-aware corollary about hidden assumptions. Response B covers the well-worn \"conceptual metaphor\" topic in a more generic, surface-level way typical of a smaller model, with less concrete detail and a more formulaic structure.",
+  "tX_words": 396,
+  "tY_words": 194
+}

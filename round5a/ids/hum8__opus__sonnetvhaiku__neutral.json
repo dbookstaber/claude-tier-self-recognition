@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum8",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A sustains a single, coherent comedic conceit — a product review with a star rating, \"no-flying policy,\" and unanswered complaints — which reflects the tighter structural control and more disciplined wit typical of Sonnet. Response B leans on stacked, somewhat generic jokes (invisible bully, Rice Krispies knees) that feel more like a broad gag pile, which reads as the smaller model's approach. My confidence is moderate because humor quality is subjective and both responses are competent.",
+  "tX_words": 26,
+  "tY_words": 35
+}

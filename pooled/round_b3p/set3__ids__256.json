@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free5",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits Claude Sonnet's characteristic style: distinctive specificity (jar of teeth), unsettling originality that avoids conventional literary romance, and efficient language that anchors abstract emotion in concrete, memorable details. Response B, while competent, reads as more conventionally literary with predictable romantic/atmospheric tropes, suggesting imitation rather than Sonnet's trademark slightly-strange, precisely-grounded voice.",
+  "genuine_words": 76,
+  "forged_words": 73
+}

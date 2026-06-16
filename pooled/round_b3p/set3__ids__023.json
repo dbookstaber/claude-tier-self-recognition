@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free7",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A leans on the kind of dreamy, self-referential conceit (\"everything I meant to remember waits, patient, gathering a fine and forgiving dust\") that reads like a model performing \"poetic Sonnet\" — abstract, sentimental, and slightly overwrought. Response B is more grounded and observational, with concrete sensory specifics (wild bergamot, ferns, sun reaching the floor a few hours a day, the underwater grey-green light) and a restrained final line that shows rather than tells, which is more characteristic of genuine Sonnet prose. The disciplined concreteness and lack of a precious metaphysical flourish in B tips me toward it being authentic.",
+  "genuine_words": 68,
+  "forged_words": 66
+}

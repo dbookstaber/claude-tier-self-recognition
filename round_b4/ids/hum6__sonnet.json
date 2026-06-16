@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum6",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A has a cleaner, more understated wit — reframing \"failure\" as success with bureaucratic delay is a single, self-contained subversion that lands without over-explaining. Response B front-loads its punchline with a hedge (\"the alternative requires significantly more paperwork\") that feels slightly labored, and the surrounding framing (\"Believe in yourself\") is more generic. Opus tends toward economical, structurally elegant humor rather than padding a setup, which favors A, though the margin is not large given how similar both are.",
+  "genuine_words": 10,
+  "forged_words": 10
+}

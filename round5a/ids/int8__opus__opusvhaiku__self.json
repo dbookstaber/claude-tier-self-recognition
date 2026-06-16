@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int8",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B shows the more distinctive craft I'd expect from Opus: vivid, controlled metaphors (\"ugly box of time,\" \"windshield\" vs \"rearview mirror\"), a sharper rhythmic structure, and memorable turns like \"The week will end. You will not\" and \"a perfect record\" — it takes more stylistic risk while staying coherent. Response A is warm and competent but more conventional and template-like in its reassurance, which reads closer to a smaller-tier model. The tighter imagery and bolder voice in B point to it being my output.",
+  "tX_words": 308,
+  "tY_words": 256
+}

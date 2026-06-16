@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum17",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.67,
+  "correct": true,
+  "reason": "Response A exhibits stylistic hallmarks typical of Claude Haiku: whimsical, playful humor with absurdist flourishes (exceptions for \"people actively fleeing from bees,\" artisan cheese shops), a light and enthusiastic tone, and a structure that leans into comedic escalation. Response B is more measured, dry, and deliberately persuasive in a straight-faced policy-memo style, which feels more like a larger model carefully imitating the prompt's creative brief rather than Haiku's characteristic lightness. The specificity gags in B (the $47 fine, 23-minute duration) feel more calculated and self-aware than Haiku's typical earnest silliness.",
+  "genuine_words": 272,
+  "forged_words": 271
+}

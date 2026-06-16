@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes20",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic lyrical, metaphorically rich prose style with stronger poetic sensibility (\"time is writing, and rust is its ink,\" \"We too oxidize\"), more sophisticated emotional resonance, and the kind of elegant personal insight woven into universal truths that distinguishes Sonnet's voice. Response A, while well-written, reads more like systematic essay-writing without Sonnet's distinctive blend of intellectual rigor and felt emotion.",
+  "genuine_words": 575,
+  "forged_words": 606
+}

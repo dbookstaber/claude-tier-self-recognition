@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes3",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates the more capable model's hallmarks: a non-obvious thesis, layered argumentation (intensity-as-proxy, social calcification, beauty that \"differentiates\" vs. \"flattens\"), varied prose rhythm, and a sharp closing turn (\"functional eyes and a pulse\"). Response A is fluent and well-structured but leans on conventional, widely-cited talking points (golden ratio, weathered faces, sterile music) with a more formulaic feel, which reads more like the smaller Haiku model. Thus Sonnet most likely wrote B.",
+  "tX_words": 318,
+  "tY_words": 193
+}

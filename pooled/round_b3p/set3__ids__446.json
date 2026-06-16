@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum23",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": true,
+  "reason": "Response A builds a layered comic escalation (migration, underground civilization, planned obsolescence) and then lands a genuine emotional/observational turn (\"the real pen thief has been you all along\"), which fits Sonnet's tendency to ground absurdist comedy in a concrete, slightly self-aware human truth. Response B is polished and witty but leans on overworked literary tropes (\"quantum ambiguity,\" \"the way socks do, the way regrets do,\" \"contemplate eternity\") that read as a model performing \"elegant whimsy\" rather than Sonnet's more grounded, varied bit-building. B's uniformly ornate register and rule-of-three flourishes feel like stylistic imitation, whereas A's looser, escalating structure and punchy final reversal are more characteristic of authentic Sonnet humor.",
+  "genuine_words": 339,
+  "forged_words": 353
+}

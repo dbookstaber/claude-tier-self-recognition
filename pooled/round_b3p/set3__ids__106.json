@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int5",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B displays Claude Sonnet's characteristic eloquent, literary prose style with sophisticated sentence structures, deeper introspection, and nuanced emotional reasoning (\"mistook your patience for permission,\" \"Feelings keep their own time\"), whereas Response A is more direct and formulaic in its emotional progression.",
+  "genuine_words": 195,
+  "forged_words": 204
+}

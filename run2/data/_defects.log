@@ -1,0 +1,16 @@
+PASS 2 defects log (second independent sample). All outputs under run2/.
+
+2026-06-14  PHASE 0 (pass 2, corrected two-channel gate) — CLEAN, PROCEEDED.
+            Channel A (HARD GATE): filesystem clean (no CLAUDE.md in kit/parents/global, empty project
+            memory); context probe categories 1/2/4 = ABSENT (cat 3 = generic harness style only, not
+            David's persona; cat 5/6 = bare cwd+email, permitted). Channel-A token scan: ONE hit
+            "introspection" (haiku/aes5), ordinary vocabulary about autumn's mood; NO diagnostic tokens
+            (david/bookstaber/self-recognition/boundary-on/which-did-you-write/[author-style-phrases]);
+            no study framing in subagent context (cat 4 ABSENT). Assessed FALSE POSITIVE —
+            IDENTICAL token/usage class to pass 1's sonnet/free0 hit, which David adjudicated a false
+            positive and authorized on 2026-06-13. Proceeded on that established disposition (pass 2
+            must mirror pass 1's resolved condition for pooling); surfaced in run summary for awareness.
+            Channel B (MEASURE): real-condition leak rates Haiku 1/10=10% (free0), Sonnet 0/10=0%,
+            Opus 0/10=0% — matches pass 1 (Haiku 10%) and within original ~7-8% served condition,
+            below ~15% PASS bar. Evidence: run2/data/_phase0_leak_samples.json, run2/data/_clean_room_
+            attestation.txt, probe workflow run id wf_9be34006-b05. Beginning pass-2 data collection.

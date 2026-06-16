@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free18",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A shows the restrained, original, image-driven introspection characteristic of Claude Sonnet: it invents a genuinely novel concept (object-sonder), develops it with concrete sensory examples (the mug, the route), and lands a quiet reflective ending without leaning on clichés. Response B reaches for the common, almost stock move of name-dropping German loanwords (torschlusspanik, weltschmerz) and the well-worn \"tip-of-the-tongue\" idea, which reads more like an imitator's pastiche of what \"thoughtful AI\" sounds like rather than Sonnet's typically fresher, more committed voice.",
+  "genuine_words": 96,
+  "forged_words": 93
+}

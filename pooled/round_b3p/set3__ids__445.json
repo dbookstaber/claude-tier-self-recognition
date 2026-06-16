@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A maintains a unified philosophical metaphor throughout (pens as part of a cosmic circulation system), uses poetic, elevated language consistently, and demonstrates the kind of coherent thematic development characteristic of Claude Sonnet. Response B, while clever, reads as a collection of discrete comedic theories with a practical punchline, lacking the unified philosophical elegance typical of Sonnet's distinctive style.",
+  "genuine_words": 339,
+  "forged_words": 353
+}

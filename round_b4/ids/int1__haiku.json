@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Opus's characteristic literary sophistication, philosophical depth, and refined use of metaphor (\"the sudden subtraction of a whole grammar of daily life\"). Response B, while warm and appropriate, uses more conventional, formulaic language typical of other models or standard condolence writing.",
+  "genuine_words": 60,
+  "forged_words": 57
+}

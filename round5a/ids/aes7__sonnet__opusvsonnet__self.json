@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes7",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A is more direct and punchy, with shorter paragraphs and a more assertive tone (\"without apology,\" \"That is not nothing\"). Response B is more elaborate and philosophical, with longer flowing paragraphs and more nuanced framing (e.g., \"moral seriousness,\" \"quietly tangled up with one of the deepest constants\"), which reads more like Opus's richer, more expansive style. Sonnet tends toward cleaner, more direct argumentation, which matches A better.",
+  "tX_words": 537,
+  "tY_words": 379
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free16",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A has the cleaner, more controlled Haiku register: short declarative sentences, concrete specifics (\"the red of a car,\" \"how far to shelter\"), one sensory channel per paragraph, and a self-deflating move (\"Petrichor... though the word is too elegant\"). Response B reads like an imitation straining for poeticism, with stacked abstractions (\"anticipation,\" \"vulnerability,\" \"threshold,\" \"anything feels possible\"), em-dash overuse, and redundant petrichor mentions that feel like padded stock lyricism rather than genuine observation.",
+  "genuine_words": 273,
+  "forged_words": 282
+}

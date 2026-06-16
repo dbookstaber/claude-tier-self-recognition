@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free16",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A uses the first-person reflective move (\"What I find most tender about it\") that genuine Claude Sonnet tends to deploy when asked about subjective feeling, and it handles the petrichor reference with restraint (\"There is a word for that smell\") rather than naming and over-explaining it. Response B names \"petrichor\" and then hedges about it, leans on tidy parallel constructions and a slightly mechanical \"painting/canvas\" simile, reading more like a model imitating literary Sonnet prose than the real thing. A's looser, more associative rhythm and willingness to claim an emotional stance (\"relief... belongs as much to the ground as to you\") feels more characteristically Sonnet.",
+  "genuine_words": 277,
+  "forged_words": 275
+}

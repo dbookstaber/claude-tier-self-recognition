@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes0",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A has a more measured, analytical structure that methodically examines each word before reaching a conclusion — a pattern consistent with how I tend to approach comparative aesthetic questions. Response B, while eloquent, leans heavily on extended metaphors (\"beautiful glass,\" \"hold it in your mouth\") and a more performative literary flourish that feels slightly over-crafted, as if trying to match the poetic subject matter too deliberately. The ending of B (\"the way a whisper does, into the air around it\") reads as stylistically ornate in a way that feels more like an imitation of my style than my actual voice.",
+  "genuine_words": 284,
+  "forged_words": 284
+}

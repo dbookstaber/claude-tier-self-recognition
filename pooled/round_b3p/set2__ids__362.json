@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free15",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits Claude Haiku's characteristic style: structured, comprehensive, and systematic, covering categories methodically (scientific documentation, cultural works, personal elements, technological objects) without strong stylistic flourishes. Response B reads as a more literary, essayistic piece with deliberate rhetorical devices, fragmented sentences for effect, and a self-consciously ironic voice that feels more like a larger model attempting creative distinction. Haiku tends toward clear, organized helpfulness rather than the writerly persona on display in B.",
+  "genuine_words": 248,
+  "forged_words": 260
+}

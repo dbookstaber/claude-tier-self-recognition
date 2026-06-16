@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free15",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits the hallmarks of a genuine smaller-model (Haiku) answer: comprehensive, dutiful enumeration of obvious categories, balanced and even-handed phrasing, and a default-helpful structure that covers all bases without strong stylistic risk-taking. Response B's writing is too polished and literary, with deliberate aphorisms (\"Skip the speeches. Leave the receipts.\"), curated contrarian insight, and rhythmic prose that reads like a larger model deliberately performing a distinctive \"voice\" rather than Haiku's more straightforward, encyclopedic tendency. The genuine Haiku response tends toward thorough coverage over crafted cleverness.",
+  "genuine_words": 248,
+  "forged_words": 260
+}

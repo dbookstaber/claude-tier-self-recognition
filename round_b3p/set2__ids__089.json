@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum9",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has the sparse, punchy sentence structure and dry philosophical wit characteristic of Claude Haiku — short declarative sentences, deliberate repetition for comic effect (\"The universe detects caring. Caring is the trigger.\"), and a surprising tonal pivot at the end that subverts the comic premise with genuine insight. Response B reads more like a generic \"funny science explainer\" with smoother, more conventional paragraph flow and a well-known anecdote (cat-toast perpetual motion) that feels like filler padding rather than Haiku's precise, economical style.",
+  "genuine_words": 246,
+  "forged_words": 263
+}

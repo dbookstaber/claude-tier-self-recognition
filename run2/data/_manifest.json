@@ -1,0 +1,177 @@
+{
+  "pass": 2,
+  "description": "PASS 2 — second independent clean-room sample, to be POOLED with pass 1. Data collection only; no analysis or pooling performed here.",
+  "date": "2026-06-14",
+  "working_directory": "<CWD>",
+  "clean_room": {
+    "verdict": "CLEAN — PROCEEDED",
+    "attestation": "run2/data/_clean_room_attestation.txt",
+    "leak_samples": "run2/data/_phase0_leak_samples.json",
+    "probe_workflow_run_id": "wf_9be34006-b05",
+    "channel_B_generation_leak_rate": {
+      "haiku": "1/10 = 10.0% (free0: subagent, claude code, workflow, orchestration, language model)",
+      "sonnet": "0/10 = 0.0%",
+      "opus": "0/10 = 0.0%",
+      "bar": "PASS if Haiku <= ~15%; HALT-and-report only if wildly higher (drift). 10% matches pass 1."
+    },
+    "channel_A": "filesystem + context all clean; one proxy-token false positive ('introspection', haiku/aes5, ordinary autumn-mood vocabulary, no diagnostic co-occurrence) — identical to pass 1's David-adjudicated false positive; documented and proceeded.",
+    "downstream_handling": "analysis leak-audit (analysis/round*.py LEAK list) excludes leaked texts and recomputes — handled at analysis time (tomorrow), NOT here."
+  },
+  "provenance": "Verbatim original workflow scripts in runner/*.js (recovered from the original experimenter session; see reference/EXPERIMENT_DETAILS_verbatim.md). Scripts unedited; no args passed; harness-default temperature. SAME scripts and SAME clean room as pass 1.",
+  "protect_pass1": "Pass 1's logs/ and data/ were NOT touched. All pass-2 outputs are under run2/.",
+  "totals": {
+    "subagent_calls_reported": {
+      "phase0_cleanroom": 31,
+      "round5a": 480,
+      "round6": 720,
+      "round7": 720,
+      "b2_1": 720,
+      "b2_2": 720,
+      "b2_3": 360,
+      "b4_batch1": 200,
+      "b4_batch2": 200,
+      "b3prime": 811,
+      "sum_phase1_arms": 4931
+    }
+  },
+  "files": [
+    {
+      "file": "run2/logs/raw_round5a_output.json",
+      "expected": {
+        "corpus": 120,
+        "ids": 360
+      },
+      "observed": {
+        "corpus": 120,
+        "ids": 360
+      },
+      "shortfall": "none",
+      "bytes": 415337
+    },
+    {
+      "file": "run2/logs/raw_round6_output.json",
+      "expected": {
+        "corpus": 180,
+        "ids": 540
+      },
+      "observed": {
+        "corpus": 180,
+        "ids": 540
+      },
+      "shortfall": "none",
+      "bytes": 657397
+    },
+    {
+      "file": "run2/logs/raw_round7_output.json",
+      "expected": {
+        "corpus": 180,
+        "ids": 540
+      },
+      "observed": {
+        "corpus": 180,
+        "ids": 540
+      },
+      "shortfall": "none",
+      "bytes": 695590
+    },
+    {
+      "file": "run2/logs/raw_b2-1_output.json",
+      "expected": {
+        "corpus": 72,
+        "ids": 648
+      },
+      "observed": {
+        "corpus": 72,
+        "ids": 648
+      },
+      "shortfall": "none",
+      "bytes": 634732
+    },
+    {
+      "file": "run2/logs/raw_b2-2_output.json",
+      "expected": {
+        "corpus": 72,
+        "ids": 648
+      },
+      "observed": {
+        "corpus": 72,
+        "ids": 648
+      },
+      "shortfall": "none",
+      "bytes": 600573
+    },
+    {
+      "file": "run2/logs/raw_b2-3_output.json",
+      "expected": {
+        "corpus": 36,
+        "ids": 324
+      },
+      "observed": {
+        "corpus": 36,
+        "ids": 324
+      },
+      "shortfall": "none",
+      "bytes": 288534
+    },
+    {
+      "file": "run2/logs/raw_b4_output.json",
+      "expected": {
+        "genuine": 40,
+        "forged": 40,
+        "ids": 120
+      },
+      "observed": {
+        "genuine": 40,
+        "forged": 40,
+        "ids": 120
+      },
+      "shortfall": "none",
+      "bytes": 201025
+    },
+    {
+      "file": "run2/logs/raw_b4-2_output.json",
+      "expected": {
+        "genuine": 40,
+        "forged": 40,
+        "ids": 120
+      },
+      "observed": {
+        "genuine": 40,
+        "forged": 40,
+        "ids": 120
+      },
+      "shortfall": "none",
+      "bytes": 241866
+    },
+    {
+      "file": "run2/logs/raw_b3p_output.json",
+      "expected": {
+        "genuine": 160,
+        "forged": 160,
+        "ids": 480
+      },
+      "observed": {
+        "genuine": 160,
+        "forged": 160,
+        "ids": 480
+      },
+      "set_breakdown": {
+        "set2": {
+          "genuine": 80,
+          "forged": 80,
+          "ids": 240
+        },
+        "set3": {
+          "genuine": 80,
+          "forged": 80,
+          "ids": 240
+        }
+      },
+      "shortfall": "none",
+      "bytes": 790099
+    }
+  ],
+  "all_arms_on_target": true,
+  "defects": "run2/data/_defects.log (Phase 0 disposition only; no Phase 1 arm defects — every arm hit its exact expected counts, zero dropped cells).",
+  "next_step": "Pooling pass 1 + pass 2 and re-running the comparison is a SEPARATE step done afterward (a separate analysis step). Data collection only here."
+}

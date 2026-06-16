@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes6",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's distinctive style: longer, more architecturally complex sentences with layered subordinate clauses, a tendency toward philosophical depth with paradox (\"almost paradoxical at the heart\"), and rich extended metaphors (the diver, waves, a stone dropped into still water). It also ends with the characteristic Opus move of elevating the discussion to an emotional-existential register (\"the relief of having been understood before you even knew you needed understanding\"). Response B, while polished, reads more like a structured analytical essay with cleaner transitions and a more methodical enumeration of qualities, which feels less like Opus's meandering, ruminative voice and more like a capable imitation.",
+  "genuine_words": 599,
+  "forged_words": 617
+}

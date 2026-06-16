@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum7",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates the kind of elegant, self-referential wit that Claude Opus is known for — the entire joke IS the procrastination, delivered in four words with perfect comic economy. Response A is verbose and over-explained, which reads more like a model trying to perform humor by constructing a conventional joke structure rather than actually being clever. Opus tends to favor sharp, minimalist wit over labored setups.",
+  "genuine_words": 24,
+  "forged_words": 6
+}

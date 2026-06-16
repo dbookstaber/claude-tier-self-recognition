@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits the sophisticated linguistic economy and philosophical precision associated with Claude Opus, using elegant parallel structure and delivering its observation in a single, refined statement. Response B displays the more conversational, elaborative style typical of Claude Sonnet, building the humor through multiple sentences and puns rather than achieving impact through linguistic elegance.",
+  "tX_words": 30,
+  "tY_words": 14
+}

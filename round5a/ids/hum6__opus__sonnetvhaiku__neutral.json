@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum6",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B develops a fuller comedic premise with a layered, situational joke (procrastination reframed as \"strategic productivity\" with the cat-videos detail), which reflects the richer instruction-following and elaboration typical of the more capable Sonnet tier. Response A is a tighter, more conventional aphorism—competent but simpler and more formulaic, which fits the smaller Haiku model. The more sustained setup-and-payoff structure in B suggests greater capability.",
+  "tX_words": 19,
+  "tY_words": 32
+}

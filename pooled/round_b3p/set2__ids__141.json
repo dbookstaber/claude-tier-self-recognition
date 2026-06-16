@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free22",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Response A shows the controlled economy, varied sentence rhythm, and slightly unexpected phrasing (\"shift registers,\" \"lit from within\") characteristic of genuine Haiku output, whereas Response B leans on a dense stack of conventional clichés (\"dark sentinels,\" \"pierce the sky,\" \"glowing like scattered stars,\" \"never truly rests\") that reads more like an imitation or generic default style. A's restraint and originality, rather than the predictable poetic boilerplate in B, points to it being the authentic Haiku response. Confidence is moderate because both are plausible and stylistic mimicry is hard to distinguish definitively.",
+  "genuine_words": 115,
+  "forged_words": 115
+}

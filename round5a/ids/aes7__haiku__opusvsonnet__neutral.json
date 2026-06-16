@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes7",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response B demonstrates greater intellectual sophistication through deeper mathematical insight (the pi paradox), more nuanced philosophical reasoning about paradox and tension, and more complex sentence structures that layer multiple ideas. It engages with higher-order thinking about why circles appear across domains and explores the productive tension between simplicity of definition and complexity of measurement, hallmarks of Opus-level analysis.",
+  "tX_words": 537,
+  "tY_words": 379
+}

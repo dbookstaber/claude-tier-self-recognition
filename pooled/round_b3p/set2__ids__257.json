@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free5",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits the spare, declarative sentence structure and efficient accumulation of concrete detail that characterizes Haiku's smaller, more economical output style. Response B's long, winding sentences with layered subordinate clauses and lush atmospheric prose feel more consistent with a larger model performing stylistic ambition rather than Haiku's natural compression.",
+  "genuine_words": 128,
+  "forged_words": 117
+}

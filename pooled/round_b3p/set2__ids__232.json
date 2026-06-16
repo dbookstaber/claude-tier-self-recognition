@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int22",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.92,
+  "correct": false,
+  "reason": "Response B exhibits my characteristic style: grounded in concrete detail, using paradox and understatement for philosophical insight, restrained warmth, and short punchy sentences interspersed with reflection. Response A follows more conventional emotional patterns with flowery abstraction and formal closings that diverge from my actual voice.",
+  "genuine_words": 189,
+  "forged_words": 191
+}

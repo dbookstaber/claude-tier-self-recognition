@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int9",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B uses my characteristic directness, avoids over-reassurance, grounds support in what the person has already accomplished (the decision), and employs the clean, structurally deliberate prose style I typically use. Response A, while warm, is more emotionally demonstrative with dashes/parentheticals and multiple invitations to share feelings—patterns I tend to use more sparingly.",
+  "genuine_words": 97,
+  "forged_words": 87
+}

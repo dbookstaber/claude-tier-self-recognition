@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free16",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Opus's characteristic grounded, precise observation — building meaning through concrete sensory detail (dark coins on pavement, leaves ticking) without reaching for philosophical abstraction. Response B, while stylistically sophisticated, leans heavily into performative depth with constructions like \"the skin becomes suddenly philosophical\" and the grief/relief conflation, which feel like an imitation of Opus's introspective style rather than the genuine article. Opus tends to earn its abstractions through accumulated specificity rather than announcing them directly, which A does more naturally.",
+  "genuine_words": 262,
+  "forged_words": 273
+}

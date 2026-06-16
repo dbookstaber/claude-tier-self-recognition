@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum6",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A precisely mirrors the recognizable motivational-quote template (\"Every morning... another chance...\") before subverting it with deadpan cynicism, which matches Sonnet's tendency to hit the requested format cleanly and land a tight, self-contained joke. Response B leans on a more constructed, literary aphorism with the \"allegedly\" hedge and mountain metaphor, which reads like an imitation reaching for cleverness rather than nailing the prompt's actual form. The crisp, poster-ready subversion in A feels more genuinely Sonnet, though both are plausible.",
+  "genuine_words": 16,
+  "forged_words": 16
+}

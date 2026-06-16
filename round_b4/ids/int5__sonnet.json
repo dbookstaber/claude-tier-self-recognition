@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int5",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits hallmark Claude Opus stylistic traits: a philosophical opening that reframes the situation through metaphor (\"a particular kind of silence... weighted with\"), elevated and precise diction (\"reflexive sorry that is really a clearing of the throat,\" \"the texture of your experience\"), and a tendency to construct meaning through layered abstraction before arriving at the direct apology. Response A is well-crafted but reads more plainspoken and direct, resembling a capable but less rhetorically ambitious model. Opus characteristically leads with conceptual framing rather than the direct emotional statement, which B does and A does not.",
+  "genuine_words": 165,
+  "forged_words": 169
+}

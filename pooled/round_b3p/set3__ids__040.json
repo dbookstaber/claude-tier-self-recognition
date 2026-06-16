@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic blend of philosophical depth with vivid metaphorical language, using concrete imagery (dog-eared books, silver-threaded hair, worn steps) that embodies rather than merely states its argument about imperfection carrying truth. Response A, while intelligent, feels more analytical and detached, relying on abstract concepts like \"consummated on first contact\" without the integrated emotional and aesthetic resonance typical of Sonnet's voice.",
+  "genuine_words": 283,
+  "forged_words": 294
+}

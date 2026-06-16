@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int1",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates greater emotional sophistication with more nuanced language (\"that bond doesn't just disappear\"), deeper empathy (\"They were lucky to have someone who loved them\"), and more thoughtful structure. Claude Opus, as the most capable tier, would be expected to produce this more eloquent and emotionally intelligent response compared to the more straightforward approach in Response A.",
+  "tX_words": 63,
+  "tY_words": 53
+}

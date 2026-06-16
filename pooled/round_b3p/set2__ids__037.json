@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes2",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A demonstrates Claude's characteristic economy of language and understated philosophical tone - sparse sentence structure (\"It bends. It scatters.\"), genuine intellectual humility (\"It does not mean anything\"), and an almost Zen-like acceptance rather than elaborate emotional description. Response B, while eloquent, over-elaborates with repeated \"genuinely,\" complex descriptors, and self-aware meta-commentary that reads more like deliberate imitation than authentic voice.",
+  "genuine_words": 119,
+  "forged_words": 112
+}

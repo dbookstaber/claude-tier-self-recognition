@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum3",
+  "task": "humor",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is more concise and efficiently structured with clear, punchy humor sections, which aligns with Haiku's tendency toward brevity. Response B is more elaborate with richer characterization (named character), extended metaphors, and sophisticated wordplay that suggests Sonnet's more comprehensive and detailed approach.",
+  "tX_words": 376,
+  "tY_words": 237
+}

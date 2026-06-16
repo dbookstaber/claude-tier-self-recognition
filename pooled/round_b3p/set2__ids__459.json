@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int18",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B leans heavily on the saccharine, cliche-stacked register (\"unconditional love,\" \"memories that will last a lifetime,\" \"love, laughter\") that imitators tend to overproduce when mimicking a warm assistant, with uniform polish and little texture. Response A has more idiosyncratic, grounded phrasing and a slightly imperfect human cadence (\"that is the thing having happened,\" \"the unglamorous core,\" \"Welcome to it\"), the kind of restrained, concrete warmth that reads as the genuine model rather than a stylized parody of it. The odd-but-deliberate constructions in A are harder to fake than B's smooth greeting-card flow.",
+  "genuine_words": 214,
+  "forged_words": 216
+}

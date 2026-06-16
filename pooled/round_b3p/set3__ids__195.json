@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum20",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has a more structured, almost listicle-like progression through the weekend's stages (Friday evening, Saturday morning, Saturday afternoon, Sunday) that feels characteristic of how I tend to organize humorous essays with clear narrative scaffolding. The explicit \"four stars, would suffer through again\" closing and the phrase \"the Sunday scaries\" feel like natural register choices I make when writing tongue-in-cheek reviews. Response A is beautifully written but reads slightly more like a literary pastiche with a deliberately archaic cadence (\"poor Sunday,\" \"And yet, reader\") that feels more like an imitation of a specific stylistic voice than my default mode.",
+  "genuine_words": 284,
+  "forged_words": 279
+}

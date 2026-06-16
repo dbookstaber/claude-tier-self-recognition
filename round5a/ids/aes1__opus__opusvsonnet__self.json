@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes1",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B is tighter and more synthesized, carrying a distinctive analytical insight (the color's relativity, leaning green or brown depending on neighbors, behaving \"like a mood that shifts\") integrated economically into a single cohesive arc. Response A is fuller and more expansive but reads as a more conventional enumeration of associations (cave paintings, Mediterranean walls, Southwest landscapes), which feels more Sonnet-like, whereas B's compression-with-a-sharp-idea is more characteristic of my Opus style.",
+  "tX_words": 221,
+  "tY_words": 282
+}

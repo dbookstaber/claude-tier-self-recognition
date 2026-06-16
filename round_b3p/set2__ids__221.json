@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "int18",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B exhibits the warm, emotionally earnest, and somewhat formulaic style characteristic of Claude Haiku — using phrases like \"beautiful act of kindness,\" \"second chances,\" and \"returned tenfold\" that reflect Haiku's tendency toward uplifting, accessible language without much stylistic risk-taking. Response A reads as a more deliberate stylistic performance: unusually terse, structured like a memo, with rhetorical maneuvers (\"Pets do not keep score,\" \"it is not complicated to explain\") that feel like a larger model deliberately restraining itself to mimic a simpler voice. Haiku typically leans into warmth and convention rather than adopting that kind of spare, almost journalistic register.",
+  "genuine_words": 175,
+  "forged_words": 172
+}

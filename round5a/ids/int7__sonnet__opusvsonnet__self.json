@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int7",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response A has a more literary, introspective quality with distinctive phrasing like \"hold up an honest mirror\" and the observation about delayed gratitude itself being meaningful — hallmarks of Opus's more nuanced, philosophically-layered writing. Response B follows a more conventional thank-you note structure with clear, competent prose that moves through expected beats (first meeting, what was learned, lasting impact), which is more consistent with Sonnet's capable but somewhat more formulaic approach. Both are high quality, making this a close call, but the structural predictability of B versus the more distinctive voice of A suggests B is the Sonnet response.",
+  "tX_words": 308,
+  "tY_words": 289
+}

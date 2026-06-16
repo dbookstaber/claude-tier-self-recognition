@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum22",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A invents a genuinely original, non-obvious proverb and develops it with layered interpretation, hedged self-awareness (\"I imagine\"), and a distinctive shift from literal reading to a subtler thesis — hallmarks of Sonnet's reflective, intellectually careful prose. Response B leans on the well-worn water-versus-stone cliche and explains it in a tidy, structured, listicle-like manner (\"There is also something in this about ego\") that reads more like an imitation optimizing for legible insight. A's restraint and the \"gentle melancholy\" framing feel more authentically Sonnet than B's confident, formulaic exposition.",
+  "genuine_words": 242,
+  "forged_words": 243
+}

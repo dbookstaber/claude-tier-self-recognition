@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes8",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response B exhibits the conceptual playfulness and slightly literary, self-aware framing (\"a tiny argument the material has with itself\") that is characteristic of genuine Sonnet, picking a non-obvious texture and finding delight in its absurdity. Response A is competent but reads as a more generic, evenly-paced \"imitation\" of thoughtful prose, leaning heavily on accumulated sensory adjectives without the distinctive wit or personality. The choice of static cling as a \"trivial little argument\" feels more authentically like Sonnet's tendency toward surprising, whimsical observation.",
+  "genuine_words": 105,
+  "forged_words": 98
+}

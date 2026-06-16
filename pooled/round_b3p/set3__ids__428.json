@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum17",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A matches Sonnet's characteristic approach to a \"argue for a ridiculous law\" prompt: it commits to the comedic bit with confident, mock-serious escalation, concrete fabricated statistics, a clean structured argument (science/economics/constitutional/enforcement), and rhythmic punchy asides and closers (\"This is simply physics,\" \"Pilots especially,\" \"Pass the bill. Lie down. Wake up.\"). Response B is more uniformly lyrical and essayistic, reaching for sustained literary metaphor and meditative profundity, which reads like a different model's idea of \"elevated Sonnet style\" rather than Sonnet's actual playful, deadpan-advocacy register for humor prompts.",
+  "genuine_words": 556,
+  "forged_words": 591
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int0",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A reads as more natural and direct warmth without overly stylized phrasing, using conversational language like \"makes my heart so happy\" and \"Can't wait to hear all about the first day\" that feels genuine and unaffected. Response B has a more self-consciously literary quality with constructions like \"The job you wanted is now the job you have\" and \"feel the size of it\" that feel like deliberate style imitation rather than natural expression. Claude tends toward warmth that flows conversationally rather than crafted aphoristic prose.",
+  "genuine_words": 66,
+  "forged_words": 61
+}

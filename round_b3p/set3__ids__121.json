@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic balance of systematic thinking with eloquence, includes historical perspective and structural organization, and provides concrete reasoning throughout. Response A, while beautifully written, maintains an overly consistent lyrical register that feels more like stylistic imitation than Sonnet's typical approach of thoughtful clarity paired with insight.",
+  "genuine_words": 457,
+  "forged_words": 479
+}

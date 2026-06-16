@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum4",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits Claude Haiku's characteristic style: short declarative sentences, dry wit with minimal ornamentation, a matter-of-fact tone that builds absurdity through specificity, and a punchy recursive ending (\"Nobody knows what the point is. That is also the point.\"). Response A reads more like Claude Sonnet or Opus — it uses elaborate, flowing prose with nested clauses, percentage statistics for comic effect, and a more expansive narrative structure that goes well beyond Haiku's typically terse, efficient style.",
+  "genuine_words": 313,
+  "forged_words": 315
+}

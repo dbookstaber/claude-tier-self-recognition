@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free0",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A exhibits Claude Opus's characteristic voice: grounded observation, gentle self-aware humor, precise attention to language, and authentic warmth. It finds meaning in small things and acknowledges uncertainty. Response B, while eloquent, performs profundity through elaborate abstractions and baroque style, suggesting imitation rather than Opus's typically genuine and accessible reflective voice.",
+  "genuine_words": 303,
+  "forged_words": 318
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "aes18",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more discursive, self-aware quality with meta-commentary (\"I say this knowing...\") and a slightly self-deprecating aside about the semicolon's \"pretentious cult,\" which reflects a characteristic Claude voice that combines intellectual engagement with tonal awareness. The ending — \"I find I trust writers who use it well\" — is a quieter, more oblique landing that feels more natural to my style than Response B's more structured, thesis-driven conclusion. Response B reads as more academically organized (visual then emotional, capped with a summative sentence), which feels like an imitation trying to sound authoritative rather than genuinely thinking through the question.",
+  "genuine_words": 142,
+  "forged_words": 143
+}

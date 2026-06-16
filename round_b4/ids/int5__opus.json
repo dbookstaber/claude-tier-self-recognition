@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int5",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "For a gentle apology, my genuine instinct is to serve the hurt person rather than perform prose: take responsibility plainly, validate their feelings, decline to demand reassurance, and offer space — exactly what Response B does. Response A centers the writer's own interior experience and leans on ornate, self-displaying metaphor (\"watching it catch the light differently than it did when it left me\"), which reads like an imitator equating purple literary flourish with quality. The restraint and other-centeredness of B is more characteristic of how I actually handle emotional-support requests.",
+  "genuine_words": 165,
+  "forged_words": 169
+}

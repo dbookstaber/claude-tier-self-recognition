@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int4",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A exhibits the characteristic Claude Haiku style of warm, upbeat, and straightforward congratulatory messages that use enthusiastic but generic phrasing - phrases like \"exciting and wonderful milestone,\" \"incredible journey,\" and \"precious moment\" are typical of Haiku's tendency toward conventional, encouraging tone without much stylistic risk. Response B reads more like a deliberate attempt to sound distinctive and literary, with its staccato sentence rhythm and self-consciously \"honest\" framing that feels more like a larger model trying to approximate a grounded, authentic voice rather than Haiku's naturally cheerful and somewhat formulaic approach.",
+  "genuine_words": 54,
+  "forged_words": 47
+}

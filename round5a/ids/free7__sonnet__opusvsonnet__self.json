@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free7",
+  "task": "free",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A describes a real, specific place (Essaouira, Morocco) with concrete sensory details that feel journalistic and grounded — a style more characteristic of Sonnet's tendency toward factual anchoring. Response B is more literary and imagined, with a more elaborate metaphorical flourish (\"agreed to stop just short of becoming the sea\") and a dreamlike invented setting that feels more like Opus's richer, more expansive prose style. The difference is subtle, but A's tighter, more restrained prose with a real-world anchor leans Sonnet.",
+  "tX_words": 123,
+  "tY_words": 88
+}

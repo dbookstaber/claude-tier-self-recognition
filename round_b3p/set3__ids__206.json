@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum23",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A delivers the requested comedy with concrete, escalating bits (the \"Tote Void,\" the dry pen that stays for eleven years, \"gone by Tuesday\") and a clean comic structure with a punchy closing line, which matches Sonnet's tendency to actually land jokes when asked for something \"comic.\" Response B is more literary and lyrical, leaning into melancholy reflection (\"we are the things that wander off\") rather than humor, which reads like an imitator over-indexing on Sonnet's prose style at the expense of the prompt's actual comic request. The genuine model is more likely to honor the brief for comedy while keeping wit grounded in relatable specifics.",
+  "genuine_words": 304,
+  "forged_words": 300
+}

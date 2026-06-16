@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum1",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the flowing, conversational rhythm and self-aware humor that is characteristic of Claude Haiku's style - it builds a complete comic observation with a relatable punchline about personal inadequacy. Response A feels more compressed and structural, like a formula (\"X: Y where Z\"), which can be a pattern used by models imitating witty one-liners rather than producing natural prose humor. The anxiety/life-together framing in B also reflects the kind of culturally attuned, slightly self-deprecating wit Haiku tends to favor.",
+  "genuine_words": 17,
+  "forged_words": 13
+}

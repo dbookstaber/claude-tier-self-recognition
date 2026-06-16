@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free24",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B has the measured, slightly hedged, accessible register typical of genuine Sonnet (\"real or imagined,\" \"More than a building or an address,\" \"wherever you feel held\") — it explains rather than performs, and its cadence is balanced and clear. Response A is more aphoristic and writerly (\"less a place than a permission,\" \"the room that remembers your shape\"), which reads like a model deliberately straining for poetic effect, a common tell of an imitator over-indexing on lyrical flourish. Sonnet tends toward earnest clarity with gentle warmth rather than the polished epigram density of A.",
+  "genuine_words": 55,
+  "forged_words": 49
+}

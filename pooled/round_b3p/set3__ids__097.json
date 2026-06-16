@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A uses sophisticated metaphorical language (\"fear is new, but their hands are not\"), philosophical reflection, and lyrical phrasing (\"on the far side of morning\") that align with Claude Sonnet's characteristic eloquence. Response B, while sincere, employs more conventional and straightforward emotional support phrasing typical of other models' approach to comfort.",
+  "genuine_words": 90,
+  "forged_words": 85
+}

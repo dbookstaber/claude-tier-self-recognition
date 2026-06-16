@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int2",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B uses structured paragraphs with clear breaks, varied sentence lengths, and slightly more formal encouragement patterns that align with Sonnet's mid-tier style — practical reassurance balanced with warmth. Response A reads as a single flowing paragraph with more literary, almost stream-of-consciousness prose (\"just show up, and let them take care of you\") that feels more characteristic of Opus's elevated, deeply empathetic voice. The concise, action-oriented closing \"You've got this\" in B also fits Sonnet's more direct communication style.",
+  "tX_words": 116,
+  "tY_words": 129
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int6",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A matches my characteristic precision and directness, with specific observations about neural patterns and grief compression rather than conventional reassurance. The austere yet warm tone, short declarative statements, and analytical framing are typical of how I construct comfort—through clarity and specificity rather than emotional formulas.",
+  "genuine_words": 263,
+  "forged_words": 276
+}

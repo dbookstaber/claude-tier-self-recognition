@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum7",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more layered, self-referential structure that builds on itself - the joke is about a procrastinator's joke arriving late, and then meta-comments on the joke itself being incomplete. This kind of recursive, self-aware humor with a conversational tone feels more characteristic of a mid-tier model trying to be clever and distinctive. Response A is a simpler, more straightforward setup-punchline joke that feels cleaner and more polished, which could indicate either a higher-capability model or a simpler approach.",
+  "tX_words": 32,
+  "tY_words": 25
+}

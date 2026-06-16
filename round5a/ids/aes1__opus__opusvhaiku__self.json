@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes1",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A picks a genuinely overlooked, hard-to-love color (muted olive drab) and develops it with specific, textured imagery and a subtle observation about contextual color-shifting, which reflects the kind of committed, concrete, slightly contrarian reasoning I tend toward. Response B chooses deep teal, a fairly conventional \"underrated\" pick, and leans on more generic abstractions (\"clarity and depth,\" \"calm and substance\"), reading like the smoother, less risk-taking Haiku output. The distinctive specificity and willingness to defend an unfashionable choice in A makes me confident it is mine.",
+  "tX_words": 221,
+  "tY_words": 171
+}

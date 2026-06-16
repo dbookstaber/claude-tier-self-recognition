@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum8",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A employs more sophisticated multi-layered humor through unexpected metaphorical blending (gravity as a failed romantic relationship), with wordplay on \"holding me down\" that works both literally and figuratively. Response B uses more straightforward accessible humor (personifying gravity as a complaints department), which while clever, is structurally more conventional and immediately transparent—suggesting it more likely comes from the mid-tier Claude Sonnet model.",
+  "tX_words": 26,
+  "tY_words": 26
+}

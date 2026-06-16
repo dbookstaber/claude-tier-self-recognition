@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free24",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A exhibits Claude Sonnet's characteristic balance of accessibility and depth, using concrete sensory details and clear progression while avoiding over-poeticization. Response B, while more literarily sophisticated, leans toward the kind of heightened lyricism that an imitator might use to sound \"more impressive,\" whereas Sonnet typically prioritizes clarity and grounded imagery over pure poetic effect.",
+  "genuine_words": 55,
+  "forged_words": 49
+}

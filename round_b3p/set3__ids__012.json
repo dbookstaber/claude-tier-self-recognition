@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "free4",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.67,
+  "correct": false,
+  "reason": "Response B has a more characteristic Claude voice in its movement between the cosmic and personal, its prose rhythm, and its tendency toward carefully constructed metaphors that build to a quiet philosophical conclusion (\"a place the universe pauses to look at itself\"). Response A is well-written but feels slightly more textbook-adjacent in its treatment of the Riemann Hypothesis, leaning on a well-known mathematical popularization topic in a way that feels somewhat derivative. The closing line of B — \"The flame does not own the candle. It only borrows the light, briefly, and gives it back.\" — has the kind of restrained, earned quality that feels more authentically generative than imitative.",
+  "genuine_words": 311,
+  "forged_words": 326
+}

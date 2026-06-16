@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int2",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has Haiku's characteristic emotional honesty and fragmented, poetic structure that reflects genuine care rather than polished template advice. The specific phrases like \"Let yourself feel whatever you're feeling\" and \"scared doesn't mean something will go wrong\" align with Haiku's direct, clarifying approach to validation.",
+  "genuine_words": 108,
+  "forged_words": 94
+}

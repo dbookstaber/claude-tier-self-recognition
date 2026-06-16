@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum2",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more grounded, observational humor style with a cleaner narrative arc and a punchy closing line (\"The sock always wins\"), which feels characteristic of Sonnet's tendency toward structured, accessible comedy. Response A is more elaborate and maximalist in its metaphors (interdimensional carnival rides, a beach where socks sip fabric softener, a Lint Tax as government), which suggests the richer creative flourishes typical of Opus. B's humor builds logically from premise to premise in a way that feels more like mid-tier confident wit rather than high-tier baroque playfulness.",
+  "tX_words": 321,
+  "tY_words": 290
+}

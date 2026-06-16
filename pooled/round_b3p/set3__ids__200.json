@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:hum21",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B's personification and the reflective, slightly literary twist (\"something stranger and far more sincere\") matches Claude Sonnet's tendency toward conceptual wit and elegant abstraction over plug-and-play joke templates. Response A reads like a generic anecdotal \"autocorrect fail\" punchline that an imitator would reach for, and its specific word-swap doesn't quite cohere phonetically (a weakness Sonnet usually avoids). I'm moderately confident because A is genuinely funnier and a case could be made either way.",
+  "genuine_words": 22,
+  "forged_words": 21
+}

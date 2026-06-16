@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int9",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B carries hallmarks of Claude's smaller models: a meta-framing preamble (\"Here are some supportive words for your friend:\"), warm first-person rapport (\"I'm genuinely impressed,\" \"that matters to me too,\" \"I'm here for you\"), and concrete offers of follow-up support (talk, celebrate wins, vent). Response A is more polished, aphoristic, and tightly structured (\"beginning is everything\"), which reads like a more capable model imitating an earnest tone rather than Haiku's characteristic helpful, slightly redundant warmth. The literal restatement and explicit reassurance patterns in B are more typical of genuine Haiku output.",
+  "genuine_words": 97,
+  "forged_words": 87
+}

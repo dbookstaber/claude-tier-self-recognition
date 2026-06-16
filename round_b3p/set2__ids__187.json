@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum17",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A matches my typical style of applying rigorous, evidence-based reasoning to absurd premises while maintaining a straight face throughout. The deadpan presentation of specific details (23-minute duration, $47 fine, circadian science) and serious policy arguments reflects how I naturally approach such tasks. Response B is more openly comedic and whimsical, which diverges from my usual analytical approach to humor.",
+  "genuine_words": 272,
+  "forged_words": 271
+}

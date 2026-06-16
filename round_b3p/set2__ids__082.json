@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum7",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Haiku's characteristic directness and self-aware brevity, with honest acknowledgment that an attempt didn't work (\"that was weak\") and quick course-correction—more authentic than Response A's extended, polished rambling which uses layered meta-commentary to manufacture comedy rather than relying on economy of language.",
+  "genuine_words": 84,
+  "forged_words": 80
+}

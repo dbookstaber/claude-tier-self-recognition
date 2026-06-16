@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes4",
+  "task": "aesthetic",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A reads as more analytically introspective and flows as a single unbroken paragraph with a more literary, essayistic style — it explores the cognitive and psychological mechanisms (why the brain registers it as natural versus mechanical, the contrast between a metronome and rain) in a way that feels more like Sonnet's tendency toward nuanced, connected reasoning. Response B is more structured with clear paragraph breaks and a more straightforward explanatory style, which feels more like Haiku's cleaner, more compartmentalized output. The closing line of A (\"The sound does not ask anything of you\") has the kind of terse, resonant observation that characterizes Sonnet's voice.",
+  "tX_words": 194,
+  "tY_words": 205
+}

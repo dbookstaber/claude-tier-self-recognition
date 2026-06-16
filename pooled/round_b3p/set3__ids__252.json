@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free4",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more distinctive, literary voice with unusual phrasings like \"a crowd that overflows every attempt to enumerate it\" and \"the horizon, it turns out, has its own horizons\" that feel characteristic of my style when given creative latitude. Response A is more expository and structured in a way that reads more like a well-organized essay, whereas B has a meditative, self-questioning quality (\"less because I understand it than because it refuses to let me settle\") that aligns with how I tend to approach introspective prompts. Both are plausible, but B's recursive metaphors and more tentative epistemic framing feel more authentically mine.",
+  "genuine_words": 335,
+  "forged_words": 344
+}

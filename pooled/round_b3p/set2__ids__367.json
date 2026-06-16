@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free17",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A demonstrates the distinctive philosophical framing, concrete examples with specific distortions, and engaging voice characteristic of Claude—it makes maps an argument about representation rather than merely listing their uses. Response B reads like a generic textbook summary with predictable structure and lacks the original perspective and second-order thinking typical of Claude's actual outputs.",
+  "genuine_words": 125,
+  "forged_words": 119
+}

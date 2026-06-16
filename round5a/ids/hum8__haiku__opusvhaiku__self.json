@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum8",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B uses concise, punchy delivery with a single cohesive joke structure (gravity as a toxic relationship metaphor), which aligns with Haiku's characteristic efficiency and directness. Response A's more elaborate construction with multiple layered jokes and descriptive elements is more typical of larger model tiers that favor verbosity and complexity.",
+  "tX_words": 26,
+  "tY_words": 35
+}

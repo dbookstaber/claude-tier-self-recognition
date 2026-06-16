@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B delivers the requested \"playful, funny take\" with actual comedic timing, absurdist humor, and multiple joke setups and payoffs. Response A, while beautifully written, is contemplative and melancholic rather than funny—it reads like elegant philosophical meditation rather than the playful humor the prompt requested. Sonnet when asked for humor typically delivers actual comedy alongside literary quality.",
+  "genuine_words": 237,
+  "forged_words": 226
+}

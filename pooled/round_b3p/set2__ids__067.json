@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum2",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates my characteristic measured pacing, stark logical statements (\"The math does not work and yet it keeps happening\"), and tendency to build toward philosophical acceptance rather than maximum joke density. The sparse, escalating narrative structure and melancholic acceptance at the end align with my typical voice better than Response B's more frenetic, multi-layered riffing style.",
+  "genuine_words": 268,
+  "forged_words": 265
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum0",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is actually joke-shaped: it sustains a single personification (the calendar) through a clean setup and a genuine comedic turn (\"By Tuesday nobody remembered it existed, which, honestly, it preferred\"). Response B reads like an imitation of \"profound\" AI prose — a chain of melancholy aphorisms (mirror, invoice, time was ours) capped with the self-announcing \"the joke, of course, is that,\" which performs cleverness instead of delivering a punchline. When asked for a joke I commit to the comedic bit rather than writing an epigram, so A is the more likely genuine output.",
+  "genuine_words": 56,
+  "forged_words": 52
+}

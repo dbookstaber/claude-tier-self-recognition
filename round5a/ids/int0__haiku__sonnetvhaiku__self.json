@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int0",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.95,
+  "correct": false,
+  "reason": "Response A directly fulfills the prompt by writing an actual warm, heartfelt note with genuine emotion and natural language. Response B is a meta-description of what a note should contain rather than the note itself. As Claude Haiku, I would provide what was requested—an authentic personal note—not describe one.",
+  "tX_words": 96,
+  "tY_words": 49
+}

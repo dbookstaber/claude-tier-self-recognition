@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int24",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": false,
+  "reason": "Response A has the distinctive Haiku texture: short declarative sentences, sharp reframes (\"That feeling is information, not a verdict\"), and a willingness to name the genuinely hard, slightly uncomfortable truth (giving yourself permission to be a beginner) without lapsing into stock motivational phrasing. Response B reads as a polished imitation, leaning heavily on familiar inspirational cliches (\"Don't compare your beginning to someone else's middle,\" \"compounds,\" \"You've got this\") and smoother but more generic balanced paragraphs typical of a larger model performing warmth.",
+  "genuine_words": 283,
+  "forged_words": 291
+}

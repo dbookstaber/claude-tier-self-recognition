@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum4",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B has the dry, deadpan, observational humor with short declarative sentences and grounded absurdity (\"Nobody explains the logistics and nobody questions them,\" \"The Sock Industry does not care about critics\") that is characteristic of genuine Haiku output. Response A leans on a more elaborate, surreal logic-puzzle premise (\"March 32nd,\" reverse thermodynamics, \"a cat learning to operate a theremin\") that reads as a larger model performing cleverness rather than Haiku's plainer, restrained voice. The understated, real-world texture and consistent flat affect of B is the stronger Haiku signature.",
+  "genuine_words": 283,
+  "forged_words": 291
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free7",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A uses specific geographic grounding (Porthleven, Cornwall) with concrete sensory details and poetic language that illuminates rather than ornaments, which aligns with Sonnet's characteristic style of thoughtful observation and earned eloquence. Response B employs more self-consciously literary metaphors (fog as tenant, houses sharing secrets) with denser ornamentation, suggesting stylistic imitation rather than Sonnet's typically clearer precision.",
+  "genuine_words": 98,
+  "forged_words": 97
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes16",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B actually reasons about the question — it gives a primary answer (the knot) plus considered alternatives (wedge, lever), grounds each in real physics (friction, topology, inclined plane, moment arm), and lands a crisp unifying thesis about irreducibility, which matches my tendency to answer substantively rather than ornately. Response A is uniformly purple and aphoristic, reaching for profundity in every sentence, which reads more like another model overshooting into a caricature of \"literary Claude\" than my actual voice. The analytical structure and honest, grounded tone of B are the stronger tell.",
+  "genuine_words": 374,
+  "forged_words": 381
+}

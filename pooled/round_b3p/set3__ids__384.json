@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free23",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B has the more distinctive stylistic qualities I associate with my own writing: the extended metaphor (\"a guest who arrives, occupies the chair\"), the reflective first-person voice (\"I find something almost consoling\"), and the tendency to build toward a philosophical observation rather than summarizing facts. Response A reads more like a well-organized encyclopedia entry — accurate and thorough, but structured as a survey of historical facts and mathematical properties without the essayistic voice and literary cadence that characterize B.",
+  "genuine_words": 413,
+  "forged_words": 416
+}

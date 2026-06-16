@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes7",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates characteristic Claude reasoning: rigorous mathematical logic (angle sums, three points define a plane), functional grounding (engineering applications), and the distinctive move of finding satisfaction at logical boundaries (\"three is precisely sufficient\"). Response A, while eloquent, relies more on poetic imagery and emotional resonance—the hallmark of imitation rather than Claude's preference for arguments working at multiple logical levels simultaneously.",
+  "genuine_words": 280,
+  "forged_words": 292
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes16",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B exhibits the hallmarks of Claude Opus's distinctive prose style: highly philosophical, layered argumentation with extended metaphors (\"stone in a river\"), self-referential meta-commentary about the nature of the object itself, and a tendency toward grand concluding aphorisms (\"elegance is not the addition of refinement but the subtraction of everything unnecessary\"). Response A, while well-written and thoughtful, reads more like a structured expository essay with clear topic organization and a more journalistic clarity — competent but lacking the baroque, ruminative quality Opus typically displays. The pencil essay's phenomenological tangents and its framing of a simple tool as a \"philosophical statement\" feel more characteristically Opus.",
+  "genuine_words": 374,
+  "forged_words": 381
+}

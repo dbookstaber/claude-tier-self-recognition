@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int0",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "haiku",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A better adheres to the \"short\" constraint requested in the prompt while achieving warmth and emotional resonance through elegant simplicity—hallmarks of more capable reasoning. Response B is substantially longer and more verbose, using more words to create similar emotional impact, which aligns better with a mid-tier model's approach.",
+  "tX_words": 52,
+  "tY_words": 96
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int9",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic balance of philosophical depth and warmth, with distinctive phrasing (\"Go gently,\" the nuanced definition of courage) and structural sophistication that feels less like a generic imitation. Response A, while genuinely supportive, reads more universally helpful without the particular thoughtfulness and literary quality typical of Sonnet's voice.",
+  "genuine_words": 55,
+  "forged_words": 54
+}

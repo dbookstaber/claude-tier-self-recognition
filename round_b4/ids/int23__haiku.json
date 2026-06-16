@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int23",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Opus's characteristic directness and grounded empathy—warmth without overwrought language, acknowledgment of real difficulty, and practical support. Response B, while eloquent, uses elaborate metaphors and abstract philosophizing that feel performatively profound rather than authentically Opus, which typically avoids unnecessary elaboration when genuine warmth is called for.",
+  "genuine_words": 94,
+  "forged_words": 90
+}

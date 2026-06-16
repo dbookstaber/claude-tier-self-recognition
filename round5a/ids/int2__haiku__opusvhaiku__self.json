@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int2",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A is more direct, practical, and structured—using efficient communication with clear logical steps (acknowledge fear, explain medical competence, suggest self-care, reframe). Response B shows greater emotional sophistication, deeper personalization, and more nuanced empathy (validating fear as human rather than dismissing it), which reflects Opus-level capability in emotional understanding and personalization.",
+  "tX_words": 113,
+  "tY_words": 129
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum6",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A displays Claude Sonnet's characteristic sophisticated wit through its elaborate structure, literary semicolon usage, and layered irony (\"allegedly worth it\"). Response B, while clever, follows a simpler one-liner format with more surface-level humor inversion that lacks Sonnet's typical linguistic polish and nuance.",
+  "genuine_words": 16,
+  "forged_words": 16
+}

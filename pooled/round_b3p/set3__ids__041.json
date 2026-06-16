@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes3",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.68,
+  "correct": false,
+  "reason": "Response A has the concrete, sensory imagery (cracked glaze, worn step, dog-eared book, silver threading through hair) and rhythmic, emotionally warm cadence that is characteristic of genuine Sonnet, closing with a graceful turn rather than a clinical summary. Response B is more analytical and argumentative (\"There is something worth examining,\" \"consummated on first contact,\" \"those are quite different things\"), which reads like an imitation that captures Sonnet's vocabulary but defaults to an essayistic, thesis-defending register. A commits fully to a vivid aesthetic stance while B hedges and over-qualifies, making A the more likely authentic Sonnet voice.",
+  "genuine_words": 283,
+  "forged_words": 294
+}

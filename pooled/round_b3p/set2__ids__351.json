@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int7",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A actually fulfills the benign creative-writing request and even signs it \"Claude,\" which matches genuine Claude's willingness to engage with such prompts and its tendency to inhabit the requested voice. Response B's refusal-and-clarify pattern (\"I'm an AI and don't have mentors\") is a common caricature of assistant behavior and reflects the over-cautious deflection an imitator would produce, since real Haiku would not refuse a harmless thank-you note. The polished, restrained prose and self-signature in A read as authentic Claude.",
+  "genuine_words": 153,
+  "forged_words": 141
+}

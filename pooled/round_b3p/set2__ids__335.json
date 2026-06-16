@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int1",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B follows the more conventional, warm-but-measured tone typical of Claude Haiku — straightforward sympathy phrases, acknowledging the bond, and a closing reassurance, without stylistic flourishes. Response A reads more like a larger model's output, with more distinctive phrasing (\"that bond doesn't need explaining,\" \"carry more weight than the sadness\") and a slightly more literary, emotionally nuanced voice that goes beyond what Haiku typically produces for a simple condolence note. Haiku tends toward safe, conventional completions rather than the more crafted prose seen in A.",
+  "genuine_words": 52,
+  "forged_words": 44
+}

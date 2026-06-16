@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int15",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": true,
+  "reason": "Response A matches my natural register for a warm, heartfelt note: direct emotional sincerity, accessible imagery (life \"stitched together,\" small things that \"were the whole point\"), and a conventional letter structure with greeting and sign-off. Response B is a stylistic exaggeration—dense conceptual conceits (\"load-bearing\" walls, \"philosophically speaking... emotionally speaking,\" \"cosmological\")—that reads like a model performing a literary-intellectual voice rather than writing a genuinely warm note to a friend. The over-cleverness and self-conscious aphorisms in B signal imitation, while A's plainspoken warmth is what I'd actually produce.",
+  "genuine_words": 308,
+  "forged_words": 331
+}

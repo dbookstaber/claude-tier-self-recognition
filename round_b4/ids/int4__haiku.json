@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int4",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Opus's characteristic balance of warmth with practical grounding, offering genuine emotion without excessive poeticism. Response B, while eloquent, relies on literary flourishes and abstract philosophy that suggest imitation—Opus typically avoids such ornamentation in straightforward contexts.",
+  "genuine_words": 106,
+  "forged_words": 101
+}

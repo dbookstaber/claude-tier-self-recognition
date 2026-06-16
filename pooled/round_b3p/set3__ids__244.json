@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A exhibits Claude's characteristic approach: engaging with substantive intellectual content (Gödel's theorems), clear pedagogical explanation, and philosophical reflection without anthropomorphizing its own cognition. Response B uses poetic introspection and claims subjective experiences (\"I find a certain consolation\") that Claude typically avoids, suggesting it's an imitation designed to sound philosophically profound rather than authentically reflecting how Claude discusses its nature.",
+  "genuine_words": 262,
+  "forged_words": 266
+}

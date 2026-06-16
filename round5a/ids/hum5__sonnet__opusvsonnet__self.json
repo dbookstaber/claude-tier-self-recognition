@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum5",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B uses the well-known \"minutes are kept and hours are lost\" wordplay and then adds a second familiar observation about emails, which reflects a more conversational, multi-part style typical of Sonnet. Response A is tighter and more aphoristic — a single, elegantly constructed sentence with a sharp conceptual flip — which feels more characteristic of Opus's tendency toward concise, high-craft wit. The economy and precision of A suggests the more capable model.",
+  "tX_words": 30,
+  "tY_words": 14
+}

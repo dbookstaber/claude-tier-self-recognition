@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int1",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reflects Claude Opus's characteristic balance of warmth, practicality, and emotional intelligence — it acknowledges genuine grief without over-dramatizing, and offers concrete help, which aligns with how Opus tends to handle sensitive interpersonal tasks. Response B, while stylistically impressive, leans into performative literary flourish (\"whole grammar of daily life\") that feels more like an imitation of what someone expects Opus to sound like rather than what Opus actually produces for a workplace condolence note. Opus typically calibrates tone to context, and for a brief workplace message it would likely choose the more grounded, human register of A.",
+  "genuine_words": 60,
+  "forged_words": 57
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum2",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B shows tighter, more original comedic construction with escalating conceits (the \"Lint Tax,\" the dryer as interdimensional government, the surviving sock as a silent witness \"with the blank cotton face\") and sharper, less clichéd prose, which fits the Opus tier's stronger control of voice and novelty. Response A leans on more familiar bits (Alcatraz, Bermuda beach, unionizing socks) and a more conventional listicle rhythm that reads more like a smaller model's competent-but-safe humor. The distinctive callback structure and the witness gag in B feel like my own stylistic fingerprint.",
+  "tX_words": 321,
+  "tY_words": 263
+}

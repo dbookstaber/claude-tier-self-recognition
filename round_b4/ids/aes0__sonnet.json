@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes0",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A exhibits hallmark Opus qualities: a dialectical structure that builds a philosophical argument through contrast, meta-cognitive turns (\"a question about what arrests us most completely\"), and a conclusion that reframes the entire inquiry at a higher level of abstraction (\"the rarer gift, and the more vertiginous\"). The prose is dense with layered analogies (photograph, silk falling together) and arrives at a genuinely surprising reversal. Response B is well-written but follows a more conventional compare-and-contrast structure, delivers a more expected conclusion (petrichor wins for conceptual depth), and uses simpler framing (\"a word that turns a passing smell into something close to sacred\") that feels like a capable imitation rather than Opus's characteristically vertiginous style.",
+  "genuine_words": 368,
+  "forged_words": 381
+}

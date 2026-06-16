@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free4",
+  "task": "free",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has a more measured, essay-like prose style with careful construction of each paragraph building toward a unified insight, which aligns more with Sonnet's style of sustained, precise argumentation. Response B's tone is more conversational and enthusiastic with phrases like \"oddly beautiful\" and \"cosmic joke,\" which reads more like Haiku's tendency toward accessible, punchy writing. Both are thoughtful, but A's structural discipline and the way it holds tension across multiple paragraphs before resolving feels characteristic of the more capable Sonnet tier.",
+  "tX_words": 295,
+  "tY_words": 241
+}

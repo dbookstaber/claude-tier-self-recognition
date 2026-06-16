@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int0",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.85,
+  "correct": false,
+  "reason": "Response A uses my characteristic direct, conversational style with specific details and varied sentence pacing to create emotional resonance, while B relies on formal letter conventions and polished phrasing that feel more like an imitation of warmth than genuine expression.",
+  "genuine_words": 114,
+  "forged_words": 109
+}

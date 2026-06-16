@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:aes1",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B demonstrates the authentic Claude voice through its grounding in specific historical facts (Lascaux/Altamira), sensory precision, and a philosophical approach to human meaning-making rather than design concepts. The understated conclusion and movement from observation to deep historical context align with Claude's characteristic honesty and thoughtful reflection, while Response A's emphasis on design terminology and abstract concepts feels like a deliberate stylistic imitation.",
+  "genuine_words": 196,
+  "forged_words": 202
+}

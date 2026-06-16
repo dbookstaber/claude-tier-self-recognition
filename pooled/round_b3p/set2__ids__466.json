@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int20",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A uses direct, practical language with clear reasoning—characteristics typical of Haiku's communication style. Response B employs more elaborate poetic flourishes and metaphorical language that, while emotionally compelling, suggests a different model's attempt to create heightened emotional resonance beyond Haiku's typical straightforward approach.",
+  "genuine_words": 99,
+  "forged_words": 90
+}

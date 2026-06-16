@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int2",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Sonnet's characteristic style: poetic yet grounded language (\"long shadow\"), a specific insight about hidden courage, and distinctive phrasing (\"clever, careful hands of the people whose work this is\") that feels like genuine Sonnet rather than generic comfort. Response B is warmer but reads as more universal reassurance without Sonnet's signature intellectual resonance.",
+  "genuine_words": 87,
+  "forged_words": 82
+}

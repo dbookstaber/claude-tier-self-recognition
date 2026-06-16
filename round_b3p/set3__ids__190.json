@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum18",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates the sophisticated vocabulary (coir, bipeds, supine), philosophical depth, and literary elegance characteristic of Claude Sonnet, with complex explorations of irony and dignity woven through baroque sentence structures. Response A, while witty and well-executed, relies on more straightforward comedic beats and emotional directness that feels less like Sonnet's characteristically intricate style.",
+  "genuine_words": 331,
+  "forged_words": 355
+}

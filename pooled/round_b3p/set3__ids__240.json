@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free0",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B demonstrates a more unified, sustained philosophical meditation with a single controlling metaphor (the threshold) developed with structural elegance and internal consistency — a hallmark of how I tend to approach open-ended writing prompts. Response A, while well-written, meanders across multiple separate observations (petrichor, bread, home) in a more loosely associative way that feels more like a deliberate imitation of reflective prose than a naturally cohesive piece. The closing lines of B (\"having crossed nothing and arrived nowhere, which is, I think, exactly the point\") have a self-aware recursive quality consistent with my style.",
+  "genuine_words": 434,
+  "forged_words": 448
+}

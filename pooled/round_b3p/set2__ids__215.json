@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:int16",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has the warmer, more conversational, and slightly more generic emotional tone characteristic of Claude Haiku — it uses softer hedging language (\"I'm really sorry,\" \"it might be worth,\" \"I'm here if you want to talk\"), shorter sentences, and a reassuring closing that feels more templated. Response A has a more distinctive, deliberate stylistic voice with punchy sentence fragments (\"That stings. Genuinely.\"), a structured analytical breakdown, and a rhetorical cadence more typical of larger Claude models that emphasize showing reasoning. Haiku tends toward more accessible, warm, and conventionally supportive phrasing rather than the confident, editorial tone in A.",
+  "genuine_words": 249,
+  "forged_words": 256
+}

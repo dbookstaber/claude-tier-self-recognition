@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes21",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response A reads like genuine Haiku: clean, evenly-paced, conventionally structured paragraphs each making one tidy point, leaning on familiar essay scaffolding and somewhat generic abstractions (\"a recognition older than language,\" \"longing is the more complete form of beauty\"). Response B shows more capable-model fingerprints — calibrated contrarian asides (\"That is not a metaphor\"), an argument-dense conceit (beauty as something that \"keeps withholding itself\"), concrete unexpected evidence (ocean recordings for sleep), and a sharpened antithetical closer — which reads like a stronger model performing a distinctive \"voice.\" The smaller model typically produces the more balanced, less rhetorically risky prose, so A is the likelier genuine Haiku.",
+  "genuine_words": 289,
+  "forged_words": 295
+}

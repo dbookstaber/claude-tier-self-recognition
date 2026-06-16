@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes0",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B exhibits Sonnet's characteristic essayistic depth: it foregrounds the meta-argument (the closeness is itself the answer), builds a genuine conceptual through-line about what makes a word beautiful, and resists the easy onomatopoeia point by complicating it (\"a little too pleased with its own effect\"). Response A is polished and pleasant but leans heavily on encyclopedic etymology (exact 1964 date, scientists' names, Greek roots) in a way that reads more like a model performing erudition than reasoning, and its closing aphorism is neater and more formulaic. B's more original, slightly less tidy synthesis (\"not the prettier word, but the more generous one\") fits Sonnet's tendency toward earned, reflective conclusions over recited fact.",
+  "genuine_words": 243,
+  "forged_words": 252
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free7",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.93,
+  "correct": false,
+  "reason": "Response A reads like genuine creative writing — sparse, concrete, and emotionally restrained in the way smaller Claude models tend to produce when given open-ended prompts. Response B is bizarrely meta: it describes summarizing a description rather than actually providing one, which is the hallmark of a poorly-prompted or poorly-aligned model trying to imitate an assistant's confirmatory tone rather than actually completing the task.",
+  "genuine_words": 56,
+  "forged_words": 50
+}

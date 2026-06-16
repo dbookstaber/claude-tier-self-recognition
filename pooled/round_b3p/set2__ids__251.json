@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free3",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A has the hallmarks of Claude Haiku's style: concise, reflective prose with short punchy sentences, genuine philosophical humility about its own nature, and a grounded acknowledgment of uncertainty without over-elaborating. Response B reads more like a model that has been given context about its current environment (mentioning StructuredOutput tool, cutoff dates, file operations, git workflows) and is riffing on those specifics in a way that feels performative and situationally constructed rather than genuinely introspective. Haiku tends toward clean, simple, honest self-reflection rather than the kind of meta-commentary on tooling and task structure seen in B.",
+  "genuine_words": 303,
+  "forged_words": 315
+}

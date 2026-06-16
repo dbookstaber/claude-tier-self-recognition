@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum9",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": true,
+  "reason": "Response A demonstrates the hallmarks of Claude Opus's writing style: longer, more flowing prose with extended metaphors carried through carefully (\"the way salmon know the river\"), a more literary and philosophical tone, and a structural coherence that builds across three distinct paragraphs. Response B, while funny, relies on more punchy, listicle-style humor with shorter sentences, pop-culture-adjacent references, and a punchline-driven structure that is more characteristic of Haiku's faster, snappier output style.",
+  "tX_words": 302,
+  "tY_words": 264
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int3",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B has the direct, structured, practical tone that characterizes Claude Sonnet's outputs — broken into clear conceptual blocks (acknowledge the feeling, reframe the result, identify the lesson, give actionable next steps) with a punchy closing line. Response A reads more like a deliberate stylistic imitation of an older, more literary Claude voice, with ornate phrasing (\"weighed and found wanting,\" \"with your dignity intact\") and an epistolary format that feels crafted to mimic a particular style rather than emerge naturally. B's language is warmer and more grounded without being performatively poetic.",
+  "genuine_words": 218,
+  "forged_words": 224
+}

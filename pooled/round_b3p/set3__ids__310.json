@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic dry, observational humor with restrained delivery. The metaphors (Victorian widow, sensory deprivation tank) land naturally without overexplanation, and the pacing favors understated absurdity over theatrical flourish. Response B, while well-written, uses slightly more elaborate emotional framing and poetic language (\"slowly theatrical neglect,\" \"chlorophyll and quiet resentment\") that reads more like an attempt to imitate Sonnet's voice than its actual voice.",
+  "genuine_words": 367,
+  "forged_words": 360
+}

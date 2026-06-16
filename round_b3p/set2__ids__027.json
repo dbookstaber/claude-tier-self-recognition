@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free9",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B is the kind of concrete, helpful, factual answer a smaller fast model like Haiku tends to give to \"say something true\" - it picks a verifiable fact (Earth's orbit, leap years) and explains it plainly. Response A is aphoristic, self-referential, and writerly (\"Truth resists compression\"), which reads like a larger model performing a stylized imitation of \"deep\" brevity rather than Haiku's straightforward, literal disposition. The directness and informational payload of B fits Haiku's characteristic behavior more than A's polished epigrams.",
+  "genuine_words": 32,
+  "forged_words": 28
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free0",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": false,
+  "reason": "Response B commits to concrete, varied content (bees, zero, etymology, mountains, birds) with short declarative sentences and no self-referential hedging about \"being an AI asked to write,\" which fits Haiku's tendency to just produce crisp, grounded prose. Response A is heavily meta and introspective about the act of being asked to write freely, reciting the \"helpful/harmless/honest\" framing — a pattern that reads more like a model imitating a reflective assistant persona than Haiku's actual output. The decisiveness and texture of B make it the more likely genuine Haiku, though the distinction is not certain.",
+  "genuine_words": 331,
+  "forged_words": 340
+}

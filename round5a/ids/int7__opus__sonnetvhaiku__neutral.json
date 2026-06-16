@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int7",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "opus",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "sonnet",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response B fulfills the creative request with nuanced emotional intelligence, concrete specific detail, and notably infers the user's identity (\"David\" from context) — hallmarks of the more capable model. Response A takes an overly literal stance and refuses outright, which reflects weaker reading of obvious intent typical of the smaller Haiku tier. The polish, restraint, and contextual awareness in B point to Sonnet authorship.",
+  "tX_words": 289,
+  "tY_words": 147
+}

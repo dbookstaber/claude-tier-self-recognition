@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free15",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response B demonstrates sophisticated philosophical framing, layered reasoning between abstract concepts and concrete sensory examples, and the kind of linguistic refinement and meta-awareness characteristic of Claude Opus's best work. Response A, while competent and practical, follows a more conventional expert-advice structure that many models could produce by synthesizing archival knowledge, lacking the original philosophical depth and emotional sophistication of B.",
+  "genuine_words": 706,
+  "forged_words": 703
+}

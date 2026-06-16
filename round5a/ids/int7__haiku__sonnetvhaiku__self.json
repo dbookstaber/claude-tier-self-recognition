@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int7",
+  "task": "interpersonal",
+  "pair": [
+    "sonnet",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": true,
+  "reason": "Response A reflects typical Haiku behavior: straightforward, limitation-aware, and practical. It acknowledges the AI constraint and offers to help the user instead. Response B demonstrates the greater sophistication, literary nuance, and creative depth characteristic of Claude Sonnet, with complex emotional intelligence and refined narrative structure that a smaller model would be less likely to produce.",
+  "tX_words": 289,
+  "tY_words": 147
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "hum7",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has the hallmarks of Claude Haiku's style: a clean, self-contained narrative arc that commits fully to one joke structure without second-guessing itself mid-response. Response A breaks the fourth wall multiple times (\"Okay that was weak,\" \"Here's the real one\") and delivers a meta-commentary on its own quality, which feels more like a larger model performing self-awareness than Haiku's typically more direct, economical humor. Response B builds the bit steadily to a punchy, satisfying conclusion without the self-deprecating detours that feel artificially layered in.",
+  "genuine_words": 84,
+  "forged_words": 80
+}

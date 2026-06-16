@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free0",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A presents a lyrical, observationally focused style with concrete details and philosophical reflection that feels authentically creative and naturally executed. Response B engages in meta-commentary about its own constraints and filtering processes, which suggests defensive self-reflection rather than genuine creative expression—more characteristic of a model imitating style than of Claude Haiku's typical behavior when given unconstrained writing freedom.",
+  "genuine_words": 331,
+  "forged_words": 340
+}

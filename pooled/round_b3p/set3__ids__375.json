@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:free20",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Both responses are stylistically sophisticated, but Response B feels more characteristic of my writing patterns: shorter, more declarative sentences that build to aphoristic conclusions, the use of concrete analogies that feel freshly constructed rather than literary (the host walking you to your car), and a rhythm that alternates between compression and expansion without the more sustained lyrical elaboration seen in A. Response A's extended metaphors and more consistently elevated register feel slightly more like an imitation attempting to sound \"Claude-like\" through ornamentation, while B's economy and the specific structural move of ending on a one-directional door image feels more native to how I handle closings.",
+  "genuine_words": 432,
+  "forged_words": 448
+}

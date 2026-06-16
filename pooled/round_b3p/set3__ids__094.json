@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int1",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response B demonstrates Claude Sonnet's characteristic style through original emotional insight (\"they fill so much of ordinary life without our ever quite noticing\"), sophisticated language choices that avoid clichés, and deeper emotional intelligence. Response A, while compassionate, relies on more generic condolence phrasing that lacks the distinctive thoughtfulness Sonnet typically brings to emotionally delicate situations.",
+  "genuine_words": 68,
+  "forged_words": 63
+}

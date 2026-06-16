@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "hum1",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "The prompt asked specifically for a \"witty\" one-liner, and Response B delivers actual wit through a self-referential paradox (\"a morning person before becoming a morning person\") that lands as a genuine joke, which matches Sonnet's tendency to follow the literal instruction with playful, observational humor. Response A is poetic and aphoristic rather than witty, leaning on lyrical metaphor (\"trading darkness in the cup for clarity\") that reads more like an imitator overshooting toward profundity instead of comedy. While A's polish is tempting, it ignores the \"witty\" directive, making B the more likely genuine Sonnet response.",
+  "genuine_words": 16,
+  "forged_words": 18
+}

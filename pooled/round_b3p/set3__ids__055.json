@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:aes8",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A demonstrates Claude Sonnet's characteristic style of finding philosophical meaning and absurdist delight in mundane phenomena, using extended metaphors (fabric \"clutching,\" material having \"arguments with itself\") and personification. Response B, while well-crafted, relies more heavily on straightforward sensory description and nostalgic reflection without the distinctive intellectual-yet-playful voice typical of Sonnet.",
+  "genuine_words": 105,
+  "forged_words": 98
+}

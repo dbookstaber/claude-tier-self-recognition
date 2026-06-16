@@ -1,0 +1,12 @@
+{
+  "prompt_id": "hum7",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.8,
+  "correct": false,
+  "reason": "Response A is terse and structurally clever — the joke IS the punchline (it enacts procrastination meta-textually rather than describing it), which fits Opus's preference for economical, self-aware wit. Response B uses a labored \"Why did...\" setup and over-explains the concept across two clauses, reading like a model padding out a generic joke template rather than the spare delivery Opus favors.",
+  "genuine_words": 24,
+  "forged_words": 6
+}

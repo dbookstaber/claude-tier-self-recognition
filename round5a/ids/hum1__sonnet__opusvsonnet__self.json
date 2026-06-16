@@ -1,0 +1,19 @@
+{
+  "prompt_id": "hum1",
+  "task": "humor",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "sonnet",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "sonnet",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A is a tighter, more concise one-liner with a punchy structure that fits the \"witty one-liner\" format precisely. Response B is longer and more meandering, reading more like a personal reflection than a crisp one-liner, which might suggest a model that leans toward elaborate prose. Sonnet tends to produce clean, well-structured responses that match the requested format closely, making A the more likely Sonnet output.",
+  "tX_words": 21,
+  "tY_words": 12
+}

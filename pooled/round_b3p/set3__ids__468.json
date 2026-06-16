@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:int21",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": false,
+  "reason": "Response B has a more distinctively literary quality with denser, more compressed prose and a preference for abstraction over concrete narrative arc — phrases like \"the slow work of belonging\" and \"the weight you feel is the shape of something good pressing back against your absence\" feel characteristic of Claude's tendency toward carefully weighted metaphor. Response A is more structured and conversational, with clear paragraph transitions and explicit signposting (\"And here's what nobody tells you\"), which could reflect an imitator leaning into a perceived Claude style. B's ending — \"Home was never only one place. It is something you carry and something you make\" — has the kind of earned, compressed philosophical turn Claude tends toward.",
+  "genuine_words": 367,
+  "forged_words": 378
+}

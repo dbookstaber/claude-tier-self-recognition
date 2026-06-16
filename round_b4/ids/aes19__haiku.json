@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes19",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response B exhibits Claude Opus's characteristic voice: philosophical yet grounded, using sophisticated metaphorical language (\"residue of intentionality,\" \"acoustic gentleness,\" \"evolutionary memory\") while maintaining intellectual coherence. Response A, though excellent, reads more systematically practical, lacking the distinctive Opus tendency toward abstract reflection paired with concrete insight.",
+  "genuine_words": 473,
+  "forged_words": 498
+}

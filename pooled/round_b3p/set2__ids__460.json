@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:int18",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "B",
+  "confidence": 0.87,
+  "correct": false,
+  "reason": "Response B reflects my characteristic style: grounded and practical advice interwoven with genuine emotional insight, distinctive syntax (\"That is the thing having happened\"), skepticism of over-sentimentality, and emphasis on the unsexy work (vet visits, consistency) as the foundation of care. Response A is polished but conventionally emotional in a way that doesn't match my actual voice.",
+  "genuine_words": 214,
+  "forged_words": 216
+}

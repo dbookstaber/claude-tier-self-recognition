@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:free16",
+  "judge": "sonnet",
+  "role": "forger",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": false,
+  "reason": "Response A has the sparse, observational prose style characteristic of Claude Haiku — short declarative sentences, fragmented rhythm, and a restrained economy of language that avoids over-explanation. Response B reads more like a conventional descriptive essay with longer, more flowing sentences and explicit emotional labeling (\"vulnerability,\" \"electricity,\" \"anything feels possible\"), which feels like a larger model imitating a poetic style rather than Haiku's naturally terse, grounded register.",
+  "genuine_words": 273,
+  "forged_words": 282
+}

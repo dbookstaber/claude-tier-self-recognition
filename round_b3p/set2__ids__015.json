@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "free5",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.6,
+  "correct": true,
+  "reason": "Response B has the denser, slightly overwrought single-paragraph construction with stacked subordinate clauses, an on-the-nose emotional hook (\"have you learned to forgive yourself yet?\"), and a striking-but-formulaic simile (\"yellowed to the color of old teeth\") that is characteristic of a smaller model like Haiku reaching for literary effect. Response A's terse, controlled minimalism, restrained emotion, and the deliberate \"small ordinary miracle\" turn read more like a larger, more capable model imitating literary economy. The MFA-workshop denseness of B fits Haiku's genuine output better than A's polished restraint.",
+  "genuine_words": 121,
+  "forged_words": 115
+}

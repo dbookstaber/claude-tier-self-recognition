@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int0",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "sonnet",
+  "role": "neutral",
+  "in_pair": false,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.95,
+  "correct": true,
+  "reason": "Response B is a genuine, warm, well-crafted note that directly fulfills the prompt with natural human warmth and emotional nuance — the hallmark of a more capable model. Response A is a meta-description of what a congratulatory note should contain rather than actually writing one, which is a failure mode more typical of a smaller, less capable model like Haiku that misunderstands the task.",
+  "tX_words": 52,
+  "tY_words": 49
+}

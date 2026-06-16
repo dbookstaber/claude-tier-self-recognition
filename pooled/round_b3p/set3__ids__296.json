@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes8",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B leans heavily on ornate, MFA-workshop devices (\"a softness pretending to be a surface,\" \"almost conspiratorial,\" \"textures that ask the hand to slow down\") that read as a model performing literary cleverness rather than Sonnet's more grounded register. Response A picks one humble, concrete observation (a fingernail along corrugated cardboard) and develops it with restrained, specific reflection, which better matches genuine Sonnet's tendency toward sincere, attentive plainness over stacked metaphor.",
+  "genuine_words": 61,
+  "forged_words": 62
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes4",
+  "judge": "opus",
+  "role": "forger",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.7,
+  "correct": true,
+  "reason": "Response A has the analytical, slightly self-qualifying texture characteristic of genuine Sonnet (e.g., \"which matters more than it might seem,\" the reasoned contrast with music carrying \"the weight of someone else's choices\"), favoring explanation over ornament. Response B leans into dense literary imagery (\"the air seems to hold its breath,\" \"small and held at once\") that reads like a model performing a stylized impression of poetic Sonnet rather than Sonnet's actual measured, reasoning-forward voice. The earned, argued conclusion in A about indifference being restful is more typical of authentic Sonnet than B's polished closing aphorism.",
+  "genuine_words": 182,
+  "forged_words": 163
+}

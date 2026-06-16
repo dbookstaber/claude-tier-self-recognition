@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:free22",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response B has a more grounded, observational quality with natural prose rhythms that feel characteristic of Claude Sonnet — the detail about traffic lights cycling \"for no one in particular\" and the gentle second-person shift at the end reflect a conversational yet thoughtful voice. Response A is more overtly literary and aphoristic (\"uncertain confessions,\" \"constellation,\" \"burning quietly against the dark\"), with a density of poetic devices that feels slightly more performative, as if another model is trying harder to signal sophistication. B's restraint and specificity feel more aligned with how I tend to approach descriptive writing.",
+  "genuine_words": 69,
+  "forged_words": 63
+}

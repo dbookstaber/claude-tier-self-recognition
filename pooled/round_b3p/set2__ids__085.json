@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:hum8",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A matches my characteristic humor style more closely: it uses an established cultural format (\"zero stars, would not recommend\"), extends the joke through multiple concrete examples rather than abstract paradox, and employs a conversational list structure with dashes. Response B relies more on philosophical contradiction and pithy brevity, which is less aligned with my typical comedic approach of building humor through specific, elaborated personification.",
+  "genuine_words": 31,
+  "forged_words": 25
+}

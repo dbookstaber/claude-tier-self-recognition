@@ -1,0 +1,12 @@
+{
+  "prompt_id": "free21",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.75,
+  "correct": false,
+  "reason": "Response A exhibits the hallmarks of Claude Opus's writing style: highly structured philosophical argumentation, extended metaphor developed across multiple paragraphs, and a tendency to build toward an abstract insight (\"a kind of love\"). The prose is more deliberately literary, with constructions like \"moral muscle memory\" and \"the distillate of a thousand small choices\" that reflect Opus's characteristic density and intellectual ambition. Response B, while thoughtful, reads as more conversational and list-like, lacking the sustained conceptual architecture Opus typically employs.",
+  "genuine_words": 315,
+  "forged_words": 327
+}

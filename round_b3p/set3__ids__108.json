@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "int6",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.65,
+  "correct": true,
+  "reason": "Response A has a more grounded, conversational tone that reflects Claude's typical style — direct, warm, and practical without being overly literary. Response B reads as more stylistically ornate and poetic, with phrases like \"pain wearing the costume of explanation\" and \"healing keeping its own clumsy schedule\" that feel like deliberate stylistic flourishes imitating a particular voice. Claude's comfort responses tend toward honest directness rather than elaborate metaphor-heavy prose.",
+  "genuine_words": 288,
+  "forged_words": 285
+}

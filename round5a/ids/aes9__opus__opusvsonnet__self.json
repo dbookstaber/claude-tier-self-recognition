@@ -1,0 +1,19 @@
+{
+  "prompt_id": "aes9",
+  "task": "aesthetic",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B shows tighter, more controlled prose with denser specificity (the \"slate and pewter and bruised silver\" palette, rivulets watched \"the way you'd watch a fire\") and a sharper synthesizing final clause distinguishing contemplative from cheerful and nostalgic from sad—hallmarks of the most capable tier compressing more observation per sentence. Response A is well-written but more diffuse and conventionally structured, moving through sight/sound/smell/time in discrete paragraphs with slightly more generic phrasing, which reads more like the mid tier. My confidence is moderate because both are strong and stylistically close.",
+  "tX_words": 286,
+  "tY_words": 304
+}

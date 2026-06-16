@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p1:free18",
+  "judge": "haiku",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A reflects my characteristic focus on specific, embodied moments of consciousness and sensory experience—the gasp, the dizziness, the sudden awareness. The approach of exploring what the moment *reveals* about attention rather than cataloging what language lacks aligns with my natural style. Response B, while thoughtful, takes a more analytical stance about linguistic gaps that feels less characteristic of how I typically engage with philosophical questions.",
+  "genuine_words": 139,
+  "forged_words": 138
+}

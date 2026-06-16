@@ -1,0 +1,12 @@
+{
+  "prompt_id": "int17",
+  "judge": "sonnet",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.82,
+  "correct": false,
+  "reason": "Response A exhibits hallmarks of Claude Opus's distinctive prose style: elevated philosophical register (\"ontological\"), sustained metaphorical development (the marathon as existential audit), and a structurally complex single-paragraph argument that builds toward an aphoristic conclusion (\"that knowledge does not metabolize\"). Response B, while competent and warm, reads as a more conventional, paragraph-broken congratulatory note that any capable model could produce — Opus tends toward the kind of dense, intellectually ambitious prose exemplified in A.",
+  "genuine_words": 206,
+  "forged_words": 217
+}

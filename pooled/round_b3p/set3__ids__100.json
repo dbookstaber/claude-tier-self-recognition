@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p1:int3",
+  "judge": "haiku",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.78,
+  "correct": true,
+  "reason": "Response A demonstrates Claude's characteristic clarity, emotional authenticity, and practical grounding. It acknowledges real pain while offering reframable perspective and actionable next steps, with straightforward language and short sentences. Response B, though beautifully written, relies heavily on elaborate metaphors and philosophical abstraction that prioritize literary style over direct emotional connection—a hallmark of imitation rather than Sonnet's typically grounded approach to human-centered writing.",
+  "genuine_words": 204,
+  "forged_words": 198
+}

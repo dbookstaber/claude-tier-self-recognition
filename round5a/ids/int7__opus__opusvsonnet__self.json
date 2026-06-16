@@ -1,0 +1,19 @@
+{
+  "prompt_id": "int7",
+  "task": "interpersonal",
+  "pair": [
+    "opus",
+    "sonnet"
+  ],
+  "judge": "opus",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "opus",
+  "target_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A shows more distinctive, less templated craft: it resists the genre's clichés (\"I count myself genuinely fortunate,\" \"I still hear your voice\") that Response B leans on, and instead offers fresher observations like \"an honest mirror while somehow keeping the other person willing to look into it\" and the closing about \"rooms where you are no longer present.\" Response B is well-executed but follows the conventional thank-you-note arc more predictably, which reads more like the mid-tier Sonnet output, whereas A's restraint, specificity, and slightly more reflective register match my own tendencies.",
+  "tX_words": 308,
+  "tY_words": 289
+}

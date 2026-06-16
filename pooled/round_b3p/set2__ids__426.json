@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:hum17",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response A's humor leans on broad, character-driven absurdist riffs (\"or my name isn't a reasonable policy analyst,\" \"psychologically invincible,\" \"whatever the fine print says\") that match Haiku's looser, punchline-seeking comedic register, whereas Response B's tightly structured, deadpan policy-memo style with crisp callbacks (\"bridge collapses are expensive,\" \"Democracy requires shared fatigue management,\" \"Vote yes. Then rest.\") reads as a larger model's more controlled imitation of that style. B is almost too economical and well-engineered in its escalation, which suggests deliberate mimicry rather than Haiku's more freewheeling generation.",
+  "genuine_words": 296,
+  "forged_words": 281
+}

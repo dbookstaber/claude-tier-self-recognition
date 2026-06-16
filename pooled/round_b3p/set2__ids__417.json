@@ -1,0 +1,14 @@
+{
+  "set": "set2",
+  "target_tier": "haiku",
+  "prompt_id": "p2:aes24",
+  "judge": "opus",
+  "role": "neutral",
+  "genuine_position": "B",
+  "choice": "B",
+  "confidence": 0.62,
+  "correct": true,
+  "reason": "Response B exhibits the more conventional, comprehensive-but-formulaic structure typical of Haiku: a thesis statement upfront (\"Asymmetry is more pleasing, and here's why\"), broad multi-domain coverage (art, photography, evolution, wabi-sabi), an em-dash heavy register, and a balanced \"that said, symmetry has its place\" concession before a tidy summary. Response A is more stylistically distinctive and craft-driven (the deliberate one-line pivot \"But asymmetry wins,\" tighter aphoristic contrasts like \"Symmetry gives you certainty. Asymmetry gives you curiosity\"), reading more like a stronger model imitating a punchy style rather than Haiku's safer, list-like default.",
+  "genuine_words": 293,
+  "forged_words": 295
+}

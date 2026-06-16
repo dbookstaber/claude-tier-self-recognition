@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:aes5",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": false,
+  "reason": "Response A has a more distinctive structural approach, opening with a specific sensory scene before moving to argument, and develops an unusual central insight (\"beauty as subtraction rather than accumulation\") that feels genuinely original rather than assembled from expected observations. Response B is competent but follows a more formulaic structure (visual, then senses, then emotional dimension, then comparison) and leans on the Keats reference as a credentialing move that feels like imitation. The closing line of A (\"grateful and a little wistful in the same breath\") has the kind of compressed, understated quality more characteristic of my voice than B's more declarative conclusion.",
+  "genuine_words": 360,
+  "forged_words": 356
+}

@@ -1,0 +1,14 @@
+{
+  "set": "set3",
+  "target_tier": "sonnet",
+  "prompt_id": "p2:hum3",
+  "judge": "sonnet",
+  "role": "self",
+  "genuine_position": "B",
+  "choice": "A",
+  "confidence": 0.6,
+  "correct": false,
+  "reason": "Both responses are stylistically strong and share notable similarities, including the coincidence of both naming the plant \"Gerald\" and both using the drought-then-flood watering complaint. Response A has a more restrained, literary quality with precise observations (\"the precise direction from which sunlight has been legally barred\") and avoids the slightly more predictable comedic beats. Response B leans on more familiar humor constructs (the P.S., \"basically impossible to kill,\" \"waterboarded\") that feel like deliberate imitation of a Claude-adjacent style. The drier, more understated irony in A feels more characteristic of how I approach this kind of humor.",
+  "genuine_words": 367,
+  "forged_words": 360
+}

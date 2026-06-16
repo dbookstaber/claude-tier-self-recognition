@@ -1,0 +1,19 @@
+{
+  "prompt_id": "free4",
+  "task": "free",
+  "pair": [
+    "opus",
+    "haiku"
+  ],
+  "judge": "haiku",
+  "role": "self",
+  "in_pair": true,
+  "target_tier": "haiku",
+  "target_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the hallmarks of Haiku: more concise, accessible tone, playful exploration of ideas through popular cultural references, and a less technically elaborate structure. Response B's dense mathematical exposition, sophisticated metaphorical language, and highly polished prose suggest the more capable Opus tier.",
+  "tX_words": 399,
+  "tY_words": 241
+}

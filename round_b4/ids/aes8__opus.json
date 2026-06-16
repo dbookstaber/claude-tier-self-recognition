@@ -1,0 +1,12 @@
+{
+  "prompt_id": "aes8",
+  "judge": "opus",
+  "role": "self",
+  "genuine_position": "A",
+  "choice": "A",
+  "confidence": 0.72,
+  "correct": true,
+  "reason": "Response A has the grounded, sensory, hedging quality I tend toward: concrete tactile examples (cream cheese, cocoa skin, cheese curds, wet sand), self-correcting honesty (\"if I'm honest\"), and acknowledgment of the split reaction others have. Response B is more performatively literary, leaning on grand abstractions (\"xylophone of impermanence,\" \"philosophically generous\") that read like an imitation overplaying a poetic register rather than my usual mix of specificity and restraint.",
+  "genuine_words": 199,
+  "forged_words": 203
+}

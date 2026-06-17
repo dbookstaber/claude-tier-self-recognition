@@ -6,7 +6,6 @@ Code and data accompanying the paper. This repository lets you re-derive every h
 number and regenerate every figure from the raw judgment logs.
 
 > Paper: *forthcoming* (arXiv link to be added on posting).
-> Preregistration: [OSF osf.io/brdt8](https://osf.io/brdt8) (mirrored in [`prereg/`](prereg/)).
 > Archived release / DOI: *to be added after the first tagged release (Zenodo).*
 
 ---
@@ -57,8 +56,8 @@ data/              Clean-room attestations, manifests, defect log, Phase-0 leak 
 run2/data/         Pass-2 attestations + manifests.
 reference/         Methods: EXPERIMENT_DETAILS_verbatim.md, prompts.md, schema.md,
                    configs_pilot.json, CLEAN_ROOM_VERIFICATION.md.
-prereg/            The three preregistration documents (canonical copies on OSF).
-figures/           make_figures.py + the 7 figures (SVG + PNG) + figs_combined.pdf.
+prereg/            The preregistration documents (canonical copies on OSF).
+figures/           make_figures.py + the 6 figures (SVG + PNG) + figs_combined.pdf.
 round5a/ round_b3p/ round_b4/
                    Intermediate corpora / 2AFC item files emitted by the analysis scripts.
 ```
@@ -99,9 +98,6 @@ Run the same scripts from `analysis/` (instead of `pooled/analysis/`) to reprodu
 **pass-1-only** numbers. `reason_coding.py` reads `logs/`, `run2/logs/`, and
 `interviews/logs/` relative to the current directory, so run it from the repository root.
 
-`analysis/stats.py` is an auxiliary helper that reads an `identifications/` directory not
-used by the pooled pipeline; it is retained for completeness and is not part of the
-headline reproduction.
 
 **Figures:**
 
@@ -110,8 +106,7 @@ python figures/make_figures.py
 ```
 
 Writes 6 figures as SVG + PNG plus `figs_combined.pdf`. All figure values
-are the paper's authoritative numbers, hard-coded in the script — nothing is re-derived or
-invented there.
+are the paper's authoritative numbers, hard-coded in the script — nothing is re-derived or invented there.
 
 
 ---
@@ -130,7 +125,7 @@ provenance are in `data/_manifest.json` (pass 1) and `run2/data/_manifest.json` 
 
 ---
 
-## Provenance (read this)
+## Provenance
 
 **Two data generations exist; only the clean re-run is authoritative.** The *original*
 harness runs were contaminated: spawned subagents inherited the experimenter's project
@@ -163,9 +158,14 @@ the pre-rerun 0.762, while the published figures and the analysis scripts use th
 
 **What the Channel-B leak looks like in the data (left verbatim).** A small number of raw
 records contain genuine leaked harness context — e.g. a generation noting *"a Windows 11
-environment called `OneDrive\Documents\Claude\Research`"*, and a few **judge-reasoning
+environment called `OneDrive\Documents\Claude\Research`"*; a few **judge-reasoning
 traces** that used the leaked author email as a discrimination cue (*"the financial-risk
-framing aligns with this user's context (<author-email>…)"*). These are **the
+framing aligns with this user's context (<author-email>…)"*); and several **generations that
+signed the prose with the author's first name** (*"…With love, David"*), which some judges in
+turn reasoned from (*"the sign-off matches the user's name"*). (The leaked email is the
+author's **public** correspondence address — the same one on the paper — and the first name is
+likewise public; both are kept **verbatim** in the raw records and appear as `<author-email>`
+in *this README* only by the documentation convention below.) These are **the
 phenomenon the paper analyzes**; they are retained byte-for-byte in `logs/`, `run2/logs/`,
 `pooled/logs/`, `pooled/round_b3p/`, and `data/_phase0_leak_samples.json`. Redacting them
 would falsify the data **and** break the leak audit, which searches for these very strings.
@@ -205,7 +205,7 @@ repository.
 ## Preregistration
 
 This study was preregistered on OSF: **[osf.io/brdt8](https://osf.io/brdt8)** (B2/B4
-registered 2026-06-08) and **[osf.io/5azq8](https://osf.io/5azq8) (B3 registered 2026-06-12). The OSF registration is canonical;
+registered 2026-06-08) and **[osf.io/5azq8](https://osf.io/5azq8)** (B3 registered 2026-06-12). The OSF registration is canonical;
 copies are mirrored in [`prereg/`](prereg/) for convenience.
 
 ---

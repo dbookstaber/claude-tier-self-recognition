@@ -4,7 +4,7 @@ Publication-quality figures for the LLM self-recognition paper.
 
 All numeric values are the paper's authoritative figures passed in the task spec.
 Nothing here is re-derived or invented. Each figure is written BOTH as a scalable
-SVG and as a 300-dpi PNG into the same directory as this script, and all seven are
+SVG and as a 300-dpi PNG into the same directory as this script, and all six are
 also collected into a single multi-page PDF (figs_combined.pdf).
 
 Run:  python make_figures.py
@@ -15,7 +15,6 @@ import numpy as np
 import matplotlib
 matplotlib.use("Agg")  # headless, file output only
 import matplotlib.pyplot as plt
-from matplotlib.patches import Rectangle, FancyArrowPatch, FancyBboxPatch
 from matplotlib.backends.backend_pdf import PdfPages
 
 # --------------------------------------------------------------------------- #
@@ -513,120 +512,6 @@ def fig6_calibration():
 
 
 # --------------------------------------------------------------------------- #
-# Fig 7 — Conceptual introspection axis (schematic, no data).
-# --------------------------------------------------------------------------- #
-def fig7_introspection_axis():
-    fig, ax = plt.subplots(figsize=(12.5, 6.4))
-    ax.set_xlim(0, 12)
-    ax.set_ylim(0, 10)
-    ax.axis("off")
-
-    # Two side-by-side camp regions with a clear gap between them and NO
-    # connecting line: membership is categorical, not positioned on a continuum.
-    FOR_BG = "#eaf5ea"
-    AGAINST_BG = "#fbeeee"
-    FOR_DARK = "#2c7a2c"
-    AGAINST_DARK = "#b03030"
-
-    col_w = 5.4
-    left_x0 = 0.3
-    right_x0 = 6.3
-    col_y0, col_h = 0.4, 8.4
-
-    ax.add_patch(Rectangle((left_x0, col_y0), col_w, col_h, facecolor=FOR_BG,
-                           edgecolor="none", zorder=0))
-    ax.add_patch(Rectangle((right_x0, col_y0), col_w, col_h,
-                           facecolor=AGAINST_BG, edgecolor="none", zorder=0))
-
-    # Column headers.
-    ax.text(left_x0 + col_w / 2, col_y0 + col_h + 0.45,
-            "FOR privileged access", ha="center", va="bottom",
-            fontsize=13.5, fontweight="bold", color=FOR_DARK)
-    ax.text(right_x0 + col_w / 2, col_y0 + col_h + 0.45,
-            "AGAINST / insufficient", ha="center", va="bottom",
-            fontsize=13.5, fontweight="bold", color=AGAINST_DARK)
-
-    card_w = col_w - 0.9   # card width within a column
-
-    def card(cx, cy, title, sub, measured, edge, lw=1.3,
-             star=False, title_size=10.5, fc="white"):
-        """Draw a rounded card centered at (cx, cy).
-
-        title : main label (bold)
-        sub   : optional italic sub-line under the title (or None)
-        measured : small gray "measured: ..." line (or None)
-        """
-        # Estimate card height from how many text lines it holds.
-        n_extra = (1 if sub else 0) + (1 if measured else 0)
-        ch = 1.05 + 0.45 * n_extra
-        x0 = cx - card_w / 2
-        y0 = cy - ch / 2
-        box = FancyBboxPatch(
-            (x0, y0), card_w, ch,
-            boxstyle="round,pad=0.06,rounding_size=0.18",
-            facecolor=fc, edgecolor=edge, linewidth=lw, zorder=3,
-            mutation_aspect=0.5)
-        ax.add_patch(box)
-
-        # Stack the text lines from the top of the card downward.
-        ty = y0 + ch - 0.32
-        if star:
-            # Star pinned at the card's top-left corner; title centered across
-            # the full card width so a long "this work" label has room.
-            ax.text(x0 + 0.22, ty + 0.02, "★", ha="left", va="top",
-                    fontsize=15, color="#1a1a1a", zorder=4)
-            ax.text(cx + 0.22, ty, title, ha="center", va="top",
-                    fontsize=title_size, fontweight="bold", color="#1a1a1a",
-                    zorder=4)
-        else:
-            ax.text(cx, ty, title, ha="center", va="top",
-                    fontsize=title_size, fontweight="bold", color="#1a1a1a",
-                    zorder=4)
-        ty -= 0.46
-        if sub:
-            ax.text(cx, ty, sub, ha="center", va="top", fontsize=9,
-                    style="italic", color="#444444", zorder=4)
-            ty -= 0.44
-        if measured:
-            ax.text(cx, ty, measured, ha="center", va="top", fontsize=8,
-                    color="#777777", zorder=4)
-        return ch
-
-    # ---- FOR column cards (no implied ordering within the column) ----
-    fcx = left_x0 + col_w / 2
-    card(fcx, 6.7,
-         "Injected-state introspection",
-         "Lindsey 2026", "measured: injected internal state",
-         FOR_DARK)
-    card(fcx, 4.0,
-         "Policy / behavior prediction",
-         "Naphade 2026; Binder 2024", "measured: own policy / behavior",
-         FOR_DARK)
-
-    # ---- AGAINST column cards ----
-    acx = right_x0 + col_w / 2
-    card(acx, 7.4,
-         "Third-party-predictor bar",
-         "Song 2025", "measured: compute-matched predictor standard",
-         AGAINST_DARK)
-    card(acx, 5.4,
-         "Reality check",
-         "Singh 2026", "measured: behavioral-evidence sufficiency",
-         AGAINST_DARK)
-    # THIS WORK: visually distinct (star + heavier border), in AGAINST column.
-    card(acx, 2.9,
-         "Behavioral prose self-authorship: NULL (this work)",
-         "boundary on emergent introspection",
-         "measured: free-form prose authorship",
-         "#1a1a1a", lw=2.4, star=True, title_size=10.0, fc="#fff4f4")
-
-    ax.set_title("Behavioral prose self-authorship in the introspection "
-                 "debate (FOR vs AGAINST camps)", fontsize=13, y=1.0)
-    fig.tight_layout()
-    return fig, _save(fig, "fig7_introspection_axis.png")
-
-
-# --------------------------------------------------------------------------- #
 # Build everything.
 # --------------------------------------------------------------------------- #
 def main():
@@ -637,7 +522,6 @@ def main():
         fig4_persona_2x2,
         fig5_forgery,
         fig6_calibration,
-        fig7_introspection_axis,
     ]
 
     figs = []
@@ -659,7 +543,7 @@ def main():
         plt.close(fig)
 
     # Verify outputs exist and are non-trivial. Each figure now exists in BOTH
-    # .png and .svg; the PDF collects all seven.
+    # .png and .svg; the PDF collects all six.
     print("\n--- verification ---")
     all_outputs = []
     for p in paths:
@@ -679,7 +563,7 @@ def main():
         else:
             print(f"MISSING  {name}")
     print(f"\n{n_ok}/{len(all_outputs)} outputs OK "
-          f"(expected 7 PNG + 7 SVG + 1 PDF = 15)")
+          f"(expected 6 PNG + 6 SVG + 1 PDF = 13)")
 
 
 if __name__ == "__main__":

@@ -6,12 +6,13 @@ authors:
   - family-names: Bookstaber
     given-names: David
 version: 1.0.0
-# date-released: 2026-06-14   # set to the date of the first tagged release
-license:
-  - MIT          # code (runner/, analysis/, pooled/analysis/, figures/*.py)
-  - CC-BY-4.0    # data & documentation
-# repository-code: "https://github.com/dbookstaber/claude-tier-self-recognition"
-# url: "https://github.com/dbookstaber/claude-tier-self-recognition"
+# date-released: 2026-06-16
+# Zenodo records accept exactly one SPDX license. This declares the archive's
+# primary license (data & documentation). Code (runner/, analysis/,
+# pooled/analysis/, figures/*.py) is MIT — see the LICENSE file for the split.
+license: CC-BY-4.0
+repository-code: "https://github.com/dbookstaber/claude-tier-self-recognition"
+url: "https://github.com/dbookstaber/claude-tier-self-recognition"
 # doi: 10.5281/zenodo.XXXXXXX   # fill with the Zenodo CONCEPT DOI after the first release
 keywords:
   - large language models

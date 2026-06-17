@@ -2,7 +2,7 @@
 
 **Project:** LLM Self-Recognition (within-Claude-4.x-tier behavioral self-recognition).
 **Registrant:** David Bookstaber. **Date frozen:** 2026-06-11.
-**OSF registration:** registered from project `osf.io/zp2k4` — Accepted, public, no embargo;
+**OSF registration:** `osf.io/5azq8` — Accepted, public, no embargo;
 **Registered 2026-06-12 06:21**, before any B3′ data collection (pre-data).
 **Relation to prior registration:** amends/extends the 2026-06-05 registration (branches B2 & B4,
 both since completed). B3′ data have **not** been collected as of this freeze.

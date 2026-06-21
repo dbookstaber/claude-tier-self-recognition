@@ -2,11 +2,12 @@
 
 **A Behavioral Boundary on Within-Family Self-Recognition in Claude 4.x**
 
+[![DOI](https://zenodo.org/badge/1269639827.svg)](https://doi.org/10.5281/zenodo.20724958)
+
 Code and data accompanying the paper. This repository lets you re-derive every headline
 number and regenerate every figure from the raw judgment logs.
 
 > Paper: *forthcoming* (arXiv link to be added on posting).
-> Archived release / DOI: *to be added after the first tagged release (Zenodo).*
 
 ---
 
@@ -225,6 +226,7 @@ artifacts:
 
 ## Citation
 
-If you use this code or data, please cite the paper and this archive. Repository metadata
-for citation managers is in [`CITATION.cff`](CITATION.cff); add the Zenodo DOI to your
-citation once the first release is archived.
+If you use this code or data, please cite the paper and this archive (Zenodo concept DOI
+[10.5281/zenodo.20724958](https://doi.org/10.5281/zenodo.20724958), which always resolves to
+the latest version). Repository metadata for citation managers is in
+[`CITATION.cff`](CITATION.cff).

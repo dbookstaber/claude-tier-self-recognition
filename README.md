@@ -1,15 +1,13 @@
 # Tier Style Is Legible but Not Self-Known
 
-**A Behavioral Boundary on Within-Family Self-Recognition in Claude 4.x**
+**A Behavioral Boundary on Within-Family Self-Recognition in Claude 4**
 
 [![DOI](https://zenodo.org/badge/1269639827.svg)](https://doi.org/10.5281/zenodo.20724958)
 
-Code and data accompanying the paper. This repository lets you re-derive every headline
+Code and data accompanying [the paper](Paper.pdf). This repository lets you re-derive every headline
 number and regenerate every figure from the raw judgment logs.
 
-> Paper: *forthcoming* (arXiv link to be added on posting).
-
----
+> [Paper](Paper.pdf) (arXiv pending)
 
 ## What this is
 
@@ -65,9 +63,7 @@ round5a/ round_b3p/ round_b4/
 
 The directory structure is preserved exactly as the experiment ran, so **every analysis
 script runs in place with no edits** (paths resolve relative to each script's own
-location). See *Reproduce*.
-
----
+location).
 
 ## Reproduce
 

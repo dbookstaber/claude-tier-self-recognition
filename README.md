@@ -4,10 +4,10 @@
 
 [![DOI](https://zenodo.org/badge/1269639827.svg)](https://doi.org/10.5281/zenodo.20724958)
 
-Code and data accompanying [the paper](Paper.pdf). This repository lets you re-derive every headline
+Code and data accompanying [the paper](https://dbookstaber.github.io/claude-tier-self-recognition/Paper.pdf). This repository lets you re-derive every headline
 number and regenerate every figure from the raw judgment logs.
 
-> [Paper](Paper.pdf) (arXiv pending)
+> [Paper](https://dbookstaber.github.io/claude-tier-self-recognition/Paper.pdf) (arXiv pending)
 
 ## What this is
 

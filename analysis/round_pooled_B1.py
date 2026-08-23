@@ -17,7 +17,7 @@ def binom_p(k, n, p=0.5):
     from math import comb
     if n == 0: return float("nan")
     def pmf(i): return comb(n, i) * p**i * (1 - p)**(n - i)
-    o = pmf(k); return min(1.0, sum(pmf(i) for i in range(n + 1) if pmf(i) <= o + 1e-12))
+    o = pmf(k); return min(1.0, sum(pmf(i) for i in range(n + 1) if pmf(i) <= o * (1 + 1e-9)))
 
 
 def dprime(pc): pc = min(max(pc, 1e-6), 1 - 1e-6); return math.sqrt(2) * Z.inv_cdf(pc)
